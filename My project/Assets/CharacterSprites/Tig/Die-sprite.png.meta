@@ -1,0 +1,3770 @@
+fileFormatVersion: 2
+guid: 154a4524a5c83a04ebfbfdb87c8b9918
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7487537947343039234
+    second: Die-sprite_0
+  - first:
+      213: -8685112251058400083
+    second: Die-sprite_1
+  - first:
+      213: 3960898948846702608
+    second: Die-sprite_2
+  - first:
+      213: -8246339561144613289
+    second: Die-sprite_3
+  - first:
+      213: 5156577173633348807
+    second: Die-sprite_4
+  - first:
+      213: -796454777768558927
+    second: Die-sprite_5
+  - first:
+      213: 2213068427060749119
+    second: Die-sprite_6
+  - first:
+      213: -7431059519172558453
+    second: Die-sprite_7
+  - first:
+      213: 5270825660649397434
+    second: Die-sprite_8
+  - first:
+      213: 2728788951780105137
+    second: Die-sprite_9
+  - first:
+      213: 2718958020414770863
+    second: Die-sprite_10
+  - first:
+      213: -7993180528040257437
+    second: Die-sprite_11
+  - first:
+      213: -1920632803960889408
+    second: Die-sprite_12
+  - first:
+      213: 182485970063618929
+    second: Die-sprite_13
+  - first:
+      213: 2832189136237623240
+    second: Die-sprite_14
+  - first:
+      213: 523261056559014920
+    second: Die-sprite_15
+  - first:
+      213: -2852912996963975010
+    second: Die-sprite_16
+  - first:
+      213: 8713988166544094617
+    second: Die-sprite_17
+  - first:
+      213: 1438028343319463826
+    second: Die-sprite_18
+  - first:
+      213: 5050250173508994271
+    second: Die-sprite_19
+  - first:
+      213: -5386253347121256214
+    second: Die-sprite_20
+  - first:
+      213: 7260785043339945443
+    second: Die-sprite_21
+  - first:
+      213: -7395852807203905285
+    second: Die-sprite_22
+  - first:
+      213: -9165445299217282679
+    second: Die-sprite_23
+  - first:
+      213: 388045464438925488
+    second: Die-sprite_24
+  - first:
+      213: 8146741873872182872
+    second: Die-sprite_25
+  - first:
+      213: 896070526370193771
+    second: Die-sprite_26
+  - first:
+      213: 5349270855380359638
+    second: Die-sprite_27
+  - first:
+      213: -8467042043510308563
+    second: Die-sprite_28
+  - first:
+      213: -1473211529849294421
+    second: Die-sprite_29
+  - first:
+      213: -2432236480613944481
+    second: Die-sprite_30
+  - first:
+      213: -6727604232103952144
+    second: Die-sprite_31
+  - first:
+      213: -6073328275157615585
+    second: Die-sprite_32
+  - first:
+      213: -1061643107561833079
+    second: Die-sprite_33
+  - first:
+      213: -6840465673602753917
+    second: Die-sprite_34
+  - first:
+      213: 5841542535326434490
+    second: Die-sprite_35
+  - first:
+      213: -9155069443396367445
+    second: Die-sprite_36
+  - first:
+      213: -6973752296814073498
+    second: Die-sprite_37
+  - first:
+      213: 2570874427086885507
+    second: Die-sprite_38
+  - first:
+      213: 8053186324699726488
+    second: Die-sprite_39
+  - first:
+      213: 4824947191921739341
+    second: Die-sprite_40
+  - first:
+      213: -6346189156116227976
+    second: Die-sprite_41
+  - first:
+      213: 3497936571320885673
+    second: Die-sprite_42
+  - first:
+      213: -2026927489708210108
+    second: Die-sprite_43
+  - first:
+      213: -6031427220651505105
+    second: Die-sprite_44
+  - first:
+      213: -6321314218051593210
+    second: Die-sprite_45
+  - first:
+      213: 4684026851334149190
+    second: Die-sprite_46
+  - first:
+      213: 4344664101012567041
+    second: Die-sprite_47
+  - first:
+      213: -6271178628958354625
+    second: Die-sprite_48
+  - first:
+      213: 7218223651093320255
+    second: Die-sprite_49
+  - first:
+      213: 615936473356380415
+    second: Die-sprite_50
+  - first:
+      213: 1876730883299931455
+    second: Die-sprite_51
+  - first:
+      213: 5515585318246177662
+    second: Die-sprite_52
+  - first:
+      213: -1864413096915557614
+    second: Die-sprite_53
+  - first:
+      213: 5419700874028620035
+    second: Die-sprite_54
+  - first:
+      213: 2982844498401126570
+    second: Die-sprite_55
+  - first:
+      213: 5252048407220713412
+    second: Die-sprite_56
+  - first:
+      213: 8317050112209123756
+    second: Die-sprite_57
+  - first:
+      213: 7764641592882061616
+    second: Die-sprite_58
+  - first:
+      213: -5379235625674246677
+    second: Die-sprite_59
+  - first:
+      213: 540456877021404113
+    second: Die-sprite_60
+  - first:
+      213: -4408793151138892636
+    second: Die-sprite_61
+  - first:
+      213: -7445356763852360455
+    second: Die-sprite_62
+  - first:
+      213: -4512788942140251279
+    second: Die-sprite_63
+  - first:
+      213: 3566661469141948897
+    second: Die-sprite_64
+  - first:
+      213: -4270326373446445544
+    second: Die-sprite_65
+  - first:
+      213: -291879020141480824
+    second: Die-sprite_66
+  - first:
+      213: 3070860533436847072
+    second: Die-sprite_67
+  - first:
+      213: 8929908385447740564
+    second: Die-sprite_68
+  - first:
+      213: 1870359300840594971
+    second: Die-sprite_69
+  - first:
+      213: 7352813803684176943
+    second: Die-sprite_70
+  - first:
+      213: -3623686945151008541
+    second: Die-sprite_71
+  - first:
+      213: -468817180226453978
+    second: Die-sprite_72
+  - first:
+      213: 9176105776528556683
+    second: Die-sprite_73
+  - first:
+      213: 9027607844045732550
+    second: Die-sprite_74
+  - first:
+      213: 9202032678551159390
+    second: Die-sprite_75
+  - first:
+      213: -2997971563098215192
+    second: Die-sprite_76
+  - first:
+      213: -7609785441502874202
+    second: Die-sprite_77
+  - first:
+      213: -1003292566658446961
+    second: Die-sprite_78
+  - first:
+      213: -4139680664111657580
+    second: Die-sprite_79
+  - first:
+      213: -4286859254802373760
+    second: Die-sprite_80
+  - first:
+      213: 5860328571160966590
+    second: Die-sprite_81
+  - first:
+      213: -1445992417642718695
+    second: Die-sprite_82
+  - first:
+      213: -2695678609327569198
+    second: Die-sprite_83
+  - first:
+      213: 6275901291016908790
+    second: Die-sprite_84
+  - first:
+      213: 2171560922689307051
+    second: Die-sprite_85
+  - first:
+      213: -8643754083519159597
+    second: Die-sprite_86
+  - first:
+      213: -7103113731989222573
+    second: Die-sprite_87
+  - first:
+      213: 6483252492842458812
+    second: Die-sprite_88
+  - first:
+      213: 7705250334579260772
+    second: Die-sprite_89
+  - first:
+      213: 6648684855201800181
+    second: Die-sprite_90
+  - first:
+      213: 437689490862313903
+    second: Die-sprite_91
+  - first:
+      213: 3439437256058423903
+    second: Die-sprite_92
+  - first:
+      213: 3660911511539040905
+    second: Die-sprite_93
+  - first:
+      213: 8695434222541303554
+    second: Die-sprite_94
+  - first:
+      213: 7141035553349879632
+    second: Die-sprite_95
+  - first:
+      213: -4130425423051150145
+    second: Die-sprite_96
+  - first:
+      213: 2667208245180326485
+    second: Die-sprite_97
+  - first:
+      213: 8575826272983332611
+    second: Die-sprite_98
+  - first:
+      213: 5523362236591557429
+    second: Die-sprite_99
+  - first:
+      213: -7542315711422895568
+    second: Die-sprite_100
+  - first:
+      213: -3797328468603147379
+    second: Die-sprite_101
+  - first:
+      213: -8356593683592802316
+    second: Die-sprite_102
+  - first:
+      213: -2851632386923136231
+    second: Die-sprite_103
+  - first:
+      213: 5491736082984151609
+    second: Die-sprite_104
+  - first:
+      213: 485415182740610153
+    second: Die-sprite_105
+  - first:
+      213: -1907770090117003738
+    second: Die-sprite_106
+  - first:
+      213: 2438675869310172056
+    second: Die-sprite_107
+  - first:
+      213: 4918737786342866977
+    second: Die-sprite_108
+  - first:
+      213: 6467502608936637407
+    second: Die-sprite_109
+  - first:
+      213: 1879646311423993451
+    second: Die-sprite_110
+  - first:
+      213: 1255429669434475117
+    second: Die-sprite_111
+  - first:
+      213: -1223045709502356507
+    second: Die-sprite_112
+  - first:
+      213: 5152557044336707536
+    second: Die-sprite_113
+  - first:
+      213: -2892055444372546058
+    second: Die-sprite_114
+  - first:
+      213: -3873572165200846079
+    second: Die-sprite_115
+  - first:
+      213: -5054840265350001137
+    second: Die-sprite_116
+  - first:
+      213: 8379567229729086532
+    second: Die-sprite_117
+  - first:
+      213: 5993724099309181802
+    second: Die-sprite_118
+  - first:
+      213: -5267318758064657350
+    second: Die-sprite_119
+  - first:
+      213: 9113341663716987042
+    second: Die-sprite_120
+  - first:
+      213: 1875121570734278191
+    second: Die-sprite_121
+  - first:
+      213: 6132951332203737939
+    second: Die-sprite_122
+  - first:
+      213: -6802542977386546337
+    second: Die-sprite_123
+  - first:
+      213: -1512748228694688507
+    second: Die-sprite_124
+  - first:
+      213: -2225811764514828644
+    second: Die-sprite_125
+  - first:
+      213: 96927443391155314
+    second: Die-sprite_126
+  - first:
+      213: 4087081475498965257
+    second: Die-sprite_127
+  - first:
+      213: 5414925364166152639
+    second: Die-sprite_128
+  - first:
+      213: -8989144201374495616
+    second: Die-sprite_129
+  - first:
+      213: -4946488084045392253
+    second: Die-sprite_130
+  - first:
+      213: -4502684413313206382
+    second: Die-sprite_131
+  - first:
+      213: 2767539970099338306
+    second: Die-sprite_132
+  - first:
+      213: -7876434118771356230
+    second: Die-sprite_133
+  - first:
+      213: -123087014898494951
+    second: Die-sprite_134
+  - first:
+      213: -330286507872733860
+    second: Die-sprite_135
+  - first:
+      213: 3053060172642568537
+    second: Die-sprite_136
+  - first:
+      213: -892885523183436375
+    second: Die-sprite_137
+  - first:
+      213: -3577133555285382897
+    second: Die-sprite_138
+  - first:
+      213: -6827262880778953104
+    second: Die-sprite_139
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Die-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 26111
+        width: 617
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ba3a9a71419e760800000000000000
+      internalID: 7487537947343039234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 26111
+        width: 572
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da455416c68487780800000000000000
+      internalID: -8685112251058400083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 26111
+        width: 572
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010d935bb90f7f630800000000000000
+      internalID: 3960898948846702608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 4923
+        y: 26223
+        width: 508
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75689b03cdd1f8d80800000000000000
+      internalID: -8246339561144613289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 6421
+        y: 26207
+        width: 564
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4bd436e97df8740800000000000000
+      internalID: 5156577173633348807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 5033
+        y: 26111
+        width: 316
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be3173799c62f4f0800000000000000
+      internalID: -796454777768558927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 6599
+        y: 26111
+        width: 288
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33a692520666be10800000000000000
+      internalID: 2213068427060749119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 24747
+        width: 816
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b814fee1db29fd890800000000000000
+      internalID: -7431059519172558453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 24742
+        width: 849
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc5508230cb52940800000000000000
+      internalID: 5270825660649397434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 24750
+        width: 759
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb1dd9081b9ed520800000000000000
+      internalID: 2728788951780105137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 5001
+        y: 24776
+        width: 648
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae8506f9edabb520800000000000000
+      internalID: 2718958020414770863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 6550
+        y: 24762
+        width: 619
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3685790d8a4821190800000000000000
+      internalID: -7993180528040257437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 24575
+        width: 268
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfd2f704aa8855e0800000000000000
+      internalID: -1920632803960889408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 24575
+        width: 257
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173722ed502588200800000000000000
+      internalID: 182485970063618929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 24575
+        width: 256
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7f92a8305fd4720800000000000000
+      internalID: 2832189136237623240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 5135
+        y: 24575
+        width: 259
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804eef8982ff24700800000000000000
+      internalID: 523261056559014920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 6678
+        y: 24575
+        width: 266
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e900ed0aeba6868d0800000000000000
+      internalID: -2852912996963975010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 23776
+        width: 305
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99571db911e4ee870800000000000000
+      internalID: 8713988166544094617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 23961
+        width: 403
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2970084c827e4f310800000000000000
+      internalID: 1438028343319463826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 23698
+        width: 441
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4cbd286c7161640800000000000000
+      internalID: 5050250173508994271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 23839
+        width: 489
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8249e4e1f2045b0800000000000000
+      internalID: -5386253347121256214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 6774
+        y: 23962
+        width: 444
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e52fb2178d73c460800000000000000
+      internalID: 7260785043339945443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 23179
+        width: 625
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf029878e07ac5990800000000000000
+      internalID: -7395852807203905285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 23131
+        width: 615
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98941eb9f0ccdc080800000000000000
+      internalID: -9165445299217282679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 23661
+        width: 312
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b865904b4d926500800000000000000
+      internalID: 388045464438925488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 23089
+        width: 609
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e93fc229a0f0170800000000000000
+      internalID: 8146741873872182872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 5041
+        y: 23039
+        width: 631
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b612ef9656b7f6c00800000000000000
+      internalID: 896070526370193771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 23039
+        width: 615
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9db46508d6c3a40800000000000000
+      internalID: 5349270855380359638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 23039
+        width: 277
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21454a2f160f7a80800000000000000
+      internalID: -8467042043510308563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 23039
+        width: 291
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1b2544be91e8be0800000000000000
+      internalID: -1473211529849294421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 23039
+        width: 307
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f537243bec5fe3ed0800000000000000
+      internalID: -2432236480613944481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 22403
+        width: 283
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f08704689fb2a2a0800000000000000
+      internalID: -6727604232103952144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_32
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 22477
+        width: 216
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cf4e29c1437bba0800000000000000
+      internalID: -6073328275157615585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_33
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 22392
+        width: 78
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98df88fe7394441f0800000000000000
+      internalID: -1061643107561833079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_34
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 22550
+        width: 367
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a97a256b8c111a0800000000000000
+      internalID: -6840465673602753917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_35
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 22492
+        width: 601
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4877e6cf3511150800000000000000
+      internalID: 5841542535326434490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_36
+      rect:
+        serializedVersion: 2
+        x: 5221
+        y: 22615
+        width: 404
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab835cc8d8a2f080800000000000000
+      internalID: -9155069443396367445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_37
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 22479
+        width: 332
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66925dc0c31483f90800000000000000
+      internalID: -6973752296814073498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_38
+      rect:
+        serializedVersion: 2
+        x: 6834
+        y: 22500
+        width: 254
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38256ac9ba49da320800000000000000
+      internalID: 2570874427086885507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_39
+      rect:
+        serializedVersion: 2
+        x: 7135
+        y: 22329
+        width: 176
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892c2c17b4aa2cf60800000000000000
+      internalID: 8053186324699726488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_40
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 21503
+        width: 557
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46838a48e7a5f240800000000000000
+      internalID: 4824947191921739341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_41
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 21503
+        width: 528
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8789148069ecde7a0800000000000000
+      internalID: -6346189156116227976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_42
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 21503
+        width: 500
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1ed6c57ca2b8030800000000000000
+      internalID: 3497936571320885673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_43
+      rect:
+        serializedVersion: 2
+        x: 5083
+        y: 21503
+        width: 538
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448c77eef28eed3e0800000000000000
+      internalID: -2026927489708210108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_44
+      rect:
+        serializedVersion: 2
+        x: 6625
+        y: 21503
+        width: 599
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a027016e01c4ca0800000000000000
+      internalID: -6031427220651505105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_45
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 20927
+        width: 110
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c986fd53e2648a0800000000000000
+      internalID: -6321314218051593210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_46
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 20663
+        width: 115
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644d920ba91010140800000000000000
+      internalID: 4684026851334149190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_47
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 20955
+        width: 355
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104fe391bf85b4c30800000000000000
+      internalID: 4344664101012567041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_48
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 20915
+        width: 394
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f338ae9534c48f8a0800000000000000
+      internalID: -6271178628958354625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_49
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 20669
+        width: 223
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f329db8ba284c2460800000000000000
+      internalID: 7218223651093320255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_50
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 20560
+        width: 301
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff82d9a85fe3c8800800000000000000
+      internalID: 615936473356380415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_51
+      rect:
+        serializedVersion: 2
+        x: 3992
+        y: 20486
+        width: 402
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35f8168bcc7b0a10800000000000000
+      internalID: 1876730883299931455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_52
+      rect:
+        serializedVersion: 2
+        x: 6927
+        y: 20503
+        width: 144
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b5c66cf9b4b8c40800000000000000
+      internalID: 5515585318246177662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_53
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 19967
+        width: 580
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21323cb9a264026e0800000000000000
+      internalID: -1864413096915557614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_54
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 19967
+        width: 566
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3099959ea35a63b40800000000000000
+      internalID: 5419700874028620035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_55
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 19967
+        width: 570
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa86d6b7441356920800000000000000
+      internalID: 2982844498401126570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_56
+      rect:
+        serializedVersion: 2
+        x: 5121
+        y: 19967
+        width: 818
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7fb87233603e840800000000000000
+      internalID: 5252048407220713412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_57
+      rect:
+        serializedVersion: 2
+        x: 6658
+        y: 19967
+        width: 769
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9f85de2091c6370800000000000000
+      internalID: 8317050112209123756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_58
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 18898
+        width: 374
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03165ffc36c81cb60800000000000000
+      internalID: 7764641592882061616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_59
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 18431
+        width: 564
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be57f88e2bd1955b0800000000000000
+      internalID: -5379235625674246677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_60
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 18431
+        width: 572
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db174b8aa6108700800000000000000
+      internalID: 540456877021404113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_61
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 18431
+        width: 93
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4f032ecf1d0d2c0800000000000000
+      internalID: -4408793151138892636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_62
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 18431
+        width: 72
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f437807877cca890800000000000000
+      internalID: -7445356763852360455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_63
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 18431
+        width: 565
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1736b6ded5a5f51c0800000000000000
+      internalID: -4512788942140251279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_64
+      rect:
+        serializedVersion: 2
+        x: 4153
+        y: 18431
+        width: 82
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9574e85b35f7130800000000000000
+      internalID: 3566661469141948897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_65
+      rect:
+        serializedVersion: 2
+        x: 5114
+        y: 18431
+        width: 582
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8161ebbd9c0ccb4c0800000000000000
+      internalID: -4270326373446445544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_66
+      rect:
+        serializedVersion: 2
+        x: 5680
+        y: 18431
+        width: 88
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884f31fd39903fbf0800000000000000
+      internalID: -291879020141480824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_67
+      rect:
+        serializedVersion: 2
+        x: 6681
+        y: 18431
+        width: 564
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e315429263ed9a20800000000000000
+      internalID: 3070860533436847072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_68
+      rect:
+        serializedVersion: 2
+        x: 7216
+        y: 18431
+        width: 87
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49405672d586deb70800000000000000
+      internalID: 8929908385447740564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_69
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 16895
+        width: 561
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e93f0efd9d4f910800000000000000
+      internalID: 1870359300840594971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_70
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 16895
+        width: 86
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f242f2492317a0660800000000000000
+      internalID: 7352813803684176943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_71
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 16895
+        width: 585
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0cd092ce316bdc0800000000000000
+      internalID: -3623686945151008541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_72
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 16895
+        width: 83
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e700c224d6e79f0800000000000000
+      internalID: -468817180226453978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_73
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 16895
+        width: 642
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82056f2693185f70800000000000000
+      internalID: 9176105776528556683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_74
+      rect:
+        serializedVersion: 2
+        x: 5125
+        y: 16895
+        width: 644
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca30ebf081884d70800000000000000
+      internalID: 9027607844045732550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_75
+      rect:
+        serializedVersion: 2
+        x: 6662
+        y: 16895
+        width: 643
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52049877ff24bf70800000000000000
+      internalID: 9202032678551159390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_76
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 15359
+        width: 570
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eceece4fb01566d0800000000000000
+      internalID: -2997971563098215192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_77
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 15359
+        width: 84
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a53846957c946690800000000000000
+      internalID: -7609785441502874202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_78
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 15359
+        width: 559
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89888ee9b69312f0800000000000000
+      internalID: -1003292566658446961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_79
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 15359
+        width: 84
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d42147e56ec86c0800000000000000
+      internalID: -4139680664111657580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_80
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 15359
+        width: 555
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083a86378340284c0800000000000000
+      internalID: -4286859254802373760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_81
+      rect:
+        serializedVersion: 2
+        x: 4149
+        y: 15359
+        width: 84
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb53f1f39c1145150800000000000000
+      internalID: 5860328571160966590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_82
+      rect:
+        serializedVersion: 2
+        x: 5134
+        y: 15359
+        width: 559
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a5f7eae8dceebe0800000000000000
+      internalID: -1445992417642718695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_83
+      rect:
+        serializedVersion: 2
+        x: 5685
+        y: 15359
+        width: 84
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6496e4696079ad0800000000000000
+      internalID: -2695678609327569198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_84
+      rect:
+        serializedVersion: 2
+        x: 6673
+        y: 15359
+        width: 568
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff6a7819fa781750800000000000000
+      internalID: 6275901291016908790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_85
+      rect:
+        serializedVersion: 2
+        x: 7221
+        y: 15359
+        width: 84
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1040d572fe22e10800000000000000
+      internalID: 2171560922689307051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_86
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 13823
+        width: 629
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2220625773b0880800000000000000
+      internalID: -8643754083519159597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_87
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 13823
+        width: 626
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b4595d1bbac6d90800000000000000
+      internalID: -7103113731989222573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_88
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 13823
+        width: 625
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe5a01eac329f950800000000000000
+      internalID: 6483252492842458812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_89
+      rect:
+        serializedVersion: 2
+        x: 5144
+        y: 13823
+        width: 625
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d7e0aea5c8eea60800000000000000
+      internalID: 7705250334579260772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_90
+      rect:
+        serializedVersion: 2
+        x: 6680
+        y: 13823
+        width: 625
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff92d946afd44c50800000000000000
+      internalID: 6648684855201800181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_91
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 12287
+        width: 625
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa115c0e54cf21600800000000000000
+      internalID: 437689490862313903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_92
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 12287
+        width: 625
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a4b9226f55bbf20800000000000000
+      internalID: 3439437256058423903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_93
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 12287
+        width: 625
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9824c679f9b2ec230800000000000000
+      internalID: 3660911511539040905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_94
+      rect:
+        serializedVersion: 2
+        x: 5144
+        y: 12287
+        width: 625
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f6952ea536ca870800000000000000
+      internalID: 8695434222541303554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_95
+      rect:
+        serializedVersion: 2
+        x: 6680
+        y: 12287
+        width: 625
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057cadd300e0a1360800000000000000
+      internalID: 7141035553349879632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_96
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 10751
+        width: 625
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc2bcf26f7cda6c0800000000000000
+      internalID: -4130425423051150145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_97
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 10751
+        width: 625
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55267fb74c3d30520800000000000000
+      internalID: 2667208245180326485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_98
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 10751
+        width: 625
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30732a00f84730770800000000000000
+      internalID: 8575826272983332611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_99
+      rect:
+        serializedVersion: 2
+        x: 5144
+        y: 10751
+        width: 625
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bc8dda0bce6ac40800000000000000
+      internalID: 5523362236591557429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_100
+      rect:
+        serializedVersion: 2
+        x: 6680
+        y: 10751
+        width: 625
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a6ac442df445790800000000000000
+      internalID: -7542315711422895568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_101
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 9215
+        width: 625
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b6e6d70ed2d4bc0800000000000000
+      internalID: -3797328468603147379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_102
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 9215
+        width: 625
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff8d25e15a670c80800000000000000
+      internalID: -8356593683592802316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_103
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 9215
+        width: 624
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b7273e377fc68d0800000000000000
+      internalID: -2851632386923136231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_104
+      rect:
+        serializedVersion: 2
+        x: 5144
+        y: 9215
+        width: 624
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a277afed0963c40800000000000000
+      internalID: 5491736082984151609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_105
+      rect:
+        serializedVersion: 2
+        x: 6680
+        y: 9215
+        width: 624
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cd5df698a8cb600800000000000000
+      internalID: 485415182740610153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_106
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 7679
+        width: 624
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6260679f53d3685e0800000000000000
+      internalID: -1907770090117003738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_107
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 7679
+        width: 622
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bbc8058cae7d120800000000000000
+      internalID: 2438675869310172056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_108
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 7679
+        width: 621
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1200242c4fdd24440800000000000000
+      internalID: 4918737786342866977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_109
+      rect:
+        serializedVersion: 2
+        x: 5210
+        y: 7679
+        width: 425
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd394954b5f21c950800000000000000
+      internalID: 6467502608936637407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_110
+      rect:
+        serializedVersion: 2
+        x: 5625
+        y: 7797
+        width: 27
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66ecc78c58d51a10800000000000000
+      internalID: 1879646311423993451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_111
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 7850
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62c02ff1ae2c6110800000000000000
+      internalID: 1255429669434475117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_112
+      rect:
+        serializedVersion: 2
+        x: 6747
+        y: 7679
+        width: 426
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3eb0d386ed60fe0800000000000000
+      internalID: -1223045709502356507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_113
+      rect:
+        serializedVersion: 2
+        x: 7165
+        y: 7787
+        width: 24
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d740a8155f818740800000000000000
+      internalID: 5152557044336707536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_114
+      rect:
+        serializedVersion: 2
+        x: 7236
+        y: 7852
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd907765ea5dd7d0800000000000000
+      internalID: -2892055444372546058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_115
+      rect:
+        serializedVersion: 2
+        x: 5712
+        y: 7689
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103ec5983ae4e3ac0800000000000000
+      internalID: -3873572165200846079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_116
+      rect:
+        serializedVersion: 2
+        x: 7248
+        y: 7698
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ec8737f8999d9b0800000000000000
+      internalID: -5054840265350001137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_117
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 6143
+        width: 352
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c9183aff33a4470800000000000000
+      internalID: 8379567229729086532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_118
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 6378
+        width: 115
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b950def4cfd2350800000000000000
+      internalID: 5993724099309181802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_119
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 6500
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cedca3f79b6e6b0800000000000000
+      internalID: -5267318758064657350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_120
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 6494
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a05e9665f7197e70800000000000000
+      internalID: 9113341663716987042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_121
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 6450
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f260a4e3225c50a10800000000000000
+      internalID: 1875121570734278191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_122
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 6477
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35333cc2ebe9c1550800000000000000
+      internalID: 6132951332203737939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_123
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 6330
+        width: 116
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bfb8714338891a0800000000000000
+      internalID: -6802542977386546337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_124
+      rect:
+        serializedVersion: 2
+        x: 3806
+        y: 6436
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d3d0a3083a10be0800000000000000
+      internalID: -1512748228694688507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_125
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 6467
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e45373ef35c11e0800000000000000
+      internalID: -2225811764514828644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_126
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 6425
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c01580ffa585100800000000000000
+      internalID: 96927443391155314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_127
+      rect:
+        serializedVersion: 2
+        x: 3907
+        y: 6450
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909f13b92fa38b830800000000000000
+      internalID: 4087081475498965257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_128
+      rect:
+        serializedVersion: 2
+        x: 3933
+        y: 6451
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb15060ededa52b40800000000000000
+      internalID: 5414925364166152639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_129
+      rect:
+        serializedVersion: 2
+        x: 3955
+        y: 6209
+        width: 1424
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c8f42b9f4204380800000000000000
+      internalID: -8989144201374495616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_130
+      rect:
+        serializedVersion: 2
+        x: 3915
+        y: 6439
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38695c09b4b8a5bb0800000000000000
+      internalID: -4946488084045392253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_131
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 6411
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29737c0e1604381c0800000000000000
+      internalID: -4502684413313206382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_132
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 6360
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c577390f6486620800000000000000
+      internalID: 2767539970099338306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_133
+      rect:
+        serializedVersion: 2
+        x: 3911
+        y: 6387
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdcddd66e841b290800000000000000
+      internalID: -7876434118771356230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_134
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 6377
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91213881305ba4ef0800000000000000
+      internalID: -123087014898494951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_135
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 6143
+        width: 278
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c553428cb269a6bf0800000000000000
+      internalID: -330286507872733860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_136
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 6144
+        width: 190
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959c04c1d06ae5a20800000000000000
+      internalID: 3053060172642568537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_137
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 6328
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adff8de855db93f0800000000000000
+      internalID: -892885523183436375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_138
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 6143
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09a513ebf77b5ec0800000000000000
+      internalID: -3577133555285382897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die-sprite_139
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 6171
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ed5f21590b041a0800000000000000
+      internalID: -6827262880778953104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Die-sprite_0: 7487537947343039234
+      Die-sprite_1: -8685112251058400083
+      Die-sprite_10: 2718958020414770863
+      Die-sprite_100: -7542315711422895568
+      Die-sprite_101: -3797328468603147379
+      Die-sprite_102: -8356593683592802316
+      Die-sprite_103: -2851632386923136231
+      Die-sprite_104: 5491736082984151609
+      Die-sprite_105: 485415182740610153
+      Die-sprite_106: -1907770090117003738
+      Die-sprite_107: 2438675869310172056
+      Die-sprite_108: 4918737786342866977
+      Die-sprite_109: 6467502608936637407
+      Die-sprite_11: -7993180528040257437
+      Die-sprite_110: 1879646311423993451
+      Die-sprite_111: 1255429669434475117
+      Die-sprite_112: -1223045709502356507
+      Die-sprite_113: 5152557044336707536
+      Die-sprite_114: -2892055444372546058
+      Die-sprite_115: -3873572165200846079
+      Die-sprite_116: -5054840265350001137
+      Die-sprite_117: 8379567229729086532
+      Die-sprite_118: 5993724099309181802
+      Die-sprite_119: -5267318758064657350
+      Die-sprite_12: -1920632803960889408
+      Die-sprite_120: 9113341663716987042
+      Die-sprite_121: 1875121570734278191
+      Die-sprite_122: 6132951332203737939
+      Die-sprite_123: -6802542977386546337
+      Die-sprite_124: -1512748228694688507
+      Die-sprite_125: -2225811764514828644
+      Die-sprite_126: 96927443391155314
+      Die-sprite_127: 4087081475498965257
+      Die-sprite_128: 5414925364166152639
+      Die-sprite_129: -8989144201374495616
+      Die-sprite_13: 182485970063618929
+      Die-sprite_130: -4946488084045392253
+      Die-sprite_131: -4502684413313206382
+      Die-sprite_132: 2767539970099338306
+      Die-sprite_133: -7876434118771356230
+      Die-sprite_134: -123087014898494951
+      Die-sprite_135: -330286507872733860
+      Die-sprite_136: 3053060172642568537
+      Die-sprite_137: -892885523183436375
+      Die-sprite_138: -3577133555285382897
+      Die-sprite_139: -6827262880778953104
+      Die-sprite_14: 2832189136237623240
+      Die-sprite_15: 523261056559014920
+      Die-sprite_16: -2852912996963975010
+      Die-sprite_17: 8713988166544094617
+      Die-sprite_18: 1438028343319463826
+      Die-sprite_19: 5050250173508994271
+      Die-sprite_2: 3960898948846702608
+      Die-sprite_20: -5386253347121256214
+      Die-sprite_21: 7260785043339945443
+      Die-sprite_22: -7395852807203905285
+      Die-sprite_23: -9165445299217282679
+      Die-sprite_24: 388045464438925488
+      Die-sprite_25: 8146741873872182872
+      Die-sprite_26: 896070526370193771
+      Die-sprite_27: 5349270855380359638
+      Die-sprite_28: -8467042043510308563
+      Die-sprite_29: -1473211529849294421
+      Die-sprite_3: -8246339561144613289
+      Die-sprite_30: -2432236480613944481
+      Die-sprite_31: -6727604232103952144
+      Die-sprite_32: -6073328275157615585
+      Die-sprite_33: -1061643107561833079
+      Die-sprite_34: -6840465673602753917
+      Die-sprite_35: 5841542535326434490
+      Die-sprite_36: -9155069443396367445
+      Die-sprite_37: -6973752296814073498
+      Die-sprite_38: 2570874427086885507
+      Die-sprite_39: 8053186324699726488
+      Die-sprite_4: 5156577173633348807
+      Die-sprite_40: 4824947191921739341
+      Die-sprite_41: -6346189156116227976
+      Die-sprite_42: 3497936571320885673
+      Die-sprite_43: -2026927489708210108
+      Die-sprite_44: -6031427220651505105
+      Die-sprite_45: -6321314218051593210
+      Die-sprite_46: 4684026851334149190
+      Die-sprite_47: 4344664101012567041
+      Die-sprite_48: -6271178628958354625
+      Die-sprite_49: 7218223651093320255
+      Die-sprite_5: -796454777768558927
+      Die-sprite_50: 615936473356380415
+      Die-sprite_51: 1876730883299931455
+      Die-sprite_52: 5515585318246177662
+      Die-sprite_53: -1864413096915557614
+      Die-sprite_54: 5419700874028620035
+      Die-sprite_55: 2982844498401126570
+      Die-sprite_56: 5252048407220713412
+      Die-sprite_57: 8317050112209123756
+      Die-sprite_58: 7764641592882061616
+      Die-sprite_59: -5379235625674246677
+      Die-sprite_6: 2213068427060749119
+      Die-sprite_60: 540456877021404113
+      Die-sprite_61: -4408793151138892636
+      Die-sprite_62: -7445356763852360455
+      Die-sprite_63: -4512788942140251279
+      Die-sprite_64: 3566661469141948897
+      Die-sprite_65: -4270326373446445544
+      Die-sprite_66: -291879020141480824
+      Die-sprite_67: 3070860533436847072
+      Die-sprite_68: 8929908385447740564
+      Die-sprite_69: 1870359300840594971
+      Die-sprite_7: -7431059519172558453
+      Die-sprite_70: 7352813803684176943
+      Die-sprite_71: -3623686945151008541
+      Die-sprite_72: -468817180226453978
+      Die-sprite_73: 9176105776528556683
+      Die-sprite_74: 9027607844045732550
+      Die-sprite_75: 9202032678551159390
+      Die-sprite_76: -2997971563098215192
+      Die-sprite_77: -7609785441502874202
+      Die-sprite_78: -1003292566658446961
+      Die-sprite_79: -4139680664111657580
+      Die-sprite_8: 5270825660649397434
+      Die-sprite_80: -4286859254802373760
+      Die-sprite_81: 5860328571160966590
+      Die-sprite_82: -1445992417642718695
+      Die-sprite_83: -2695678609327569198
+      Die-sprite_84: 6275901291016908790
+      Die-sprite_85: 2171560922689307051
+      Die-sprite_86: -8643754083519159597
+      Die-sprite_87: -7103113731989222573
+      Die-sprite_88: 6483252492842458812
+      Die-sprite_89: 7705250334579260772
+      Die-sprite_9: 2728788951780105137
+      Die-sprite_90: 6648684855201800181
+      Die-sprite_91: 437689490862313903
+      Die-sprite_92: 3439437256058423903
+      Die-sprite_93: 3660911511539040905
+      Die-sprite_94: 8695434222541303554
+      Die-sprite_95: 7141035553349879632
+      Die-sprite_96: -4130425423051150145
+      Die-sprite_97: 2667208245180326485
+      Die-sprite_98: 8575826272983332611
+      Die-sprite_99: 5523362236591557429
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
