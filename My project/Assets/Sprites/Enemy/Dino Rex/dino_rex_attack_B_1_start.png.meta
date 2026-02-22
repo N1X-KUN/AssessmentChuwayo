@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 211863c239123bf4c90f106b13dac56b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7846464622221698560
+    second: dino_rex_attack_B_1_start_0
+  - first:
+      213: 1869275401220903727
+    second: dino_rex_attack_B_1_start_1
+  - first:
+      213: 4685112429790488802
+    second: dino_rex_attack_B_1_start_2
+  - first:
+      213: 5067287315504756629
+    second: dino_rex_attack_B_1_start_3
+  - first:
+      213: 5708085311722775888
+    second: dino_rex_attack_B_1_start_4
+  - first:
+      213: 5967182895492636357
+    second: dino_rex_attack_B_1_start_5
+  - first:
+      213: 50055694647539275
+    second: dino_rex_attack_B_1_start_6
+  - first:
+      213: 436087663776792026
+    second: dino_rex_attack_B_1_start_7
+  - first:
+      213: -4613323620048698989
+    second: dino_rex_attack_B_1_start_8
+  - first:
+      213: 3958710901609829569
+    second: dino_rex_attack_B_1_start_9
+  - first:
+      213: -3161431624074774385
+    second: dino_rex_attack_B_1_start_10
+  - first:
+      213: 924445592598275114
+    second: dino_rex_attack_B_1_start_11
+  - first:
+      213: -6534859269982157675
+    second: dino_rex_attack_B_1_start_12
+  - first:
+      213: 3500613941870707143
+    second: dino_rex_attack_B_1_start_13
+  - first:
+      213: -5864277086168977923
+    second: dino_rex_attack_B_1_start_14
+  - first:
+      213: 8774123508500822675
+    second: dino_rex_attack_B_1_start_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_0
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a5ec99ff1cb1390800000000000000
+      internalID: -7846464622221698560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 80
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23d525d21001f910800000000000000
+      internalID: 1869275401220903727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_2
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 0
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8ed6e9eecd40140800000000000000
+      internalID: 4685112429790488802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_3
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597f08f37fe925640800000000000000
+      internalID: 5067287315504756629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_4
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0556cd82951373f40800000000000000
+      internalID: 5708085311722775888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_5
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 0
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce10ab5a31bfc250800000000000000
+      internalID: 5967182895492636357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_6
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 0
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46b37a9365d1b000800000000000000
+      internalID: 50055694647539275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_7
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 0
+        width: 120
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add78527b6b4d0600800000000000000
+      internalID: 436087663776792026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_8
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39104192c9e2affb0800000000000000
+      internalID: -4613323620048698989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_9
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 7
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c49be2479a20f630800000000000000
+      internalID: 3958710901609829569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_10
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 0
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88365910b65024d0800000000000000
+      internalID: -3161431624074774385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_11
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 0
+        width: 103
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24eef85e5a44dc00800000000000000
+      internalID: 924445592598275114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_12
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 0
+        width: 122
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5948b8bfd148f45a0800000000000000
+      internalID: -6534859269982157675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_13
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 0
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1cbf445dda49030800000000000000
+      internalID: 3500613941870707143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd6f667f07ed9ea0800000000000000
+      internalID: -5864277086168977923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_attack_B_1_start_15
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 0
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a789bf7d2f3c970800000000000000
+      internalID: 8774123508500822675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dino_rex_attack_B_1_start_0: -7846464622221698560
+      dino_rex_attack_B_1_start_1: 1869275401220903727
+      dino_rex_attack_B_1_start_10: -3161431624074774385
+      dino_rex_attack_B_1_start_11: 924445592598275114
+      dino_rex_attack_B_1_start_12: -6534859269982157675
+      dino_rex_attack_B_1_start_13: 3500613941870707143
+      dino_rex_attack_B_1_start_14: -5864277086168977923
+      dino_rex_attack_B_1_start_15: 8774123508500822675
+      dino_rex_attack_B_1_start_2: 4685112429790488802
+      dino_rex_attack_B_1_start_3: 5067287315504756629
+      dino_rex_attack_B_1_start_4: 5708085311722775888
+      dino_rex_attack_B_1_start_5: 5967182895492636357
+      dino_rex_attack_B_1_start_6: 50055694647539275
+      dino_rex_attack_B_1_start_7: 436087663776792026
+      dino_rex_attack_B_1_start_8: -4613323620048698989
+      dino_rex_attack_B_1_start_9: 3958710901609829569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 47ff935796f691f4d8a1b38fb39d6963
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3515854639849493558
+    second: pengu_attack_ray_0
+  - first:
+      213: 4806212742953653257
+    second: pengu_attack_ray_1
+  - first:
+      213: 710830839338862018
+    second: pengu_attack_ray_2
+  - first:
+      213: 1406314608925078152
+    second: pengu_attack_ray_3
+  - first:
+      213: 4735173387623285931
+    second: pengu_attack_ray_4
+  - first:
+      213: 1356068568528181818
+    second: pengu_attack_ray_5
+  - first:
+      213: 7561566475950513901
+    second: pengu_attack_ray_6
+  - first:
+      213: -641180647390820108
+    second: pengu_attack_ray_7
+  - first:
+      213: 1729097031262128544
+    second: pengu_attack_ray_8
+  - first:
+      213: 3982533146356485891
+    second: pengu_attack_ray_9
+  - first:
+      213: 7787457242035960773
+    second: pengu_attack_ray_10
+  - first:
+      213: 8540010118117035227
+    second: pengu_attack_ray_11
+  - first:
+      213: 7388862683871318496
+    second: pengu_attack_ray_12
+  - first:
+      213: -1721335185287354242
+    second: pengu_attack_ray_13
+  - first:
+      213: -5101857934714102806
+    second: pengu_attack_ray_14
+  - first:
+      213: 9049270806071964078
+    second: pengu_attack_ray_15
+  - first:
+      213: 8265853256464515112
+    second: pengu_attack_ray_16
+  - first:
+      213: -1528776706018958919
+    second: pengu_attack_ray_17
+  - first:
+      213: 5014536547034832873
+    second: pengu_attack_ray_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pengu_attack_ray_0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbacd535dc253fc0800000000000000
+      internalID: -3515854639849493558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_1
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90455ba760913b240800000000000000
+      internalID: 4806212742953653257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_2
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c58f2ad1e06dd900800000000000000
+      internalID: 710830839338862018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_3
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 0
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882fb639fab348310800000000000000
+      internalID: 1406314608925078152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_4
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 0
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba44b27ab17b6b140800000000000000
+      internalID: 4735173387623285931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_5
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 0
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ad136ad29b1d210800000000000000
+      internalID: 1356068568528181818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_6
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 0
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee5880a5a410f860800000000000000
+      internalID: 7561566475950513901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_7
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 0
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f84a6b29911a17f0800000000000000
+      internalID: -641180647390820108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_8
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 0
+        width: 145
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9cf8ab69cfef710800000000000000
+      internalID: 1729097031262128544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_9
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 0
+        width: 170
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f0cc6dbccc44730800000000000000
+      internalID: 3982533146356485891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_10
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 0
+        width: 205
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbb8171a1b921c60800000000000000
+      internalID: 7787457242035960773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_11
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 0
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc8b9c94f5348670800000000000000
+      internalID: 8540010118117035227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_12
+      rect:
+        serializedVersion: 2
+        x: 4461
+        y: 0
+        width: 145
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e11a4e86738a8660800000000000000
+      internalID: 7388862683871318496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_13
+      rect:
+        serializedVersion: 2
+        x: 4561
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78e09dd4c69c18e0800000000000000
+      internalID: -1721335185287354242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_14
+      rect:
+        serializedVersion: 2
+        x: 4767
+        y: 0
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb9bda3d3f8239b0800000000000000
+      internalID: -5101857934714102806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_15
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 0
+        width: 97
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea17b306ad7759d70800000000000000
+      internalID: 9049270806071964078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_16
+      rect:
+        serializedVersion: 2
+        x: 5151
+        y: 0
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820c21d0eb536b270800000000000000
+      internalID: 8265853256464515112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_17
+      rect:
+        serializedVersion: 2
+        x: 5313
+        y: 0
+        width: 40
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b129d88fa1b8cae0800000000000000
+      internalID: -1528776706018958919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pengu_attack_ray_18
+      rect:
+        serializedVersion: 2
+        x: 5345
+        y: 0
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef993fdb66379540800000000000000
+      internalID: 5014536547034832873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pengu_attack_ray_0: -3515854639849493558
+      pengu_attack_ray_1: 4806212742953653257
+      pengu_attack_ray_10: 7787457242035960773
+      pengu_attack_ray_11: 8540010118117035227
+      pengu_attack_ray_12: 7388862683871318496
+      pengu_attack_ray_13: -1721335185287354242
+      pengu_attack_ray_14: -5101857934714102806
+      pengu_attack_ray_15: 9049270806071964078
+      pengu_attack_ray_16: 8265853256464515112
+      pengu_attack_ray_17: -1528776706018958919
+      pengu_attack_ray_18: 5014536547034832873
+      pengu_attack_ray_2: 710830839338862018
+      pengu_attack_ray_3: 1406314608925078152
+      pengu_attack_ray_4: 4735173387623285931
+      pengu_attack_ray_5: 1356068568528181818
+      pengu_attack_ray_6: 7561566475950513901
+      pengu_attack_ray_7: -641180647390820108
+      pengu_attack_ray_8: 1729097031262128544
+      pengu_attack_ray_9: 3982533146356485891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

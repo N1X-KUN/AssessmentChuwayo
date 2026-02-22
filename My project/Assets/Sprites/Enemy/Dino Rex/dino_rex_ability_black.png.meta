@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 0d8d158b50324b049a0afc8700208a70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6087683120203533933
+    second: dino_rex_ability_black_0
+  - first:
+      213: 2805578919474884841
+    second: dino_rex_ability_black_1
+  - first:
+      213: 3028214997951777909
+    second: dino_rex_ability_black_2
+  - first:
+      213: 8989550222062993721
+    second: dino_rex_ability_black_3
+  - first:
+      213: -2197742370433433323
+    second: dino_rex_ability_black_4
+  - first:
+      213: 5565747645911022850
+    second: dino_rex_ability_black_5
+  - first:
+      213: -3711026502161105986
+    second: dino_rex_ability_black_6
+  - first:
+      213: 1066103511642417140
+    second: dino_rex_ability_black_7
+  - first:
+      213: 2821306409416764022
+    second: dino_rex_ability_black_8
+  - first:
+      213: 8290842046667734273
+    second: dino_rex_ability_black_9
+  - first:
+      213: -8344195106706368611
+    second: dino_rex_ability_black_10
+  - first:
+      213: -2638805641662028115
+    second: dino_rex_ability_black_11
+  - first:
+      213: -176055982103130285
+    second: dino_rex_ability_black_12
+  - first:
+      213: -2605475956194447376
+    second: dino_rex_ability_black_13
+  - first:
+      213: 4200529221816195574
+    second: dino_rex_ability_black_14
+  - first:
+      213: -2878796301479748684
+    second: dino_rex_ability_black_15
+  - first:
+      213: 2218486465029259161
+    second: dino_rex_ability_black_16
+  - first:
+      213: 6985188025273432078
+    second: dino_rex_ability_black_17
+  - first:
+      213: -5557250494513080986
+    second: dino_rex_ability_black_18
+  - first:
+      213: 1967541722157320472
+    second: dino_rex_ability_black_19
+  - first:
+      213: -6209140534928541394
+    second: dino_rex_ability_black_20
+  - first:
+      213: 3138874089302243233
+    second: dino_rex_ability_black_21
+  - first:
+      213: -6317488895375494684
+    second: dino_rex_ability_black_22
+  - first:
+      213: 5759668100102327045
+    second: dino_rex_ability_black_23
+  - first:
+      213: 2819376590101152150
+    second: dino_rex_ability_black_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dino_rex_ability_black_0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3917023c474348ba0800000000000000
+      internalID: -6087683120203533933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_1
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0ff94a92b6fe620800000000000000
+      internalID: 2805578919474884841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_2
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 0
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c0d681f71660a20800000000000000
+      internalID: 3028214997951777909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_3
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 0
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931499c5c4c41cc70800000000000000
+      internalID: 8989550222062993721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_4
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 0
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5118d7e45fc0081e0800000000000000
+      internalID: -2197742370433433323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_5
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 0
+        width: 106
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d3effcef18d3d40800000000000000
+      internalID: 5565747645911022850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_6
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 0
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb70a2ee09cf7cc0800000000000000
+      internalID: -3711026502161105986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_7
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 0
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f72e31de7f8bce00800000000000000
+      internalID: 1066103511642417140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_8
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 0
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aa1df3b3b472720800000000000000
+      internalID: 2821306409416764022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_9
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 0
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10db0882aecfe0370800000000000000
+      internalID: 8290842046667734273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_10
+      rect:
+        serializedVersion: 2
+        x: 3986
+        y: 0
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97d63882c6733c80800000000000000
+      internalID: -8344195106706368611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_11
+      rect:
+        serializedVersion: 2
+        x: 4370
+        y: 0
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da62079ff34116bd0800000000000000
+      internalID: -2638805641662028115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_12
+      rect:
+        serializedVersion: 2
+        x: 4754
+        y: 0
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f092e54068e8df0800000000000000
+      internalID: -176055982103130285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_13
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 0
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff65381c6d77dbd0800000000000000
+      internalID: -2605475956194447376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_14
+      rect:
+        serializedVersion: 2
+        x: 5522
+        y: 0
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9900762174b4a30800000000000000
+      internalID: 4200529221816195574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_15
+      rect:
+        serializedVersion: 2
+        x: 5906
+        y: 0
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb579d24067c08d0800000000000000
+      internalID: -2878796301479748684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_16
+      rect:
+        serializedVersion: 2
+        x: 6290
+        y: 0
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fb4179fa5a9ce10800000000000000
+      internalID: 2218486465029259161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_17
+      rect:
+        serializedVersion: 2
+        x: 6674
+        y: 0
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e083cb7ff7f50f060800000000000000
+      internalID: 6985188025273432078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_18
+      rect:
+        serializedVersion: 2
+        x: 7058
+        y: 0
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6651faa6e1ea0e2b0800000000000000
+      internalID: -5557250494513080986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_19
+      rect:
+        serializedVersion: 2
+        x: 7442
+        y: 0
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81982f595cc1e4b10800000000000000
+      internalID: 1967541722157320472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_20
+      rect:
+        serializedVersion: 2
+        x: 7826
+        y: 0
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29fa17b493b4d9a0800000000000000
+      internalID: -6209140534928541394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_21
+      rect:
+        serializedVersion: 2
+        x: 8210
+        y: 0
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7b98f8a558f8b20800000000000000
+      internalID: 3138874089302243233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_22
+      rect:
+        serializedVersion: 2
+        x: 8594
+        y: 0
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e13ba63255c358a0800000000000000
+      internalID: -6317488895375494684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_23
+      rect:
+        serializedVersion: 2
+        x: 8978
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b8fbafe937eef40800000000000000
+      internalID: 5759668100102327045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dino_rex_ability_black_24
+      rect:
+        serializedVersion: 2
+        x: 9362
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691080d2210702720800000000000000
+      internalID: 2819376590101152150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dino_rex_ability_black_0: -6087683120203533933
+      dino_rex_ability_black_1: 2805578919474884841
+      dino_rex_ability_black_10: -8344195106706368611
+      dino_rex_ability_black_11: -2638805641662028115
+      dino_rex_ability_black_12: -176055982103130285
+      dino_rex_ability_black_13: -2605475956194447376
+      dino_rex_ability_black_14: 4200529221816195574
+      dino_rex_ability_black_15: -2878796301479748684
+      dino_rex_ability_black_16: 2218486465029259161
+      dino_rex_ability_black_17: 6985188025273432078
+      dino_rex_ability_black_18: -5557250494513080986
+      dino_rex_ability_black_19: 1967541722157320472
+      dino_rex_ability_black_2: 3028214997951777909
+      dino_rex_ability_black_20: -6209140534928541394
+      dino_rex_ability_black_21: 3138874089302243233
+      dino_rex_ability_black_22: -6317488895375494684
+      dino_rex_ability_black_23: 5759668100102327045
+      dino_rex_ability_black_24: 2819376590101152150
+      dino_rex_ability_black_3: 8989550222062993721
+      dino_rex_ability_black_4: -2197742370433433323
+      dino_rex_ability_black_5: 5565747645911022850
+      dino_rex_ability_black_6: -3711026502161105986
+      dino_rex_ability_black_7: 1066103511642417140
+      dino_rex_ability_black_8: 2821306409416764022
+      dino_rex_ability_black_9: 8290842046667734273
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
