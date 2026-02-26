@@ -33,4 +33,11 @@ public class FoodItem : MonoBehaviour
     {
         transform.Translate(Vector3.left * floatSpeed * Time.deltaTime);
     }
+
+    // The WordManager will call this to delete the letter you just typed!
+    public void RemoveFirstLetter()
+    {
+        currentWord = currentWord.Substring(1);
+        if (floatingText != null) floatingText.text = currentWord;
+    }
 }

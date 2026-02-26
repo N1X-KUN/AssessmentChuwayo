@@ -8,7 +8,7 @@ public class KommyController : MonoBehaviour
     [Header("Game Settings")]
     public float runSpeed = 2f;
     public int maxHp = 5;
-    private int currentHp;
+    public int currentHp;
 
     // This is the "Brain" of the auto-runner
     public enum CharacterState { Idle, Running, Attacking, Stunned, Dead, Victory }
@@ -25,12 +25,6 @@ public class KommyController : MonoBehaviour
 
     void Update()
     {
-        if (currentState == CharacterState.Running)
-        {
-            // Moves the character to the left automatically
-            transform.Translate(Vector3.left * runSpeed * Time.deltaTime);
-        }
-
         // --- TEMPORARY TESTING CONTROLS ---
         if (Input.GetKeyDown(KeyCode.Return) && currentState == CharacterState.Idle) StartGame();
         if (Input.GetKeyDown(KeyCode.Space)) TypeCorrectLetter();
