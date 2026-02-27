@@ -21,7 +21,8 @@ public class ScrollingBackground : MonoBehaviour
         // If the background has moved off the screen, teleport it back to the start!
         if (transform.position.x < startPosition.x - repeatWidth)
         {
-            transform.position = startPosition;
+            float overshoot = transform.position.x - (startPosition.x - repeatWidth);
+            transform.position = new Vector3(startPosition.x + overshoot, transform.position.y, transform.position.z);
         }
     }
 }
