@@ -1,0 +1,3432 @@
+fileFormatVersion: 2
+guid: 5ca5e60a593b614459a15d0690eff068
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8003577372901011977
+    second: Thief Idle_0
+  - first:
+      213: 2875305335081670405
+    second: Thief Idle_1
+  - first:
+      213: 1458080914885585641
+    second: Thief Idle_2
+  - first:
+      213: 3936057687360689538
+    second: Thief Idle_3
+  - first:
+      213: 2712924362849973859
+    second: Thief Idle_4
+  - first:
+      213: 4488963275950623793
+    second: Thief Idle_5
+  - first:
+      213: -9046910254050694398
+    second: Thief Idle_6
+  - first:
+      213: 984123269980342686
+    second: Thief Idle_7
+  - first:
+      213: 4698938857243135170
+    second: Thief Idle_8
+  - first:
+      213: 2033519207102682174
+    second: Thief Idle_9
+  - first:
+      213: 7204463658671783947
+    second: Thief Idle_10
+  - first:
+      213: -2924667748434563942
+    second: Thief Idle_11
+  - first:
+      213: -2957772712373441677
+    second: Thief Idle_12
+  - first:
+      213: -6829610478157449211
+    second: Thief Idle_13
+  - first:
+      213: 6290796758036369992
+    second: Thief Idle_14
+  - first:
+      213: 6328690380905961844
+    second: Thief Idle_15
+  - first:
+      213: -8696555964663666944
+    second: Thief Idle_16
+  - first:
+      213: -4451909461772419605
+    second: Thief Idle_17
+  - first:
+      213: -5535604659514413657
+    second: Thief Idle_18
+  - first:
+      213: -6880654873909757204
+    second: Thief Idle_19
+  - first:
+      213: -6478349650173046381
+    second: Thief Idle_20
+  - first:
+      213: 2692061028514859665
+    second: Thief Idle_21
+  - first:
+      213: 8454598846746096845
+    second: Thief Idle_22
+  - first:
+      213: -148677057029106764
+    second: Thief Idle_23
+  - first:
+      213: -6915824813115996544
+    second: Thief Idle_24
+  - first:
+      213: -8986271682432565703
+    second: Thief Idle_25
+  - first:
+      213: 4785849706786984694
+    second: Thief Idle_26
+  - first:
+      213: -9136624135207278954
+    second: Thief Idle_27
+  - first:
+      213: -1671500227796401455
+    second: Thief Idle_28
+  - first:
+      213: -453664138588176415
+    second: Thief Idle_29
+  - first:
+      213: -9109053083076619324
+    second: Thief Idle_30
+  - first:
+      213: 1225435477864965440
+    second: Thief Idle_31
+  - first:
+      213: 8495454059594210217
+    second: Thief Idle_32
+  - first:
+      213: 3033218425664629159
+    second: Thief Idle_33
+  - first:
+      213: -41929973311231400
+    second: Thief Idle_34
+  - first:
+      213: -729969730517301140
+    second: Thief Idle_35
+  - first:
+      213: 907753309872491056
+    second: Thief Idle_36
+  - first:
+      213: -497270692653068836
+    second: Thief Idle_37
+  - first:
+      213: 3811475909507869666
+    second: Thief Idle_38
+  - first:
+      213: -8732254342096372531
+    second: Thief Idle_39
+  - first:
+      213: -5297687661578582968
+    second: Thief Idle_40
+  - first:
+      213: -2488380150339615453
+    second: Thief Idle_41
+  - first:
+      213: 5026451820960840470
+    second: Thief Idle_42
+  - first:
+      213: 8922519542858570146
+    second: Thief Idle_43
+  - first:
+      213: -1289557754559294206
+    second: Thief Idle_44
+  - first:
+      213: 676823540839939926
+    second: Thief Idle_45
+  - first:
+      213: 5409763583524646909
+    second: Thief Idle_46
+  - first:
+      213: -445095208888757421
+    second: Thief Idle_47
+  - first:
+      213: 3613702876516808370
+    second: Thief Idle_48
+  - first:
+      213: -4905386747554107995
+    second: Thief Idle_49
+  - first:
+      213: 6555732361825021802
+    second: Thief Idle_50
+  - first:
+      213: 3509985285575019757
+    second: Thief Idle_51
+  - first:
+      213: -1504755737115236936
+    second: Thief Idle_52
+  - first:
+      213: 6276678063456885302
+    second: Thief Idle_53
+  - first:
+      213: 7549497186186969163
+    second: Thief Idle_54
+  - first:
+      213: -8670596464423562916
+    second: Thief Idle_55
+  - first:
+      213: -4930564112570867488
+    second: Thief Idle_56
+  - first:
+      213: 7255315331426587841
+    second: Thief Idle_57
+  - first:
+      213: -8093729624030565849
+    second: Thief Idle_58
+  - first:
+      213: 8565099560324770471
+    second: Thief Idle_59
+  - first:
+      213: -8833060309607148050
+    second: Thief Idle_60
+  - first:
+      213: 2588457823901279120
+    second: Thief Idle_61
+  - first:
+      213: 4188120298756774118
+    second: Thief Idle_62
+  - first:
+      213: 4772644859891999108
+    second: Thief Idle_63
+  - first:
+      213: 879909107895375985
+    second: Thief Idle_64
+  - first:
+      213: -1626476647123494477
+    second: Thief Idle_65
+  - first:
+      213: -4559533886475155173
+    second: Thief Idle_66
+  - first:
+      213: -4165525663149959824
+    second: Thief Idle_67
+  - first:
+      213: 166544242958419063
+    second: Thief Idle_68
+  - first:
+      213: -2603129418471792990
+    second: Thief Idle_69
+  - first:
+      213: 5234872314316319608
+    second: Thief Idle_70
+  - first:
+      213: -8460594881418742224
+    second: Thief Idle_71
+  - first:
+      213: -6787646854876949297
+    second: Thief Idle_72
+  - first:
+      213: -4955376127787562822
+    second: Thief Idle_73
+  - first:
+      213: -9019519833466227650
+    second: Thief Idle_74
+  - first:
+      213: 1522948893397442444
+    second: Thief Idle_75
+  - first:
+      213: 6465116800101704666
+    second: Thief Idle_76
+  - first:
+      213: 2894174692376171444
+    second: Thief Idle_77
+  - first:
+      213: 369289911919362630
+    second: Thief Idle_78
+  - first:
+      213: -9034544513405752652
+    second: Thief Idle_79
+  - first:
+      213: 8316772351347339635
+    second: Thief Idle_80
+  - first:
+      213: 3516207599405552096
+    second: Thief Idle_81
+  - first:
+      213: 6292365399365142450
+    second: Thief Idle_82
+  - first:
+      213: 6458094273211152482
+    second: Thief Idle_83
+  - first:
+      213: 149829848682034367
+    second: Thief Idle_84
+  - first:
+      213: 4340607562951391154
+    second: Thief Idle_85
+  - first:
+      213: -5105425343858681737
+    second: Thief Idle_86
+  - first:
+      213: 1308953310750278723
+    second: Thief Idle_87
+  - first:
+      213: -3469620158573988669
+    second: Thief Idle_88
+  - first:
+      213: -6044266776978721499
+    second: Thief Idle_89
+  - first:
+      213: 4013383976695252420
+    second: Thief Idle_90
+  - first:
+      213: -179364485806157164
+    second: Thief Idle_91
+  - first:
+      213: 4173293744816426443
+    second: Thief Idle_92
+  - first:
+      213: 8442443978409047400
+    second: Thief Idle_93
+  - first:
+      213: -2412804118872877853
+    second: Thief Idle_94
+  - first:
+      213: 4738805087087127852
+    second: Thief Idle_95
+  - first:
+      213: 8272832868104963826
+    second: Thief Idle_96
+  - first:
+      213: -4887942166053134112
+    second: Thief Idle_97
+  - first:
+      213: -8870071520730729139
+    second: Thief Idle_98
+  - first:
+      213: -4947642989993065160
+    second: Thief Idle_99
+  - first:
+      213: -8544334773935237894
+    second: Thief Idle_100
+  - first:
+      213: -1056578501046384716
+    second: Thief Idle_101
+  - first:
+      213: -4815585568600010877
+    second: Thief Idle_102
+  - first:
+      213: 8836353999664482030
+    second: Thief Idle_103
+  - first:
+      213: 1693548446790130632
+    second: Thief Idle_104
+  - first:
+      213: -3302092244730583268
+    second: Thief Idle_105
+  - first:
+      213: 186614953173961070
+    second: Thief Idle_106
+  - first:
+      213: 9197196199811290406
+    second: Thief Idle_107
+  - first:
+      213: -6061991651797390267
+    second: Thief Idle_108
+  - first:
+      213: 3387822462174791794
+    second: Thief Idle_109
+  - first:
+      213: 8555635342468394685
+    second: Thief Idle_110
+  - first:
+      213: -1438798966389287883
+    second: Thief Idle_111
+  - first:
+      213: -3914932876496157934
+    second: Thief Idle_112
+  - first:
+      213: 6406142176275832332
+    second: Thief Idle_113
+  - first:
+      213: 2140605198650622040
+    second: Thief Idle_114
+  - first:
+      213: 8479919365207722603
+    second: Thief Idle_115
+  - first:
+      213: 8866719493533828998
+    second: Thief Idle_116
+  - first:
+      213: 4976639093159136506
+    second: Thief Idle_117
+  - first:
+      213: -5143313488435290791
+    second: Thief Idle_118
+  - first:
+      213: 8531789345772741326
+    second: Thief Idle_119
+  - first:
+      213: 2191587930556672155
+    second: Thief Idle_120
+  - first:
+      213: 2311423124752174115
+    second: Thief Idle_121
+  - first:
+      213: -7413071901639711564
+    second: Thief Idle_122
+  - first:
+      213: 5425639849631543773
+    second: Thief Idle_123
+  - first:
+      213: 9208947041942459904
+    second: Thief Idle_124
+  - first:
+      213: 2041553020945635269
+    second: Thief Idle_125
+  - first:
+      213: -1346901636684651302
+    second: Thief Idle_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Thief Idle_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 9426
+        width: 400
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9027e14473b621f60800000000000000
+      internalID: 8003577372901011977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_1
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 9427
+        width: 400
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507145ed7f227e720800000000000000
+      internalID: 2875305335081670405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 9426
+        width: 399
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea2889edd42c3410800000000000000
+      internalID: 1458080914885585641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 9426
+        width: 399
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285549ecc9faf9630800000000000000
+      internalID: 3936057687360689538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 9426
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366fc26955e36a520800000000000000
+      internalID: 2712924362849973859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_5
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 9426
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c8fc0e0500c4e30800000000000000
+      internalID: 4488963275950623793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 8954
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b28787e0be27280800000000000000
+      internalID: -9046910254050694398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 8954
+        width: 400
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99cf5266ee48ad00800000000000000
+      internalID: 984123269980342686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 8954
+        width: 400
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccc14f9efbf53140800000000000000
+      internalID: 4698938857243135170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_9
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 8953
+        width: 400
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e341a4fd1f2883c10800000000000000
+      internalID: 2033519207102682174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_10
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 8953
+        width: 402
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00c754d6856bf360800000000000000
+      internalID: 7204463658671783947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_11
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 8953
+        width: 402
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c2488ad2e7967d0800000000000000
+      internalID: -2924667748434563942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 8505
+        width: 405
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b23a89361e3f6d0800000000000000
+      internalID: -2957772712373441677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_13
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 8505
+        width: 406
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508b32774795831a0800000000000000
+      internalID: -6829610478157449211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 8505
+        width: 406
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842dfe442566d4750800000000000000
+      internalID: 6290796758036369992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 8507
+        width: 407
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479d45fde5604d750800000000000000
+      internalID: 6328690380905961844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_16
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 8505
+        width: 408
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007eaec2d60af4780800000000000000
+      internalID: -8696555964663666944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_17
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 8505
+        width: 408
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedbad68ee3a732c0800000000000000
+      internalID: -4451909461772419605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 8033
+        width: 409
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad65ac14e49d23b0800000000000000
+      internalID: -5535604659514413657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_19
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 8033
+        width: 408
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea7c82f8d00380a0800000000000000
+      internalID: -6880654873909757204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 8033
+        width: 409
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391d8a221574816a0800000000000000
+      internalID: -6478349650173046381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 8035
+        width: 408
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a0d460e3f1c5520800000000000000
+      internalID: 2692061028514859665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_22
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 8033
+        width: 407
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc47ab25bd4c45570800000000000000
+      internalID: 8454598846746096845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_23
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 8033
+        width: 406
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3978d110bcfedf0800000000000000
+      internalID: -148677057029106764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 7559
+        width: 406
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086836d59fd0600a0800000000000000
+      internalID: -6915824813115996544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_25
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 7559
+        width: 405
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e747124895a4380800000000000000
+      internalID: -8986271682432565703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_26
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 7559
+        width: 404
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f21279a3f0ca6240800000000000000
+      internalID: 4785849706786984694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_27
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 7561
+        width: 404
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696a5b6c1c0343180800000000000000
+      internalID: -9136624135207278954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_28
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 7559
+        width: 402
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d206381663adc8e0800000000000000
+      internalID: -1671500227796401455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_29
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 7559
+        width: 401
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef3e1c9ed244b9f0800000000000000
+      internalID: -453664138588176415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 7165
+        width: 400
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c39a079b74269180800000000000000
+      internalID: -9109053083076619324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_31
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 7165
+        width: 399
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0456d41131f910110800000000000000
+      internalID: 1225435477864965440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_32
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 7165
+        width: 399
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab53c3d47ae5e570800000000000000
+      internalID: 8495454059594210217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_33
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 7167
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9e8e36618281a20800000000000000
+      internalID: 3033218425664629159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_34
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 7165
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aa75359e80b6ff0800000000000000
+      internalID: -41929973311231400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_35
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 7165
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c688abbc560aed5f0800000000000000
+      internalID: -729969730517301140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6712
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a82aa63dcf89c00800000000000000
+      internalID: 907753309872491056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_37
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 6712
+        width: 399
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd833f80f65919f0800000000000000
+      internalID: -497270692653068836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 6712
+        width: 400
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebec28452515e430800000000000000
+      internalID: 3811475909507869666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_39
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 6712
+        width: 400
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccbbfaf0fcc0d680800000000000000
+      internalID: -8732254342096372531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_40
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 6712
+        width: 402
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84483a0e325da76b0800000000000000
+      internalID: -5297687661578582968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_41
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 6708
+        width: 402
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325cfd0ff6f777dd0800000000000000
+      internalID: -2488380150339615453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 6320
+        width: 404
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b7cf4cc4b81c540800000000000000
+      internalID: 5026451820960840470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6320
+        width: 405
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9d09d204823db70800000000000000
+      internalID: 8922519542858570146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_44
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 6309
+        width: 406
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205942afd029a1ee0800000000000000
+      internalID: -1289557754559294206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_45
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 6309
+        width: 407
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ff267ac6f846900800000000000000
+      internalID: 676823540839939926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_46
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 6309
+        width: 408
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffa4da2157531b40800000000000000
+      internalID: 5409763583524646909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_47
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 6309
+        width: 408
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35315f60444b2d9f0800000000000000
+      internalID: -445095208888757421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5868
+        width: 409
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b67796be93762230800000000000000
+      internalID: 3613702876516808370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_49
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 5868
+        width: 408
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ade0223eb09cebb0800000000000000
+      internalID: -4905386747554107995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_50
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 5854
+        width: 409
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fec1d69d3aafa50800000000000000
+      internalID: 6555732361825021802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_51
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 5868
+        width: 408
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec0c814509f5b030800000000000000
+      internalID: 3509985285575019757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_52
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 5868
+        width: 408
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5e38f21a80e1be0800000000000000
+      internalID: -1504755737115236936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_53
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 5868
+        width: 406
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a95d5817d3b1750800000000000000
+      internalID: 6276678063456885302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_54
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 5430
+        width: 406
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b404c7f11b335c860800000000000000
+      internalID: 7549497186186969163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_55
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 5441
+        width: 405
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c519643547adba780800000000000000
+      internalID: -8670596464423562916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_56
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 5405
+        width: 404
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0ace7101e139bb0800000000000000
+      internalID: -4930564112570867488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_57
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 5430
+        width: 404
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c490278ade00b460800000000000000
+      internalID: 7255315331426587841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_58
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 5455
+        width: 402
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a2a931acb4daf80800000000000000
+      internalID: -8093729624030565849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_59
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 5455
+        width: 402
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa23079ba85dd670800000000000000
+      internalID: 8565099560324770471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_60
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 5017
+        width: 401
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5934ea27aaa6580800000000000000
+      internalID: -8833060309607148050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_61
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 5028
+        width: 400
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09367b53dac0ce320800000000000000
+      internalID: 2588457823901279120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_62
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 5017
+        width: 399
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8100cd8313f1a30800000000000000
+      internalID: 4188120298756774118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_63
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 5017
+        width: 399
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481e4f8a637db3240800000000000000
+      internalID: 4772644859891999108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_64
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 5017
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1781cb2fba0163c00800000000000000
+      internalID: 879909107895375985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_65
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 5017
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b95cbc5b189d69e0800000000000000
+      internalID: -1626476647123494477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_66
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4592
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19ca43761849b0c0800000000000000
+      internalID: -4559533886475155173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_67
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 4603
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0755c21ba741136c0800000000000000
+      internalID: -4165525663149959824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_68
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 4592
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7744ce84b1faf4200800000000000000
+      internalID: 166544242958419063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_69
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 4592
+        width: 399
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae9e9bf593dfdbd0800000000000000
+      internalID: -2603129418471792990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_70
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 4592
+        width: 400
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87be95362a006a840800000000000000
+      internalID: 5234872314316319608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_71
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 4592
+        width: 400
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0363c8018cde59a80800000000000000
+      internalID: -8460594881418742224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_72
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 4149
+        width: 402
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc41342e52f6dc1a0800000000000000
+      internalID: -6787646854876949297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_73
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 4160
+        width: 402
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab885ce9aa7fa3bb0800000000000000
+      internalID: -4955376127787562822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_74
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 4149
+        width: 404
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34b7a9bf7a34d280800000000000000
+      internalID: -9019519833466227650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_75
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 4149
+        width: 405
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f570a13f9922510800000000000000
+      internalID: 1522948893397442444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_76
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 4149
+        width: 406
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3e87dd975b8b950800000000000000
+      internalID: 6465116800101704666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_77
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 4149
+        width: 406
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3d1097c8c2a2820800000000000000
+      internalID: 2894174692376171444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_78
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3724
+        width: 407
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642c613e73bff1500800000000000000
+      internalID: 369289911919362630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_79
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3735
+        width: 408
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baeef2d1a9de9280800000000000000
+      internalID: -9034544513405752652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_80
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 3724
+        width: 408
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37139dfa36c1b6370800000000000000
+      internalID: 8316772351347339635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_81
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 3724
+        width: 409
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1d8179e241cc030800000000000000
+      internalID: 3516207599405552096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_82
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 3724
+        width: 408
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b74e1a0ef8f25750800000000000000
+      internalID: 6292365399365142450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_83
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 3724
+        width: 409
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2683cb86682cf9950800000000000000
+      internalID: 6458094273211152482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_84
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3290
+        width: 408
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4717b147d441200800000000000000
+      internalID: 149829848682034367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_85
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3290
+        width: 407
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7771bb49fec3c30800000000000000
+      internalID: 4340607562951391154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_86
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 3290
+        width: 406
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778d60013b2e529b0800000000000000
+      internalID: -5105425343858681737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_87
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 3290
+        width: 406
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34487dad9165a2210800000000000000
+      internalID: 1308953310750278723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_88
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 3290
+        width: 405
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4b9ae39de69dfc0800000000000000
+      internalID: -3469620158573988669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_89
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 3290
+        width: 404
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525fc76e3637e1ca0800000000000000
+      internalID: -6044266776978721499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_90
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2866
+        width: 404
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c54a26867762b730800000000000000
+      internalID: 4013383976695252420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_91
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2866
+        width: 402
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492143253f4c28df0800000000000000
+      internalID: -179364485806157164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_92
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 2866
+        width: 401
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd8423cc848ae930800000000000000
+      internalID: 4173293744816426443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_93
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2866
+        width: 400
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865f4318116992570800000000000000
+      internalID: 8442443978409047400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_94
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 2866
+        width: 399
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e49bfdff6ff38ed0800000000000000
+      internalID: -2412804118872877853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_95
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 2866
+        width: 399
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d64a39e1e93c140800000000000000
+      internalID: 4738805087087127852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_96
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2430
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6829589a10fc270800000000000000
+      internalID: 8272832868104963826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_97
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 2430
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0efb55f7a8a2cb0800000000000000
+      internalID: -4887942166053134112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_98
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2430
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45398292fc27e480800000000000000
+      internalID: -8870071520730729139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_99
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2430
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83503021ae0765bb0800000000000000
+      internalID: -4947642989993065160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_100
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 2430
+        width: 398
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4929dfacc6c6980800000000000000
+      internalID: -8544334773935237894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_101
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 2430
+        width: 399
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7c0d783774651f0800000000000000
+      internalID: -1056578501046384716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_102
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1974
+        width: 400
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f491e707a9b2db0800000000000000
+      internalID: -4815585568600010877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_103
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1974
+        width: 400
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee68a9b452901aa70800000000000000
+      internalID: 8836353999664482030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_104
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1974
+        width: 402
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb17dce651b08710800000000000000
+      internalID: 1693548446790130632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_105
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1974
+        width: 402
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17e241499c9c22d0800000000000000
+      internalID: -3302092244730583268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_106
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 1974
+        width: 404
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69c5b9af4df69200800000000000000
+      internalID: 186614953173961070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_107
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 1974
+        width: 405
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6251353073103af70800000000000000
+      internalID: 9197196199811290406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_108
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1551
+        width: 406
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cab33e5ba7fdba0800000000000000
+      internalID: -6061991651797390267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_109
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1551
+        width: 406
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27884047496f30f20800000000000000
+      internalID: 3387822462174791794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_110
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1551
+        width: 407
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe2b97a309bbb670800000000000000
+      internalID: 8555635342468394685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_111
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1551
+        width: 408
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534da2196fb580ce0800000000000000
+      internalID: -1438798966389287883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_112
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1551
+        width: 408
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213c2f08a4d5ba9c0800000000000000
+      internalID: -3914932876496157934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_113
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 1551
+        width: 409
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e919d3e5037e850800000000000000
+      internalID: 6406142176275832332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_114
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1105
+        width: 408
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850cce53615f4bd10800000000000000
+      internalID: 2140605198650622040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_115
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1105
+        width: 409
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a892febb9bea570800000000000000
+      internalID: 8479919365207722603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_116
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1105
+        width: 408
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6878d17c66aec0b70800000000000000
+      internalID: 8866719493533828998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_117
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1105
+        width: 407
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc821b43e2901540800000000000000
+      internalID: 4976639093159136506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_118
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1105
+        width: 407
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dd659f1a74f98b0800000000000000
+      internalID: -5143313488435290791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_119
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 1105
+        width: 407
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec22f35e431076670800000000000000
+      internalID: 8531789345772741326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_120
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 650
+        width: 406
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b982dde7c951a6e10800000000000000
+      internalID: 2191587930556672155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_121
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 650
+        width: 406
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c0a74e513d31020800000000000000
+      internalID: 2311423124752174115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_122
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 650
+        width: 406
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4e550b16a7f1990800000000000000
+      internalID: -7413071901639711564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_123
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 650
+        width: 404
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1fd7c62bebb4b40800000000000000
+      internalID: 5425639849631543773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_124
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 650
+        width: 404
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0065d562b80cccf70800000000000000
+      internalID: 9208947041942459904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_125
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 650
+        width: 403
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7179be7ad055c10800000000000000
+      internalID: 2041553020945635269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thief Idle_126
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 161
+        width: 402
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4e40ef818de4de0800000000000000
+      internalID: -1346901636684651302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Thief Idle_0: 8003577372901011977
+      Thief Idle_1: 2875305335081670405
+      Thief Idle_10: 7204463658671783947
+      Thief Idle_100: -8544334773935237894
+      Thief Idle_101: -1056578501046384716
+      Thief Idle_102: -4815585568600010877
+      Thief Idle_103: 8836353999664482030
+      Thief Idle_104: 1693548446790130632
+      Thief Idle_105: -3302092244730583268
+      Thief Idle_106: 186614953173961070
+      Thief Idle_107: 9197196199811290406
+      Thief Idle_108: -6061991651797390267
+      Thief Idle_109: 3387822462174791794
+      Thief Idle_11: -2924667748434563942
+      Thief Idle_110: 8555635342468394685
+      Thief Idle_111: -1438798966389287883
+      Thief Idle_112: -3914932876496157934
+      Thief Idle_113: 6406142176275832332
+      Thief Idle_114: 2140605198650622040
+      Thief Idle_115: 8479919365207722603
+      Thief Idle_116: 8866719493533828998
+      Thief Idle_117: 4976639093159136506
+      Thief Idle_118: -5143313488435290791
+      Thief Idle_119: 8531789345772741326
+      Thief Idle_12: -2957772712373441677
+      Thief Idle_120: 2191587930556672155
+      Thief Idle_121: 2311423124752174115
+      Thief Idle_122: -7413071901639711564
+      Thief Idle_123: 5425639849631543773
+      Thief Idle_124: 9208947041942459904
+      Thief Idle_125: 2041553020945635269
+      Thief Idle_126: -1346901636684651302
+      Thief Idle_13: -6829610478157449211
+      Thief Idle_14: 6290796758036369992
+      Thief Idle_15: 6328690380905961844
+      Thief Idle_16: -8696555964663666944
+      Thief Idle_17: -4451909461772419605
+      Thief Idle_18: -5535604659514413657
+      Thief Idle_19: -6880654873909757204
+      Thief Idle_2: 1458080914885585641
+      Thief Idle_20: -6478349650173046381
+      Thief Idle_21: 2692061028514859665
+      Thief Idle_22: 8454598846746096845
+      Thief Idle_23: -148677057029106764
+      Thief Idle_24: -6915824813115996544
+      Thief Idle_25: -8986271682432565703
+      Thief Idle_26: 4785849706786984694
+      Thief Idle_27: -9136624135207278954
+      Thief Idle_28: -1671500227796401455
+      Thief Idle_29: -453664138588176415
+      Thief Idle_3: 3936057687360689538
+      Thief Idle_30: -9109053083076619324
+      Thief Idle_31: 1225435477864965440
+      Thief Idle_32: 8495454059594210217
+      Thief Idle_33: 3033218425664629159
+      Thief Idle_34: -41929973311231400
+      Thief Idle_35: -729969730517301140
+      Thief Idle_36: 907753309872491056
+      Thief Idle_37: -497270692653068836
+      Thief Idle_38: 3811475909507869666
+      Thief Idle_39: -8732254342096372531
+      Thief Idle_4: 2712924362849973859
+      Thief Idle_40: -5297687661578582968
+      Thief Idle_41: -2488380150339615453
+      Thief Idle_42: 5026451820960840470
+      Thief Idle_43: 8922519542858570146
+      Thief Idle_44: -1289557754559294206
+      Thief Idle_45: 676823540839939926
+      Thief Idle_46: 5409763583524646909
+      Thief Idle_47: -445095208888757421
+      Thief Idle_48: 3613702876516808370
+      Thief Idle_49: -4905386747554107995
+      Thief Idle_5: 4488963275950623793
+      Thief Idle_50: 6555732361825021802
+      Thief Idle_51: 3509985285575019757
+      Thief Idle_52: -1504755737115236936
+      Thief Idle_53: 6276678063456885302
+      Thief Idle_54: 7549497186186969163
+      Thief Idle_55: -8670596464423562916
+      Thief Idle_56: -4930564112570867488
+      Thief Idle_57: 7255315331426587841
+      Thief Idle_58: -8093729624030565849
+      Thief Idle_59: 8565099560324770471
+      Thief Idle_6: -9046910254050694398
+      Thief Idle_60: -8833060309607148050
+      Thief Idle_61: 2588457823901279120
+      Thief Idle_62: 4188120298756774118
+      Thief Idle_63: 4772644859891999108
+      Thief Idle_64: 879909107895375985
+      Thief Idle_65: -1626476647123494477
+      Thief Idle_66: -4559533886475155173
+      Thief Idle_67: -4165525663149959824
+      Thief Idle_68: 166544242958419063
+      Thief Idle_69: -2603129418471792990
+      Thief Idle_7: 984123269980342686
+      Thief Idle_70: 5234872314316319608
+      Thief Idle_71: -8460594881418742224
+      Thief Idle_72: -6787646854876949297
+      Thief Idle_73: -4955376127787562822
+      Thief Idle_74: -9019519833466227650
+      Thief Idle_75: 1522948893397442444
+      Thief Idle_76: 6465116800101704666
+      Thief Idle_77: 2894174692376171444
+      Thief Idle_78: 369289911919362630
+      Thief Idle_79: -9034544513405752652
+      Thief Idle_8: 4698938857243135170
+      Thief Idle_80: 8316772351347339635
+      Thief Idle_81: 3516207599405552096
+      Thief Idle_82: 6292365399365142450
+      Thief Idle_83: 6458094273211152482
+      Thief Idle_84: 149829848682034367
+      Thief Idle_85: 4340607562951391154
+      Thief Idle_86: -5105425343858681737
+      Thief Idle_87: 1308953310750278723
+      Thief Idle_88: -3469620158573988669
+      Thief Idle_89: -6044266776978721499
+      Thief Idle_9: 2033519207102682174
+      Thief Idle_90: 4013383976695252420
+      Thief Idle_91: -179364485806157164
+      Thief Idle_92: 4173293744816426443
+      Thief Idle_93: 8442443978409047400
+      Thief Idle_94: -2412804118872877853
+      Thief Idle_95: 4738805087087127852
+      Thief Idle_96: 8272832868104963826
+      Thief Idle_97: -4887942166053134112
+      Thief Idle_98: -8870071520730729139
+      Thief Idle_99: -4947642989993065160
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

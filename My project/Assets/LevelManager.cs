@@ -9,16 +9,16 @@ public class LevelManager : MonoBehaviour
     public TMP_Text hpText;
 
     [Header("Level Settings")]
-    public float levelDuration = 30f; // The level lasts 30 seconds
+    public float levelDuration = 20f; 
     private float timeElapsed = 0f;
 
     [Header("References")]
     public KommyController kommy;
     public WordManager wordManager;
+    public ThiefController thief; // WE ADDED THE THIEF HERE!
 
     void Start()
     {
-        // Setup the progression bar
         if (progressBar != null)
         {
             progressBar.maxValue = levelDuration;
@@ -28,13 +28,11 @@ public class LevelManager : MonoBehaviour
 
     void Update()
     {
-        // 1. Constantly update the Health Text to match Kommy's actual HP
         if (hpText != null && kommy != null)
         {
             hpText.text = "HP: " + kommy.currentHp.ToString();
         }
 
-        // 2. Fill the Progression Bar over time
         if (kommy.currentState != KommyController.CharacterState.Dead && kommy.currentState != KommyController.CharacterState.Victory)
         {
             timeElapsed += Time.deltaTime;
@@ -44,11 +42,17 @@ public class LevelManager : MonoBehaviour
                 progressBar.value = timeElapsed;
             }
 
-            // 3. Victory Condition!
+            // VICTORY CONDITION MET (30 Seconds Passed)
             if (timeElapsed >= levelDuration)
             {
-                kommy.WinGame(); // Triggers her Victory animation
-                wordManager.CancelInvoke(); // Stops the apples from spawning!
+                kommy.WinGame(); 
+                wordManager.CancelInvoke(); 
+                
+                // NEW: Tell the thief he lost!
+                if (thief != null) 
+                {
+                    thief.TriggerDefeat();
+                }
             }
         }
     }
