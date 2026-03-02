@@ -956,6 +956,7 @@ MonoBehaviour:
   - peach
   - grape
   spawnRate: 2.5
+  thiefPocket: []
 --- !u!4 &847403068
 Transform:
   m_ObjectHideFlags: 0
@@ -985,7 +986,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::LevelManager
   progressBar: {fileID: 1637477986}
   hpText: {fileID: 784296524}
-  levelDuration: 10
+  levelDuration: 30
   kommy: {fileID: 1061739191}
   wordManager: {fileID: 847403067}
   thief: {fileID: 1859134593}
@@ -1639,12 +1640,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1368779564}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.99, y: -0.43597, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.5199995, y: -2.09, z: 0}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 1859134592}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1371316213
 GameObject:
@@ -2278,7 +2279,8 @@ Transform:
   m_LocalPosition: {x: 4.73, y: -2.88, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 1368779565}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1859134593
@@ -2341,7 +2343,6 @@ SceneRoots:
   m_Roots:
   - {fileID: 519420032}
   - {fileID: 1061739189}
-  - {fileID: 1368779565}
   - {fileID: 847403068}
   - {fileID: 492534042}
   - {fileID: 1371316216}

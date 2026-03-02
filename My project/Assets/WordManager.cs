@@ -15,35 +15,50 @@ public class WordManager : MonoBehaviour
     [Header("Typing Mechanics")]
     private List<FoodItem> activeFoods = new List<FoodItem>(); 
     private FoodItem targetedFood = null; 
+    
+    // THE THIEF'S POCKET
+    public List<string> thiefPocket = new List<string>();
 
     void Start()
     {
-        // We removed the automatic InvokeRepeating from here!
-        // The Thief will tell this script when to start now.
+        thiefPocket.AddRange(wordDatabase);
     }
 
-    // --- NEW SWITCHES ---
     public void StartSpawning()
     {
-        // Starts dropping food every few seconds
         InvokeRepeating(nameof(SpawnFood), 0.5f, spawnRate);
     }
 
     public void StopSpawning()
     {
-        // Instantly stops the dropping
         CancelInvoke(nameof(SpawnFood));
     }
-    // --------------------
 
     void SpawnFood()
     {
+        if (thiefPocket.Count == 0) return;
+
+        int randomIndex = Random.Range(0, thiefPocket.Count);
+        string chosenWord = thiefPocket[randomIndex];
+        
+        thiefPocket.RemoveAt(randomIndex);
+
         GameObject newFoodObj = Instantiate(foodPrefab, spawnPoint.position, Quaternion.identity);
         FoodItem newFood = newFoodObj.GetComponent<FoodItem>();
-        string randomWord = wordDatabase[Random.Range(0, wordDatabase.Length)];
         
-        newFood.SetupFood(randomWord, null);
+        newFood.SetupFood(chosenWord, null, this);
         activeFoods.Add(newFood); 
+    }
+
+    public void MissedFood(FoodItem missedFood, string originalWord)
+    {
+        thiefPocket.Add(originalWord);
+        activeFoods.Remove(missedFood);
+        
+        if (targetedFood == missedFood)
+        {
+            targetedFood = null;
+        }
     }
 
     void Update()

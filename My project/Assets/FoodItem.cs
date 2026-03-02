@@ -5,25 +5,30 @@ public class FoodItem : MonoBehaviour
 {
     [Header("Food Data")]
     public string currentWord;
+    public string originalWord; 
     
-    // Made these private so Unity hides them in the Inspector. No more dragging!
     private TMP_Text floatingText; 
     private SpriteRenderer foodImage;
+    private WordManager wordManager; 
 
     [Header("Settings")]
-    public float floatSpeed = 1.5f;
+    public float floatSpeed = 1.5f;    
+    public float fallSpeed = 2f;       
+    public float groundYLevel = -2.5f; 
+
+    private bool hasHitGround = false;
 
     void Awake()
     {
-        // MAGIC TRICK: This tells the code to automatically scan the object 
-        // and link the Text and the Image the exact millisecond the game starts!
         floatingText = GetComponentInChildren<TMP_Text>();
         foodImage = GetComponent<SpriteRenderer>();
     }
 
-    public void SetupFood(string newWord, Sprite newSprite)
+    public void SetupFood(string newWord, Sprite newSprite, WordManager manager)
     {
         currentWord = newWord;
+        originalWord = newWord; 
+        wordManager = manager;
         
         if (floatingText != null) floatingText.text = currentWord;
         if (foodImage != null && newSprite != null) foodImage.sprite = newSprite;
@@ -32,9 +37,25 @@ public class FoodItem : MonoBehaviour
     void Update()
     {
         transform.Translate(Vector3.left * floatSpeed * Time.deltaTime);
+
+        if (!hasHitGround)
+        {
+            transform.Translate(Vector3.down * fallSpeed * Time.deltaTime);
+
+            if (transform.position.y <= groundYLevel)
+            {
+                hasHitGround = true;
+                
+                if (wordManager != null)
+                {
+                    wordManager.MissedFood(this, originalWord);
+                }
+                
+                Destroy(gameObject);
+            }
+        }
     }
 
-    // The WordManager will call this to delete the letter you just typed!
     public void RemoveFirstLetter()
     {
         currentWord = currentWord.Substring(1);

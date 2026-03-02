@@ -106,9 +106,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FoodItem
   currentWord: 
-  floatingText: {fileID: 0}
-  foodImage: {fileID: 0}
   floatSpeed: 1.5
+  fallSpeed: 0.5
+  groundYLevel: -3.5
 --- !u!1 &8676012635722555225
 GameObject:
   m_ObjectHideFlags: 0
