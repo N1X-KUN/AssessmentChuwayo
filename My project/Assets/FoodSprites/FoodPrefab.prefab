@@ -106,9 +106,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FoodItem
   currentWord: 
+  originalWord: 
+  isRotten: 0
   floatSpeed: 1.5
   fallSpeed: 0.5
   groundYLevel: -3.5
+  shakeIntensity: 0.05
+  scrambleSpeed: 1
 --- !u!1 &8676012635722555225
 GameObject:
   m_ObjectHideFlags: 0
@@ -259,7 +263,7 @@ MonoBehaviour:
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
-  m_TextWrappingMode: 1
+  m_TextWrappingMode: 0
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
   m_linkedTextComponent: {fileID: 0}
