@@ -10,25 +10,38 @@ public class KommyController : MonoBehaviour
     public int maxHp = 5;
     public int currentHp;
 
-    // This is the "Brain" of the auto-runner
-    public enum CharacterState { Idle, Running, Attacking, Stunned, Dead, Victory }
-    public CharacterState currentState = CharacterState.Idle;
+    public enum CharacterState { Running, Attacking, Stunned, Dead, Victory }
+    
+    // Default to Running instead of Idle!
+    public CharacterState currentState = CharacterState.Running;
+
+    // --- NEW TYPING TIMERS ---
+    private float attackTimer = 0f;
+    private float timeToStopAttacking = 0.3f; // How long she waits after your last keystroke to start running again
 
     void Start()
     {
         animator = GetComponent<Animator>();
         currentHp = maxHp;
         
-        // Updated to match your exact file name
-        PlayAnimation("KommyIdle");
+        // Auto-start running the millisecond the game loads
+        StartGame();
     }
 
     void Update()
     {
-        // --- TEMPORARY TESTING CONTROLS ---
-        if (Input.GetKeyDown(KeyCode.Return) && currentState == CharacterState.Idle) StartGame();
-        if (Input.GetKeyDown(KeyCode.Space)) TypeCorrectLetter();
-        if (Input.GetKeyDown(KeyCode.Backspace)) TypeWrongLetter();
+        // If she is currently attacking, count down the timer
+        if (currentState == CharacterState.Attacking)
+        {
+            attackTimer -= Time.deltaTime;
+            
+            // If you stopped typing and the timer hits 0, go back to running!
+            if (attackTimer <= 0f)
+            {
+                currentState = CharacterState.Running;
+                PlayAnimation("KommyMove");
+            }
+        }
     }
 
     public void StartGame()
@@ -39,10 +52,18 @@ public class KommyController : MonoBehaviour
 
     public void TypeCorrectLetter()
     {
-        if (currentState == CharacterState.Dead || currentState == CharacterState.Victory) return;
+        if (currentState == CharacterState.Dead || currentState == CharacterState.Victory || currentState == CharacterState.Stunned) return;
         
-        StopAllCoroutines(); 
-        StartCoroutine(AttackRoutine());
+        // Reset the countdown timer every single time you hit a correct letter!
+        attackTimer = timeToStopAttacking;
+
+        // ONLY tell the Animator to play the attack if she isn't already attacking.
+        // This stops the animation from glitching out and restarting on every keystroke!
+        if (currentState != CharacterState.Attacking)
+        {
+            currentState = CharacterState.Attacking;
+            PlayAnimation("KommyAttack"); 
+        }
     }
 
     public void TypeWrongLetter()
@@ -60,30 +81,12 @@ public class KommyController : MonoBehaviour
         PlayAnimation("KommyVictory"); 
     }
 
-    // --- COROUTINES (Timers for animations) ---
-
-    private IEnumerator AttackRoutine()
-    {
-        currentState = CharacterState.Attacking;
-        PlayAnimation("KommyAttack"); 
-        
-        // Wait for 0.2 seconds (a quick attack flash)
-        yield return new WaitForSeconds(0.2f);
-
-        if (currentState != CharacterState.Dead && currentState != CharacterState.Stunned)
-        {
-            currentState = CharacterState.Running;
-            PlayAnimation("KommyMove");
-        }
-    }
-
     private IEnumerator StunRoutine()
     {
         currentState = CharacterState.Stunned;
-        currentHp--; // Lose 1 HP
+        currentHp--; 
         PlayAnimation("KommyStun"); 
         
-        // Stunned for 1 full second
         yield return new WaitForSeconds(1.0f);
 
         if (currentHp <= 0)
@@ -101,7 +104,7 @@ public class KommyController : MonoBehaviour
     {
         currentState = CharacterState.Dead;
         PlayAnimation("KommyDie");
-        Debug.Log("GAME OVER - Show Try Again Screen");
+        Debug.Log("GAME OVER");
     }
 
     private void PlayAnimation(string animName)

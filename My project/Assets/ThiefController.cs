@@ -4,7 +4,8 @@ using UnityEngine;
 public class ThiefController : MonoBehaviour
 {
     public Animator anim;
-    public WordManager wordManager; // <--- We gave him access to the WordManager!
+    public WordManager wordManager; 
+    public KommyController kommy; // <--- The Thief watches her get stunned!
 
     [Header("Cycle Timers")]
     public float runDuration = 3f;      
@@ -12,17 +13,57 @@ public class ThiefController : MonoBehaviour
     public float flyDuration = 5f;       
     public float fallDuration = 1f;      
 
+    [Header("Flight & Escape Settings")]
+    public float flightHeightOffset = 3f; // Change his flight height right here!
+    public float escapeDistance = 2f;     // How much further right he moves per stun
+    public float escapeSpeed = 2f;        // How fast he glides to the new spot
+
     private bool isDefeated = false;
     private float groundY; 
     private float airY; 
+    
+    // Memory for the X-axis escape logic
+    private float targetX;
+    private bool wasStunned = false; 
 
     void Start()
     {
         anim = GetComponent<Animator>();
         groundY = transform.position.y; 
-        airY = groundY + 1.5f; 
+        
+        // It now uses your custom Offset to calculate how high to fly
+        airY = groundY + flightHeightOffset; 
+        
+        targetX = transform.position.x; 
         
         StartCoroutine(JetpackCycle());
+    }
+
+    void Update()
+    {
+        // 1. Smoothly glide to the targetX position horizontally!
+        if (transform.position.x != targetX)
+        {
+            float newX = Mathf.Lerp(transform.position.x, targetX, Time.deltaTime * escapeSpeed);
+            transform.position = new Vector3(newX, transform.position.y, transform.position.z);
+        }
+
+        // 2. Watch Kommy! If she gets Stunned, push targetX further to the right.
+        if (kommy != null)
+        {
+            if (kommy.currentState == KommyController.CharacterState.Stunned)
+            {
+                if (!wasStunned) // Makes sure we only add distance ONCE per stun!
+                {
+                    targetX += escapeDistance; 
+                    wasStunned = true;
+                }
+            }
+            else
+            {
+                wasStunned = false; // Reset the memory when she recovers
+            }
+        }
     }
 
     IEnumerator JetpackCycle()
@@ -37,39 +78,40 @@ public class ThiefController : MonoBehaviour
             // 2. TAKEOFF
             anim.Play("ThiefPrep");
             float elapsed = 0f;
-            Vector3 startPos = transform.position;
-            Vector3 targetPos = new Vector3(startPos.x, airY, startPos.z);
+            float startY = transform.position.y;
 
+            // Notice we only Lerp the Y axis now, so it doesn't fight the Escape X axis!
             while (elapsed < takeoffDuration)
             {
-                transform.position = Vector3.Lerp(startPos, targetPos, elapsed / takeoffDuration);
+                float newY = Mathf.Lerp(startY, airY, elapsed / takeoffDuration);
+                transform.position = new Vector3(transform.position.x, newY, transform.position.z);
                 elapsed += Time.deltaTime;
                 yield return null; 
             }
-            transform.position = targetPos; 
+            transform.position = new Vector3(transform.position.x, airY, transform.position.z);
             if (isDefeated) break;
 
             // 3. FLYING & DROPPING
             anim.Play("ThiefFlight");
-            wordManager.StartSpawning(); // <--- TURN FOOD ON!
+            wordManager.StartSpawning(); 
             yield return new WaitForSeconds(flyDuration);
             if (isDefeated) break;
 
             // 4. FUEL EMPTY / FALLING 
-            wordManager.StopSpawning(); // <--- TURN FOOD OFF!
+            wordManager.StopSpawning(); 
             anim.Play("ThiefStun");
             elapsed = 0f;
-            startPos = transform.position;
-            targetPos = new Vector3(startPos.x, groundY, startPos.z);
+            startY = transform.position.y;
             
             float dropTime = 0.3f; 
             while (elapsed < dropTime)
             {
-                transform.position = Vector3.Lerp(startPos, targetPos, elapsed / dropTime);
+                float newY = Mathf.Lerp(startY, groundY, elapsed / dropTime);
+                transform.position = new Vector3(transform.position.x, newY, transform.position.z);
                 elapsed += Time.deltaTime;
                 yield return null;
             }
-            transform.position = targetPos;
+            transform.position = new Vector3(transform.position.x, groundY, transform.position.z);
             
             yield return new WaitForSeconds(fallDuration - dropTime);
         }
@@ -79,7 +121,7 @@ public class ThiefController : MonoBehaviour
     {
         isDefeated = true;
         StopAllCoroutines(); 
-        wordManager.StopSpawning(); // <--- Make sure food stops dropping if he dies!
+        wordManager.StopSpawning(); 
         
         transform.position = new Vector3(transform.position.x, groundY, transform.position.z);
         anim.Play("ThiefDie"); 

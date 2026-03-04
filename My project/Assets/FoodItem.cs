@@ -51,19 +51,20 @@ public class FoodItem : MonoBehaviour
             foodImage.sprite = newSprite;
         }
 
-        // --- THE POISON FIX ---
-        if (isRotten)
+        // Apply a sickly green tint IF and ONLY IF it's gross and rotten!
+        if (isRotten && foodImage != null)
         {
-            // Use pure, bright neon green to punch through dark sprites!
-            if (foodImage != null) foodImage.color = Color.green; 
-            // Turn the text green so the player CANNOT miss it!
-            if (floatingText != null) floatingText.color = Color.green; 
+            foodImage.color = new Color(0.3f, 0.6f, 0.3f); // Dark sickly green
         }
-        else 
+        else if (foodImage != null)
         {
-            // Make sure normal food is perfectly white/clear
-            if (foodImage != null) foodImage.color = Color.white; 
-            if (floatingText != null) floatingText.color = Color.white; 
+            foodImage.color = Color.white; // Pure normal colors for fresh food
+        }
+
+        // --- NEW TEXT RULE: Even if rotten, the word stays pure white! ---
+        if (floatingText != null) 
+        {
+            floatingText.color = Color.white; 
         }
     }
 

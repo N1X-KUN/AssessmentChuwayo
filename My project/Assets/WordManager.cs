@@ -23,7 +23,12 @@ public class WordManager : MonoBehaviour
     [Header("Rotten Food Settings")]
     public bool canDropRottenFood = false; 
     public float rottenChance = 30f; 
-    public GameObject dizzyOverlay; 
+    
+    // --- THE NEW ANIMATOR REFERENCE ---
+    // Instead of a simple GameObject, we are looking for the new Animator Script directly!
+    public DizzyOverlayAnimator dizzyAnimator; 
+    // ------------------------------------
+    
     public float dizzyDuration = 4f; 
 
     [Header("Typing Mechanics")]
@@ -43,7 +48,12 @@ public class WordManager : MonoBehaviour
         }
         
         thiefPocket.AddRange(allFoods);
-        if (dizzyOverlay != null) dizzyOverlay.SetActive(false);
+        
+        // Ensure the overlay is fully off on level start
+        if (dizzyAnimator != null) 
+        {
+            dizzyAnimator.gameObject.SetActive(false);
+        }
     }
 
     public void StartSpawning()
@@ -58,10 +68,8 @@ public class WordManager : MonoBehaviour
 
     void SpawnFood()
     {
-        // 1. If the pocket is empty, wait for him to reload!
         if (thiefPocket.Count == 0) return; 
 
-        // 2. Roll the dice to see if the food he drops will be poisoned
         bool droppingRotten = false;
         if (canDropRottenFood)
         {
@@ -72,24 +80,19 @@ public class WordManager : MonoBehaviour
             }
         }
 
-        // 3. Reach into the pocket and pull out a normal food (like Apple or Melon)
         int randomIndex = Random.Range(0, thiefPocket.Count);
         FoodEntry chosenEntry = thiefPocket[randomIndex];
         thiefPocket.RemoveAt(randomIndex);
 
-        // 4. Spawn it!
         GameObject newFoodObj = Instantiate(foodPrefab, spawnPoint.position, Quaternion.identity);
         FoodItem newFood = newFoodObj.GetComponent<FoodItem>();
         
-        // 5. Send it to the FoodItem! 
-        // If droppingRotten is TRUE, the FoodItem script automatically tints this sprite Dark Green!
         newFood.SetupFood(chosenEntry.word, chosenEntry.foodSprite, this, droppingRotten);
         activeFoods.Add(newFood); 
     }
 
     public void MissedFood(FoodItem missedFood, string originalWord)
     {
-        // Only normal, safe foods go back into the pocket. Traps vanish forever!
         if (!missedFood.isRotten)
         {
             FoodEntry originalEntry = allFoods.Find(x => x.word == originalWord);
@@ -166,14 +169,28 @@ public class WordManager : MonoBehaviour
         }
     }
 
+    // --- THE POLISHED COROUTINE ---
     private IEnumerator TriggerDizzyEffect()
     {
         isPlayerDizzy = true; 
-        if (dizzyOverlay != null) dizzyOverlay.SetActive(true);
         
+        // 1. Tell the Animator to run the Intro (Fades from sprite 1-10)
+        if (dizzyAnimator != null) 
+        {
+            dizzyAnimator.gameObject.SetActive(true);
+            yield return StartCoroutine(dizzyAnimator.PlayPoisonIntro()); 
+        }
+        
+        // 2. Stay in full dizzy mode for the duration
         yield return new WaitForSeconds(dizzyDuration);
         
+        // 3. Tell the Animator to run the Outro (Fades from sprite 10-1)
+        if (dizzyAnimator != null) 
+        {
+            yield return StartCoroutine(dizzyAnimator.PlayPoisonOutro()); 
+            dizzyAnimator.gameObject.SetActive(false);
+        }
+        
         isPlayerDizzy = false; 
-        if (dizzyOverlay != null) dizzyOverlay.SetActive(false);
     }
 }
