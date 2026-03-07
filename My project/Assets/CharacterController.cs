@@ -10,36 +10,44 @@ public class KommyController : MonoBehaviour
     public int maxHp = 5;
     public int currentHp;
 
-    public enum CharacterState { Running, Attacking, Stunned, Dead, Victory }
-    
-    // Default to Running instead of Idle!
+    public enum CharacterState { Running, Attacking, Jumping, Stunned, Dead, Victory }
     public CharacterState currentState = CharacterState.Running;
 
-    // --- NEW TYPING TIMERS ---
+    [Header("Jump Settings")]
+    public float jumpHeight = 2.5f;   
+    public float jumpDuration = 0.6f; 
+    private float originalY;          
+
     private float attackTimer = 0f;
-    private float timeToStopAttacking = 0.3f; // How long she waits after your last keystroke to start running again
+    private float timeToStopAttacking = 0.3f; 
 
     void Start()
     {
         animator = GetComponent<Animator>();
         currentHp = maxHp;
         
-        // Auto-start running the millisecond the game loads
+        originalY = transform.position.y; 
+        
         StartGame();
     }
 
     void Update()
     {
-        // If she is currently attacking, count down the timer
         if (currentState == CharacterState.Attacking)
         {
             attackTimer -= Time.deltaTime;
-            
-            // If you stopped typing and the timer hits 0, go back to running!
             if (attackTimer <= 0f)
             {
                 currentState = CharacterState.Running;
                 PlayAnimation("KommyMove");
+            }
+        }
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            if (currentState == CharacterState.Running || currentState == CharacterState.Attacking)
+            {
+                StartCoroutine(JumpRoutine());
             }
         }
     }
@@ -54,12 +62,9 @@ public class KommyController : MonoBehaviour
     {
         if (currentState == CharacterState.Dead || currentState == CharacterState.Victory || currentState == CharacterState.Stunned) return;
         
-        // Reset the countdown timer every single time you hit a correct letter!
         attackTimer = timeToStopAttacking;
 
-        // ONLY tell the Animator to play the attack if she isn't already attacking.
-        // This stops the animation from glitching out and restarting on every keystroke!
-        if (currentState != CharacterState.Attacking)
+        if (currentState != CharacterState.Attacking && currentState != CharacterState.Jumping)
         {
             currentState = CharacterState.Attacking;
             PlayAnimation("KommyAttack"); 
@@ -70,7 +75,21 @@ public class KommyController : MonoBehaviour
     {
         if (currentState == CharacterState.Dead || currentState == CharacterState.Victory || currentState == CharacterState.Stunned) return;
         
+        TriggerStun();
+    }
+
+    public void HitByTrap()
+    {
+        if (currentState == CharacterState.Dead || currentState == CharacterState.Victory || currentState == CharacterState.Stunned) return;
+        
+        Debug.Log("Ouch! Kommy hit a trap!");
+        TriggerStun();
+    }
+
+    private void TriggerStun()
+    {
         StopAllCoroutines();
+        transform.position = new Vector3(transform.position.x, originalY, transform.position.z); 
         StartCoroutine(StunRoutine());
     }
 
@@ -79,6 +98,38 @@ public class KommyController : MonoBehaviour
         if (currentState == CharacterState.Dead) return;
         currentState = CharacterState.Victory;
         PlayAnimation("KommyVictory"); 
+    }
+
+    private IEnumerator JumpRoutine()
+    {
+        currentState = CharacterState.Jumping;
+        
+        PlayAnimation("KommyMove"); 
+
+        float halfTime = jumpDuration / 2f;
+        float elapsed = 0f;
+
+        while (elapsed < halfTime)
+        {
+            float newY = Mathf.Lerp(originalY, originalY + jumpHeight, elapsed / halfTime);
+            transform.position = new Vector3(transform.position.x, newY, transform.position.z);
+            elapsed += Time.deltaTime;
+            yield return null;
+        }
+        transform.position = new Vector3(transform.position.x, originalY + jumpHeight, transform.position.z);
+
+        elapsed = 0f;
+        while (elapsed < halfTime)
+        {
+            float newY = Mathf.Lerp(originalY + jumpHeight, originalY, elapsed / halfTime);
+            transform.position = new Vector3(transform.position.x, newY, transform.position.z);
+            elapsed += Time.deltaTime;
+            yield return null;
+        }
+        
+        transform.position = new Vector3(transform.position.x, originalY, transform.position.z);
+        currentState = CharacterState.Running;
+        PlayAnimation("KommyMove");
     }
 
     private IEnumerator StunRoutine()
@@ -100,11 +151,13 @@ public class KommyController : MonoBehaviour
         }
     }
 
-    private void Die()
+    // --- THE FIX: We made this PUBLIC so the Thief can trigger it when he escapes! ---
+    public void Die()
     {
+        if (currentState == CharacterState.Dead) return; // Safety check
         currentState = CharacterState.Dead;
         PlayAnimation("KommyDie");
-        Debug.Log("GAME OVER");
+        Debug.Log("GAME OVER - Thief Escaped or HP Reached 0!");
     }
 
     private void PlayAnimation(string animName)

@@ -1,0 +1,4134 @@
+fileFormatVersion: 2
+guid: 60cfd3657f638554fa80a0f6624af604
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7674401148473571339
+    second: FurAppriv_Jump_spriteSheet_0
+  - first:
+      213: 1686264592547192
+    second: FurAppriv_Jump_spriteSheet_1
+  - first:
+      213: 1006366855298308674
+    second: FurAppriv_Jump_spriteSheet_2
+  - first:
+      213: -322753234334129502
+    second: FurAppriv_Jump_spriteSheet_3
+  - first:
+      213: 2850318144870917911
+    second: FurAppriv_Jump_spriteSheet_4
+  - first:
+      213: 306164072655581193
+    second: FurAppriv_Jump_spriteSheet_5
+  - first:
+      213: -757073440170785551
+    second: FurAppriv_Jump_spriteSheet_6
+  - first:
+      213: 2355598725772007566
+    second: FurAppriv_Jump_spriteSheet_7
+  - first:
+      213: -2321997850157342273
+    second: FurAppriv_Jump_spriteSheet_8
+  - first:
+      213: -1844673051376739889
+    second: FurAppriv_Jump_spriteSheet_9
+  - first:
+      213: -6550999813176409359
+    second: FurAppriv_Jump_spriteSheet_10
+  - first:
+      213: -4786817668711954925
+    second: FurAppriv_Jump_spriteSheet_11
+  - first:
+      213: 7771866943293417636
+    second: FurAppriv_Jump_spriteSheet_12
+  - first:
+      213: 2357106219219665301
+    second: FurAppriv_Jump_spriteSheet_13
+  - first:
+      213: -1857251739846935724
+    second: FurAppriv_Jump_spriteSheet_14
+  - first:
+      213: -5062494221480873505
+    second: FurAppriv_Jump_spriteSheet_15
+  - first:
+      213: -8362729258909395490
+    second: FurAppriv_Jump_spriteSheet_16
+  - first:
+      213: 7777336388329640590
+    second: FurAppriv_Jump_spriteSheet_17
+  - first:
+      213: -1424884811136412451
+    second: FurAppriv_Jump_spriteSheet_18
+  - first:
+      213: 6467661900847981209
+    second: FurAppriv_Jump_spriteSheet_19
+  - first:
+      213: 6207985449526273301
+    second: FurAppriv_Jump_spriteSheet_20
+  - first:
+      213: 5546245891863353604
+    second: FurAppriv_Jump_spriteSheet_21
+  - first:
+      213: 8916794607636064449
+    second: FurAppriv_Jump_spriteSheet_22
+  - first:
+      213: -1072533777031883063
+    second: FurAppriv_Jump_spriteSheet_23
+  - first:
+      213: -7346627331686366516
+    second: FurAppriv_Jump_spriteSheet_24
+  - first:
+      213: 6488385259579108894
+    second: FurAppriv_Jump_spriteSheet_25
+  - first:
+      213: 456901470743266212
+    second: FurAppriv_Jump_spriteSheet_26
+  - first:
+      213: -6327510887885751717
+    second: FurAppriv_Jump_spriteSheet_27
+  - first:
+      213: 6891727029025366800
+    second: FurAppriv_Jump_spriteSheet_28
+  - first:
+      213: 323330618276777248
+    second: FurAppriv_Jump_spriteSheet_29
+  - first:
+      213: 6695232497745371930
+    second: FurAppriv_Jump_spriteSheet_30
+  - first:
+      213: -6556957560773185483
+    second: FurAppriv_Jump_spriteSheet_31
+  - first:
+      213: 7060806108194866558
+    second: FurAppriv_Jump_spriteSheet_32
+  - first:
+      213: 2121902490320742833
+    second: FurAppriv_Jump_spriteSheet_33
+  - first:
+      213: -1557473152301588403
+    second: FurAppriv_Jump_spriteSheet_34
+  - first:
+      213: 6985748937358488152
+    second: FurAppriv_Jump_spriteSheet_35
+  - first:
+      213: 2658399709656739344
+    second: FurAppriv_Jump_spriteSheet_36
+  - first:
+      213: -6797329419576088666
+    second: FurAppriv_Jump_spriteSheet_37
+  - first:
+      213: 4106352221460697460
+    second: FurAppriv_Jump_spriteSheet_38
+  - first:
+      213: 696391060666755631
+    second: FurAppriv_Jump_spriteSheet_39
+  - first:
+      213: -7330886518370397437
+    second: FurAppriv_Jump_spriteSheet_40
+  - first:
+      213: 4095254677100127057
+    second: FurAppriv_Jump_spriteSheet_41
+  - first:
+      213: -4590326884303669718
+    second: FurAppriv_Jump_spriteSheet_42
+  - first:
+      213: -5663156525951759784
+    second: FurAppriv_Jump_spriteSheet_43
+  - first:
+      213: -8764159261070069430
+    second: FurAppriv_Jump_spriteSheet_44
+  - first:
+      213: -6952786321738889077
+    second: FurAppriv_Jump_spriteSheet_45
+  - first:
+      213: 5831465726803500524
+    second: FurAppriv_Jump_spriteSheet_46
+  - first:
+      213: -6386833925012777287
+    second: FurAppriv_Jump_spriteSheet_47
+  - first:
+      213: -8275819536144739894
+    second: FurAppriv_Jump_spriteSheet_48
+  - first:
+      213: -191379961078526558
+    second: FurAppriv_Jump_spriteSheet_49
+  - first:
+      213: -5833215349264989263
+    second: FurAppriv_Jump_spriteSheet_50
+  - first:
+      213: -8617628752055991151
+    second: FurAppriv_Jump_spriteSheet_51
+  - first:
+      213: -4436651536761576872
+    second: FurAppriv_Jump_spriteSheet_52
+  - first:
+      213: -2551942508092095085
+    second: FurAppriv_Jump_spriteSheet_53
+  - first:
+      213: -3396534716210200279
+    second: FurAppriv_Jump_spriteSheet_54
+  - first:
+      213: 4224397729378740872
+    second: FurAppriv_Jump_spriteSheet_55
+  - first:
+      213: 7874917413428892963
+    second: FurAppriv_Jump_spriteSheet_56
+  - first:
+      213: 9172092891564509747
+    second: FurAppriv_Jump_spriteSheet_57
+  - first:
+      213: 5613587266239070544
+    second: FurAppriv_Jump_spriteSheet_58
+  - first:
+      213: 6467738578745712399
+    second: FurAppriv_Jump_spriteSheet_59
+  - first:
+      213: -8565522232731209530
+    second: FurAppriv_Jump_spriteSheet_60
+  - first:
+      213: 4541450151501261278
+    second: FurAppriv_Jump_spriteSheet_61
+  - first:
+      213: 2219164833339970711
+    second: FurAppriv_Jump_spriteSheet_62
+  - first:
+      213: 130890812981406226
+    second: FurAppriv_Jump_spriteSheet_63
+  - first:
+      213: -2331260821581639810
+    second: FurAppriv_Jump_spriteSheet_64
+  - first:
+      213: 5707334321054352909
+    second: FurAppriv_Jump_spriteSheet_65
+  - first:
+      213: 3382075543554401363
+    second: FurAppriv_Jump_spriteSheet_66
+  - first:
+      213: 183875939167697112
+    second: FurAppriv_Jump_spriteSheet_67
+  - first:
+      213: 8844732431835047293
+    second: FurAppriv_Jump_spriteSheet_68
+  - first:
+      213: 5705931116373692977
+    second: FurAppriv_Jump_spriteSheet_69
+  - first:
+      213: -3079139621469107502
+    second: FurAppriv_Jump_spriteSheet_70
+  - first:
+      213: 6363519954628280707
+    second: FurAppriv_Jump_spriteSheet_71
+  - first:
+      213: 4173741365056694122
+    second: FurAppriv_Jump_spriteSheet_72
+  - first:
+      213: 6467460947875568126
+    second: FurAppriv_Jump_spriteSheet_73
+  - first:
+      213: -7698768105060657081
+    second: FurAppriv_Jump_spriteSheet_74
+  - first:
+      213: -8164007436225975219
+    second: FurAppriv_Jump_spriteSheet_75
+  - first:
+      213: 4655719536850448331
+    second: FurAppriv_Jump_spriteSheet_76
+  - first:
+      213: -4216280796943934250
+    second: FurAppriv_Jump_spriteSheet_77
+  - first:
+      213: -1522744066662578315
+    second: FurAppriv_Jump_spriteSheet_78
+  - first:
+      213: 2532335928702042973
+    second: FurAppriv_Jump_spriteSheet_79
+  - first:
+      213: 8035146032027758324
+    second: FurAppriv_Jump_spriteSheet_80
+  - first:
+      213: 47337231219856420
+    second: FurAppriv_Jump_spriteSheet_81
+  - first:
+      213: -5606612470413676291
+    second: FurAppriv_Jump_spriteSheet_82
+  - first:
+      213: -3451582476092134690
+    second: FurAppriv_Jump_spriteSheet_83
+  - first:
+      213: 3897606118063971926
+    second: FurAppriv_Jump_spriteSheet_84
+  - first:
+      213: -7349933959406297443
+    second: FurAppriv_Jump_spriteSheet_85
+  - first:
+      213: -804524055511068185
+    second: FurAppriv_Jump_spriteSheet_86
+  - first:
+      213: 4045282080441516970
+    second: FurAppriv_Jump_spriteSheet_87
+  - first:
+      213: 5245505915390144840
+    second: FurAppriv_Jump_spriteSheet_88
+  - first:
+      213: -6193332597876229743
+    second: FurAppriv_Jump_spriteSheet_89
+  - first:
+      213: -273231422287441599
+    second: FurAppriv_Jump_spriteSheet_90
+  - first:
+      213: 8882317475887133512
+    second: FurAppriv_Jump_spriteSheet_91
+  - first:
+      213: -1298949006366045382
+    second: FurAppriv_Jump_spriteSheet_92
+  - first:
+      213: 3754034884866866330
+    second: FurAppriv_Jump_spriteSheet_93
+  - first:
+      213: -4075637773829479367
+    second: FurAppriv_Jump_spriteSheet_94
+  - first:
+      213: -8949674013885723895
+    second: FurAppriv_Jump_spriteSheet_95
+  - first:
+      213: -5374341991412416662
+    second: FurAppriv_Jump_spriteSheet_96
+  - first:
+      213: -6447599116936281780
+    second: FurAppriv_Jump_spriteSheet_97
+  - first:
+      213: -2813793685584150389
+    second: FurAppriv_Jump_spriteSheet_98
+  - first:
+      213: -6634938212468317886
+    second: FurAppriv_Jump_spriteSheet_99
+  - first:
+      213: 871556129443851005
+    second: FurAppriv_Jump_spriteSheet_100
+  - first:
+      213: 2604331525806322468
+    second: FurAppriv_Jump_spriteSheet_101
+  - first:
+      213: 2378032159499442426
+    second: FurAppriv_Jump_spriteSheet_102
+  - first:
+      213: 7611288674111066916
+    second: FurAppriv_Jump_spriteSheet_103
+  - first:
+      213: 3736896063398321231
+    second: FurAppriv_Jump_spriteSheet_104
+  - first:
+      213: 1360728469529267739
+    second: FurAppriv_Jump_spriteSheet_105
+  - first:
+      213: -5878729876171746445
+    second: FurAppriv_Jump_spriteSheet_106
+  - first:
+      213: 6027503082312483865
+    second: FurAppriv_Jump_spriteSheet_107
+  - first:
+      213: -3434656331188025758
+    second: FurAppriv_Jump_spriteSheet_108
+  - first:
+      213: 1442291382164469901
+    second: FurAppriv_Jump_spriteSheet_109
+  - first:
+      213: -2358327097061105897
+    second: FurAppriv_Jump_spriteSheet_110
+  - first:
+      213: -2660638853493655049
+    second: FurAppriv_Jump_spriteSheet_111
+  - first:
+      213: -2637061851352507866
+    second: FurAppriv_Jump_spriteSheet_112
+  - first:
+      213: -5257923551690817605
+    second: FurAppriv_Jump_spriteSheet_113
+  - first:
+      213: 1220575854979860869
+    second: FurAppriv_Jump_spriteSheet_114
+  - first:
+      213: -5199568594620018273
+    second: FurAppriv_Jump_spriteSheet_115
+  - first:
+      213: -8176637944956848032
+    second: FurAppriv_Jump_spriteSheet_116
+  - first:
+      213: -7559941664978513875
+    second: FurAppriv_Jump_spriteSheet_117
+  - first:
+      213: 3174158626318670714
+    second: FurAppriv_Jump_spriteSheet_118
+  - first:
+      213: 5983740427597694884
+    second: FurAppriv_Jump_spriteSheet_119
+  - first:
+      213: -1437268345764661034
+    second: FurAppriv_Jump_spriteSheet_120
+  - first:
+      213: -7060893322663879483
+    second: FurAppriv_Jump_spriteSheet_121
+  - first:
+      213: 8746155306840862785
+    second: FurAppriv_Jump_spriteSheet_122
+  - first:
+      213: 638024237508151523
+    second: FurAppriv_Jump_spriteSheet_123
+  - first:
+      213: -3456792120304376465
+    second: FurAppriv_Jump_spriteSheet_124
+  - first:
+      213: 2943109475716148973
+    second: FurAppriv_Jump_spriteSheet_125
+  - first:
+      213: -3273685156457518247
+    second: FurAppriv_Jump_spriteSheet_126
+  - first:
+      213: 2322710963950516487
+    second: FurAppriv_Jump_spriteSheet_127
+  - first:
+      213: -4356885179687105536
+    second: FurAppriv_Jump_spriteSheet_128
+  - first:
+      213: -9081918985703678909
+    second: FurAppriv_Jump_spriteSheet_129
+  - first:
+      213: 5320851134212550485
+    second: FurAppriv_Jump_spriteSheet_130
+  - first:
+      213: 3132295861738239274
+    second: FurAppriv_Jump_spriteSheet_131
+  - first:
+      213: 4735432123307712344
+    second: FurAppriv_Jump_spriteSheet_132
+  - first:
+      213: 956079059232249851
+    second: FurAppriv_Jump_spriteSheet_133
+  - first:
+      213: -3779837905061877415
+    second: FurAppriv_Jump_spriteSheet_134
+  - first:
+      213: -2038176639043753383
+    second: FurAppriv_Jump_spriteSheet_135
+  - first:
+      213: 207731529362804566
+    second: FurAppriv_Jump_spriteSheet_136
+  - first:
+      213: 342648241039830938
+    second: FurAppriv_Jump_spriteSheet_137
+  - first:
+      213: -3214772057309241000
+    second: FurAppriv_Jump_spriteSheet_138
+  - first:
+      213: -4887416418266046602
+    second: FurAppriv_Jump_spriteSheet_139
+  - first:
+      213: 277184610576798338
+    second: FurAppriv_Jump_spriteSheet_140
+  - first:
+      213: -1518545104690382010
+    second: FurAppriv_Jump_spriteSheet_141
+  - first:
+      213: -5808781635904250321
+    second: FurAppriv_Jump_spriteSheet_142
+  - first:
+      213: 2031702493202828526
+    second: FurAppriv_Jump_spriteSheet_143
+  - first:
+      213: -823794270442075064
+    second: FurAppriv_Jump_spriteSheet_144
+  - first:
+      213: 8899365887971357382
+    second: FurAppriv_Jump_spriteSheet_145
+  - first:
+      213: 3848268508580334625
+    second: FurAppriv_Jump_spriteSheet_146
+  - first:
+      213: -8063391719948547145
+    second: FurAppriv_Jump_spriteSheet_147
+  - first:
+      213: -6613938313597019178
+    second: FurAppriv_Jump_spriteSheet_148
+  - first:
+      213: -7738536642121088773
+    second: FurAppriv_Jump_spriteSheet_149
+  - first:
+      213: -8742557679914761178
+    second: FurAppriv_Jump_spriteSheet_150
+  - first:
+      213: 7841664287425074993
+    second: FurAppriv_Jump_spriteSheet_151
+  - first:
+      213: 4514153618423399964
+    second: FurAppriv_Jump_spriteSheet_152
+  - first:
+      213: -2943372393105137876
+    second: FurAppriv_Jump_spriteSheet_153
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 14106
+        width: 467
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08fd9e0f23f08a60800000000000000
+      internalID: 7674401148473571339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 14106
+        width: 527
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d390216adf50000800000000000000
+      internalID: 1686264592547192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 14147
+        width: 589
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a58cba25557fd00800000000000000
+      internalID: 1006366855298308674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 14153
+        width: 548
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2e765b4a9558bf0800000000000000
+      internalID: -322753234334129502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 14334
+        width: 518
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717a1e9404d5e8720800000000000000
+      internalID: 2850318144870917911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 14416
+        width: 496
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9007f991a96bf3400800000000000000
+      internalID: 306164072655581193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 14522
+        width: 475
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4ccb1a7b55e75f0800000000000000
+      internalID: -757073440170785551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 14113
+        width: 612
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88d0038f84c0b020800000000000000
+      internalID: 2355598725772007566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 14113
+        width: 223
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1a62cf14b96cfd0800000000000000
+      internalID: -2321997850157342273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 14113
+        width: 208
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc914fd12a76666e0800000000000000
+      internalID: -1844673051376739889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 5128
+        y: 14103
+        width: 198
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f248fbe06c2615a0800000000000000
+      internalID: -6550999813176409359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 13263
+        width: 446
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3164cd321bec19db0800000000000000
+      internalID: -4786817668711954925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 13284
+        width: 409
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8ea9ccec73bdb60800000000000000
+      internalID: 7771866943293417636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 13265
+        width: 386
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591c37e2e9f16b020800000000000000
+      internalID: 2357106219219665301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 13256
+        width: 401
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b72fbf167b936e0800000000000000
+      internalID: -1857251739846935724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 13248
+        width: 429
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd13a2be3586eb9b0800000000000000
+      internalID: -5062494221480873505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 13255
+        width: 460
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed590f1fb0e91fb80800000000000000
+      internalID: -8362729258909395490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 4269
+        y: 13228
+        width: 479
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e829b153d36aeeb60800000000000000
+      internalID: 7777336388329640590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 13232
+        width: 485
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd45d5a40dac93ce0800000000000000
+      internalID: -1424884811136412451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 12762
+        width: 191
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9922f5f4b30c1c950800000000000000
+      internalID: 6467661900847981209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 12762
+        width: 186
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515aec100e1372650800000000000000
+      internalID: 6207985449526273301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 12762
+        width: 184
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4091c7dd04938fc40800000000000000
+      internalID: 5546245891863353604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 12763
+        width: 183
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c82443d371debb70800000000000000
+      internalID: 8916794607636064449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 12743
+        width: 181
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6186a56389d11f0800000000000000
+      internalID: -1072533777031883063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 12735
+        width: 182
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc288adad598b0a90800000000000000
+      internalID: -7346627331686366516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 12695
+        width: 182
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ee71344006b0a50800000000000000
+      internalID: 6488385259579108894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 5105
+        y: 12694
+        width: 181
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a38105877d375600800000000000000
+      internalID: 456901470743266212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 11939
+        width: 484
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a372f3f5a2038a0800000000000000
+      internalID: -6327510887885751717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 11939
+        width: 481
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013e30e083554af50800000000000000
+      internalID: 6891727029025366800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 11941
+        width: 475
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d0567fb73bc7400800000000000000
+      internalID: 323330618276777248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 11902
+        width: 469
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13a3ccdb7e3aec50800000000000000
+      internalID: 6695232497745371930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 11890
+        width: 462
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5307dc6b6d10105a0800000000000000
+      internalID: -6556957560773185483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 11872
+        width: 458
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e750dd2eeb50df160800000000000000
+      internalID: 7060806108194866558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 11850
+        width: 452
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9a5979213827d10800000000000000
+      internalID: 2121902490320742833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 11846
+        width: 455
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d402bd97b6eb26ae0800000000000000
+      internalID: -1557473152301588403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 11400
+        width: 182
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852b05d75ad52f060800000000000000
+      internalID: 6985748937358488152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 11400
+        width: 183
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e671d737884e420800000000000000
+      internalID: 2658399709656739344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 11400
+        width: 184
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7eadc18e80ba1a0800000000000000
+      internalID: -6797329419576088666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 11370
+        width: 185
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4711dcac691bcf830800000000000000
+      internalID: 4106352221460697460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 11370
+        width: 186
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aacc3eaf31aa900800000000000000
+      internalID: 696391060666755631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 11364
+        width: 187
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30315df5d85734a90800000000000000
+      internalID: -7330886518370397437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 4449
+        y: 11354
+        width: 189
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1536f456e6445d830800000000000000
+      internalID: 4095254677100127057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 5121
+        y: 11364
+        width: 190
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a267722f402eb40c0800000000000000
+      internalID: -4590326884303669718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10600
+        width: 457
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ac533f42d6861b0800000000000000
+      internalID: -5663156525951759784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 10608
+        width: 473
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41f7f826937f5680800000000000000
+      internalID: -8764159261070069430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 10564
+        width: 519
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b880f858dadb28f90800000000000000
+      internalID: -6952786321738889077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 10482
+        width: 367
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceddcfd9e278de050800000000000000
+      internalID: 5831465726803500524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 10603
+        width: 487
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6133452686d57a0800000000000000
+      internalID: -6386833925012777287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 10603
+        width: 692
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1dad2aaf1662d80800000000000000
+      internalID: -8275819536144739894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 4477
+        y: 10639
+        width: 687
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad49ca70f4185df0800000000000000
+      internalID: -191379961078526558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 10156
+        width: 193
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b344b8ab814c0fa0800000000000000
+      internalID: -5833215349264989263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 10162
+        width: 197
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1948283ee48086880800000000000000
+      internalID: -8617628752055991151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 10202
+        width: 199
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852a2270fe8dd62c0800000000000000
+      internalID: -4436651536761576872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 10172
+        width: 195
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39583f54fcda59cd0800000000000000
+      internalID: -2551942508092095085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 10168
+        width: 191
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9214205dba51dd0d0800000000000000
+      internalID: -3396534716210200279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 10131
+        width: 192
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a26916a5310aa30800000000000000
+      internalID: 4224397729378740872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 4790
+        y: 10119
+        width: 181
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32597f61aa3594d60800000000000000
+      internalID: 7874917413428892963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 9374
+        width: 684
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a869893e1d94f70800000000000000
+      internalID: 9172092891564509747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 9386
+        width: 680
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05106d760e777ed40800000000000000
+      internalID: 5613587266239070544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 9419
+        width: 676
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f5a3648f502c950800000000000000
+      internalID: 6467738578745712399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 9430
+        width: 673
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0785259e6212980800000000000000
+      internalID: -8565522232731209530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 9429
+        width: 671
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed96065e9d8760f30800000000000000
+      internalID: 4541450151501261278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 9458
+        width: 671
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794944588ae0cce10800000000000000
+      internalID: 2219164833339970711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 4601
+        y: 9476
+        width: 670
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a6e1c308401d100800000000000000
+      internalID: 130890812981406226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 8809
+        width: 176
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f47d262a2b5afd0800000000000000
+      internalID: -2331260821581639810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 8781
+        width: 172
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0607d48356843f40800000000000000
+      internalID: 5707334321054352909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 8787
+        width: 169
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354a811b9cb8fee20800000000000000
+      internalID: 3382075543554401363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 8775
+        width: 168
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8f4d441324d8200800000000000000
+      internalID: 183875939167697112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 8760
+        width: 166
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75a7ec094dceba70800000000000000
+      internalID: 8844732431835047293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 8775
+        width: 165
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1325d487e1a8f2f40800000000000000
+      internalID: 5705931116373692977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 4893
+        y: 8787
+        width: 164
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dac08804d2b445d0800000000000000
+      internalID: -3079139621469107502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 8142
+        width: 669
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3818ab0fea3cf4850800000000000000
+      internalID: 6363519954628280707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 8144
+        width: 667
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67ee8878ab1ce930800000000000000
+      internalID: 4173741365056694122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 8121
+        width: 664
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef995dc477901c950800000000000000
+      internalID: 6467460947875568126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 8116
+        width: 651
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74890c1c23b782590800000000000000
+      internalID: -7698768105060657081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 8113
+        width: 636
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c6a14dd7e93be80800000000000000
+      internalID: -8164007436225975219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 3940
+        y: 8132
+        width: 622
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf21df60407c9040800000000000000
+      internalID: 4655719536850448331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 8120
+        width: 605
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc1bd834f2cc75c0800000000000000
+      internalID: -4216280796943934250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 7447
+        width: 165
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5774eb6d6502edae0800000000000000
+      internalID: -1522744066662578315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 7447
+        width: 164
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d538e3a3c1aa42320800000000000000
+      internalID: 2532335928702042973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 7427
+        width: 165
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe676d7eb2928f60800000000000000
+      internalID: 8035146032027758324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 7425
+        width: 165
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424928306fc28a000800000000000000
+      internalID: 47337231219856420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 7423
+        width: 166
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0b7bbc9af4132b0800000000000000
+      internalID: -5606612470413676291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 7447
+        width: 168
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaa09776048910d0800000000000000
+      internalID: -3451582476092134690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 7447
+        width: 169
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e979d2d14171630800000000000000
+      internalID: 3897606118063971926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 6696
+        width: 589
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ed10b610acff990800000000000000
+      internalID: -7349933959406297443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 6677
+        width: 571
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1910252a1c5d4f0800000000000000
+      internalID: -804524055511068185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 6661
+        width: 555
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa348fc8e9ab32830800000000000000
+      internalID: 4045282080441516970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 6628
+        width: 537
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8413a0296d7cbc840800000000000000
+      internalID: 5245505915390144840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 6612
+        width: 513
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1997dbfd0dcdc0aa0800000000000000
+      internalID: -6193332597876229743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 6591
+        width: 487
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14115151879453cf0800000000000000
+      internalID: -273231422287441599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 6509
+        width: 471
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8433f7c0fa4544b70800000000000000
+      internalID: 8882317475887133512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 6441
+        width: 460
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b8436c2c439fde0800000000000000
+      internalID: -1298949006366045382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 6035
+        width: 171
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cf9ea86d2091430800000000000000
+      internalID: 3754034884866866330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 6028
+        width: 172
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934eab1d90d6077c0800000000000000
+      internalID: -4075637773829479367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 6035
+        width: 176
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b0ccad6ee5cc380800000000000000
+      internalID: -8949674013885723895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 6027
+        width: 180
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fb56cee608a65b0800000000000000
+      internalID: -5374341991412416662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 6042
+        width: 185
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4104e493c68586a0800000000000000
+      internalID: -6447599116936281780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 6064
+        width: 191
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8005831d8563f8d0800000000000000
+      internalID: -2813793685584150389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 4457
+        y: 6035
+        width: 199
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241292369d6fbe3a0800000000000000
+      internalID: -6634938212468317886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 5081
+        y: 6035
+        width: 208
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaa0599ea3681c00800000000000000
+      internalID: 871556129443851005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 5153
+        width: 456
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423790179b1742420800000000000000
+      internalID: 2604331525806322468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 4867
+        width: 481
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af85b6356a7700120800000000000000
+      internalID: 2378032159499442426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 4849
+        width: 460
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423185709bab0a960800000000000000
+      internalID: 7611288674111066916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 4867
+        width: 437
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c9965bb2f1cd330800000000000000
+      internalID: 3736896063398321231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 4877
+        width: 445
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e8d06655742e210800000000000000
+      internalID: 1360728469529267739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 3566
+        y: 4867
+        width: 427
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3739e40135e8a6ea0800000000000000
+      internalID: -5878729876171746445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 4885
+        width: 422
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914cec74e1ef5a350800000000000000
+      internalID: 6027503082312483865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 4877
+        width: 420
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266cdfda346a550d0800000000000000
+      internalID: -3434656331188025758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 4849
+        width: 225
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d883588de5c040410800000000000000
+      internalID: 1442291382164469901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3985
+        width: 376
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f9e7b000a854fd0800000000000000
+      internalID: -2358327097061105897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 3984
+        width: 370
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f978e53f03831bd0800000000000000
+      internalID: -2660638853493655049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 3981
+        width: 353
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a566bc736476bd0800000000000000
+      internalID: -2637061851352507866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 3955
+        width: 347
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbffe4d236a1807b0800000000000000
+      internalID: -5257923551690817605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 3947
+        width: 344
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5894e71f54b50f010800000000000000
+      internalID: 1220575854979860869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 3955
+        width: 355
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91956469eb67d7b0800000000000000
+      internalID: -5199568594620018273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 3994
+        width: 364
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068fdd95c1fb68e80800000000000000
+      internalID: -8176637944956848032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 4988
+        y: 3985
+        width: 369
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20d7482c11b51790800000000000000
+      internalID: -7559941664978513875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3125
+        width: 370
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b57760470ec0c20800000000000000
+      internalID: 3174158626318670714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 3118
+        width: 367
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7ca1737348a0350800000000000000
+      internalID: 5983740427597694884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3126
+        width: 362
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8b8c3fd0ccd0ce0800000000000000
+      internalID: -1437268345764661034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 3127
+        width: 360
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc11b9eeeaa20e90800000000000000
+      internalID: -7060893322663879483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 3118
+        width: 363
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140b5a699e5906970800000000000000
+      internalID: 8746155306840862785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 3118
+        width: 357
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e843c2e9a7bad800800000000000000
+      internalID: 638024237508151523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 4262
+        y: 3129
+        width: 366
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6563e6a1e10700d0800000000000000
+      internalID: -3456792120304376465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 4984
+        y: 3123
+        width: 357
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deea523997608d820800000000000000
+      internalID: 2943109475716148973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2387
+        width: 369
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b61e6e1b88192d0800000000000000
+      internalID: -3273685156457518247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2383
+        width: 359
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709fc22c05deb3020800000000000000
+      internalID: 2322710963950516487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2385
+        width: 366
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c0699430c3983c0800000000000000
+      internalID: -4356885179687105536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 2383
+        width: 362
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c9142fcca86f180800000000000000
+      internalID: -9081918985703678909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 2395
+        width: 370
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f297d5ae577d940800000000000000
+      internalID: 5320851134212550485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 2414
+        width: 379
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25755a9d76287b20800000000000000
+      internalID: 3132295861738239274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 4218
+        y: 2414
+        width: 385
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fdabf3d62a7b140800000000000000
+      internalID: 4735432123307712344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 4946
+        y: 2414
+        width: 395
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf75abeb6dca44d00800000000000000
+      internalID: 956079059232249851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1726
+        width: 414
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959ea38a3715b8bc0800000000000000
+      internalID: -3779837905061877415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1740
+        width: 434
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a2c404521f6b3e0800000000000000
+      internalID: -2038176639043753383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1747
+        width: 452
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f8150b9b202e200800000000000000
+      internalID: 207731529362804566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 1756
+        width: 472
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f671282c451c400800000000000000
+      internalID: 342648241039830938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 1782
+        width: 469
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8512b32b8d5d263d0800000000000000
+      internalID: -3214772057309241000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 1782
+        width: 458
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f17d789a86c2cb0800000000000000
+      internalID: -4887416418266046602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 4175
+        y: 1786
+        width: 471
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28292aa4fe1c8d300800000000000000
+      internalID: 277184610576798338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 4891
+        y: 1794
+        width: 499
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b758bd54b0deae0800000000000000
+      internalID: -1518545104690382010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1123
+        width: 520
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e5d1ed0ef036fa0800000000000000
+      internalID: -5808781635904250321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1130
+        width: 519
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec41a437ae023c10800000000000000
+      internalID: 2031702493202828526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1130
+        width: 491
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c4c46c97b4194f0800000000000000
+      internalID: -823794270442075064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 1131
+        width: 478
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2f2cecf16e08b70800000000000000
+      internalID: 8899365887971357382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 1138
+        width: 472
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cc04ec1dbc76530800000000000000
+      internalID: 3848268508580334625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 1126
+        width: 466
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb04afc3f3191090800000000000000
+      internalID: -8063391719948547145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 4246
+        y: 1133
+        width: 463
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db14bb55229634a0800000000000000
+      internalID: -6613938313597019178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 1122
+        width: 463
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0470dace13b9490800000000000000
+      internalID: -7738536642121088773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 444
+        width: 462
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62441543c123ca680800000000000000
+      internalID: -8742557679914761178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 442
+        width: 464
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13796db5f1033dc60800000000000000
+      internalID: 7841664287425074993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 444
+        width: 465
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16cba78cce75ae30800000000000000
+      internalID: 4514153618423399964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FurAppriv_Jump_spriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 438
+        width: 466
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fd643376a0727d0800000000000000
+      internalID: -2943372393105137876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FurAppriv_Jump_spriteSheet_0: 7674401148473571339
+      FurAppriv_Jump_spriteSheet_1: 1686264592547192
+      FurAppriv_Jump_spriteSheet_10: -6550999813176409359
+      FurAppriv_Jump_spriteSheet_100: 871556129443851005
+      FurAppriv_Jump_spriteSheet_101: 2604331525806322468
+      FurAppriv_Jump_spriteSheet_102: 2378032159499442426
+      FurAppriv_Jump_spriteSheet_103: 7611288674111066916
+      FurAppriv_Jump_spriteSheet_104: 3736896063398321231
+      FurAppriv_Jump_spriteSheet_105: 1360728469529267739
+      FurAppriv_Jump_spriteSheet_106: -5878729876171746445
+      FurAppriv_Jump_spriteSheet_107: 6027503082312483865
+      FurAppriv_Jump_spriteSheet_108: -3434656331188025758
+      FurAppriv_Jump_spriteSheet_109: 1442291382164469901
+      FurAppriv_Jump_spriteSheet_11: -4786817668711954925
+      FurAppriv_Jump_spriteSheet_110: -2358327097061105897
+      FurAppriv_Jump_spriteSheet_111: -2660638853493655049
+      FurAppriv_Jump_spriteSheet_112: -2637061851352507866
+      FurAppriv_Jump_spriteSheet_113: -5257923551690817605
+      FurAppriv_Jump_spriteSheet_114: 1220575854979860869
+      FurAppriv_Jump_spriteSheet_115: -5199568594620018273
+      FurAppriv_Jump_spriteSheet_116: -8176637944956848032
+      FurAppriv_Jump_spriteSheet_117: -7559941664978513875
+      FurAppriv_Jump_spriteSheet_118: 3174158626318670714
+      FurAppriv_Jump_spriteSheet_119: 5983740427597694884
+      FurAppriv_Jump_spriteSheet_12: 7771866943293417636
+      FurAppriv_Jump_spriteSheet_120: -1437268345764661034
+      FurAppriv_Jump_spriteSheet_121: -7060893322663879483
+      FurAppriv_Jump_spriteSheet_122: 8746155306840862785
+      FurAppriv_Jump_spriteSheet_123: 638024237508151523
+      FurAppriv_Jump_spriteSheet_124: -3456792120304376465
+      FurAppriv_Jump_spriteSheet_125: 2943109475716148973
+      FurAppriv_Jump_spriteSheet_126: -3273685156457518247
+      FurAppriv_Jump_spriteSheet_127: 2322710963950516487
+      FurAppriv_Jump_spriteSheet_128: -4356885179687105536
+      FurAppriv_Jump_spriteSheet_129: -9081918985703678909
+      FurAppriv_Jump_spriteSheet_13: 2357106219219665301
+      FurAppriv_Jump_spriteSheet_130: 5320851134212550485
+      FurAppriv_Jump_spriteSheet_131: 3132295861738239274
+      FurAppriv_Jump_spriteSheet_132: 4735432123307712344
+      FurAppriv_Jump_spriteSheet_133: 956079059232249851
+      FurAppriv_Jump_spriteSheet_134: -3779837905061877415
+      FurAppriv_Jump_spriteSheet_135: -2038176639043753383
+      FurAppriv_Jump_spriteSheet_136: 207731529362804566
+      FurAppriv_Jump_spriteSheet_137: 342648241039830938
+      FurAppriv_Jump_spriteSheet_138: -3214772057309241000
+      FurAppriv_Jump_spriteSheet_139: -4887416418266046602
+      FurAppriv_Jump_spriteSheet_14: -1857251739846935724
+      FurAppriv_Jump_spriteSheet_140: 277184610576798338
+      FurAppriv_Jump_spriteSheet_141: -1518545104690382010
+      FurAppriv_Jump_spriteSheet_142: -5808781635904250321
+      FurAppriv_Jump_spriteSheet_143: 2031702493202828526
+      FurAppriv_Jump_spriteSheet_144: -823794270442075064
+      FurAppriv_Jump_spriteSheet_145: 8899365887971357382
+      FurAppriv_Jump_spriteSheet_146: 3848268508580334625
+      FurAppriv_Jump_spriteSheet_147: -8063391719948547145
+      FurAppriv_Jump_spriteSheet_148: -6613938313597019178
+      FurAppriv_Jump_spriteSheet_149: -7738536642121088773
+      FurAppriv_Jump_spriteSheet_15: -5062494221480873505
+      FurAppriv_Jump_spriteSheet_150: -8742557679914761178
+      FurAppriv_Jump_spriteSheet_151: 7841664287425074993
+      FurAppriv_Jump_spriteSheet_152: 4514153618423399964
+      FurAppriv_Jump_spriteSheet_153: -2943372393105137876
+      FurAppriv_Jump_spriteSheet_16: -8362729258909395490
+      FurAppriv_Jump_spriteSheet_17: 7777336388329640590
+      FurAppriv_Jump_spriteSheet_18: -1424884811136412451
+      FurAppriv_Jump_spriteSheet_19: 6467661900847981209
+      FurAppriv_Jump_spriteSheet_2: 1006366855298308674
+      FurAppriv_Jump_spriteSheet_20: 6207985449526273301
+      FurAppriv_Jump_spriteSheet_21: 5546245891863353604
+      FurAppriv_Jump_spriteSheet_22: 8916794607636064449
+      FurAppriv_Jump_spriteSheet_23: -1072533777031883063
+      FurAppriv_Jump_spriteSheet_24: -7346627331686366516
+      FurAppriv_Jump_spriteSheet_25: 6488385259579108894
+      FurAppriv_Jump_spriteSheet_26: 456901470743266212
+      FurAppriv_Jump_spriteSheet_27: -6327510887885751717
+      FurAppriv_Jump_spriteSheet_28: 6891727029025366800
+      FurAppriv_Jump_spriteSheet_29: 323330618276777248
+      FurAppriv_Jump_spriteSheet_3: -322753234334129502
+      FurAppriv_Jump_spriteSheet_30: 6695232497745371930
+      FurAppriv_Jump_spriteSheet_31: -6556957560773185483
+      FurAppriv_Jump_spriteSheet_32: 7060806108194866558
+      FurAppriv_Jump_spriteSheet_33: 2121902490320742833
+      FurAppriv_Jump_spriteSheet_34: -1557473152301588403
+      FurAppriv_Jump_spriteSheet_35: 6985748937358488152
+      FurAppriv_Jump_spriteSheet_36: 2658399709656739344
+      FurAppriv_Jump_spriteSheet_37: -6797329419576088666
+      FurAppriv_Jump_spriteSheet_38: 4106352221460697460
+      FurAppriv_Jump_spriteSheet_39: 696391060666755631
+      FurAppriv_Jump_spriteSheet_4: 2850318144870917911
+      FurAppriv_Jump_spriteSheet_40: -7330886518370397437
+      FurAppriv_Jump_spriteSheet_41: 4095254677100127057
+      FurAppriv_Jump_spriteSheet_42: -4590326884303669718
+      FurAppriv_Jump_spriteSheet_43: -5663156525951759784
+      FurAppriv_Jump_spriteSheet_44: -8764159261070069430
+      FurAppriv_Jump_spriteSheet_45: -6952786321738889077
+      FurAppriv_Jump_spriteSheet_46: 5831465726803500524
+      FurAppriv_Jump_spriteSheet_47: -6386833925012777287
+      FurAppriv_Jump_spriteSheet_48: -8275819536144739894
+      FurAppriv_Jump_spriteSheet_49: -191379961078526558
+      FurAppriv_Jump_spriteSheet_5: 306164072655581193
+      FurAppriv_Jump_spriteSheet_50: -5833215349264989263
+      FurAppriv_Jump_spriteSheet_51: -8617628752055991151
+      FurAppriv_Jump_spriteSheet_52: -4436651536761576872
+      FurAppriv_Jump_spriteSheet_53: -2551942508092095085
+      FurAppriv_Jump_spriteSheet_54: -3396534716210200279
+      FurAppriv_Jump_spriteSheet_55: 4224397729378740872
+      FurAppriv_Jump_spriteSheet_56: 7874917413428892963
+      FurAppriv_Jump_spriteSheet_57: 9172092891564509747
+      FurAppriv_Jump_spriteSheet_58: 5613587266239070544
+      FurAppriv_Jump_spriteSheet_59: 6467738578745712399
+      FurAppriv_Jump_spriteSheet_6: -757073440170785551
+      FurAppriv_Jump_spriteSheet_60: -8565522232731209530
+      FurAppriv_Jump_spriteSheet_61: 4541450151501261278
+      FurAppriv_Jump_spriteSheet_62: 2219164833339970711
+      FurAppriv_Jump_spriteSheet_63: 130890812981406226
+      FurAppriv_Jump_spriteSheet_64: -2331260821581639810
+      FurAppriv_Jump_spriteSheet_65: 5707334321054352909
+      FurAppriv_Jump_spriteSheet_66: 3382075543554401363
+      FurAppriv_Jump_spriteSheet_67: 183875939167697112
+      FurAppriv_Jump_spriteSheet_68: 8844732431835047293
+      FurAppriv_Jump_spriteSheet_69: 5705931116373692977
+      FurAppriv_Jump_spriteSheet_7: 2355598725772007566
+      FurAppriv_Jump_spriteSheet_70: -3079139621469107502
+      FurAppriv_Jump_spriteSheet_71: 6363519954628280707
+      FurAppriv_Jump_spriteSheet_72: 4173741365056694122
+      FurAppriv_Jump_spriteSheet_73: 6467460947875568126
+      FurAppriv_Jump_spriteSheet_74: -7698768105060657081
+      FurAppriv_Jump_spriteSheet_75: -8164007436225975219
+      FurAppriv_Jump_spriteSheet_76: 4655719536850448331
+      FurAppriv_Jump_spriteSheet_77: -4216280796943934250
+      FurAppriv_Jump_spriteSheet_78: -1522744066662578315
+      FurAppriv_Jump_spriteSheet_79: 2532335928702042973
+      FurAppriv_Jump_spriteSheet_8: -2321997850157342273
+      FurAppriv_Jump_spriteSheet_80: 8035146032027758324
+      FurAppriv_Jump_spriteSheet_81: 47337231219856420
+      FurAppriv_Jump_spriteSheet_82: -5606612470413676291
+      FurAppriv_Jump_spriteSheet_83: -3451582476092134690
+      FurAppriv_Jump_spriteSheet_84: 3897606118063971926
+      FurAppriv_Jump_spriteSheet_85: -7349933959406297443
+      FurAppriv_Jump_spriteSheet_86: -804524055511068185
+      FurAppriv_Jump_spriteSheet_87: 4045282080441516970
+      FurAppriv_Jump_spriteSheet_88: 5245505915390144840
+      FurAppriv_Jump_spriteSheet_89: -6193332597876229743
+      FurAppriv_Jump_spriteSheet_9: -1844673051376739889
+      FurAppriv_Jump_spriteSheet_90: -273231422287441599
+      FurAppriv_Jump_spriteSheet_91: 8882317475887133512
+      FurAppriv_Jump_spriteSheet_92: -1298949006366045382
+      FurAppriv_Jump_spriteSheet_93: 3754034884866866330
+      FurAppriv_Jump_spriteSheet_94: -4075637773829479367
+      FurAppriv_Jump_spriteSheet_95: -8949674013885723895
+      FurAppriv_Jump_spriteSheet_96: -5374341991412416662
+      FurAppriv_Jump_spriteSheet_97: -6447599116936281780
+      FurAppriv_Jump_spriteSheet_98: -2813793685584150389
+      FurAppriv_Jump_spriteSheet_99: -6634938212468317886
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

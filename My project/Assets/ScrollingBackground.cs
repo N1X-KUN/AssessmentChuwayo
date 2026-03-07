@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class ScrollingBackground : MonoBehaviour
 {
-    // We added Kommy so the background can watch her!
     public KommyController kommy; 
     
     public float scrollSpeed = 2f;
@@ -17,9 +16,11 @@ public class ScrollingBackground : MonoBehaviour
 
     void Update()
     {
-        // IF Kommy is hooked up, AND she is either Running or Attacking... move!
-        // (If she is Stunned, Dead, or Victorious, it completely freezes)
-        if (kommy != null && (kommy.currentState == KommyController.CharacterState.Running || kommy.currentState == KommyController.CharacterState.Attacking))
+        // --- THE FIX ---
+        // We added "Jumping" to the list of allowed movement states!
+        if (kommy != null && (kommy.currentState == KommyController.CharacterState.Running || 
+                              kommy.currentState == KommyController.CharacterState.Attacking || 
+                              kommy.currentState == KommyController.CharacterState.Jumping))
         {
             transform.Translate(Vector3.left * scrollSpeed * Time.deltaTime);
 

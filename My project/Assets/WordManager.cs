@@ -16,111 +16,91 @@ public class WordManager : MonoBehaviour
     public Transform spawnPoint;
     public KommyController kommy;
 
-    [Header("Food Database (Put all Fruits, Meats, Veggies here!)")]
+    [Header("Food Database")]
     public List<FoodEntry> allFoods = new List<FoodEntry>();
     public float spawnRate = 2.5f;
 
     [Header("Rotten Food Settings")]
     public bool canDropRottenFood = false; 
     public float rottenChance = 30f; 
-    
-    // --- THE NEW ANIMATOR REFERENCE ---
-    // Instead of a simple GameObject, we are looking for the new Animator Script directly!
     public DizzyOverlayAnimator dizzyAnimator; 
-    // ------------------------------------
-    
     public float dizzyDuration = 4f; 
+
+    [Header("Physical Trap Settings")]
+    public bool canDropPhysicalTraps = false; 
+    public float physicalTrapChance = 20f; 
+    public GameObject[] physicalTrapPrefabs; 
+
+    [Header("Focus Zone Settings")]
+    public float deadZoneX = -6f; 
 
     [Header("Typing Mechanics")]
     private List<FoodItem> activeFoods = new List<FoodItem>(); 
     private FoodItem targetedFood = null; 
-    
     public List<FoodEntry> thiefPocket = new List<FoodEntry>();
-
-    [HideInInspector]
-    public bool isPlayerDizzy = false; 
+    [HideInInspector] public bool isPlayerDizzy = false; 
 
     void Start()
     {
-        foreach (var food in allFoods)
-        {
-            food.word = food.word.ToLower();
-        }
-        
+        foreach (var food in allFoods) { food.word = food.word.ToLower(); }
         thiefPocket.AddRange(allFoods);
-        
-        // Ensure the overlay is fully off on level start
-        if (dizzyAnimator != null) 
-        {
-            dizzyAnimator.gameObject.SetActive(false);
-        }
+        if (dizzyAnimator != null) dizzyAnimator.gameObject.SetActive(false);
     }
 
-    public void StartSpawning()
-    {
-        InvokeRepeating(nameof(SpawnFood), 0.5f, spawnRate);
-    }
-
-    public void StopSpawning()
-    {
-        CancelInvoke(nameof(SpawnFood));
-    }
+    public void StartSpawning() { InvokeRepeating(nameof(SpawnFood), 0.5f, spawnRate); }
+    public void StopSpawning() { CancelInvoke(nameof(SpawnFood)); }
 
     void SpawnFood()
     {
         if (thiefPocket.Count == 0) return; 
 
-        bool droppingRotten = false;
-        if (canDropRottenFood)
+        if (canDropPhysicalTraps && physicalTrapPrefabs.Length > 0)
         {
-            float randomRoll = Random.Range(0f, 100f);
-            if (randomRoll <= rottenChance)
+            if (Random.Range(0f, 100f) <= physicalTrapChance)
             {
-                droppingRotten = true;
+                int randomTrapIndex = Random.Range(0, physicalTrapPrefabs.Length);
+                GameObject newTrapObj = Instantiate(physicalTrapPrefabs[randomTrapIndex], spawnPoint.position, Quaternion.identity);
+                GroundTrap trapScript = newTrapObj.GetComponent<GroundTrap>();
+                if (trapScript != null) trapScript.SetupTrap(kommy);
             }
         }
 
+        bool droppingRotten = canDropRottenFood && (Random.Range(0f, 100f) <= rottenChance);
         int randomIndex = Random.Range(0, thiefPocket.Count);
         FoodEntry chosenEntry = thiefPocket[randomIndex];
         thiefPocket.RemoveAt(randomIndex);
 
         GameObject newFoodObj = Instantiate(foodPrefab, spawnPoint.position, Quaternion.identity);
         FoodItem newFood = newFoodObj.GetComponent<FoodItem>();
-        
         newFood.SetupFood(chosenEntry.word, chosenEntry.foodSprite, this, droppingRotten);
         activeFoods.Add(newFood); 
     }
 
     public void MissedFood(FoodItem missedFood, string originalWord)
     {
-        if (!missedFood.isRotten)
+        if (missedFood != null && !missedFood.isRotten)
         {
             FoodEntry originalEntry = allFoods.Find(x => x.word == originalWord);
-            if (originalEntry != null)
-            {
-                thiefPocket.Add(originalEntry);
-            }
+            if (originalEntry != null) thiefPocket.Add(originalEntry);
         }
-        
         activeFoods.Remove(missedFood);
-        
-        if (targetedFood == missedFood)
-        {
-            targetedFood = null;
-        }
+        if (targetedFood == missedFood) targetedFood = null;
     }
 
     void Update()
     {
-        string input = Input.inputString.ToLower();
-
-        foreach (char c in input)
+        if (Input.GetKeyDown(KeyCode.Backspace) && targetedFood != null)
         {
-            if (c >= 'a' && c <= 'z')
+            if (targetedFood.originalWord.Length - targetedFood.currentWord.Length == 1)
             {
-                TypeLetter(c);
+                targetedFood.CancelLockOn();
+                targetedFood = null;
+                return; 
             }
         }
+
+        string input = Input.inputString.ToLower();
+        foreach (char c in input) { if (c >= 'a' && c <= 'z') TypeLetter(c); }
     }
 
     void TypeLetter(char letter)
@@ -129,23 +109,33 @@ public class WordManager : MonoBehaviour
         {
             foreach (FoodItem food in activeFoods)
             {
-                if (food.currentWord.StartsWith(letter.ToString()))
+                if (food != null && !food.isFading && food.transform.position.x > deadZoneX)
                 {
-                    targetedFood = food;
-                    break; 
+                    if (food.currentWord.StartsWith(letter.ToString()))
+                    {
+                        targetedFood = food;
+                        targetedFood.UpdateVisuals();
+                        break; 
+                    }
                 }
             }
         }
 
         if (targetedFood != null)
         {
+            if (targetedFood.transform.position.x <= deadZoneX)
+            {
+                targetedFood.CancelLockOn();
+                targetedFood = null;
+                return;
+            }
+
             if (targetedFood.currentWord[0] == letter)
             {
                 if (targetedFood.isRotten)
                 {
                     kommy.TypeWrongLetter(); 
                     StartCoroutine(TriggerDizzyEffect());
-                    
                     activeFoods.Remove(targetedFood);
                     Destroy(targetedFood.gameObject);
                     targetedFood = null;
@@ -158,39 +148,30 @@ public class WordManager : MonoBehaviour
                 if (targetedFood.currentWord.Length == 0)
                 {
                     activeFoods.Remove(targetedFood); 
-                    Destroy(targetedFood.gameObject); 
+                    targetedFood.VanishOnSuccess(); // TRIGGER VANISH
                     targetedFood = null; 
                 }
             }
             else
             {
                 kommy.TypeWrongLetter(); 
+                targetedFood.TriggerMistake();
             }
         }
     }
 
-    // --- THE POLISHED COROUTINE ---
     private IEnumerator TriggerDizzyEffect()
     {
         isPlayerDizzy = true; 
-        
-        // 1. Tell the Animator to run the Intro (Fades from sprite 1-10)
-        if (dizzyAnimator != null) 
-        {
+        if (dizzyAnimator != null) {
             dizzyAnimator.gameObject.SetActive(true);
             yield return StartCoroutine(dizzyAnimator.PlayPoisonIntro()); 
         }
-        
-        // 2. Stay in full dizzy mode for the duration
         yield return new WaitForSeconds(dizzyDuration);
-        
-        // 3. Tell the Animator to run the Outro (Fades from sprite 10-1)
-        if (dizzyAnimator != null) 
-        {
+        if (dizzyAnimator != null) {
             yield return StartCoroutine(dizzyAnimator.PlayPoisonOutro()); 
             dizzyAnimator.gameObject.SetActive(false);
         }
-        
         isPlayerDizzy = false; 
     }
 }

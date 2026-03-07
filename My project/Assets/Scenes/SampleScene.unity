@@ -1382,11 +1382,26 @@ MonoBehaviour:
     foodSprite: {fileID: 3579979325370944529, guid: 2ddb98cec8808354a8a1aa3bb68f735c, type: 3}
   - word: Grapes
     foodSprite: {fileID: -8781457552448529170, guid: 5d7834d0655f30d4990e0216e73ae017, type: 3}
-  spawnRate: 3
+  - word: Cherimoya
+    foodSprite: {fileID: 5813610346540858595, guid: dca1c4471adc4614eb14173a4dd54642, type: 3}
+  - word: Cherry
+    foodSprite: {fileID: -90375647409325229, guid: f6865a75e8f42d74a806f31d12790df7, type: 3}
+  - word: Cantaloupe
+    foodSprite: {fileID: -5236667066120447539, guid: 1f540bce3f919e24a9dc1b7382a9b62d, type: 3}
+  - word: Casabamelon
+    foodSprite: {fileID: -3537558659812791825, guid: 124bfc8ddc4fbdc459143fc02864a0b0, type: 3}
+  - word: Casabamelon
+    foodSprite: {fileID: -3537558659812791825, guid: 124bfc8ddc4fbdc459143fc02864a0b0, type: 3}
+  spawnRate: 2
   canDropRottenFood: 1
-  rottenChance: 50
+  rottenChance: 40
   dizzyAnimator: {fileID: 562909641}
   dizzyDuration: 4
+  canDropPhysicalTraps: 1
+  physicalTrapChance: 40
+  physicalTrapPrefabs:
+  - {fileID: 1417648217851263347, guid: 78718ae3ddabb23459ef02b84bfd30d3, type: 3}
+  deadZoneX: -6
   thiefPocket: []
   isPlayerDizzy: 0
 --- !u!4 &847403068
@@ -1849,7 +1864,7 @@ Transform:
   m_GameObject: {fileID: 1061739186}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.99983853, z: -0, w: -0.017970005}
-  m_LocalPosition: {x: -6.72, y: -2.71, z: 0.02}
+  m_LocalPosition: {x: -6.7, y: -3, z: 0.02}
   m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1868,9 +1883,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::KommyController
   runSpeed: 2
-  maxHp: 5
+  maxHp: 10
   currentHp: 0
   currentState: 0
+  jumpHeight: 2.5
+  jumpDuration: 0.5
 --- !u!1 &1091921697
 GameObject:
   m_ObjectHideFlags: 0
@@ -2927,7 +2944,7 @@ Transform:
   m_GameObject: {fileID: 1859134589}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.23, y: -2.88, z: 0}
+  m_LocalPosition: {x: -1, y: -3, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2949,13 +2966,14 @@ MonoBehaviour:
   anim: {fileID: 1859134590}
   wordManager: {fileID: 847403067}
   kommy: {fileID: 1061739191}
-  runDuration: 3
-  takeoffDuration: 0.5
+  runDuration: 2.5
+  takeoffDuration: 1
   flyDuration: 5
   fallDuration: 1
-  flightHeightOffset: 3
+  flightHeightOffset: 4.5
   escapeDistance: 2
-  escapeSpeed: 3
+  escapeSpeed: 2.5
+  escapeLimitX: 7.5
 --- !u!1 &1952648129
 GameObject:
   m_ObjectHideFlags: 0

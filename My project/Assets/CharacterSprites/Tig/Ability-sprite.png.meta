@@ -1,0 +1,2730 @@
+fileFormatVersion: 2
+guid: ca17ae978acc3f544a4cd1475192c238
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5970101459361528336
+    second: Ability-sprite_0
+  - first:
+      213: 3769919204442305309
+    second: Ability-sprite_1
+  - first:
+      213: -5063483623753482215
+    second: Ability-sprite_2
+  - first:
+      213: -7061465057163558380
+    second: Ability-sprite_3
+  - first:
+      213: 3886381243077602920
+    second: Ability-sprite_4
+  - first:
+      213: 5575862355107558600
+    second: Ability-sprite_5
+  - first:
+      213: 3419837769010154902
+    second: Ability-sprite_6
+  - first:
+      213: 3674156526774158956
+    second: Ability-sprite_7
+  - first:
+      213: 4442408479126898298
+    second: Ability-sprite_8
+  - first:
+      213: -5649517150500334351
+    second: Ability-sprite_9
+  - first:
+      213: -454379552972315341
+    second: Ability-sprite_10
+  - first:
+      213: 1742461851725758471
+    second: Ability-sprite_11
+  - first:
+      213: 5536540776797843037
+    second: Ability-sprite_12
+  - first:
+      213: 2050150894284361270
+    second: Ability-sprite_13
+  - first:
+      213: -4610285475770654126
+    second: Ability-sprite_14
+  - first:
+      213: -6211853471785363105
+    second: Ability-sprite_15
+  - first:
+      213: -5498723404229242081
+    second: Ability-sprite_16
+  - first:
+      213: 3478061917240926917
+    second: Ability-sprite_17
+  - first:
+      213: -757036835509265960
+    second: Ability-sprite_18
+  - first:
+      213: 9003561285322562946
+    second: Ability-sprite_19
+  - first:
+      213: -565100978375293740
+    second: Ability-sprite_20
+  - first:
+      213: 5855860102812735144
+    second: Ability-sprite_21
+  - first:
+      213: -247837322670780871
+    second: Ability-sprite_22
+  - first:
+      213: -7503492799899702838
+    second: Ability-sprite_23
+  - first:
+      213: 3762013539747285027
+    second: Ability-sprite_24
+  - first:
+      213: -7577218513426698421
+    second: Ability-sprite_25
+  - first:
+      213: -6305876380855134230
+    second: Ability-sprite_26
+  - first:
+      213: -5457737670184267142
+    second: Ability-sprite_27
+  - first:
+      213: -7330307654828339992
+    second: Ability-sprite_28
+  - first:
+      213: -3722738318642072994
+    second: Ability-sprite_29
+  - first:
+      213: 2545535864409843734
+    second: Ability-sprite_30
+  - first:
+      213: 9101069550748298391
+    second: Ability-sprite_31
+  - first:
+      213: 4078918091758629124
+    second: Ability-sprite_32
+  - first:
+      213: -6671308057756994786
+    second: Ability-sprite_33
+  - first:
+      213: -7980157644072769377
+    second: Ability-sprite_34
+  - first:
+      213: 6455614061670859713
+    second: Ability-sprite_35
+  - first:
+      213: -2054709391087049360
+    second: Ability-sprite_36
+  - first:
+      213: 7689018694372652719
+    second: Ability-sprite_37
+  - first:
+      213: -3365158930392975756
+    second: Ability-sprite_38
+  - first:
+      213: 1300349732119366847
+    second: Ability-sprite_39
+  - first:
+      213: 6563362783771458994
+    second: Ability-sprite_40
+  - first:
+      213: -3815078988274591248
+    second: Ability-sprite_41
+  - first:
+      213: 332674057984083850
+    second: Ability-sprite_42
+  - first:
+      213: 6914390824634881395
+    second: Ability-sprite_43
+  - first:
+      213: 3478583878601146397
+    second: Ability-sprite_44
+  - first:
+      213: -8792977047433196634
+    second: Ability-sprite_45
+  - first:
+      213: -5893418344099737595
+    second: Ability-sprite_46
+  - first:
+      213: 7286161235796844327
+    second: Ability-sprite_47
+  - first:
+      213: 4684589029366085653
+    second: Ability-sprite_48
+  - first:
+      213: -9142248533004750128
+    second: Ability-sprite_49
+  - first:
+      213: -3700066699611638153
+    second: Ability-sprite_50
+  - first:
+      213: 2476186499270286329
+    second: Ability-sprite_51
+  - first:
+      213: -3270704027348884717
+    second: Ability-sprite_52
+  - first:
+      213: -8884892139526287251
+    second: Ability-sprite_53
+  - first:
+      213: 1750596244681166181
+    second: Ability-sprite_54
+  - first:
+      213: -5310755523105109965
+    second: Ability-sprite_55
+  - first:
+      213: 1667543380050650109
+    second: Ability-sprite_56
+  - first:
+      213: -750061613801996634
+    second: Ability-sprite_57
+  - first:
+      213: 7926495980658506858
+    second: Ability-sprite_58
+  - first:
+      213: -4908968399286947793
+    second: Ability-sprite_59
+  - first:
+      213: -2186598535033316576
+    second: Ability-sprite_60
+  - first:
+      213: 3849024686916096336
+    second: Ability-sprite_61
+  - first:
+      213: -2705107340346080440
+    second: Ability-sprite_62
+  - first:
+      213: -4336458515767240230
+    second: Ability-sprite_63
+  - first:
+      213: 741193973477018584
+    second: Ability-sprite_64
+  - first:
+      213: -1889147162643807456
+    second: Ability-sprite_65
+  - first:
+      213: -2839328045863467312
+    second: Ability-sprite_66
+  - first:
+      213: 3511200607336102645
+    second: Ability-sprite_67
+  - first:
+      213: 4266534286071424850
+    second: Ability-sprite_68
+  - first:
+      213: -6941564031485525464
+    second: Ability-sprite_69
+  - first:
+      213: -4027421385883129034
+    second: Ability-sprite_70
+  - first:
+      213: 7144964820510877865
+    second: Ability-sprite_71
+  - first:
+      213: 4704288010296406487
+    second: Ability-sprite_72
+  - first:
+      213: 2185927620284337637
+    second: Ability-sprite_73
+  - first:
+      213: -8289164136623646943
+    second: Ability-sprite_74
+  - first:
+      213: 23851211413466061
+    second: Ability-sprite_75
+  - first:
+      213: -6350371536007151816
+    second: Ability-sprite_76
+  - first:
+      213: -65816437626550838
+    second: Ability-sprite_77
+  - first:
+      213: -508635859571200027
+    second: Ability-sprite_78
+  - first:
+      213: 7284182856637947733
+    second: Ability-sprite_79
+  - first:
+      213: -1344044221744896586
+    second: Ability-sprite_80
+  - first:
+      213: -4985674892221889757
+    second: Ability-sprite_81
+  - first:
+      213: 5122853560204726672
+    second: Ability-sprite_82
+  - first:
+      213: -5143798529716281593
+    second: Ability-sprite_83
+  - first:
+      213: 3279450593925042931
+    second: Ability-sprite_84
+  - first:
+      213: -6161477397703926222
+    second: Ability-sprite_85
+  - first:
+      213: 1872390562528865999
+    second: Ability-sprite_86
+  - first:
+      213: 541544788210495279
+    second: Ability-sprite_87
+  - first:
+      213: -646152632808176913
+    second: Ability-sprite_88
+  - first:
+      213: -8836886156525005265
+    second: Ability-sprite_89
+  - first:
+      213: -1306020280530984377
+    second: Ability-sprite_90
+  - first:
+      213: 5555840533011110386
+    second: Ability-sprite_91
+  - first:
+      213: -3936635715755034198
+    second: Ability-sprite_92
+  - first:
+      213: -1832424877774461325
+    second: Ability-sprite_93
+  - first:
+      213: 2629961022754565577
+    second: Ability-sprite_94
+  - first:
+      213: -5754980220117526778
+    second: Ability-sprite_95
+  - first:
+      213: -5058577424919454966
+    second: Ability-sprite_96
+  - first:
+      213: -4692101114859490107
+    second: Ability-sprite_97
+  - first:
+      213: -2347513252364867725
+    second: Ability-sprite_98
+  - first:
+      213: 4271590167826468841
+    second: Ability-sprite_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ability-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 29362
+        width: 680
+        height: 1124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01af84675af0ad250800000000000000
+      internalID: 5970101459361528336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 29362
+        width: 669
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13f4b4ea81715430800000000000000
+      internalID: 3769919204442305309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 29362
+        width: 668
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9108a20c874eab9b0800000000000000
+      internalID: -5063483623753482215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 5167
+        y: 29362
+        width: 648
+        height: 1110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412cee991f2a00e90800000000000000
+      internalID: -7061465057163558380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 6729
+        y: 29362
+        width: 624
+        height: 1104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ea16f46233fe530800000000000000
+      internalID: 3886381243077602920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 27826
+        width: 601
+        height: 1096
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4b8a01541716d40800000000000000
+      internalID: 5575862355107558600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 27826
+        width: 607
+        height: 1087
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d8053f454b57f20800000000000000
+      internalID: 3419837769010154902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 27826
+        width: 577
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c668e8305e93df230800000000000000
+      internalID: 3674156526774158956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 5258
+        y: 27826
+        width: 576
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76ca8199fa96ad30800000000000000
+      internalID: 4442408479126898298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 27826
+        width: 575
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f453f38512e891b0800000000000000
+      internalID: -5649517150500334351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 26290
+        width: 743
+        height: 1132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33562e73438b1b9f0800000000000000
+      internalID: -454379552972315341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 26290
+        width: 898
+        height: 1162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70088ca72d77e2810800000000000000
+      internalID: 1742461851725758471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 26290
+        width: 940
+        height: 1183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e208da08eb5dc40800000000000000
+      internalID: 5536540776797843037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 4978
+        y: 26290
+        width: 913
+        height: 1193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ec4cd4069937c10800000000000000
+      internalID: 2050150894284361270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 6541
+        y: 26290
+        width: 834
+        height: 1184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2522c8f39c9f400c0800000000000000
+      internalID: -4610285475770654126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 24754
+        width: 813
+        height: 1167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59d471ed201bc9a0800000000000000
+      internalID: -6211853471785363105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 24754
+        width: 793
+        height: 1158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f131ac4823c90b3b0800000000000000
+      internalID: -5498723404229242081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 24754
+        width: 786
+        height: 1158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2a5fbd2ee844030800000000000000
+      internalID: 3478061917240926917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 5101
+        y: 24754
+        width: 776
+        height: 1163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9959152077e75f0800000000000000
+      internalID: -757036835509265960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 6655
+        y: 24754
+        width: 749
+        height: 1161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d5c1d394313fc70800000000000000
+      internalID: 9003561285322562946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 23218
+        width: 779
+        height: 1147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d407b977ab5828f0800000000000000
+      internalID: -565100978375293740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 23218
+        width: 721
+        height: 1136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a61982ecb1344150800000000000000
+      internalID: 5855860102812735144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 23218
+        width: 712
+        height: 1132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ecf14a4418f8cf0800000000000000
+      internalID: -247837322670780871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 5161
+        y: 23218
+        width: 704
+        height: 1132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9e64fbd0d3ed790800000000000000
+      internalID: -7503492799899702838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 23218
+        width: 721
+        height: 1137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328c8d4e16b553430800000000000000
+      internalID: 3762013539747285027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 21682
+        width: 714
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f20b968ef48d690800000000000000
+      internalID: -7577218513426698421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 21682
+        width: 711
+        height: 1141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae79a9177d60d78a0800000000000000
+      internalID: -6305876380855134230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 21682
+        width: 697
+        height: 1129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72166b51883244b0800000000000000
+      internalID: -5457737670184267142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 21682
+        width: 685
+        height: 1123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec41ab8604854a90800000000000000
+      internalID: -7330307654828339992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 6721
+        y: 21682
+        width: 684
+        height: 1122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52ba9d193d265cc0800000000000000
+      internalID: -3722738318642072994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 20146
+        width: 683
+        height: 1123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6186a21c16f835320800000000000000
+      internalID: 2545535864409843734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 20146
+        width: 691
+        height: 1126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ce970798e7d4e70800000000000000
+      internalID: 9101069550748298391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_32
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 20146
+        width: 694
+        height: 1126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401ff27b46a3b9830800000000000000
+      internalID: 4078918091758629124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_33
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 20146
+        width: 688
+        height: 1123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e137136eaa0ca63a0800000000000000
+      internalID: -6671308057756994786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_34
+      rect:
+        serializedVersion: 2
+        x: 6699
+        y: 20146
+        width: 703
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98ac6547e8c04190800000000000000
+      internalID: -7980157644072769377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 18610
+        width: 733
+        height: 1109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c388e829c2f69950800000000000000
+      internalID: 6455614061670859713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_36
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 18610
+        width: 755
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075e893f1b43c73e0800000000000000
+      internalID: -2054709391087049360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_37
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 18610
+        width: 782
+        height: 1090
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa67b6da3c1e4ba60800000000000000
+      internalID: 7689018694372652719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_38
+      rect:
+        serializedVersion: 2
+        x: 4930
+        y: 18610
+        width: 884
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476713d38cd8c41d0800000000000000
+      internalID: -3365158930392975756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_39
+      rect:
+        serializedVersion: 2
+        x: 6434
+        y: 18610
+        width: 962
+        height: 1067
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbccfba1135cb0210800000000000000
+      internalID: 1300349732119366847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_40
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 17074
+        width: 999
+        height: 1067
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd77ba7dafb51b50800000000000000
+      internalID: 6563362783771458994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_41
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 17074
+        width: 989
+        height: 1070
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f916d19fdd1e0bc0800000000000000
+      internalID: -3815078988274591248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_42
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 17074
+        width: 956
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87012c0b45ed9400800000000000000
+      internalID: 332674057984083850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_43
+      rect:
+        serializedVersion: 2
+        x: 4883
+        y: 17074
+        width: 911
+        height: 1090
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375159c22d9d4ff50800000000000000
+      internalID: 6914390824634881395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_44
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 17074
+        width: 867
+        height: 1100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d100c657b99664030800000000000000
+      internalID: 3478583878601146397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_45
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 15538
+        width: 873
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abc49966f119f580800000000000000
+      internalID: -8792977047433196634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_46
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 15538
+        width: 876
+        height: 1112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5001a2f9d3f563ea0800000000000000
+      internalID: -5893418344099737595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_47
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 15538
+        width: 877
+        height: 1114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f54eb4a05ad1560800000000000000
+      internalID: 7286161235796844327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_48
+      rect:
+        serializedVersion: 2
+        x: 4772
+        y: 15538
+        width: 944
+        height: 1081
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518be06f6e0030140800000000000000
+      internalID: 4684589029366085653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_49
+      rect:
+        serializedVersion: 2
+        x: 6504
+        y: 15538
+        width: 744
+        height: 1105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d27aed9565302180800000000000000
+      internalID: -9142248533004750128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_50
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 14002
+        width: 630
+        height: 1127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7767564c0f8b6acc0800000000000000
+      internalID: -3700066699611638153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_51
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 14002
+        width: 752
+        height: 1109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb9f9e608e2d5220800000000000000
+      internalID: 2476186499270286329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_52
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 14002
+        width: 866
+        height: 1085
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3132e6c14002c92d0800000000000000
+      internalID: -3270704027348884717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_53
+      rect:
+        serializedVersion: 2
+        x: 4902
+        y: 14002
+        width: 846
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6010eb5ca582b480800000000000000
+      internalID: -8884892139526287251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_54
+      rect:
+        serializedVersion: 2
+        x: 6322
+        y: 14002
+        width: 951
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d8a5d620e5b4810800000000000000
+      internalID: 1750596244681166181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_55
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 12466
+        width: 657
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33840644df76c46b0800000000000000
+      internalID: -5310755523105109965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_56
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 12466
+        width: 775
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3297f7edd442710800000000000000
+      internalID: 1667543380050650109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_57
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 12466
+        width: 870
+        height: 1058
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aefcadafee3795f0800000000000000
+      internalID: -750061613801996634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_58
+      rect:
+        serializedVersion: 2
+        x: 4805
+        y: 12466
+        width: 900
+        height: 1035
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c36b81912900e60800000000000000
+      internalID: 7926495980658506858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_59
+      rect:
+        serializedVersion: 2
+        x: 6333
+        y: 12466
+        width: 920
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2032eaef37dfdbb0800000000000000
+      internalID: -4908968399286947793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 10930
+        width: 1039
+        height: 1005
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b13fca734a7a1e0800000000000000
+      internalID: -2186598535033316576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_61
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 10930
+        width: 1055
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051d75b4f8b7a6530800000000000000
+      internalID: 3849024686916096336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_62
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 10930
+        width: 771
+        height: 1067
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843ce5bc437857ad0800000000000000
+      internalID: -2705107340346080440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_63
+      rect:
+        serializedVersion: 2
+        x: 5008
+        y: 10930
+        width: 697
+        height: 1081
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9d97894fdc1d3c0800000000000000
+      internalID: -4336458515767240230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_64
+      rect:
+        serializedVersion: 2
+        x: 6562
+        y: 10930
+        width: 679
+        height: 1089
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db02caedff394a00800000000000000
+      internalID: 741193973477018584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_65
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 9394
+        width: 693
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023cd2a2aa668c5e0800000000000000
+      internalID: -1889147162643807456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_66
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 9394
+        width: 714
+        height: 1101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d601898f2ea898d0800000000000000
+      internalID: -2839328045863467312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_67
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 9394
+        width: 751
+        height: 1108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa7767695a4ab030800000000000000
+      internalID: 3511200607336102645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_68
+      rect:
+        serializedVersion: 2
+        x: 5091
+        y: 9394
+        width: 779
+        height: 1119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257ef4ff356c53b30800000000000000
+      internalID: 4266534286071424850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_69
+      rect:
+        serializedVersion: 2
+        x: 6634
+        y: 9394
+        width: 797
+        height: 1121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8224da59a4c9aaf90800000000000000
+      internalID: -6941564031485525464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_70
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 7858
+        width: 812
+        height: 1121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bef957699bb18c0800000000000000
+      internalID: -4027421385883129034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_71
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 7858
+        width: 823
+        height: 1120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8a63b06a3082360800000000000000
+      internalID: 7144964820510877865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_72
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 7858
+        width: 840
+        height: 1118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1b8de550df84140800000000000000
+      internalID: 4704288010296406487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_73
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 7858
+        width: 861
+        height: 1115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed43cfc699f55e10800000000000000
+      internalID: 2185927620284337637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_74
+      rect:
+        serializedVersion: 2
+        x: 6647
+        y: 7858
+        width: 877
+        height: 1112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127d3a7b229f6fc80800000000000000
+      internalID: -8289164136623646943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_75
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 6322
+        width: 871
+        height: 1109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb23c7ec8cb45000800000000000000
+      internalID: 23851211413466061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_76
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 6322
+        width: 848
+        height: 1105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fba84dbb2fed7a0800000000000000
+      internalID: -6350371536007151816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_77
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 6322
+        width: 814
+        height: 1101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac543e67c4c261ff0800000000000000
+      internalID: -65816437626550838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_78
+      rect:
+        serializedVersion: 2
+        x: 5111
+        y: 6322
+        width: 775
+        height: 1097
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efab3e6166f0f8f0800000000000000
+      internalID: -508635859571200027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_79
+      rect:
+        serializedVersion: 2
+        x: 6647
+        y: 6322
+        width: 736
+        height: 1095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f15e007bd961560800000000000000
+      internalID: 7284182856637947733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_80
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 4786
+        width: 698
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5aa70c6eef85de0800000000000000
+      internalID: -1344044221744896586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_81
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 4786
+        width: 673
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323c78bc9135fcab0800000000000000
+      internalID: -4985674892221889757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_82
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 4786
+        width: 672
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0911954cb28081740800000000000000
+      internalID: 5122853560204726672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_83
+      rect:
+        serializedVersion: 2
+        x: 5111
+        y: 4786
+        width: 673
+        height: 1090
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f95108d7e8d98b0800000000000000
+      internalID: -5143798529716281593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_84
+      rect:
+        serializedVersion: 2
+        x: 6647
+        y: 4786
+        width: 673
+        height: 1089
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2985d90f2f28d20800000000000000
+      internalID: 3279450593925042931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_85
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 3250
+        width: 673
+        height: 1088
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e5242a3f80e7aa0800000000000000
+      internalID: -6161477397703926222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_86
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 3250
+        width: 666
+        height: 1089
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcea358db411cf910800000000000000
+      internalID: 1872390562528865999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_87
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 3250
+        width: 654
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f204b9d14f38700800000000000000
+      internalID: 541544788210495279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_88
+      rect:
+        serializedVersion: 2
+        x: 5132
+        y: 3250
+        width: 661
+        height: 1101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe209ca9a976807f0800000000000000
+      internalID: -646152632808176913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_89
+      rect:
+        serializedVersion: 2
+        x: 6665
+        y: 3250
+        width: 689
+        height: 1113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2692c74cd21d5580800000000000000
+      internalID: -8836886156525005265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_90
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1714
+        width: 723
+        height: 1126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742ae75797510ede0800000000000000
+      internalID: -1306020280530984377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_91
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 1714
+        width: 751
+        height: 1136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f918d6578f4a1d40800000000000000
+      internalID: 5555840533011110386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_92
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 1714
+        width: 774
+        height: 1139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa93e487ca24e59c0800000000000000
+      internalID: -3936635715755034198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_93
+      rect:
+        serializedVersion: 2
+        x: 5111
+        y: 1714
+        width: 720
+        height: 1138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3762aa2484be196e0800000000000000
+      internalID: -1832424877774461325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_94
+      rect:
+        serializedVersion: 2
+        x: 6653
+        y: 1714
+        width: 702
+        height: 1135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cda866bd9f7f7420800000000000000
+      internalID: 2629961022754565577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_95
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 178
+        width: 686
+        height: 1132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607de722bf33220b0800000000000000
+      internalID: -5754980220117526778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_96
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 178
+        width: 684
+        height: 1129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b9dde22a25cc9b0800000000000000
+      internalID: -5058577424919454966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_97
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 178
+        width: 684
+        height: 1126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4f59655ee42eeb0800000000000000
+      internalID: -4692101114859490107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_98
+      rect:
+        serializedVersion: 2
+        x: 5115
+        y: 178
+        width: 681
+        height: 1124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37725477225fb6fd0800000000000000
+      internalID: -2347513252364867725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ability-sprite_99
+      rect:
+        serializedVersion: 2
+        x: 6650
+        y: 178
+        width: 680
+        height: 1124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef095330acb74b30800000000000000
+      internalID: 4271590167826468841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ability-sprite_0: 5970101459361528336
+      Ability-sprite_1: 3769919204442305309
+      Ability-sprite_10: -454379552972315341
+      Ability-sprite_11: 1742461851725758471
+      Ability-sprite_12: 5536540776797843037
+      Ability-sprite_13: 2050150894284361270
+      Ability-sprite_14: -4610285475770654126
+      Ability-sprite_15: -6211853471785363105
+      Ability-sprite_16: -5498723404229242081
+      Ability-sprite_17: 3478061917240926917
+      Ability-sprite_18: -757036835509265960
+      Ability-sprite_19: 9003561285322562946
+      Ability-sprite_2: -5063483623753482215
+      Ability-sprite_20: -565100978375293740
+      Ability-sprite_21: 5855860102812735144
+      Ability-sprite_22: -247837322670780871
+      Ability-sprite_23: -7503492799899702838
+      Ability-sprite_24: 3762013539747285027
+      Ability-sprite_25: -7577218513426698421
+      Ability-sprite_26: -6305876380855134230
+      Ability-sprite_27: -5457737670184267142
+      Ability-sprite_28: -7330307654828339992
+      Ability-sprite_29: -3722738318642072994
+      Ability-sprite_3: -7061465057163558380
+      Ability-sprite_30: 2545535864409843734
+      Ability-sprite_31: 9101069550748298391
+      Ability-sprite_32: 4078918091758629124
+      Ability-sprite_33: -6671308057756994786
+      Ability-sprite_34: -7980157644072769377
+      Ability-sprite_35: 6455614061670859713
+      Ability-sprite_36: -2054709391087049360
+      Ability-sprite_37: 7689018694372652719
+      Ability-sprite_38: -3365158930392975756
+      Ability-sprite_39: 1300349732119366847
+      Ability-sprite_4: 3886381243077602920
+      Ability-sprite_40: 6563362783771458994
+      Ability-sprite_41: -3815078988274591248
+      Ability-sprite_42: 332674057984083850
+      Ability-sprite_43: 6914390824634881395
+      Ability-sprite_44: 3478583878601146397
+      Ability-sprite_45: -8792977047433196634
+      Ability-sprite_46: -5893418344099737595
+      Ability-sprite_47: 7286161235796844327
+      Ability-sprite_48: 4684589029366085653
+      Ability-sprite_49: -9142248533004750128
+      Ability-sprite_5: 5575862355107558600
+      Ability-sprite_50: -3700066699611638153
+      Ability-sprite_51: 2476186499270286329
+      Ability-sprite_52: -3270704027348884717
+      Ability-sprite_53: -8884892139526287251
+      Ability-sprite_54: 1750596244681166181
+      Ability-sprite_55: -5310755523105109965
+      Ability-sprite_56: 1667543380050650109
+      Ability-sprite_57: -750061613801996634
+      Ability-sprite_58: 7926495980658506858
+      Ability-sprite_59: -4908968399286947793
+      Ability-sprite_6: 3419837769010154902
+      Ability-sprite_60: -2186598535033316576
+      Ability-sprite_61: 3849024686916096336
+      Ability-sprite_62: -2705107340346080440
+      Ability-sprite_63: -4336458515767240230
+      Ability-sprite_64: 741193973477018584
+      Ability-sprite_65: -1889147162643807456
+      Ability-sprite_66: -2839328045863467312
+      Ability-sprite_67: 3511200607336102645
+      Ability-sprite_68: 4266534286071424850
+      Ability-sprite_69: -6941564031485525464
+      Ability-sprite_7: 3674156526774158956
+      Ability-sprite_70: -4027421385883129034
+      Ability-sprite_71: 7144964820510877865
+      Ability-sprite_72: 4704288010296406487
+      Ability-sprite_73: 2185927620284337637
+      Ability-sprite_74: -8289164136623646943
+      Ability-sprite_75: 23851211413466061
+      Ability-sprite_76: -6350371536007151816
+      Ability-sprite_77: -65816437626550838
+      Ability-sprite_78: -508635859571200027
+      Ability-sprite_79: 7284182856637947733
+      Ability-sprite_8: 4442408479126898298
+      Ability-sprite_80: -1344044221744896586
+      Ability-sprite_81: -4985674892221889757
+      Ability-sprite_82: 5122853560204726672
+      Ability-sprite_83: -5143798529716281593
+      Ability-sprite_84: 3279450593925042931
+      Ability-sprite_85: -6161477397703926222
+      Ability-sprite_86: 1872390562528865999
+      Ability-sprite_87: 541544788210495279
+      Ability-sprite_88: -646152632808176913
+      Ability-sprite_89: -8836886156525005265
+      Ability-sprite_9: -5649517150500334351
+      Ability-sprite_90: -1306020280530984377
+      Ability-sprite_91: 5555840533011110386
+      Ability-sprite_92: -3936635715755034198
+      Ability-sprite_93: -1832424877774461325
+      Ability-sprite_94: 2629961022754565577
+      Ability-sprite_95: -5754980220117526778
+      Ability-sprite_96: -5058577424919454966
+      Ability-sprite_97: -4692101114859490107
+      Ability-sprite_98: -2347513252364867725
+      Ability-sprite_99: 4271590167826468841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

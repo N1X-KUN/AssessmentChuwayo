@@ -1,0 +1,4316 @@
+fileFormatVersion: 2
+guid: 7beed26968e3511408b99c55f3ccec18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 239678719952977571
+    second: Speaki_Jump_SpriteSheet_0
+  - first:
+      213: -5731317578113779957
+    second: Speaki_Jump_SpriteSheet_1
+  - first:
+      213: -2570214709449948051
+    second: Speaki_Jump_SpriteSheet_2
+  - first:
+      213: -7010138189228947709
+    second: Speaki_Jump_SpriteSheet_3
+  - first:
+      213: 857042824187833541
+    second: Speaki_Jump_SpriteSheet_4
+  - first:
+      213: 3380807238657684821
+    second: Speaki_Jump_SpriteSheet_5
+  - first:
+      213: 2285608639266868386
+    second: Speaki_Jump_SpriteSheet_6
+  - first:
+      213: -8147277339462591898
+    second: Speaki_Jump_SpriteSheet_7
+  - first:
+      213: 1935997610772127085
+    second: Speaki_Jump_SpriteSheet_8
+  - first:
+      213: 3823303229265741907
+    second: Speaki_Jump_SpriteSheet_9
+  - first:
+      213: -8446785488008200553
+    second: Speaki_Jump_SpriteSheet_10
+  - first:
+      213: 1193293423177531602
+    second: Speaki_Jump_SpriteSheet_11
+  - first:
+      213: -2060374365185162112
+    second: Speaki_Jump_SpriteSheet_12
+  - first:
+      213: 5585086850819163953
+    second: Speaki_Jump_SpriteSheet_13
+  - first:
+      213: -8555001202988005777
+    second: Speaki_Jump_SpriteSheet_14
+  - first:
+      213: -2079515237005565832
+    second: Speaki_Jump_SpriteSheet_15
+  - first:
+      213: 6828755470971211312
+    second: Speaki_Jump_SpriteSheet_16
+  - first:
+      213: -9123216101444731852
+    second: Speaki_Jump_SpriteSheet_17
+  - first:
+      213: 6649150657558693403
+    second: Speaki_Jump_SpriteSheet_18
+  - first:
+      213: -7318105679911259782
+    second: Speaki_Jump_SpriteSheet_19
+  - first:
+      213: -7250961880172677659
+    second: Speaki_Jump_SpriteSheet_20
+  - first:
+      213: -3135947346584045803
+    second: Speaki_Jump_SpriteSheet_21
+  - first:
+      213: 8051171865246699399
+    second: Speaki_Jump_SpriteSheet_22
+  - first:
+      213: 1836106962372785954
+    second: Speaki_Jump_SpriteSheet_23
+  - first:
+      213: 3823633286705695905
+    second: Speaki_Jump_SpriteSheet_24
+  - first:
+      213: -7683713791001138996
+    second: Speaki_Jump_SpriteSheet_25
+  - first:
+      213: 6926026192931500351
+    second: Speaki_Jump_SpriteSheet_26
+  - first:
+      213: 7233199657688818185
+    second: Speaki_Jump_SpriteSheet_27
+  - first:
+      213: 738039531859631816
+    second: Speaki_Jump_SpriteSheet_28
+  - first:
+      213: -4655861688358266637
+    second: Speaki_Jump_SpriteSheet_29
+  - first:
+      213: -3942142182156121524
+    second: Speaki_Jump_SpriteSheet_30
+  - first:
+      213: 8946957919924050377
+    second: Speaki_Jump_SpriteSheet_31
+  - first:
+      213: 2184786465372069101
+    second: Speaki_Jump_SpriteSheet_32
+  - first:
+      213: 4734322657658231094
+    second: Speaki_Jump_SpriteSheet_33
+  - first:
+      213: -5827696938808875060
+    second: Speaki_Jump_SpriteSheet_34
+  - first:
+      213: -5302527867256679248
+    second: Speaki_Jump_SpriteSheet_35
+  - first:
+      213: -3181978593036053044
+    second: Speaki_Jump_SpriteSheet_36
+  - first:
+      213: 1018175402052319755
+    second: Speaki_Jump_SpriteSheet_37
+  - first:
+      213: -9094234580464477015
+    second: Speaki_Jump_SpriteSheet_38
+  - first:
+      213: 5402505691504863783
+    second: Speaki_Jump_SpriteSheet_39
+  - first:
+      213: 4273970195591587828
+    second: Speaki_Jump_SpriteSheet_40
+  - first:
+      213: 6604655337726838963
+    second: Speaki_Jump_SpriteSheet_41
+  - first:
+      213: 6386711749598685178
+    second: Speaki_Jump_SpriteSheet_42
+  - first:
+      213: 9093880490215354571
+    second: Speaki_Jump_SpriteSheet_43
+  - first:
+      213: -6222838546039632888
+    second: Speaki_Jump_SpriteSheet_44
+  - first:
+      213: 6688823690684047722
+    second: Speaki_Jump_SpriteSheet_45
+  - first:
+      213: -2964897834427710261
+    second: Speaki_Jump_SpriteSheet_46
+  - first:
+      213: -7097163116817924721
+    second: Speaki_Jump_SpriteSheet_47
+  - first:
+      213: -9009030007886459173
+    second: Speaki_Jump_SpriteSheet_48
+  - first:
+      213: 4961605210219165323
+    second: Speaki_Jump_SpriteSheet_49
+  - first:
+      213: -767693375495436911
+    second: Speaki_Jump_SpriteSheet_50
+  - first:
+      213: 7553733784243023673
+    second: Speaki_Jump_SpriteSheet_51
+  - first:
+      213: -6540543736269942670
+    second: Speaki_Jump_SpriteSheet_52
+  - first:
+      213: 7834040662839313949
+    second: Speaki_Jump_SpriteSheet_53
+  - first:
+      213: 3482375258729616324
+    second: Speaki_Jump_SpriteSheet_54
+  - first:
+      213: -5752996019739114209
+    second: Speaki_Jump_SpriteSheet_55
+  - first:
+      213: -4062674885371351328
+    second: Speaki_Jump_SpriteSheet_56
+  - first:
+      213: -4151852564094530751
+    second: Speaki_Jump_SpriteSheet_57
+  - first:
+      213: 4721186176611478362
+    second: Speaki_Jump_SpriteSheet_58
+  - first:
+      213: 1978923282160565943
+    second: Speaki_Jump_SpriteSheet_59
+  - first:
+      213: -2622119240021056822
+    second: Speaki_Jump_SpriteSheet_60
+  - first:
+      213: 9197003298971627231
+    second: Speaki_Jump_SpriteSheet_61
+  - first:
+      213: -1359799832125181374
+    second: Speaki_Jump_SpriteSheet_62
+  - first:
+      213: -6869502867213404430
+    second: Speaki_Jump_SpriteSheet_63
+  - first:
+      213: 831504907765572736
+    second: Speaki_Jump_SpriteSheet_64
+  - first:
+      213: -3738331621328336972
+    second: Speaki_Jump_SpriteSheet_65
+  - first:
+      213: 3148381622328221422
+    second: Speaki_Jump_SpriteSheet_66
+  - first:
+      213: -1235534059424069177
+    second: Speaki_Jump_SpriteSheet_67
+  - first:
+      213: -5497400502109862538
+    second: Speaki_Jump_SpriteSheet_68
+  - first:
+      213: 8404794524240184832
+    second: Speaki_Jump_SpriteSheet_69
+  - first:
+      213: 1436307746019859097
+    second: Speaki_Jump_SpriteSheet_70
+  - first:
+      213: 3797759771568367933
+    second: Speaki_Jump_SpriteSheet_71
+  - first:
+      213: 3756760781930602474
+    second: Speaki_Jump_SpriteSheet_72
+  - first:
+      213: -5936166089516692585
+    second: Speaki_Jump_SpriteSheet_73
+  - first:
+      213: -6584168280621727807
+    second: Speaki_Jump_SpriteSheet_74
+  - first:
+      213: -2132864612612440385
+    second: Speaki_Jump_SpriteSheet_75
+  - first:
+      213: -5165387897576198206
+    second: Speaki_Jump_SpriteSheet_76
+  - first:
+      213: 4679013670757252340
+    second: Speaki_Jump_SpriteSheet_77
+  - first:
+      213: -5948218696733740892
+    second: Speaki_Jump_SpriteSheet_78
+  - first:
+      213: -126509704736436591
+    second: Speaki_Jump_SpriteSheet_79
+  - first:
+      213: 314066339926575163
+    second: Speaki_Jump_SpriteSheet_80
+  - first:
+      213: -8731782110380918535
+    second: Speaki_Jump_SpriteSheet_81
+  - first:
+      213: -7172432226431124645
+    second: Speaki_Jump_SpriteSheet_82
+  - first:
+      213: -7333768703771263826
+    second: Speaki_Jump_SpriteSheet_83
+  - first:
+      213: -5131187518887565354
+    second: Speaki_Jump_SpriteSheet_84
+  - first:
+      213: 4151715332980868620
+    second: Speaki_Jump_SpriteSheet_85
+  - first:
+      213: -2735680079475869079
+    second: Speaki_Jump_SpriteSheet_86
+  - first:
+      213: -6325436001763253107
+    second: Speaki_Jump_SpriteSheet_87
+  - first:
+      213: 3760985482070913281
+    second: Speaki_Jump_SpriteSheet_88
+  - first:
+      213: -8070368817677350084
+    second: Speaki_Jump_SpriteSheet_89
+  - first:
+      213: 6299783401859485531
+    second: Speaki_Jump_SpriteSheet_90
+  - first:
+      213: 2867185056230747244
+    second: Speaki_Jump_SpriteSheet_91
+  - first:
+      213: 8642268376521759684
+    second: Speaki_Jump_SpriteSheet_92
+  - first:
+      213: -5416012138945852538
+    second: Speaki_Jump_SpriteSheet_93
+  - first:
+      213: 8870715542928714475
+    second: Speaki_Jump_SpriteSheet_94
+  - first:
+      213: 23645260122396470
+    second: Speaki_Jump_SpriteSheet_95
+  - first:
+      213: -3756766248920478635
+    second: Speaki_Jump_SpriteSheet_96
+  - first:
+      213: -3536054653831737196
+    second: Speaki_Jump_SpriteSheet_97
+  - first:
+      213: 725659544363601223
+    second: Speaki_Jump_SpriteSheet_98
+  - first:
+      213: -863080170751334900
+    second: Speaki_Jump_SpriteSheet_99
+  - first:
+      213: 3218116998665529963
+    second: Speaki_Jump_SpriteSheet_100
+  - first:
+      213: -7660745862481123959
+    second: Speaki_Jump_SpriteSheet_101
+  - first:
+      213: 811437733384392064
+    second: Speaki_Jump_SpriteSheet_102
+  - first:
+      213: 1721390335274783616
+    second: Speaki_Jump_SpriteSheet_103
+  - first:
+      213: -7284056287429111181
+    second: Speaki_Jump_SpriteSheet_104
+  - first:
+      213: 816272426850085928
+    second: Speaki_Jump_SpriteSheet_105
+  - first:
+      213: 6131659607028331339
+    second: Speaki_Jump_SpriteSheet_106
+  - first:
+      213: -5107934030505035975
+    second: Speaki_Jump_SpriteSheet_107
+  - first:
+      213: -4665714467681764931
+    second: Speaki_Jump_SpriteSheet_108
+  - first:
+      213: 7690920218706256406
+    second: Speaki_Jump_SpriteSheet_109
+  - first:
+      213: 8296787421605102357
+    second: Speaki_Jump_SpriteSheet_110
+  - first:
+      213: -3311735137679905964
+    second: Speaki_Jump_SpriteSheet_111
+  - first:
+      213: -58267321096364780
+    second: Speaki_Jump_SpriteSheet_112
+  - first:
+      213: 1977363792822870771
+    second: Speaki_Jump_SpriteSheet_113
+  - first:
+      213: 5940511010450552465
+    second: Speaki_Jump_SpriteSheet_114
+  - first:
+      213: -470940771642434153
+    second: Speaki_Jump_SpriteSheet_115
+  - first:
+      213: 2336132289830217969
+    second: Speaki_Jump_SpriteSheet_116
+  - first:
+      213: 1512982098923127593
+    second: Speaki_Jump_SpriteSheet_117
+  - first:
+      213: -8181490446775823195
+    second: Speaki_Jump_SpriteSheet_118
+  - first:
+      213: 5474331319341009931
+    second: Speaki_Jump_SpriteSheet_119
+  - first:
+      213: 7770584466004397804
+    second: Speaki_Jump_SpriteSheet_120
+  - first:
+      213: -5379532016701294531
+    second: Speaki_Jump_SpriteSheet_121
+  - first:
+      213: -2829626596453608644
+    second: Speaki_Jump_SpriteSheet_122
+  - first:
+      213: -3956283635396814305
+    second: Speaki_Jump_SpriteSheet_123
+  - first:
+      213: 4775695282420634324
+    second: Speaki_Jump_SpriteSheet_124
+  - first:
+      213: -6954562588975016823
+    second: Speaki_Jump_SpriteSheet_125
+  - first:
+      213: 1023663559802505674
+    second: Speaki_Jump_SpriteSheet_126
+  - first:
+      213: 48917067100887770
+    second: Speaki_Jump_SpriteSheet_127
+  - first:
+      213: -303920959479690596
+    second: Speaki_Jump_SpriteSheet_128
+  - first:
+      213: -4853718719695705706
+    second: Speaki_Jump_SpriteSheet_129
+  - first:
+      213: -2807701734953401616
+    second: Speaki_Jump_SpriteSheet_130
+  - first:
+      213: 6227966980462707735
+    second: Speaki_Jump_SpriteSheet_131
+  - first:
+      213: -3124990626683563909
+    second: Speaki_Jump_SpriteSheet_132
+  - first:
+      213: 7368846721824125717
+    second: Speaki_Jump_SpriteSheet_133
+  - first:
+      213: 3623038792607101098
+    second: Speaki_Jump_SpriteSheet_134
+  - first:
+      213: 163340547884688812
+    second: Speaki_Jump_SpriteSheet_135
+  - first:
+      213: 126232784271617922
+    second: Speaki_Jump_SpriteSheet_136
+  - first:
+      213: -3514231073342429085
+    second: Speaki_Jump_SpriteSheet_137
+  - first:
+      213: 8650048424196950536
+    second: Speaki_Jump_SpriteSheet_138
+  - first:
+      213: 8880015548965491981
+    second: Speaki_Jump_SpriteSheet_139
+  - first:
+      213: 861962758300764382
+    second: Speaki_Jump_SpriteSheet_140
+  - first:
+      213: 4731483182387301637
+    second: Speaki_Jump_SpriteSheet_141
+  - first:
+      213: -8567442318741189132
+    second: Speaki_Jump_SpriteSheet_142
+  - first:
+      213: 7173432405486977634
+    second: Speaki_Jump_SpriteSheet_143
+  - first:
+      213: 7906048288124767070
+    second: Speaki_Jump_SpriteSheet_144
+  - first:
+      213: -2896228109996438440
+    second: Speaki_Jump_SpriteSheet_145
+  - first:
+      213: 6016713863803823693
+    second: Speaki_Jump_SpriteSheet_146
+  - first:
+      213: -9030682334174475135
+    second: Speaki_Jump_SpriteSheet_147
+  - first:
+      213: -596152254527722060
+    second: Speaki_Jump_SpriteSheet_148
+  - first:
+      213: -6547611366469862102
+    second: Speaki_Jump_SpriteSheet_149
+  - first:
+      213: -8320214836384240145
+    second: Speaki_Jump_SpriteSheet_150
+  - first:
+      213: 1525087286007355063
+    second: Speaki_Jump_SpriteSheet_151
+  - first:
+      213: -7573834390672898894
+    second: Speaki_Jump_SpriteSheet_152
+  - first:
+      213: 3333207503576414988
+    second: Speaki_Jump_SpriteSheet_153
+  - first:
+      213: 7736203570126055786
+    second: Speaki_Jump_SpriteSheet_154
+  - first:
+      213: 3250760746327451976
+    second: Speaki_Jump_SpriteSheet_155
+  - first:
+      213: 1358076718988369250
+    second: Speaki_Jump_SpriteSheet_156
+  - first:
+      213: -1215339124616692128
+    second: Speaki_Jump_SpriteSheet_157
+  - first:
+      213: 122661078566349425
+    second: Speaki_Jump_SpriteSheet_158
+  - first:
+      213: -6952402795823209
+    second: Speaki_Jump_SpriteSheet_159
+  - first:
+      213: 6355563497144551118
+    second: Speaki_Jump_SpriteSheet_160
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 18425
+        width: 726
+        height: 735
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae7403a682835300800000000000000
+      internalID: 239678719952977571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 18424
+        width: 714
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07739d47054670b0800000000000000
+      internalID: -5731317578113779957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 18433
+        width: 698
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6480ced653c45cd0800000000000000
+      internalID: -2570214709449948051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 18445
+        width: 671
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307cb9c457cf6be90800000000000000
+      internalID: -7010138189228947709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 18433
+        width: 654
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc630568e3d4eb00800000000000000
+      internalID: 857042824187833541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5127
+        y: 18443
+        width: 668
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555b242754a0bee20800000000000000
+      internalID: 3380807238657684821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 6114
+        y: 18433
+        width: 688
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acc01f92fc18bf10800000000000000
+      internalID: 2285608639266868386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 7089
+        y: 18433
+        width: 695
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a1eb60d6e0fee80800000000000000
+      internalID: -8147277339462591898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 17348
+        width: 694
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dd314d19b0eda10800000000000000
+      internalID: 1935997610772127085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 17335
+        width: 702
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3580df0c70a1f0530800000000000000
+      internalID: 3823303229265741907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 17356
+        width: 712
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79eb8550a5df6ca80800000000000000
+      internalID: -8446785488008200553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 17356
+        width: 722
+        height: 755
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d08e49cb0e6f8010800000000000000
+      internalID: 1193293423177531602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 17391
+        width: 731
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08441d26e641863e0800000000000000
+      internalID: -2060374365185162112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 5127
+        y: 17381
+        width: 719
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13708c656e6328d40800000000000000
+      internalID: 5585086850819163953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 6114
+        y: 17381
+        width: 784
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f664cd27bb7864980800000000000000
+      internalID: -8555001202988005777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 7089
+        y: 17381
+        width: 813
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8706541e8e31423e0800000000000000
+      internalID: -2079515237005565832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 7374
+        y: 17164
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e8e39abec94ce50800000000000000
+      internalID: 6828755470971211312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 7531
+        y: 17179
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c3348ea43d36180800000000000000
+      internalID: -9123216101444731852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 7299
+        y: 17130
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1647d95b47864c50800000000000000
+      internalID: 6649150657558693403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 7310
+        y: 16923
+        width: 284
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71fe1838add07a90800000000000000
+      internalID: -7318105679911259782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 7637
+        y: 17128
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5b86456986f5b90800000000000000
+      internalID: -7250961880172677659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 7584
+        y: 17052
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5177784d080ea74d0800000000000000
+      internalID: -3135947346584045803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 16215
+        width: 741
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f06ad87228bbf60800000000000000
+      internalID: 8051171865246699399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 7646
+        y: 16995
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227f9dddd892b7910800000000000000
+      internalID: 1836106962372785954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 16257
+        width: 876
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acc37d3736401530800000000000000
+      internalID: 3823633286705695905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 6114
+        y: 16109
+        width: 695
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc86b936407fd5590800000000000000
+      internalID: -7683713791001138996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 6489
+        y: 16970
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31bbb670203e1060800000000000000
+      internalID: 6926026192931500351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 16231
+        width: 926
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902e40af3cc716460800000000000000
+      internalID: 7233199657688818185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 16231
+        width: 918
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce50be3b0b0e3a00800000000000000
+      internalID: 738039531859631816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 16191
+        width: 888
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f81e06567e036fb0800000000000000
+      internalID: -4655861688358266637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 4084
+        y: 16170
+        width: 829
+        height: 737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a408a5292ba49c0800000000000000
+      internalID: -3942142182156121524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 7158
+        y: 16215
+        width: 675
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9d07d33daf92c70800000000000000
+      internalID: 8946957919924050377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 16083
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec559af6bbe15e10800000000000000
+      internalID: 2184786465372069101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 16085
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6395dc5af51b3b140800000000000000
+      internalID: 4734322657658231094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 16068
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc76aa7b28cdf1fa0800000000000000
+      internalID: -5827696938808875060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 16075
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b45e8caff2a966b0800000000000000
+      internalID: -5302527867256679248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 15897
+        width: 268
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc55037145757d3d0800000000000000
+      internalID: -3181978593036053044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 15207
+        width: 638
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a7e563229412e00800000000000000
+      internalID: 1018175402052319755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 15182
+        width: 626
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac575715d9cac180800000000000000
+      internalID: -9094234580464477015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 6242
+        y: 15117
+        width: 567
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a6c2f7d4e89fa40800000000000000
+      internalID: 5402505691504863783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 7341
+        y: 15092
+        width: 561
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7e7d89f31305b30800000000000000
+      internalID: 4273970195591587828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 15146
+        width: 657
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b88815690378ab50800000000000000
+      internalID: 6604655337726838963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 15182
+        width: 644
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7a4ad7f7822a850800000000000000
+      internalID: 6386711749598685178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 15182
+        width: 635
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc03429df14f33e70800000000000000
+      internalID: 9093880490215354571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 5157
+        y: 15146
+        width: 606
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c03b8ff4904a9a0800000000000000
+      internalID: -6222838546039632888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 14117
+        width: 648
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61a07035b973dc50800000000000000
+      internalID: 6688823690684047722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 14137
+        width: 700
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc48c97d0219ad6d0800000000000000
+      internalID: -2964897834427710261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 14158
+        width: 726
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d30156fbfc18d90800000000000000
+      internalID: -7097163116817924721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 14156
+        width: 749
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdec71190fe79f280800000000000000
+      internalID: -9009030007886459173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 14156
+        width: 771
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8637d6a6a92bd440800000000000000
+      internalID: 4961605210219165323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 5157
+        y: 14189
+        width: 788
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1958c2141fa9855f0800000000000000
+      internalID: -767693375495436911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 6135
+        y: 14174
+        width: 781
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f2ca9fad044d860800000000000000
+      internalID: 7553733784243023673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 7163
+        y: 14117
+        width: 739
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27059b900225b35a0800000000000000
+      internalID: -6540543736269942670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 13157
+        width: 770
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16c080f97a18bc60800000000000000
+      internalID: 7834040662839313949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 13157
+        width: 777
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3103fe8d1e35030800000000000000
+      internalID: 3482375258729616324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 13153
+        width: 809
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15c639c9904920b0800000000000000
+      internalID: -5752996019739114209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 13157
+        width: 843
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee2a8b77ba7e97c0800000000000000
+      internalID: -4062674885371351328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 4084
+        y: 13156
+        width: 866
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bc9552718a166c0800000000000000
+      internalID: -4151852564094530751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 5046
+        y: 13153
+        width: 882
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b696f40d5058140800000000000000
+      internalID: 4721186176611478362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 6012
+        y: 13164
+        width: 886
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be3ee68d3c867b10800000000000000
+      internalID: 1978923282160565943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 7089
+        y: 13157
+        width: 866
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2e3db917c5c9bd0800000000000000
+      internalID: -2622119240021056822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 12120
+        width: 813
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdeac49c5c152af70800000000000000
+      internalID: 9197003298971627231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 12045
+        width: 731
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242fa88d145012de0800000000000000
+      internalID: -1359799832125181374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 12003
+        width: 627
+        height: 935
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6b738d98f9aa0a0800000000000000
+      internalID: -6869502867213404430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 11994
+        width: 597
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0846c50ee491a8b00800000000000000
+      internalID: 831504907765572736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 4196
+        y: 11990
+        width: 604
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b74d1a6237ce1cc0800000000000000
+      internalID: -3738331621328336972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 5153
+        y: 11989
+        width: 610
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeedd38976c41bb20800000000000000
+      internalID: 3148381622328221422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 11989
+        width: 618
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9c120b1508adee0800000000000000
+      internalID: -1235534059424069177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 7190
+        y: 11983
+        width: 611
+        height: 955
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67500bbae5f45b3b0800000000000000
+      internalID: -5497400502109862538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 10876
+        width: 584
+        height: 969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0060c7bd614d3a470800000000000000
+      internalID: 8404794524240184832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 10862
+        width: 541
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ad7adf84acee310800000000000000
+      internalID: 1436307746019859097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 10876
+        width: 494
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39e99e046a54b430800000000000000
+      internalID: 3797759771568367933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 10876
+        width: 520
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef9719e602b22430800000000000000
+      internalID: 3756760781930602474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 10803
+        width: 565
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b43aa84608e9da0800000000000000
+      internalID: -5936166089516692585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 10803
+        width: 610
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfb52c45d550a4a0800000000000000
+      internalID: -6584168280621727807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 6157
+        y: 10803
+        width: 652
+        height: 899
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbefb3b6fea8662e0800000000000000
+      internalID: -2132864612612440385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 7158
+        y: 10803
+        width: 689
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf6ed5131bd058b0800000000000000
+      internalID: -5165387897576198206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 9804
+        width: 718
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcbea0a4223fe040800000000000000
+      internalID: 4679013670757252340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 9791
+        width: 746
+        height: 735
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a039de3c9ea37da0800000000000000
+      internalID: -5948218696733740892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 9804
+        width: 779
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e8b84081c8e3ef0800000000000000
+      internalID: -126509704736436591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 9804
+        width: 811
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b380b331ca9cb5400800000000000000
+      internalID: 314066339926575163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 9822
+        width: 834
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f872aefe6a72d680800000000000000
+      internalID: -8731782110380918535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 5118
+        y: 9816
+        width: 850
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b320824e6667c90800000000000000
+      internalID: -7172432226431124645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 6106
+        y: 9816
+        width: 855
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac36da4838393a90800000000000000
+      internalID: -7333768703771263826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 7106
+        y: 9816
+        width: 849
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7e9c4432c5ac8b0800000000000000
+      internalID: -5131187518887565354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 8807
+        width: 865
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c060ede391bdd9930800000000000000
+      internalID: 4151715332980868620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 8807
+        width: 891
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a7ab34679e80ad0800000000000000
+      internalID: -2735680079475869079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 8807
+        width: 903
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d842f6158798738a0800000000000000
+      internalID: -6325436001763253107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 8796
+        width: 895
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101fc309e54b13430800000000000000
+      internalID: 3760985482070913281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 8737
+        width: 847
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bc3f7a15a400090800000000000000
+      internalID: -8070368817677350084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 5283
+        y: 8769
+        width: 731
+        height: 893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f8cb550a35d6750800000000000000
+      internalID: 6299783401859485531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 8730
+        width: 642
+        height: 932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c21fd1e994ac720800000000000000
+      internalID: 2867185056230747244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 8671
+        width: 702
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbdb2cbc418fe770800000000000000
+      internalID: 8642268376521759684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 7571
+        width: 644
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bcde6a7a576d4b0800000000000000
+      internalID: -5416012138945852538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 7561
+        width: 577
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea6dc789cc1b1b70800000000000000
+      internalID: 8870715542928714475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 7591
+        width: 522
+        height: 969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63797322d31045000800000000000000
+      internalID: 23645260122396470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 7599
+        width: 495
+        height: 974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c0be430094ddbc0800000000000000
+      internalID: -3756766248920478635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 4387
+        y: 7571
+        width: 526
+        height: 972
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4901ef3f6096deec0800000000000000
+      internalID: -3536054653831737196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 5384
+        y: 7611
+        width: 561
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d0aa9c28f021a00800000000000000
+      internalID: 725659544363601223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 6303
+        y: 7599
+        width: 595
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06eea15829b504f0800000000000000
+      internalID: -863080170751334900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 7237
+        y: 7599
+        width: 628
+        height: 919
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6aea172c5c09ac20800000000000000
+      internalID: 3218116998665529963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 6474
+        width: 670
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985e448f9309fa590800000000000000
+      internalID: -7660745862481123959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 6474
+        width: 713
+        height: 781
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d89bfb15ec24b00800000000000000
+      internalID: 811437733384392064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 6474
+        width: 709
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08318ddb36b93e710800000000000000
+      internalID: 1721390335274783616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 6474
+        width: 562
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37256df2665d9ea90800000000000000
+      internalID: -7284056287429111181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 6501
+        width: 618
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c685a827bf35b00800000000000000
+      internalID: 816272426850085928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 5224
+        y: 6553
+        width: 743
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43f888fce7081550800000000000000
+      internalID: 6131659607028331339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 6284
+        y: 6501
+        width: 820
+        height: 747
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9373e9fef09fc19b0800000000000000
+      internalID: -5107934030505035975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 7320
+        y: 6521
+        width: 783
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db97d62696d004fb0800000000000000
+      internalID: -4665714467681764931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 5443
+        width: 679
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6122bdfc033abba60800000000000000
+      internalID: 7690920218706256406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 5406
+        width: 685
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51383b1a33c142370800000000000000
+      internalID: 8296787421605102357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 5511
+        width: 698
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45be868407a5a02d0800000000000000
+      internalID: -3311735137679905964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 5511
+        width: 736
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d99002e2ef03ff0800000000000000
+      internalID: -58267321096364780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 4298
+        y: 5511
+        width: 734
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f22dee94e1017b10800000000000000
+      internalID: 1977363792822870771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 5511
+        width: 720
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196b3323a4fe07250800000000000000
+      internalID: 5940511010450552465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 6277
+        y: 5526
+        width: 702
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d11040dd1e679f0800000000000000
+      internalID: -470940771642434153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 7345
+        y: 5511
+        width: 665
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f866a3b0fb9b6020800000000000000
+      internalID: 2336132289830217969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 4248
+        width: 604
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92386dde3313ff410800000000000000
+      internalID: 1512982098923127593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4248
+        width: 588
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4dcaa39c1857e80800000000000000
+      internalID: -8181490446775823195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 4252
+        width: 620
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ccd18a45bb8fb40800000000000000
+      internalID: 5474331319341009931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 4362
+        width: 632
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee4c59c669a6db60800000000000000
+      internalID: 7770584466004397804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 4130
+        y: 4447
+        width: 695
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38bdaef1201855b0800000000000000
+      internalID: -5379532016701294531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 5224
+        y: 4508
+        width: 682
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33926f3a952bb8d0800000000000000
+      internalID: -2829626596453608644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 6185
+        y: 4498
+        width: 713
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a5b71bef47819c0800000000000000
+      internalID: -3956283635396814305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 7341
+        y: 4515
+        width: 649
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2d0308e8da64240800000000000000
+      internalID: 4775695282420634324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 4481
+        y: 4331
+        width: 258
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9845ce31c2e6c7f90800000000000000
+      internalID: -6954562588975016823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 5533
+        y: 4252
+        width: 236
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac94a838598c43e00800000000000000
+      internalID: 1023663559802505674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 6449
+        y: 4234
+        width: 233
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada900830d9cda000800000000000000
+      internalID: 48917067100887770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 7525
+        y: 4248
+        width: 229
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9aca626f7148cbf0800000000000000
+      internalID: -303920959479690596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2924
+        width: 666
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699afd06a8024acb0800000000000000
+      internalID: -4853718719695705706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2919
+        width: 750
+        height: 951
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2cadcd52a0909d0800000000000000
+      internalID: -2807701734953401616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 2935
+        width: 867
+        height: 935
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7148757b8fe2e6650800000000000000
+      internalID: 6227966980462707735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 2910
+        width: 916
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70d91af49dc1a4d0800000000000000
+      internalID: -3124990626683563909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 4130
+        y: 2959
+        width: 918
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513f0aa3d07634660800000000000000
+      internalID: 7368846721824125717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 2976
+        width: 904
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa07ec0169e974230800000000000000
+      internalID: 3623038792607101098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 2975
+        width: 880
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5a516ec5d444200800000000000000
+      internalID: 163340547884688812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 7202
+        y: 2948
+        width: 851
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fa4896c0870c100800000000000000
+      internalID: 126232784271617922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 4391
+        y: 2691
+        width: 212
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368e8ce3571fa3fc0800000000000000
+      internalID: -3514231073342429085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 5468
+        y: 2715
+        width: 212
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80acf2e36352b0870800000000000000
+      internalID: 8650048424196950536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 6504
+        y: 2730
+        width: 212
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05980ce7172c3b70800000000000000
+      internalID: 8880015548965491981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 2730
+        width: 213
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed80222df8e46fb00800000000000000
+      internalID: 861962758300764382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2655
+        width: 225
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d0eeac2ea99a140800000000000000
+      internalID: 4731483182387301637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 2650
+        width: 222
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd48c57a945a1980800000000000000
+      internalID: -8567442318741189132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 2665
+        width: 218
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262c35d24c62d8360800000000000000
+      internalID: 7173432405486977634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 2640
+        width: 214
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b03cea70de7bd60800000000000000
+      internalID: 7906048288124767070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1544
+        width: 834
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c492bf0e78ec7d0800000000000000
+      internalID: -2896228109996438440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1509
+        width: 828
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46e1379169af7350800000000000000
+      internalID: 6016713863803823693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1475
+        width: 819
+        height: 868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c822083429ca280800000000000000
+      internalID: -9030682334174475135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1543
+        width: 804
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bda3dcdeaa0ab7f0800000000000000
+      internalID: -596152254527722060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 1565
+        width: 787
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2df04627263225a0800000000000000
+      internalID: -6547611366469862102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 5166
+        y: 1565
+        width: 771
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fede16e40b8a88c80800000000000000
+      internalID: -8320214836384240145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 6242
+        y: 1608
+        width: 756
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6deed6ec23a2510800000000000000
+      internalID: 1525087286007355063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 7190
+        y: 1608
+        width: 734
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b40e44efb554e690800000000000000
+      internalID: -7573834390672898894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1393
+        width: 218
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bb65d709ee14e20800000000000000
+      internalID: 3333207503576414988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1438
+        width: 228
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69e87ba8248c5b60800000000000000
+      internalID: 7736203570126055786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 342
+        width: 695
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849a1aeeca50d1d20800000000000000
+      internalID: 3250760746327451976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 375
+        width: 634
+        height: 823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d970d949bd8d210800000000000000
+      internalID: 1358076718988369250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 409
+        width: 631
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e769b518f322fe0800000000000000
+      internalID: -1215339124616692128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 434
+        width: 678
+        height: 739
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17aa6bfd997c3b100800000000000000
+      internalID: 122661078566349425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 4038
+        y: 409
+        width: 700
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ff40593dc47eff0800000000000000
+      internalID: -6952402795823209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Jump_SpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 452
+        width: 723
+        height: 735
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec68db2d35f733850800000000000000
+      internalID: 6355563497144551118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Speaki_Jump_SpriteSheet_0: 239678719952977571
+      Speaki_Jump_SpriteSheet_1: -5731317578113779957
+      Speaki_Jump_SpriteSheet_10: -8446785488008200553
+      Speaki_Jump_SpriteSheet_100: 3218116998665529963
+      Speaki_Jump_SpriteSheet_101: -7660745862481123959
+      Speaki_Jump_SpriteSheet_102: 811437733384392064
+      Speaki_Jump_SpriteSheet_103: 1721390335274783616
+      Speaki_Jump_SpriteSheet_104: -7284056287429111181
+      Speaki_Jump_SpriteSheet_105: 816272426850085928
+      Speaki_Jump_SpriteSheet_106: 6131659607028331339
+      Speaki_Jump_SpriteSheet_107: -5107934030505035975
+      Speaki_Jump_SpriteSheet_108: -4665714467681764931
+      Speaki_Jump_SpriteSheet_109: 7690920218706256406
+      Speaki_Jump_SpriteSheet_11: 1193293423177531602
+      Speaki_Jump_SpriteSheet_110: 8296787421605102357
+      Speaki_Jump_SpriteSheet_111: -3311735137679905964
+      Speaki_Jump_SpriteSheet_112: -58267321096364780
+      Speaki_Jump_SpriteSheet_113: 1977363792822870771
+      Speaki_Jump_SpriteSheet_114: 5940511010450552465
+      Speaki_Jump_SpriteSheet_115: -470940771642434153
+      Speaki_Jump_SpriteSheet_116: 2336132289830217969
+      Speaki_Jump_SpriteSheet_117: 1512982098923127593
+      Speaki_Jump_SpriteSheet_118: -8181490446775823195
+      Speaki_Jump_SpriteSheet_119: 5474331319341009931
+      Speaki_Jump_SpriteSheet_12: -2060374365185162112
+      Speaki_Jump_SpriteSheet_120: 7770584466004397804
+      Speaki_Jump_SpriteSheet_121: -5379532016701294531
+      Speaki_Jump_SpriteSheet_122: -2829626596453608644
+      Speaki_Jump_SpriteSheet_123: -3956283635396814305
+      Speaki_Jump_SpriteSheet_124: 4775695282420634324
+      Speaki_Jump_SpriteSheet_125: -6954562588975016823
+      Speaki_Jump_SpriteSheet_126: 1023663559802505674
+      Speaki_Jump_SpriteSheet_127: 48917067100887770
+      Speaki_Jump_SpriteSheet_128: -303920959479690596
+      Speaki_Jump_SpriteSheet_129: -4853718719695705706
+      Speaki_Jump_SpriteSheet_13: 5585086850819163953
+      Speaki_Jump_SpriteSheet_130: -2807701734953401616
+      Speaki_Jump_SpriteSheet_131: 6227966980462707735
+      Speaki_Jump_SpriteSheet_132: -3124990626683563909
+      Speaki_Jump_SpriteSheet_133: 7368846721824125717
+      Speaki_Jump_SpriteSheet_134: 3623038792607101098
+      Speaki_Jump_SpriteSheet_135: 163340547884688812
+      Speaki_Jump_SpriteSheet_136: 126232784271617922
+      Speaki_Jump_SpriteSheet_137: -3514231073342429085
+      Speaki_Jump_SpriteSheet_138: 8650048424196950536
+      Speaki_Jump_SpriteSheet_139: 8880015548965491981
+      Speaki_Jump_SpriteSheet_14: -8555001202988005777
+      Speaki_Jump_SpriteSheet_140: 861962758300764382
+      Speaki_Jump_SpriteSheet_141: 4731483182387301637
+      Speaki_Jump_SpriteSheet_142: -8567442318741189132
+      Speaki_Jump_SpriteSheet_143: 7173432405486977634
+      Speaki_Jump_SpriteSheet_144: 7906048288124767070
+      Speaki_Jump_SpriteSheet_145: -2896228109996438440
+      Speaki_Jump_SpriteSheet_146: 6016713863803823693
+      Speaki_Jump_SpriteSheet_147: -9030682334174475135
+      Speaki_Jump_SpriteSheet_148: -596152254527722060
+      Speaki_Jump_SpriteSheet_149: -6547611366469862102
+      Speaki_Jump_SpriteSheet_15: -2079515237005565832
+      Speaki_Jump_SpriteSheet_150: -8320214836384240145
+      Speaki_Jump_SpriteSheet_151: 1525087286007355063
+      Speaki_Jump_SpriteSheet_152: -7573834390672898894
+      Speaki_Jump_SpriteSheet_153: 3333207503576414988
+      Speaki_Jump_SpriteSheet_154: 7736203570126055786
+      Speaki_Jump_SpriteSheet_155: 3250760746327451976
+      Speaki_Jump_SpriteSheet_156: 1358076718988369250
+      Speaki_Jump_SpriteSheet_157: -1215339124616692128
+      Speaki_Jump_SpriteSheet_158: 122661078566349425
+      Speaki_Jump_SpriteSheet_159: -6952402795823209
+      Speaki_Jump_SpriteSheet_16: 6828755470971211312
+      Speaki_Jump_SpriteSheet_160: 6355563497144551118
+      Speaki_Jump_SpriteSheet_17: -9123216101444731852
+      Speaki_Jump_SpriteSheet_18: 6649150657558693403
+      Speaki_Jump_SpriteSheet_19: -7318105679911259782
+      Speaki_Jump_SpriteSheet_2: -2570214709449948051
+      Speaki_Jump_SpriteSheet_20: -7250961880172677659
+      Speaki_Jump_SpriteSheet_21: -3135947346584045803
+      Speaki_Jump_SpriteSheet_22: 8051171865246699399
+      Speaki_Jump_SpriteSheet_23: 1836106962372785954
+      Speaki_Jump_SpriteSheet_24: 3823633286705695905
+      Speaki_Jump_SpriteSheet_25: -7683713791001138996
+      Speaki_Jump_SpriteSheet_26: 6926026192931500351
+      Speaki_Jump_SpriteSheet_27: 7233199657688818185
+      Speaki_Jump_SpriteSheet_28: 738039531859631816
+      Speaki_Jump_SpriteSheet_29: -4655861688358266637
+      Speaki_Jump_SpriteSheet_3: -7010138189228947709
+      Speaki_Jump_SpriteSheet_30: -3942142182156121524
+      Speaki_Jump_SpriteSheet_31: 8946957919924050377
+      Speaki_Jump_SpriteSheet_32: 2184786465372069101
+      Speaki_Jump_SpriteSheet_33: 4734322657658231094
+      Speaki_Jump_SpriteSheet_34: -5827696938808875060
+      Speaki_Jump_SpriteSheet_35: -5302527867256679248
+      Speaki_Jump_SpriteSheet_36: -3181978593036053044
+      Speaki_Jump_SpriteSheet_37: 1018175402052319755
+      Speaki_Jump_SpriteSheet_38: -9094234580464477015
+      Speaki_Jump_SpriteSheet_39: 5402505691504863783
+      Speaki_Jump_SpriteSheet_4: 857042824187833541
+      Speaki_Jump_SpriteSheet_40: 4273970195591587828
+      Speaki_Jump_SpriteSheet_41: 6604655337726838963
+      Speaki_Jump_SpriteSheet_42: 6386711749598685178
+      Speaki_Jump_SpriteSheet_43: 9093880490215354571
+      Speaki_Jump_SpriteSheet_44: -6222838546039632888
+      Speaki_Jump_SpriteSheet_45: 6688823690684047722
+      Speaki_Jump_SpriteSheet_46: -2964897834427710261
+      Speaki_Jump_SpriteSheet_47: -7097163116817924721
+      Speaki_Jump_SpriteSheet_48: -9009030007886459173
+      Speaki_Jump_SpriteSheet_49: 4961605210219165323
+      Speaki_Jump_SpriteSheet_5: 3380807238657684821
+      Speaki_Jump_SpriteSheet_50: -767693375495436911
+      Speaki_Jump_SpriteSheet_51: 7553733784243023673
+      Speaki_Jump_SpriteSheet_52: -6540543736269942670
+      Speaki_Jump_SpriteSheet_53: 7834040662839313949
+      Speaki_Jump_SpriteSheet_54: 3482375258729616324
+      Speaki_Jump_SpriteSheet_55: -5752996019739114209
+      Speaki_Jump_SpriteSheet_56: -4062674885371351328
+      Speaki_Jump_SpriteSheet_57: -4151852564094530751
+      Speaki_Jump_SpriteSheet_58: 4721186176611478362
+      Speaki_Jump_SpriteSheet_59: 1978923282160565943
+      Speaki_Jump_SpriteSheet_6: 2285608639266868386
+      Speaki_Jump_SpriteSheet_60: -2622119240021056822
+      Speaki_Jump_SpriteSheet_61: 9197003298971627231
+      Speaki_Jump_SpriteSheet_62: -1359799832125181374
+      Speaki_Jump_SpriteSheet_63: -6869502867213404430
+      Speaki_Jump_SpriteSheet_64: 831504907765572736
+      Speaki_Jump_SpriteSheet_65: -3738331621328336972
+      Speaki_Jump_SpriteSheet_66: 3148381622328221422
+      Speaki_Jump_SpriteSheet_67: -1235534059424069177
+      Speaki_Jump_SpriteSheet_68: -5497400502109862538
+      Speaki_Jump_SpriteSheet_69: 8404794524240184832
+      Speaki_Jump_SpriteSheet_7: -8147277339462591898
+      Speaki_Jump_SpriteSheet_70: 1436307746019859097
+      Speaki_Jump_SpriteSheet_71: 3797759771568367933
+      Speaki_Jump_SpriteSheet_72: 3756760781930602474
+      Speaki_Jump_SpriteSheet_73: -5936166089516692585
+      Speaki_Jump_SpriteSheet_74: -6584168280621727807
+      Speaki_Jump_SpriteSheet_75: -2132864612612440385
+      Speaki_Jump_SpriteSheet_76: -5165387897576198206
+      Speaki_Jump_SpriteSheet_77: 4679013670757252340
+      Speaki_Jump_SpriteSheet_78: -5948218696733740892
+      Speaki_Jump_SpriteSheet_79: -126509704736436591
+      Speaki_Jump_SpriteSheet_8: 1935997610772127085
+      Speaki_Jump_SpriteSheet_80: 314066339926575163
+      Speaki_Jump_SpriteSheet_81: -8731782110380918535
+      Speaki_Jump_SpriteSheet_82: -7172432226431124645
+      Speaki_Jump_SpriteSheet_83: -7333768703771263826
+      Speaki_Jump_SpriteSheet_84: -5131187518887565354
+      Speaki_Jump_SpriteSheet_85: 4151715332980868620
+      Speaki_Jump_SpriteSheet_86: -2735680079475869079
+      Speaki_Jump_SpriteSheet_87: -6325436001763253107
+      Speaki_Jump_SpriteSheet_88: 3760985482070913281
+      Speaki_Jump_SpriteSheet_89: -8070368817677350084
+      Speaki_Jump_SpriteSheet_9: 3823303229265741907
+      Speaki_Jump_SpriteSheet_90: 6299783401859485531
+      Speaki_Jump_SpriteSheet_91: 2867185056230747244
+      Speaki_Jump_SpriteSheet_92: 8642268376521759684
+      Speaki_Jump_SpriteSheet_93: -5416012138945852538
+      Speaki_Jump_SpriteSheet_94: 8870715542928714475
+      Speaki_Jump_SpriteSheet_95: 23645260122396470
+      Speaki_Jump_SpriteSheet_96: -3756766248920478635
+      Speaki_Jump_SpriteSheet_97: -3536054653831737196
+      Speaki_Jump_SpriteSheet_98: 725659544363601223
+      Speaki_Jump_SpriteSheet_99: -863080170751334900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
