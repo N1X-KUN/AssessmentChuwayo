@@ -108,10 +108,12 @@ MonoBehaviour:
   currentWord: 
   originalWord: 
   isRotten: 0
+  wordManager: {fileID: 0}
   launchUpForce: 2
   launchLeftForce: 1.5
   gravityScale: 1
   groundYLevel: -3.5
+  magnetSpeed: 20
   isFading: 0
 --- !u!1 &8676012635722555225
 GameObject:
@@ -246,8 +248,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 32
-  m_fontSizeBase: 32
+  m_fontSize: 3
+  m_fontSizeBase: 3
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18

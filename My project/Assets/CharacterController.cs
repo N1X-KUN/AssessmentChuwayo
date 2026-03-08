@@ -16,6 +16,8 @@ public class KommyController : MonoBehaviour
     [Header("Jump Settings")]
     public float jumpHeight = 2.5f;   
     public float jumpDuration = 0.6f; 
+    public float jumpCooldown = 0.8f; // NEW: Prevent spamming
+    private float nextJumpTime = 0f;
     private float originalY;          
 
     private float attackTimer = 0f;
@@ -25,9 +27,7 @@ public class KommyController : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         currentHp = maxHp;
-        
         originalY = transform.position.y; 
-        
         StartGame();
     }
 
@@ -45,10 +45,16 @@ public class KommyController : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            if (currentState == CharacterState.Running || currentState == CharacterState.Attacking)
-            {
-                StartCoroutine(JumpRoutine());
-            }
+            TryJump();
+        }
+    }
+
+    public void TryJump()
+    {
+        if (Time.time >= nextJumpTime && (currentState == CharacterState.Running || currentState == CharacterState.Attacking))
+        {
+            StartCoroutine(JumpRoutine());
+            nextJumpTime = Time.time + jumpCooldown;
         }
     }
 
@@ -61,28 +67,28 @@ public class KommyController : MonoBehaviour
     public void TypeCorrectLetter()
     {
         if (currentState == CharacterState.Dead || currentState == CharacterState.Victory || currentState == CharacterState.Stunned) return;
+        // Animation removed for typing per your request!
+    }
+
+    // This is called by the WordManager when you hit Backspace
+    public void TriggerSwipeAnimation()
+    {
+        if (currentState == CharacterState.Dead || currentState == CharacterState.Stunned) return;
         
         attackTimer = timeToStopAttacking;
-
-        if (currentState != CharacterState.Attacking && currentState != CharacterState.Jumping)
-        {
-            currentState = CharacterState.Attacking;
-            PlayAnimation("KommyAttack"); 
-        }
+        currentState = CharacterState.Attacking;
+        PlayAnimation("KommyAttack"); // The "Swat" animation
     }
 
     public void TypeWrongLetter()
     {
         if (currentState == CharacterState.Dead || currentState == CharacterState.Victory || currentState == CharacterState.Stunned) return;
-        
         TriggerStun();
     }
 
     public void HitByTrap()
     {
         if (currentState == CharacterState.Dead || currentState == CharacterState.Victory || currentState == CharacterState.Stunned) return;
-        
-        Debug.Log("Ouch! Kommy hit a trap!");
         TriggerStun();
     }
 
@@ -93,6 +99,7 @@ public class KommyController : MonoBehaviour
         StartCoroutine(StunRoutine());
     }
 
+    // --- NEW: Added back the WinGame method to fix the LevelManager error ---
     public void WinGame()
     {
         if (currentState == CharacterState.Dead) return;
@@ -103,8 +110,7 @@ public class KommyController : MonoBehaviour
     private IEnumerator JumpRoutine()
     {
         currentState = CharacterState.Jumping;
-        
-        PlayAnimation("KommyMove"); 
+        PlayAnimation("KommyJump"); 
 
         float halfTime = jumpDuration / 2f;
         float elapsed = 0f;
@@ -116,8 +122,7 @@ public class KommyController : MonoBehaviour
             elapsed += Time.deltaTime;
             yield return null;
         }
-        transform.position = new Vector3(transform.position.x, originalY + jumpHeight, transform.position.z);
-
+        
         elapsed = 0f;
         while (elapsed < halfTime)
         {
@@ -128,8 +133,11 @@ public class KommyController : MonoBehaviour
         }
         
         transform.position = new Vector3(transform.position.x, originalY, transform.position.z);
-        currentState = CharacterState.Running;
-        PlayAnimation("KommyMove");
+        if(currentState != CharacterState.Stunned && currentState != CharacterState.Dead)
+        {
+            currentState = CharacterState.Running;
+            PlayAnimation("KommyMove");
+        }
     }
 
     private IEnumerator StunRoutine()
@@ -137,13 +145,9 @@ public class KommyController : MonoBehaviour
         currentState = CharacterState.Stunned;
         currentHp--; 
         PlayAnimation("KommyStun"); 
-        
         yield return new WaitForSeconds(1.0f);
 
-        if (currentHp <= 0)
-        {
-            Die();
-        }
+        if (currentHp <= 0) Die();
         else if (currentState != CharacterState.Dead)
         {
             currentState = CharacterState.Running;
@@ -151,13 +155,11 @@ public class KommyController : MonoBehaviour
         }
     }
 
-    // --- THE FIX: We made this PUBLIC so the Thief can trigger it when he escapes! ---
     public void Die()
     {
-        if (currentState == CharacterState.Dead) return; // Safety check
+        if (currentState == CharacterState.Dead) return;
         currentState = CharacterState.Dead;
         PlayAnimation("KommyDie");
-        Debug.Log("GAME OVER - Thief Escaped or HP Reached 0!");
     }
 
     private void PlayAnimation(string animName)

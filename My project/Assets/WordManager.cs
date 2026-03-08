@@ -54,6 +54,7 @@ public class WordManager : MonoBehaviour
     {
         if (thiefPocket.Count == 0) return; 
 
+        // 1. Physical Trap Logic
         if (canDropPhysicalTraps && physicalTrapPrefabs.Length > 0)
         {
             if (Random.Range(0f, 100f) <= physicalTrapChance)
@@ -65,6 +66,7 @@ public class WordManager : MonoBehaviour
             }
         }
 
+        // 2. Food Logic
         bool droppingRotten = canDropRottenFood && (Random.Range(0f, 100f) <= rottenChance);
         int randomIndex = Random.Range(0, thiefPocket.Count);
         FoodEntry chosenEntry = thiefPocket[randomIndex];
@@ -89,43 +91,46 @@ public class WordManager : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Backspace) && targetedFood != null)
+        // --- 1. THE SWAT LOGIC (BACKSPACE) ---
+        if (Input.GetKeyDown(KeyCode.Backspace))
         {
-            if (targetedFood.originalWord.Length - targetedFood.currentWord.Length == 1)
+            FoodItem foodToSwat = GetClosestFood();
+            if (foodToSwat != null)
             {
-                targetedFood.CancelLockOn();
-                targetedFood = null;
-                return; 
+                activeFoods.Remove(foodToSwat);
+                foodToSwat.SwatAway();
+                kommy.TriggerSwipeAnimation(); // Kommy swats it out of the air!
+                
+                if (targetedFood == foodToSwat) targetedFood = null;
             }
         }
 
+        // --- 2. THE TYPING LOGIC ---
         string input = Input.inputString.ToLower();
-        foreach (char c in input) { if (c >= 'a' && c <= 'z') TypeLetter(c); }
+        foreach (char c in input) 
+        { 
+            if (c >= 'a' && c <= 'z') TypeLetter(c); 
+        }
     }
 
     void TypeLetter(char letter)
     {
+        // Rule: You can ONLY lock onto the food closest to Kommy
         if (targetedFood == null)
         {
-            foreach (FoodItem food in activeFoods)
+            FoodItem closestFood = GetClosestFood();
+            if (closestFood != null && closestFood.currentWord.StartsWith(letter.ToString()))
             {
-                if (food != null && !food.isFading && food.transform.position.x > deadZoneX)
-                {
-                    if (food.currentWord.StartsWith(letter.ToString()))
-                    {
-                        targetedFood = food;
-                        targetedFood.UpdateVisuals();
-                        break; 
-                    }
-                }
+                targetedFood = closestFood;
+                targetedFood.UpdateVisuals();
             }
         }
 
         if (targetedFood != null)
         {
+            // If it passed Kommy while you were typing, drop the lock
             if (targetedFood.transform.position.x <= deadZoneX)
             {
-                targetedFood.CancelLockOn();
                 targetedFood = null;
                 return;
             }
@@ -134,7 +139,7 @@ public class WordManager : MonoBehaviour
             {
                 if (targetedFood.isRotten)
                 {
-                    kommy.TypeWrongLetter(); 
+                    kommy.TypeWrongLetter(); // Stun her for typing poison!
                     StartCoroutine(TriggerDizzyEffect());
                     activeFoods.Remove(targetedFood);
                     Destroy(targetedFood.gameObject);
@@ -142,22 +147,37 @@ public class WordManager : MonoBehaviour
                     return; 
                 }
 
-                kommy.TypeCorrectLetter(); 
                 targetedFood.RemoveFirstLetter();
-
+                
                 if (targetedFood.currentWord.Length == 0)
                 {
-                    activeFoods.Remove(targetedFood); 
-                    targetedFood.VanishOnSuccess(); // TRIGGER VANISH
-                    targetedFood = null; 
+                    activeFoods.Remove(targetedFood);
+                    targetedFood.VanishOnSuccess(); // MAGNET TO KOMMY
+                    targetedFood = null;
                 }
             }
-            else
-            {
-                kommy.TypeWrongLetter(); 
-                targetedFood.TriggerMistake();
+            else 
+            { 
+                targetedFood.TriggerMistake(); 
+                kommy.TypeWrongLetter(); // Shake Kommy on typo
             }
         }
+    }
+
+    private FoodItem GetClosestFood()
+    {
+        FoodItem closest = null;
+        float minX = float.MaxValue;
+
+        foreach (FoodItem food in activeFoods)
+        {
+            if (food != null && !food.isFading && food.transform.position.x < minX)
+            {
+                minX = food.transform.position.x;
+                closest = food;
+            }
+        }
+        return closest;
     }
 
     private IEnumerator TriggerDizzyEffect()
