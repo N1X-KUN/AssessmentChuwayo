@@ -180,18 +180,38 @@ public class WordManager : MonoBehaviour
         return closest;
     }
 
-    private IEnumerator TriggerDizzyEffect()
+private IEnumerator TriggerDizzyEffect()
     {
         isPlayerDizzy = true; 
         if (dizzyAnimator != null) {
             dizzyAnimator.gameObject.SetActive(true);
             yield return StartCoroutine(dizzyAnimator.PlayPoisonIntro()); 
         }
+        
         yield return new WaitForSeconds(dizzyDuration);
+        
         if (dizzyAnimator != null) {
             yield return StartCoroutine(dizzyAnimator.PlayPoisonOutro()); 
             dizzyAnimator.gameObject.SetActive(false);
         }
         isPlayerDizzy = false; 
+
+        // --- NEW: REFRESH ALL FOOD TEXT WHEN POISON ENDS ---
+        foreach (FoodItem food in activeFoods)
+        {
+            if (food != null) food.UpdateVisuals();
+        }
+    }
+
+    public void TriggerPoisonFromTrap()
+    {
+        StartCoroutine(TriggerDizzyEffect());
+        
+        // Tell the Thief to move forward and laugh at you!
+        ThiefController thief = FindAnyObjectByType<ThiefController>();
+        if (thief != null)
+        {
+            thief.TriggerPoisonEscape();
+        }
     }
 }

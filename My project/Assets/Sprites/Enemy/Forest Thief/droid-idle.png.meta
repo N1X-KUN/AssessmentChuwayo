@@ -1,0 +1,2626 @@
+fileFormatVersion: 2
+guid: 57081fb1c21d3bd4982d52f459b39759
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2835014913937071383
+    second: droid-idle_0
+  - first:
+      213: 7257793435412060159
+    second: droid-idle_1
+  - first:
+      213: 4394408151241461191
+    second: droid-idle_2
+  - first:
+      213: 4441205576433420583
+    second: droid-idle_3
+  - first:
+      213: 5840717317463666332
+    second: droid-idle_4
+  - first:
+      213: -28216958719276159
+    second: droid-idle_5
+  - first:
+      213: -382935682498525096
+    second: droid-idle_6
+  - first:
+      213: 6263443618379491476
+    second: droid-idle_7
+  - first:
+      213: 5374250861593021161
+    second: droid-idle_8
+  - first:
+      213: 1896724381522695452
+    second: droid-idle_9
+  - first:
+      213: 2103861749830722097
+    second: droid-idle_10
+  - first:
+      213: 1390953535905073960
+    second: droid-idle_11
+  - first:
+      213: 9156591690026180525
+    second: droid-idle_12
+  - first:
+      213: 8822932118180326742
+    second: droid-idle_13
+  - first:
+      213: 6758575041096740728
+    second: droid-idle_14
+  - first:
+      213: -3268477557699099959
+    second: droid-idle_15
+  - first:
+      213: -2637599631456801890
+    second: droid-idle_16
+  - first:
+      213: 1988263699075575048
+    second: droid-idle_17
+  - first:
+      213: -5843646657584538939
+    second: droid-idle_18
+  - first:
+      213: -3050598128570803577
+    second: droid-idle_19
+  - first:
+      213: 6324899329650458330
+    second: droid-idle_20
+  - first:
+      213: 9097766627091923055
+    second: droid-idle_21
+  - first:
+      213: 3310209217225318723
+    second: droid-idle_22
+  - first:
+      213: 935407257305394308
+    second: droid-idle_23
+  - first:
+      213: -2951837961014087686
+    second: droid-idle_24
+  - first:
+      213: -1073633765243031741
+    second: droid-idle_25
+  - first:
+      213: 7711345889074410581
+    second: droid-idle_26
+  - first:
+      213: 275811271745864323
+    second: droid-idle_27
+  - first:
+      213: -6722705659331373058
+    second: droid-idle_28
+  - first:
+      213: 7686827211586203912
+    second: droid-idle_29
+  - first:
+      213: -8685318303850065372
+    second: droid-idle_30
+  - first:
+      213: 7949799240707743431
+    second: droid-idle_31
+  - first:
+      213: 3210546996094532607
+    second: droid-idle_32
+  - first:
+      213: -6002952441993776707
+    second: droid-idle_33
+  - first:
+      213: -4933626478882015676
+    second: droid-idle_34
+  - first:
+      213: -1877843569959752535
+    second: droid-idle_35
+  - first:
+      213: 7233409742792137631
+    second: droid-idle_36
+  - first:
+      213: 5759373348553817612
+    second: droid-idle_37
+  - first:
+      213: 7572018226907972508
+    second: droid-idle_38
+  - first:
+      213: 6422769476779889641
+    second: droid-idle_39
+  - first:
+      213: -497512897834488680
+    second: droid-idle_40
+  - first:
+      213: -3853205998693035363
+    second: droid-idle_41
+  - first:
+      213: 3965789891981568907
+    second: droid-idle_42
+  - first:
+      213: -6106672761450531499
+    second: droid-idle_43
+  - first:
+      213: 4586080939226837770
+    second: droid-idle_44
+  - first:
+      213: 7833360095471560643
+    second: droid-idle_45
+  - first:
+      213: -8939562828784800984
+    second: droid-idle_46
+  - first:
+      213: 4720809201524116776
+    second: droid-idle_47
+  - first:
+      213: -208980875555741382
+    second: droid-idle_48
+  - first:
+      213: -3140904630232594254
+    second: droid-idle_49
+  - first:
+      213: -4397751519120087420
+    second: droid-idle_50
+  - first:
+      213: 4157054077994816668
+    second: droid-idle_51
+  - first:
+      213: 5193258839197677373
+    second: droid-idle_52
+  - first:
+      213: -7914865393099901604
+    second: droid-idle_53
+  - first:
+      213: 3653526518538576890
+    second: droid-idle_54
+  - first:
+      213: -5746830729712877684
+    second: droid-idle_55
+  - first:
+      213: 4570169427224396550
+    second: droid-idle_56
+  - first:
+      213: -479690374256098006
+    second: droid-idle_57
+  - first:
+      213: -2927391616917581015
+    second: droid-idle_58
+  - first:
+      213: 4355765343535115235
+    second: droid-idle_59
+  - first:
+      213: -2447379357066651672
+    second: droid-idle_60
+  - first:
+      213: 8147727134506555018
+    second: droid-idle_61
+  - first:
+      213: 1045056588168830390
+    second: droid-idle_62
+  - first:
+      213: -1765504515624860599
+    second: droid-idle_63
+  - first:
+      213: 2032153827734932812
+    second: droid-idle_64
+  - first:
+      213: 5610679603079534205
+    second: droid-idle_65
+  - first:
+      213: -3798024130368495731
+    second: droid-idle_66
+  - first:
+      213: -7455603106412790342
+    second: droid-idle_67
+  - first:
+      213: -8692820403907454089
+    second: droid-idle_68
+  - first:
+      213: -3136192187090109111
+    second: droid-idle_69
+  - first:
+      213: 3255993598616865686
+    second: droid-idle_70
+  - first:
+      213: 2673046222399058998
+    second: droid-idle_71
+  - first:
+      213: 599853890692221556
+    second: droid-idle_72
+  - first:
+      213: -2077388388401970117
+    second: droid-idle_73
+  - first:
+      213: 6918816304097885913
+    second: droid-idle_74
+  - first:
+      213: 612014179698407166
+    second: droid-idle_75
+  - first:
+      213: -1902742428394358353
+    second: droid-idle_76
+  - first:
+      213: 7391506279926939675
+    second: droid-idle_77
+  - first:
+      213: -840442586514827445
+    second: droid-idle_78
+  - first:
+      213: 2415345403369872022
+    second: droid-idle_79
+  - first:
+      213: -7105892113444343897
+    second: droid-idle_80
+  - first:
+      213: -7379667331133180353
+    second: droid-idle_81
+  - first:
+      213: 3616134008297934885
+    second: droid-idle_82
+  - first:
+      213: 6084038233655440221
+    second: droid-idle_83
+  - first:
+      213: 2238419502922685057
+    second: droid-idle_84
+  - first:
+      213: -3455120116339134040
+    second: droid-idle_85
+  - first:
+      213: 1560763385329827103
+    second: droid-idle_86
+  - first:
+      213: 5044818971130242726
+    second: droid-idle_87
+  - first:
+      213: -7267852765163857447
+    second: droid-idle_88
+  - first:
+      213: 9030403967205879701
+    second: droid-idle_89
+  - first:
+      213: -6855710227940187076
+    second: droid-idle_90
+  - first:
+      213: 4618649506819636059
+    second: droid-idle_91
+  - first:
+      213: 5114366978446754665
+    second: droid-idle_92
+  - first:
+      213: 1740937978072364390
+    second: droid-idle_93
+  - first:
+      213: 6222406657881138755
+    second: droid-idle_94
+  - first:
+      213: 1063449971773391576
+    second: droid-idle_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: droid-idle_0
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 10765
+        width: 400
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2a8d1d4f008a8d0800000000000000
+      internalID: -2835014913937071383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_1
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 10764
+        width: 401
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7d5e21dacd8b460800000000000000
+      internalID: 7257793435412060159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_2
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 10763
+        width: 404
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd04d45ee21cfc30800000000000000
+      internalID: 4394408151241461191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_3
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 10762
+        width: 407
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7294cc5f0f452ad30800000000000000
+      internalID: 4441205576433420583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_4
+      rect:
+        serializedVersion: 2
+        x: 4162
+        y: 10760
+        width: 409
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ee4ec64756e0150800000000000000
+      internalID: 5840717317463666332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_5
+      rect:
+        serializedVersion: 2
+        x: 5122
+        y: 10759
+        width: 412
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b45e653d0cb9ff0800000000000000
+      internalID: -28216958719276159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_6
+      rect:
+        serializedVersion: 2
+        x: 6082
+        y: 10758
+        width: 415
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8588ad0960a8faaf0800000000000000
+      internalID: -382935682498525096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_7
+      rect:
+        serializedVersion: 2
+        x: 7042
+        y: 10757
+        width: 417
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498623829c83ce650800000000000000
+      internalID: 6263443618379491476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 9795
+        width: 417
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eac6134fac259a40800000000000000
+      internalID: 5374250861593021161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_9
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 9794
+        width: 418
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c159b7596c4825a10800000000000000
+      internalID: 1896724381522695452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_10
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 9793
+        width: 419
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132213f5d1b623d10800000000000000
+      internalID: 2103861749830722097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_11
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 9792
+        width: 418
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b02be0fd8ad4310800000000000000
+      internalID: 1390953535905073960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_12
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 9792
+        width: 416
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafdd4dd0afb21f70800000000000000
+      internalID: 9156591690026180525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_13
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 9791
+        width: 414
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65de58df30a517a70800000000000000
+      internalID: 8822932118180326742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_14
+      rect:
+        serializedVersion: 2
+        x: 6084
+        y: 9791
+        width: 412
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f646001384bcd50800000000000000
+      internalID: 6758575041096740728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_15
+      rect:
+        serializedVersion: 2
+        x: 7044
+        y: 9791
+        width: 410
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c242097af804a2d0800000000000000
+      internalID: -3268477557699099959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 8831
+        width: 407
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9be05b1c1d556bd0800000000000000
+      internalID: -2637599631456801890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_17
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 8832
+        width: 404
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d243fcc4bb79b10800000000000000
+      internalID: 1988263699075575048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_18
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 8833
+        width: 402
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca56cd635237eea0800000000000000
+      internalID: -5843646657584538939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_19
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 8834
+        width: 400
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ad0123a291aa5d0800000000000000
+      internalID: -3050598128570803577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_20
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 8835
+        width: 397
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adefbe7fd6e86c750800000000000000
+      internalID: 6324899329650458330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_21
+      rect:
+        serializedVersion: 2
+        x: 5125
+        y: 8834
+        width: 395
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60c7399b82c14e70800000000000000
+      internalID: 9097766627091923055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_22
+      rect:
+        serializedVersion: 2
+        x: 6085
+        y: 8831
+        width: 394
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34160fcaeb930fd20800000000000000
+      internalID: 3310209217225318723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_23
+      rect:
+        serializedVersion: 2
+        x: 7045
+        y: 8828
+        width: 394
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ca20cc1fb3bfc00800000000000000
+      internalID: 935407257305394308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_24
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 7866
+        width: 394
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affed339307f807d0800000000000000
+      internalID: -2951837961014087686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_25
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 7864
+        width: 396
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fe2d367cfa911f0800000000000000
+      internalID: -1073633765243031741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_26
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 7862
+        width: 398
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554f27aca34340b60800000000000000
+      internalID: 7711345889074410581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_27
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 7862
+        width: 403
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382067de3e0e3d300800000000000000
+      internalID: 275811271745864323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_28
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 7862
+        width: 407
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef79b0e32d624b2a0800000000000000
+      internalID: -6722705659331373058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_29
+      rect:
+        serializedVersion: 2
+        x: 5115
+        y: 7862
+        width: 410
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801f6645f981daa60800000000000000
+      internalID: 7686827211586203912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_30
+      rect:
+        serializedVersion: 2
+        x: 6073
+        y: 7863
+        width: 414
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42291d9f40d877780800000000000000
+      internalID: -8685318303850065372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_31
+      rect:
+        serializedVersion: 2
+        x: 7031
+        y: 7865
+        width: 417
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce1e022a4c535e60800000000000000
+      internalID: 7949799240707743431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 6907
+        width: 418
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb79e49b772e8c20800000000000000
+      internalID: 3210546996094532607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_33
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 6909
+        width: 419
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1b56b1f8a31bca0800000000000000
+      internalID: -6002952441993776707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_34
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 6911
+        width: 420
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446b6cf5bdc388bb0800000000000000
+      internalID: -4933626478882015676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_35
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 6913
+        width: 419
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac2ccce83f80f5e0800000000000000
+      internalID: -1877843569959752535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_36
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 6915
+        width: 418
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b99f936db326460800000000000000
+      internalID: 7233409742792137631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_37
+      rect:
+        serializedVersion: 2
+        x: 5109
+        y: 6918
+        width: 416
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ef669cb876def40800000000000000
+      internalID: 5759373348553817612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_38
+      rect:
+        serializedVersion: 2
+        x: 6070
+        y: 6921
+        width: 413
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9302a78576351960800000000000000
+      internalID: 7572018226907972508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_39
+      rect:
+        serializedVersion: 2
+        x: 7031
+        y: 6921
+        width: 410
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3dfa15fc2422950800000000000000
+      internalID: 6422769476779889641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_40
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 5960
+        width: 406
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c6665c7aa7819f0800000000000000
+      internalID: -497512897834488680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_41
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 5960
+        width: 403
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d925f713f89a68ac0800000000000000
+      internalID: -3853205998693035363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_42
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 5960
+        width: 401
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b656525e0590730800000000000000
+      internalID: 3965789891981568907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_43
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 5958
+        width: 398
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555ff2e5a7db04ba0800000000000000
+      internalID: -6106672761450531499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_44
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 5956
+        width: 395
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a033ecde05805af30800000000000000
+      internalID: 4586080939226837770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_45
+      rect:
+        serializedVersion: 2
+        x: 5121
+        y: 5954
+        width: 395
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c76d40018fa5bc60800000000000000
+      internalID: 7833360095471560643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_46
+      rect:
+        serializedVersion: 2
+        x: 6081
+        y: 5952
+        width: 395
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82beef698fa40f380800000000000000
+      internalID: -8939562828784800984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_47
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 5951
+        width: 398
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d8d35f4fea38140800000000000000
+      internalID: 4720809201524116776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4989
+        width: 399
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3166ab300d891df0800000000000000
+      internalID: -208980875555741382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_49
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4988
+        width: 402
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b84b9941e34964d0800000000000000
+      internalID: -3140904630232594254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_50
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 4987
+        width: 404
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486a96c2b4c08f2c0800000000000000
+      internalID: -4397751519120087420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_51
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 4986
+        width: 408
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9458fea8a2d0b930800000000000000
+      internalID: 4157054077994816668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_52
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 4985
+        width: 411
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37f8013669221840800000000000000
+      internalID: 5193258839197677373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_53
+      rect:
+        serializedVersion: 2
+        x: 5119
+        y: 4984
+        width: 414
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c557f371cdfb82290800000000000000
+      internalID: -7914865393099901604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_54
+      rect:
+        serializedVersion: 2
+        x: 6079
+        y: 4983
+        width: 416
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af326fae20fe3b230800000000000000
+      internalID: 3653526518538576890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_55
+      rect:
+        serializedVersion: 2
+        x: 7038
+        y: 4983
+        width: 419
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f3a2b36e72f30b0800000000000000
+      internalID: -5746830729712877684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_56
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 4022
+        width: 420
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6038f0951e08c6f30800000000000000
+      internalID: 4570169427224396550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_57
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 4021
+        width: 421
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a258a48652cc759f0800000000000000
+      internalID: -479690374256098006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_58
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 4021
+        width: 421
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923db2b95d0df57d0800000000000000
+      internalID: -2927391616917581015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_59
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 4021
+        width: 420
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb2e5a8089c27c30800000000000000
+      internalID: 4355765343535115235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_60
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 4021
+        width: 420
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e71b670179290ed0800000000000000
+      internalID: -2447379357066651672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_61
+      rect:
+        serializedVersion: 2
+        x: 5117
+        y: 4021
+        width: 418
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86131b09aa821170800000000000000
+      internalID: 8147727134506555018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_62
+      rect:
+        serializedVersion: 2
+        x: 6077
+        y: 4022
+        width: 416
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd1cf31e69c08e00800000000000000
+      internalID: 1045056588168830390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_63
+      rect:
+        serializedVersion: 2
+        x: 7037
+        y: 4023
+        width: 413
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94405d04ffaaf77e0800000000000000
+      internalID: -1765504515624860599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_64
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3064
+        width: 410
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d4717b329a33c10800000000000000
+      internalID: 2032153827734932812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_65
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 3066
+        width: 408
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76d5125f532ddd40800000000000000
+      internalID: 5610679603079534205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_66
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 3068
+        width: 405
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f160d1d25ba4bc0800000000000000
+      internalID: -3798024130368495731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_67
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 3068
+        width: 403
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd77f7e970688890800000000000000
+      internalID: -7455603106412790342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_68
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 3067
+        width: 402
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b14d036e5ec5780800000000000000
+      internalID: -8692820403907454089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_69
+      rect:
+        serializedVersion: 2
+        x: 5116
+        y: 3066
+        width: 400
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d732572d10a74d0800000000000000
+      internalID: -3136192187090109111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_70
+      rect:
+        serializedVersion: 2
+        x: 6076
+        y: 3065
+        width: 399
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b018c4dec9f2d20800000000000000
+      internalID: 3255993598616865686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_71
+      rect:
+        serializedVersion: 2
+        x: 7036
+        y: 3065
+        width: 399
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634bb4a7061981520800000000000000
+      internalID: 2673046222399058998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_72
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2104
+        width: 399
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a88d77feb135800800000000000000
+      internalID: 599853890692221556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_73
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2104
+        width: 400
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3487c86442ab23e0800000000000000
+      internalID: -2077388388401970117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_74
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 2104
+        width: 401
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de7fe765c2940060800000000000000
+      internalID: 6918816304097885913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_75
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 2105
+        width: 402
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6fc6267af4e7800800000000000000
+      internalID: 612014179698407166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_76
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 2107
+        width: 405
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa97d70b7d91895e0800000000000000
+      internalID: -1902742428394358353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_77
+      rect:
+        serializedVersion: 2
+        x: 5113
+        y: 2108
+        width: 409
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b104d1abcc7e39660800000000000000
+      internalID: 7391506279926939675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_78
+      rect:
+        serializedVersion: 2
+        x: 6070
+        y: 2110
+        width: 413
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b475ca0abe52654f0800000000000000
+      internalID: -840442586514827445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_79
+      rect:
+        serializedVersion: 2
+        x: 7029
+        y: 2113
+        width: 415
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69adbb9e8d7058120800000000000000
+      internalID: 2415345403369872022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_80
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1156
+        width: 418
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af66ed75ccc26d90800000000000000
+      internalID: -7105892113444343897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_81
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1159
+        width: 418
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36704759a7269990800000000000000
+      internalID: -7379667331133180353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_82
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1162
+        width: 419
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520dec0b8b61f2230800000000000000
+      internalID: 3616134008297934885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_83
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 1166
+        width: 419
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d537de4f988de6450800000000000000
+      internalID: 6084038233655440221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_84
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 1169
+        width: 417
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a5302ada6701f10800000000000000
+      internalID: 2238419502922685057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_85
+      rect:
+        serializedVersion: 2
+        x: 5107
+        y: 1172
+        width: 415
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1bc496f82fc00d0800000000000000
+      internalID: -3455120116339134040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_86
+      rect:
+        serializedVersion: 2
+        x: 6069
+        y: 1174
+        width: 412
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d35099702f8a510800000000000000
+      internalID: 1560763385329827103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_87
+      rect:
+        serializedVersion: 2
+        x: 7030
+        y: 1175
+        width: 409
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6ae5a202cc20640800000000000000
+      internalID: 5044818971130242726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_88
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 215
+        width: 406
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d95194ba66632b90800000000000000
+      internalID: -7267852765163857447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_89
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 215
+        width: 402
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fa5932090725d70800000000000000
+      internalID: 9030403967205879701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_90
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 215
+        width: 400
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34ec9ceedf9bd0a0800000000000000
+      internalID: -6855710227940187076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_91
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 214
+        width: 397
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b740c714db81040800000000000000
+      internalID: 4618649506819636059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_92
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 212
+        width: 395
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9638e497ba1e9f640800000000000000
+      internalID: 5114366978446754665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_93
+      rect:
+        serializedVersion: 2
+        x: 5119
+        y: 210
+        width: 396
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6657dfefddd092810800000000000000
+      internalID: 1740937978072364390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_94
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 208
+        width: 396
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346e70b33ed6a5650800000000000000
+      internalID: 6222406657881138755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-idle_95
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 207
+        width: 397
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2c3fb6d1222ce00800000000000000
+      internalID: 1063449971773391576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      droid-idle_0: -2835014913937071383
+      droid-idle_1: 7257793435412060159
+      droid-idle_10: 2103861749830722097
+      droid-idle_11: 1390953535905073960
+      droid-idle_12: 9156591690026180525
+      droid-idle_13: 8822932118180326742
+      droid-idle_14: 6758575041096740728
+      droid-idle_15: -3268477557699099959
+      droid-idle_16: -2637599631456801890
+      droid-idle_17: 1988263699075575048
+      droid-idle_18: -5843646657584538939
+      droid-idle_19: -3050598128570803577
+      droid-idle_2: 4394408151241461191
+      droid-idle_20: 6324899329650458330
+      droid-idle_21: 9097766627091923055
+      droid-idle_22: 3310209217225318723
+      droid-idle_23: 935407257305394308
+      droid-idle_24: -2951837961014087686
+      droid-idle_25: -1073633765243031741
+      droid-idle_26: 7711345889074410581
+      droid-idle_27: 275811271745864323
+      droid-idle_28: -6722705659331373058
+      droid-idle_29: 7686827211586203912
+      droid-idle_3: 4441205576433420583
+      droid-idle_30: -8685318303850065372
+      droid-idle_31: 7949799240707743431
+      droid-idle_32: 3210546996094532607
+      droid-idle_33: -6002952441993776707
+      droid-idle_34: -4933626478882015676
+      droid-idle_35: -1877843569959752535
+      droid-idle_36: 7233409742792137631
+      droid-idle_37: 5759373348553817612
+      droid-idle_38: 7572018226907972508
+      droid-idle_39: 6422769476779889641
+      droid-idle_4: 5840717317463666332
+      droid-idle_40: -497512897834488680
+      droid-idle_41: -3853205998693035363
+      droid-idle_42: 3965789891981568907
+      droid-idle_43: -6106672761450531499
+      droid-idle_44: 4586080939226837770
+      droid-idle_45: 7833360095471560643
+      droid-idle_46: -8939562828784800984
+      droid-idle_47: 4720809201524116776
+      droid-idle_48: -208980875555741382
+      droid-idle_49: -3140904630232594254
+      droid-idle_5: -28216958719276159
+      droid-idle_50: -4397751519120087420
+      droid-idle_51: 4157054077994816668
+      droid-idle_52: 5193258839197677373
+      droid-idle_53: -7914865393099901604
+      droid-idle_54: 3653526518538576890
+      droid-idle_55: -5746830729712877684
+      droid-idle_56: 4570169427224396550
+      droid-idle_57: -479690374256098006
+      droid-idle_58: -2927391616917581015
+      droid-idle_59: 4355765343535115235
+      droid-idle_6: -382935682498525096
+      droid-idle_60: -2447379357066651672
+      droid-idle_61: 8147727134506555018
+      droid-idle_62: 1045056588168830390
+      droid-idle_63: -1765504515624860599
+      droid-idle_64: 2032153827734932812
+      droid-idle_65: 5610679603079534205
+      droid-idle_66: -3798024130368495731
+      droid-idle_67: -7455603106412790342
+      droid-idle_68: -8692820403907454089
+      droid-idle_69: -3136192187090109111
+      droid-idle_7: 6263443618379491476
+      droid-idle_70: 3255993598616865686
+      droid-idle_71: 2673046222399058998
+      droid-idle_72: 599853890692221556
+      droid-idle_73: -2077388388401970117
+      droid-idle_74: 6918816304097885913
+      droid-idle_75: 612014179698407166
+      droid-idle_76: -1902742428394358353
+      droid-idle_77: 7391506279926939675
+      droid-idle_78: -840442586514827445
+      droid-idle_79: 2415345403369872022
+      droid-idle_8: 5374250861593021161
+      droid-idle_80: -7105892113444343897
+      droid-idle_81: -7379667331133180353
+      droid-idle_82: 3616134008297934885
+      droid-idle_83: 6084038233655440221
+      droid-idle_84: 2238419502922685057
+      droid-idle_85: -3455120116339134040
+      droid-idle_86: 1560763385329827103
+      droid-idle_87: 5044818971130242726
+      droid-idle_88: -7267852765163857447
+      droid-idle_89: 9030403967205879701
+      droid-idle_9: 1896724381522695452
+      droid-idle_90: -6855710227940187076
+      droid-idle_91: 4618649506819636059
+      droid-idle_92: 5114366978446754665
+      droid-idle_93: 1740937978072364390
+      droid-idle_94: 6222406657881138755
+      droid-idle_95: 1063449971773391576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

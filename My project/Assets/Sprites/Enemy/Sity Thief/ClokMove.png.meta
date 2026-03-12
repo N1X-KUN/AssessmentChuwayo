@@ -1,0 +1,3796 @@
+fileFormatVersion: 2
+guid: e25834e26da18a944941c3cba78f81c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2751303219264883593
+    second: ClokMove_0
+  - first:
+      213: 3892128582219344258
+    second: ClokMove_1
+  - first:
+      213: 694110030058694336
+    second: ClokMove_2
+  - first:
+      213: -4191473498881975855
+    second: ClokMove_3
+  - first:
+      213: -3233245540582768561
+    second: ClokMove_4
+  - first:
+      213: 6362227311112488649
+    second: ClokMove_5
+  - first:
+      213: 5394310909435647254
+    second: ClokMove_6
+  - first:
+      213: 7950169886318716934
+    second: ClokMove_7
+  - first:
+      213: 9152044277892609555
+    second: ClokMove_8
+  - first:
+      213: 2930384547353190933
+    second: ClokMove_9
+  - first:
+      213: 1158127587845037798
+    second: ClokMove_10
+  - first:
+      213: 3910469653704732577
+    second: ClokMove_11
+  - first:
+      213: 6327078117624762537
+    second: ClokMove_12
+  - first:
+      213: 3958273136472430625
+    second: ClokMove_13
+  - first:
+      213: -2072241118071736792
+    second: ClokMove_14
+  - first:
+      213: -6233928702129234355
+    second: ClokMove_15
+  - first:
+      213: -146448376887257543
+    second: ClokMove_16
+  - first:
+      213: 6592110836523425749
+    second: ClokMove_17
+  - first:
+      213: 8791822795151649602
+    second: ClokMove_18
+  - first:
+      213: -1485119621245517786
+    second: ClokMove_19
+  - first:
+      213: 78160778936618272
+    second: ClokMove_20
+  - first:
+      213: -5480312203923941276
+    second: ClokMove_21
+  - first:
+      213: -7503802770468784028
+    second: ClokMove_22
+  - first:
+      213: -5981724009084137507
+    second: ClokMove_23
+  - first:
+      213: -2034885045269034569
+    second: ClokMove_24
+  - first:
+      213: -1931571765139394047
+    second: ClokMove_25
+  - first:
+      213: 6326577016816403172
+    second: ClokMove_26
+  - first:
+      213: 5391728656674503349
+    second: ClokMove_27
+  - first:
+      213: -3896581953242414244
+    second: ClokMove_28
+  - first:
+      213: 2212634230185164819
+    second: ClokMove_29
+  - first:
+      213: -3393254360786577273
+    second: ClokMove_30
+  - first:
+      213: -9032978519046496117
+    second: ClokMove_31
+  - first:
+      213: -1293692454233324089
+    second: ClokMove_32
+  - first:
+      213: 190145776315916447
+    second: ClokMove_33
+  - first:
+      213: -2230395522139633627
+    second: ClokMove_34
+  - first:
+      213: -4553989277357920064
+    second: ClokMove_35
+  - first:
+      213: -6901492944170902189
+    second: ClokMove_36
+  - first:
+      213: 7673940444578341541
+    second: ClokMove_37
+  - first:
+      213: 383573857689147183
+    second: ClokMove_38
+  - first:
+      213: -1091836594375415239
+    second: ClokMove_39
+  - first:
+      213: 8044480071386079723
+    second: ClokMove_40
+  - first:
+      213: 2532614143722086436
+    second: ClokMove_41
+  - first:
+      213: 7586701746654746743
+    second: ClokMove_42
+  - first:
+      213: -5551248665793666510
+    second: ClokMove_43
+  - first:
+      213: -4333155206517611330
+    second: ClokMove_44
+  - first:
+      213: 1833285562564370494
+    second: ClokMove_45
+  - first:
+      213: 1896152346954926544
+    second: ClokMove_46
+  - first:
+      213: 2129878536746675112
+    second: ClokMove_47
+  - first:
+      213: 6861011242418131276
+    second: ClokMove_48
+  - first:
+      213: -682931710428429964
+    second: ClokMove_49
+  - first:
+      213: 2087946869147726175
+    second: ClokMove_50
+  - first:
+      213: 2004977350837643183
+    second: ClokMove_51
+  - first:
+      213: 9222161086210065539
+    second: ClokMove_52
+  - first:
+      213: 2354420730787112179
+    second: ClokMove_53
+  - first:
+      213: 6559612550343414350
+    second: ClokMove_54
+  - first:
+      213: 875648047010918352
+    second: ClokMove_55
+  - first:
+      213: 2361935890818402997
+    second: ClokMove_56
+  - first:
+      213: -2933013747042740879
+    second: ClokMove_57
+  - first:
+      213: -1885984516326012430
+    second: ClokMove_58
+  - first:
+      213: -4788988855823617931
+    second: ClokMove_59
+  - first:
+      213: -7966263523312068267
+    second: ClokMove_60
+  - first:
+      213: 3042326731632859651
+    second: ClokMove_61
+  - first:
+      213: -8993984656453184242
+    second: ClokMove_62
+  - first:
+      213: -6517616010894349266
+    second: ClokMove_63
+  - first:
+      213: -4913439187481113941
+    second: ClokMove_64
+  - first:
+      213: 2866434509212986908
+    second: ClokMove_65
+  - first:
+      213: -3540983956769615791
+    second: ClokMove_66
+  - first:
+      213: 3827167835222339094
+    second: ClokMove_67
+  - first:
+      213: 1491218529372988631
+    second: ClokMove_68
+  - first:
+      213: 5546288149045285235
+    second: ClokMove_69
+  - first:
+      213: -6133286342839784538
+    second: ClokMove_70
+  - first:
+      213: 9019096087116517158
+    second: ClokMove_71
+  - first:
+      213: 8431424644707739805
+    second: ClokMove_72
+  - first:
+      213: 9085383035344289117
+    second: ClokMove_73
+  - first:
+      213: -8245297189749596548
+    second: ClokMove_74
+  - first:
+      213: 8974623692394936294
+    second: ClokMove_75
+  - first:
+      213: -8357248528446580733
+    second: ClokMove_76
+  - first:
+      213: 9176670654667824693
+    second: ClokMove_77
+  - first:
+      213: -130537173764971968
+    second: ClokMove_78
+  - first:
+      213: 6157621994554575158
+    second: ClokMove_79
+  - first:
+      213: 4877770444423927284
+    second: ClokMove_80
+  - first:
+      213: 5461530751123332647
+    second: ClokMove_81
+  - first:
+      213: 2086652955615507212
+    second: ClokMove_82
+  - first:
+      213: 2913900407527791649
+    second: ClokMove_83
+  - first:
+      213: -7982609718186297027
+    second: ClokMove_84
+  - first:
+      213: -325504082269151521
+    second: ClokMove_85
+  - first:
+      213: -8431105253380969275
+    second: ClokMove_86
+  - first:
+      213: 5773196591078453329
+    second: ClokMove_87
+  - first:
+      213: -5239302511326435357
+    second: ClokMove_88
+  - first:
+      213: 6230909024181767603
+    second: ClokMove_89
+  - first:
+      213: -4365628491970122194
+    second: ClokMove_90
+  - first:
+      213: 4284010917068504995
+    second: ClokMove_91
+  - first:
+      213: 2145166488877486929
+    second: ClokMove_92
+  - first:
+      213: 652535700241569914
+    second: ClokMove_93
+  - first:
+      213: 868476733177128901
+    second: ClokMove_94
+  - first:
+      213: -6304795820040171358
+    second: ClokMove_95
+  - first:
+      213: -2795960578181500717
+    second: ClokMove_96
+  - first:
+      213: -2465514626699344810
+    second: ClokMove_97
+  - first:
+      213: -8535079195468683020
+    second: ClokMove_98
+  - first:
+      213: 4611025480767149679
+    second: ClokMove_99
+  - first:
+      213: 4129961424290455646
+    second: ClokMove_100
+  - first:
+      213: -1951460364404675196
+    second: ClokMove_101
+  - first:
+      213: 2274258990216304449
+    second: ClokMove_102
+  - first:
+      213: 309774513474476401
+    second: ClokMove_103
+  - first:
+      213: 8087613509555182115
+    second: ClokMove_104
+  - first:
+      213: 783315167416228425
+    second: ClokMove_105
+  - first:
+      213: -4301453658282005550
+    second: ClokMove_106
+  - first:
+      213: 8563498730829424134
+    second: ClokMove_107
+  - first:
+      213: -647191646596610461
+    second: ClokMove_108
+  - first:
+      213: 5214845447176563371
+    second: ClokMove_109
+  - first:
+      213: -137269824019429736
+    second: ClokMove_110
+  - first:
+      213: 7276115674081409085
+    second: ClokMove_111
+  - first:
+      213: -1703796154261789934
+    second: ClokMove_112
+  - first:
+      213: 301306434817989234
+    second: ClokMove_113
+  - first:
+      213: -4665420840309870736
+    second: ClokMove_114
+  - first:
+      213: -3538443244311485574
+    second: ClokMove_115
+  - first:
+      213: -8131305077712489126
+    second: ClokMove_116
+  - first:
+      213: 1417911100990090312
+    second: ClokMove_117
+  - first:
+      213: -7967821991135009701
+    second: ClokMove_118
+  - first:
+      213: -7492692417817971701
+    second: ClokMove_119
+  - first:
+      213: -1683520141535923936
+    second: ClokMove_120
+  - first:
+      213: 3919768904117973327
+    second: ClokMove_121
+  - first:
+      213: -8280779668049030771
+    second: ClokMove_122
+  - first:
+      213: -2438948040405767163
+    second: ClokMove_123
+  - first:
+      213: -5547086100347122880
+    second: ClokMove_124
+  - first:
+      213: -4598675938190068379
+    second: ClokMove_125
+  - first:
+      213: -6422318156836857381
+    second: ClokMove_126
+  - first:
+      213: 265695319358838440
+    second: ClokMove_127
+  - first:
+      213: -427030685539352287
+    second: ClokMove_128
+  - first:
+      213: -4667134997654250512
+    second: ClokMove_129
+  - first:
+      213: -8004057339824900043
+    second: ClokMove_130
+  - first:
+      213: 3166913821023627344
+    second: ClokMove_131
+  - first:
+      213: 1069519817330703492
+    second: ClokMove_132
+  - first:
+      213: 3972125480444304686
+    second: ClokMove_133
+  - first:
+      213: 2306614177405042953
+    second: ClokMove_134
+  - first:
+      213: -1585329079276637514
+    second: ClokMove_135
+  - first:
+      213: -3691577941330120539
+    second: ClokMove_136
+  - first:
+      213: -7158159256079185356
+    second: ClokMove_137
+  - first:
+      213: 8746631401128133996
+    second: ClokMove_138
+  - first:
+      213: 1999428333610124400
+    second: ClokMove_139
+  - first:
+      213: -7312220401100371147
+    second: ClokMove_140
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClokMove_0
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3040
+        width: 443
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774f3529c4861d9d0800000000000000
+      internalID: -2751303219264883593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_1
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 3040
+        width: 440
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289245bf25e930630800000000000000
+      internalID: 3892128582219344258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_2
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3055
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c62fa01569f1a900800000000000000
+      internalID: 694110030058694336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_3
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 3038
+        width: 438
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d91da56f05e4d5c0800000000000000
+      internalID: -4191473498881975855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_4
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 3063
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40c2f1bf443123d0800000000000000
+      internalID: -3233245540582768561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_5
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 3063
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6062be70c2b4850800000000000000
+      internalID: 6362227311112488649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_6
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 3060
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6151dec11317cda40800000000000000
+      internalID: 5394310909435647254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_7
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 3059
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608e80ac36da45e60800000000000000
+      internalID: 7950169886318716934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_8
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 3057
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3167f68f7c7920f70800000000000000
+      internalID: 9152044277892609555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_9
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 3039
+        width: 436
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512e7405831daa820800000000000000
+      internalID: 2930384547353190933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_10
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 3058
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee5516b7ee721010800000000000000
+      internalID: 1158127587845037798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_11
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 3059
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afe3067e67c44630800000000000000
+      internalID: 3910469653704732577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_12
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 3060
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0db23960c4ec750800000000000000
+      internalID: 6327078117624762537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_13
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 3058
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128196f127c9ee630800000000000000
+      internalID: 3958273136472430625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_14
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 3056
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826306caeabed33e0800000000000000
+      internalID: -2072241118071736792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_15
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 3052
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e997acfd2ac79a0800000000000000
+      internalID: -6233928702129234355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_16
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 3051
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936d3b52af5b7fdf0800000000000000
+      internalID: -146448376887257543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_17
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 3039
+        width: 436
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df5bfa11e1eb7b50800000000000000
+      internalID: 6592110836523425749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_18
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 3055
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b22394044d20a70800000000000000
+      internalID: 8791822795151649602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_19
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 3040
+        width: 437
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620c2bea29bc36be0800000000000000
+      internalID: -1485119621245517786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_20
+      rect:
+        serializedVersion: 2
+        x: 5137
+        y: 3060
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d82e770dea51100800000000000000
+      internalID: 78160778936618272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_21
+      rect:
+        serializedVersion: 2
+        x: 5140
+        y: 3055
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46810e2261502f3b0800000000000000
+      internalID: -5480312203923941276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_22
+      rect:
+        serializedVersion: 2
+        x: 5143
+        y: 3054
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468bd9913232dd790800000000000000
+      internalID: -7503802770468784028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_23
+      rect:
+        serializedVersion: 2
+        x: 6049
+        y: 3038
+        width: 439
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf4d1ec4b5acfca0800000000000000
+      internalID: -5981724009084137507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_24
+      rect:
+        serializedVersion: 2
+        x: 6087
+        y: 3064
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b90cf525d2a2c3e0800000000000000
+      internalID: -2034885045269034569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_25
+      rect:
+        serializedVersion: 2
+        x: 6093
+        y: 3064
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10231b8a6bda135e0800000000000000
+      internalID: -1931571765139394047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_26
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 3058
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e20e73f6448cc750800000000000000
+      internalID: 6326577016816403172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_27
+      rect:
+        serializedVersion: 2
+        x: 6098
+        y: 3056
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bab06a85a443da40800000000000000
+      internalID: 5391728656674503349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_28
+      rect:
+        serializedVersion: 2
+        x: 6102
+        y: 3054
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53c9c6cb5f8ce9c0800000000000000
+      internalID: -3896581953242414244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_29
+      rect:
+        serializedVersion: 2
+        x: 7009
+        y: 3039
+        width: 441
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3108e0cfb1bd4be10800000000000000
+      internalID: 2212634230185164819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_30
+      rect:
+        serializedVersion: 2
+        x: 7058
+        y: 3055
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78855c8132db8e0d0800000000000000
+      internalID: -3393254360786577273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_31
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 3054
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80ef7c45e964a280800000000000000
+      internalID: -9032978519046496117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_32
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2078
+        width: 444
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5c1d03191eb0ee0800000000000000
+      internalID: -1293692454233324089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_33
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2103
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90e9dc739883a200800000000000000
+      internalID: 190145776315916447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_34
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2103
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528ce3af61b0c01e0800000000000000
+      internalID: -2230395522139633627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_35
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0b42c51eafcc0c0800000000000000
+      internalID: -4553989277357920064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_36
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2099
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d14d2abb8f830a0800000000000000
+      internalID: -6901492944170902189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_37
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2097
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a268921d205f7a60800000000000000
+      internalID: 7673940444578341541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_38
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2096
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2710bc246ab25500800000000000000
+      internalID: 383573857689147183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2094
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a2b77f66409d0f0800000000000000
+      internalID: -1091836594375415239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_40
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2079
+        width: 449
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be12da1e00cb3af60800000000000000
+      internalID: 8044480071386079723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_41
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 2094
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4206fa53527a52320800000000000000
+      internalID: 2532614143722086436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_42
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 2079
+        width: 454
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7781132ea01694960800000000000000
+      internalID: 7586701746654746743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_43
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 2103
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232e18f00c006f2b0800000000000000
+      internalID: -5551248665793666510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_44
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 2098
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb422e63c4a8dd3c0800000000000000
+      internalID: -4333155206517611330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_45
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 2095
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3060888183217910800000000000000
+      internalID: 1833285562564370494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_46
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 2094
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d98548638c705a10800000000000000
+      internalID: 1896152346954926544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_47
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 2079
+        width: 458
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aba38d9e39de8d10800000000000000
+      internalID: 2129878536746675112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_48
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 2100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c415b40bf55373f50800000000000000
+      internalID: 6861011242418131276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_49
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 2098
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471401a4a3db586f0800000000000000
+      internalID: -682931710428429964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_50
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 2095
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5170757d90e9fc10800000000000000
+      internalID: 2087946869147726175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_51
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 2080
+        width: 462
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7a16b174c13db10800000000000000
+      internalID: 2004977350837643183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_52
+      rect:
+        serializedVersion: 2
+        x: 4180
+        y: 2096
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3844bf495a2bbff70800000000000000
+      internalID: 9222161086210065539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_53
+      rect:
+        serializedVersion: 2
+        x: 5092
+        y: 2079
+        width: 463
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4a16e2e259ca020800000000000000
+      internalID: 2354420730787112179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_54
+      rect:
+        serializedVersion: 2
+        x: 5133
+        y: 2103
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42d9673cdc680b50800000000000000
+      internalID: 6559612550343414350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_55
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 2103
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfa956624de62c00800000000000000
+      internalID: 875648047010918352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_56
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 2100
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba0a7abd2847c020800000000000000
+      internalID: 2361935890818402997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_57
+      rect:
+        serializedVersion: 2
+        x: 5139
+        y: 2099
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1751e2e6987db47d0800000000000000
+      internalID: -2933013747042740879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_58
+      rect:
+        serializedVersion: 2
+        x: 5141
+        y: 2095
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f940842313a3d5e0800000000000000
+      internalID: -1885984516326012430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_59
+      rect:
+        serializedVersion: 2
+        x: 6052
+        y: 2079
+        width: 465
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570345f32081a8db0800000000000000
+      internalID: -4788988855823617931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_60
+      rect:
+        serializedVersion: 2
+        x: 6087
+        y: 2104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55915d95885227190800000000000000
+      internalID: -7966263523312068267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_61
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 2097
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ad6a12b04883a20800000000000000
+      internalID: 3042326731632859651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_62
+      rect:
+        serializedVersion: 2
+        x: 6101
+        y: 2096
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e055bcc6b92fe2380800000000000000
+      internalID: -8993984656453184242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_63
+      rect:
+        serializedVersion: 2
+        x: 6102
+        y: 2097
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c6e3815c6cc85a0800000000000000
+      internalID: -6517616010894349266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_64
+      rect:
+        serializedVersion: 2
+        x: 6103
+        y: 2095
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa44bc6715ffcbb0800000000000000
+      internalID: -4913439187481113941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_65
+      rect:
+        serializedVersion: 2
+        x: 7012
+        y: 2079
+        width: 466
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eaf85cffe97c720800000000000000
+      internalID: 2866434509212986908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_66
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 2098
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150d36d2ad5ebdec0800000000000000
+      internalID: -3540983956769615791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_67
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1119
+        width: 466
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e6a327ed4dc1530800000000000000
+      internalID: 3827167835222339094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_68
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1134
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4e1c50a5fd1b410800000000000000
+      internalID: 1491218529372988631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_69
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1118
+        width: 465
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3719dc1afaf58fc40800000000000000
+      internalID: 5546288149045285235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_70
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aba745119032eaa0800000000000000
+      internalID: -6133286342839784538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_71
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f02b32b144a2d70800000000000000
+      internalID: 9019096087116517158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_72
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d986742fa00720570800000000000000
+      internalID: 8431424644707739805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_73
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1139
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d7e06fbb3c51e70800000000000000
+      internalID: 9085383035344289117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_74
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1135
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ed27134e1d29d80800000000000000
+      internalID: -8245297189749596548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_75
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 1119
+        width: 465
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7310ad2b44c8c70800000000000000
+      internalID: 8974623692394936294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_76
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3081942fdb6150c80800000000000000
+      internalID: -8357248528446580733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_77
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 1141
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e1a3027551a5f70800000000000000
+      internalID: 9176670654667824693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_78
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1138
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04261cfc12d303ef0800000000000000
+      internalID: -130537173764971968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_79
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 1120
+        width: 463
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639ce8e5494447550800000000000000
+      internalID: 6157621994554575158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_80
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 1143
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f599cb206251b340800000000000000
+      internalID: 4877770444423927284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_81
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 1143
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e149e18414bcb40800000000000000
+      internalID: 5461530751123332647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_82
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 1140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c033bfcbec745fc10800000000000000
+      internalID: 2086652955615507212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_83
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 1139
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c5f8d6bf0407820800000000000000
+      internalID: 2913900407527791649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_84
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 1137
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39bce641c2183190800000000000000
+      internalID: -7982609718186297027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_85
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 1134
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde586303c39b7bf0800000000000000
+      internalID: -325504082269151521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_86
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 1118
+        width: 463
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc2c442172befa80800000000000000
+      internalID: -8431105253380969275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_87
+      rect:
+        serializedVersion: 2
+        x: 4180
+        y: 1135
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1503abd36b38e1050800000000000000
+      internalID: 5773196591078453329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_88
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 1135
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7639dff124a47b0800000000000000
+      internalID: -5239302511326435357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_89
+      rect:
+        serializedVersion: 2
+        x: 5091
+        y: 1119
+        width: 462
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd4126aeb2a87650800000000000000
+      internalID: 6230909024181767603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_90
+      rect:
+        serializedVersion: 2
+        x: 5139
+        y: 1140
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eebc2440c2a63c0800000000000000
+      internalID: -4365628491970122194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_91
+      rect:
+        serializedVersion: 2
+        x: 5140
+        y: 1137
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af73cd3b3dd37b30800000000000000
+      internalID: 4284010917068504995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_92
+      rect:
+        serializedVersion: 2
+        x: 5141
+        y: 1135
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1535d995e8925cd10800000000000000
+      internalID: 2145166488877486929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_93
+      rect:
+        serializedVersion: 2
+        x: 5144
+        y: 1132
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78d82813c54e0900800000000000000
+      internalID: 652535700241569914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_94
+      rect:
+        serializedVersion: 2
+        x: 6050
+        y: 1118
+        width: 462
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7e6b8ccf27d0c00800000000000000
+      internalID: 868476733177128901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_95
+      rect:
+        serializedVersion: 2
+        x: 6092
+        y: 1143
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0532d1b9dd088a0800000000000000
+      internalID: -6304795820040171358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_96
+      rect:
+        serializedVersion: 2
+        x: 6095
+        y: 1143
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0fe73faa0c239d0800000000000000
+      internalID: -2795960578181500717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_97
+      rect:
+        serializedVersion: 2
+        x: 6095
+        y: 1140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6544e07828bb8cdd0800000000000000
+      internalID: -2465514626699344810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_98
+      rect:
+        serializedVersion: 2
+        x: 6098
+        y: 1139
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8234841be4d8980800000000000000
+      internalID: -8535079195468683020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_99
+      rect:
+        serializedVersion: 2
+        x: 6100
+        y: 1137
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6696679e37adff30800000000000000
+      internalID: 4611025480767149679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_100
+      rect:
+        serializedVersion: 2
+        x: 6104
+        y: 1134
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5026eea802905930800000000000000
+      internalID: 4129961424290455646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_101
+      rect:
+        serializedVersion: 2
+        x: 7010
+        y: 1120
+        width: 461
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48da76a43250be4e0800000000000000
+      internalID: -1951460364404675196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_102
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 159
+        width: 460
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147d417808acf8f10800000000000000
+      internalID: 2274258990216304449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_103
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 183
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1799d1c574a8c4400800000000000000
+      internalID: 309774513474476401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_104
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 183
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32adfad03a9fc3070800000000000000
+      internalID: 8087613509555182115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_105
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a150d9ef4eeda00800000000000000
+      internalID: 783315167416228425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_106
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 179
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbeb4810ba2e44c0800000000000000
+      internalID: -4301453658282005550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_107
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 177
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606a89d69b8a7d670800000000000000
+      internalID: 8563498730829424134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_108
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 174
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366420b50a6b407f0800000000000000
+      internalID: -647191646596610461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_109
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 168
+        width: 89
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaa5850e4ade5840800000000000000
+      internalID: 5214845447176563371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_110
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 159
+        width: 407
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89601f482d1581ef0800000000000000
+      internalID: -137269824019429736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_111
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 158
+        width: 458
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d383642b7a4f9f460800000000000000
+      internalID: 7276115674081409085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_112
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 184
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213ac8fbc66ea58e0800000000000000
+      internalID: -1703796154261789934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_113
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 184
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a9dd72b947e2400800000000000000
+      internalID: 301306434817989234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_114
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 178
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f20a5d678114fb0800000000000000
+      internalID: -4665420840309870736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_115
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 176
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73eee4ed9ce4eec0800000000000000
+      internalID: -3538443244311485574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_116
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 172
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55fd920d1dc72f80800000000000000
+      internalID: -8131305077712489126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_117
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 160
+        width: 457
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ce89942ae6da310800000000000000
+      internalID: 1417911100990090312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_118
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 180
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b542ad84d1c9c6190800000000000000
+      internalID: -7967821991135009701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_119
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 174
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0472b8a1fb940890800000000000000
+      internalID: -7492692417817971701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_120
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 172
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0213987d95fe2a8e0800000000000000
+      internalID: -1683520141535923936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_121
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 159
+        width: 455
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41f29bec01d56630800000000000000
+      internalID: 3919768904117973327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_122
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 175
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8119aee3c2c41d80800000000000000
+      internalID: -8280779668049030771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_123
+      rect:
+        serializedVersion: 2
+        x: 4183
+        y: 174
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50caaf9edad172ed0800000000000000
+      internalID: -2438948040405767163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_124
+      rect:
+        serializedVersion: 2
+        x: 4184
+        y: 173
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b8d4ad49ac403b0800000000000000
+      internalID: -5547086100347122880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_125
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 159
+        width: 452
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5657b0b59983e20c0800000000000000
+      internalID: -4598675938190068379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_126
+      rect:
+        serializedVersion: 2
+        x: 5132
+        y: 178
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9923bc9a75fd6a0800000000000000
+      internalID: -6422318156836857381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_127
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 179
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a61ed83c70ffa300800000000000000
+      internalID: 265695319358838440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_128
+      rect:
+        serializedVersion: 2
+        x: 5137
+        y: 180
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1214c30aad1e21af0800000000000000
+      internalID: -427030685539352287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_129
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 178
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb560a72710b3fb0800000000000000
+      internalID: -4667134997654250512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_130
+      rect:
+        serializedVersion: 2
+        x: 5139
+        y: 176
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538f0e9b140ebe090800000000000000
+      internalID: -8004057339824900043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_131
+      rect:
+        serializedVersion: 2
+        x: 6047
+        y: 159
+        width: 450
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0586368575323fb20800000000000000
+      internalID: 3166913821023627344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_132
+      rect:
+        serializedVersion: 2
+        x: 6089
+        y: 183
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cbc387b92b7de00800000000000000
+      internalID: 1069519817330703492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_133
+      rect:
+        serializedVersion: 2
+        x: 6092
+        y: 183
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d19294413df1730800000000000000
+      internalID: 3972125480444304686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_134
+      rect:
+        serializedVersion: 2
+        x: 6092
+        y: 180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9018b169f5db20020800000000000000
+      internalID: 2306614177405042953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_135
+      rect:
+        serializedVersion: 2
+        x: 6095
+        y: 179
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b27e911a97cff9e0800000000000000
+      internalID: -1585329079276637514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_136
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 177
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0b952db61e4ccc0800000000000000
+      internalID: -3691577941330120539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_137
+      rect:
+        serializedVersion: 2
+        x: 6101
+        y: 172
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ac9b7051c19ac90800000000000000
+      internalID: -7158159256079185356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_138
+      rect:
+        serializedVersion: 2
+        x: 6116
+        y: 170
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65058deae6426970800000000000000
+      internalID: 8746631401128133996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_139
+      rect:
+        serializedVersion: 2
+        x: 7007
+        y: 159
+        width: 446
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074ceaad9756fbb10800000000000000
+      internalID: 1999428333610124400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokMove_140
+      rect:
+        serializedVersion: 2
+        x: 7056
+        y: 175
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b4c097946c58a90800000000000000
+      internalID: -7312220401100371147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ClokMove_0: -2751303219264883593
+      ClokMove_1: 3892128582219344258
+      ClokMove_10: 1158127587845037798
+      ClokMove_100: 4129961424290455646
+      ClokMove_101: -1951460364404675196
+      ClokMove_102: 2274258990216304449
+      ClokMove_103: 309774513474476401
+      ClokMove_104: 8087613509555182115
+      ClokMove_105: 783315167416228425
+      ClokMove_106: -4301453658282005550
+      ClokMove_107: 8563498730829424134
+      ClokMove_108: -647191646596610461
+      ClokMove_109: 5214845447176563371
+      ClokMove_11: 3910469653704732577
+      ClokMove_110: -137269824019429736
+      ClokMove_111: 7276115674081409085
+      ClokMove_112: -1703796154261789934
+      ClokMove_113: 301306434817989234
+      ClokMove_114: -4665420840309870736
+      ClokMove_115: -3538443244311485574
+      ClokMove_116: -8131305077712489126
+      ClokMove_117: 1417911100990090312
+      ClokMove_118: -7967821991135009701
+      ClokMove_119: -7492692417817971701
+      ClokMove_12: 6327078117624762537
+      ClokMove_120: -1683520141535923936
+      ClokMove_121: 3919768904117973327
+      ClokMove_122: -8280779668049030771
+      ClokMove_123: -2438948040405767163
+      ClokMove_124: -5547086100347122880
+      ClokMove_125: -4598675938190068379
+      ClokMove_126: -6422318156836857381
+      ClokMove_127: 265695319358838440
+      ClokMove_128: -427030685539352287
+      ClokMove_129: -4667134997654250512
+      ClokMove_13: 3958273136472430625
+      ClokMove_130: -8004057339824900043
+      ClokMove_131: 3166913821023627344
+      ClokMove_132: 1069519817330703492
+      ClokMove_133: 3972125480444304686
+      ClokMove_134: 2306614177405042953
+      ClokMove_135: -1585329079276637514
+      ClokMove_136: -3691577941330120539
+      ClokMove_137: -7158159256079185356
+      ClokMove_138: 8746631401128133996
+      ClokMove_139: 1999428333610124400
+      ClokMove_14: -2072241118071736792
+      ClokMove_140: -7312220401100371147
+      ClokMove_15: -6233928702129234355
+      ClokMove_16: -146448376887257543
+      ClokMove_17: 6592110836523425749
+      ClokMove_18: 8791822795151649602
+      ClokMove_19: -1485119621245517786
+      ClokMove_2: 694110030058694336
+      ClokMove_20: 78160778936618272
+      ClokMove_21: -5480312203923941276
+      ClokMove_22: -7503802770468784028
+      ClokMove_23: -5981724009084137507
+      ClokMove_24: -2034885045269034569
+      ClokMove_25: -1931571765139394047
+      ClokMove_26: 6326577016816403172
+      ClokMove_27: 5391728656674503349
+      ClokMove_28: -3896581953242414244
+      ClokMove_29: 2212634230185164819
+      ClokMove_3: -4191473498881975855
+      ClokMove_30: -3393254360786577273
+      ClokMove_31: -9032978519046496117
+      ClokMove_32: -1293692454233324089
+      ClokMove_33: 190145776315916447
+      ClokMove_34: -2230395522139633627
+      ClokMove_35: -4553989277357920064
+      ClokMove_36: -6901492944170902189
+      ClokMove_37: 7673940444578341541
+      ClokMove_38: 383573857689147183
+      ClokMove_39: -1091836594375415239
+      ClokMove_4: -3233245540582768561
+      ClokMove_40: 8044480071386079723
+      ClokMove_41: 2532614143722086436
+      ClokMove_42: 7586701746654746743
+      ClokMove_43: -5551248665793666510
+      ClokMove_44: -4333155206517611330
+      ClokMove_45: 1833285562564370494
+      ClokMove_46: 1896152346954926544
+      ClokMove_47: 2129878536746675112
+      ClokMove_48: 6861011242418131276
+      ClokMove_49: -682931710428429964
+      ClokMove_5: 6362227311112488649
+      ClokMove_50: 2087946869147726175
+      ClokMove_51: 2004977350837643183
+      ClokMove_52: 9222161086210065539
+      ClokMove_53: 2354420730787112179
+      ClokMove_54: 6559612550343414350
+      ClokMove_55: 875648047010918352
+      ClokMove_56: 2361935890818402997
+      ClokMove_57: -2933013747042740879
+      ClokMove_58: -1885984516326012430
+      ClokMove_59: -4788988855823617931
+      ClokMove_6: 5394310909435647254
+      ClokMove_60: -7966263523312068267
+      ClokMove_61: 3042326731632859651
+      ClokMove_62: -8993984656453184242
+      ClokMove_63: -6517616010894349266
+      ClokMove_64: -4913439187481113941
+      ClokMove_65: 2866434509212986908
+      ClokMove_66: -3540983956769615791
+      ClokMove_67: 3827167835222339094
+      ClokMove_68: 1491218529372988631
+      ClokMove_69: 5546288149045285235
+      ClokMove_7: 7950169886318716934
+      ClokMove_70: -6133286342839784538
+      ClokMove_71: 9019096087116517158
+      ClokMove_72: 8431424644707739805
+      ClokMove_73: 9085383035344289117
+      ClokMove_74: -8245297189749596548
+      ClokMove_75: 8974623692394936294
+      ClokMove_76: -8357248528446580733
+      ClokMove_77: 9176670654667824693
+      ClokMove_78: -130537173764971968
+      ClokMove_79: 6157621994554575158
+      ClokMove_8: 9152044277892609555
+      ClokMove_80: 4877770444423927284
+      ClokMove_81: 5461530751123332647
+      ClokMove_82: 2086652955615507212
+      ClokMove_83: 2913900407527791649
+      ClokMove_84: -7982609718186297027
+      ClokMove_85: -325504082269151521
+      ClokMove_86: -8431105253380969275
+      ClokMove_87: 5773196591078453329
+      ClokMove_88: -5239302511326435357
+      ClokMove_89: 6230909024181767603
+      ClokMove_9: 2930384547353190933
+      ClokMove_90: -4365628491970122194
+      ClokMove_91: 4284010917068504995
+      ClokMove_92: 2145166488877486929
+      ClokMove_93: 652535700241569914
+      ClokMove_94: 868476733177128901
+      ClokMove_95: -6304795820040171358
+      ClokMove_96: -2795960578181500717
+      ClokMove_97: -2465514626699344810
+      ClokMove_98: -8535079195468683020
+      ClokMove_99: 4611025480767149679
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6162 @@
+fileFormatVersion: 2
+guid: b508e4dd5faac0443b7383e3ff3c6d58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7687612669928502696
+    second: ClokIdle_0
+  - first:
+      213: -2067121338904328653
+    second: ClokIdle_1
+  - first:
+      213: -4551611585499379412
+    second: ClokIdle_2
+  - first:
+      213: 448971518149715154
+    second: ClokIdle_3
+  - first:
+      213: 4327980912640268839
+    second: ClokIdle_4
+  - first:
+      213: -4009641881892571801
+    second: ClokIdle_5
+  - first:
+      213: -2380969928337825550
+    second: ClokIdle_6
+  - first:
+      213: 2009902728282644432
+    second: ClokIdle_7
+  - first:
+      213: -9184107681007520932
+    second: ClokIdle_8
+  - first:
+      213: -4961175338771317374
+    second: ClokIdle_9
+  - first:
+      213: 5000362977750237185
+    second: ClokIdle_10
+  - first:
+      213: -3006873362766552678
+    second: ClokIdle_11
+  - first:
+      213: 3544504003370025118
+    second: ClokIdle_12
+  - first:
+      213: -7033459955309850132
+    second: ClokIdle_13
+  - first:
+      213: -4444266180020413294
+    second: ClokIdle_14
+  - first:
+      213: 771323148143546302
+    second: ClokIdle_15
+  - first:
+      213: 6852760150197964294
+    second: ClokIdle_16
+  - first:
+      213: 8699975631136516901
+    second: ClokIdle_17
+  - first:
+      213: -8541306637832505329
+    second: ClokIdle_18
+  - first:
+      213: -647426735974008139
+    second: ClokIdle_19
+  - first:
+      213: 4167934801584049488
+    second: ClokIdle_20
+  - first:
+      213: -1271538763957911564
+    second: ClokIdle_21
+  - first:
+      213: -8884352737141954091
+    second: ClokIdle_22
+  - first:
+      213: 5947106192719974223
+    second: ClokIdle_23
+  - first:
+      213: -6995058947376705763
+    second: ClokIdle_24
+  - first:
+      213: -493996851176175613
+    second: ClokIdle_25
+  - first:
+      213: 5551735495761518408
+    second: ClokIdle_26
+  - first:
+      213: -3609545374806183371
+    second: ClokIdle_27
+  - first:
+      213: -4786552976155618268
+    second: ClokIdle_28
+  - first:
+      213: 3197100113404423929
+    second: ClokIdle_29
+  - first:
+      213: 6871900505890267723
+    second: ClokIdle_30
+  - first:
+      213: 1194247717835256515
+    second: ClokIdle_31
+  - first:
+      213: 5230378281463624619
+    second: ClokIdle_32
+  - first:
+      213: 2608724953472366654
+    second: ClokIdle_33
+  - first:
+      213: 2817136917443248994
+    second: ClokIdle_34
+  - first:
+      213: 3598281760393374269
+    second: ClokIdle_35
+  - first:
+      213: 4770870660893034585
+    second: ClokIdle_36
+  - first:
+      213: -563373257724326991
+    second: ClokIdle_37
+  - first:
+      213: 8824282726191754854
+    second: ClokIdle_38
+  - first:
+      213: -8819201996407841586
+    second: ClokIdle_39
+  - first:
+      213: -5698472961812917155
+    second: ClokIdle_40
+  - first:
+      213: -708158995797878480
+    second: ClokIdle_41
+  - first:
+      213: -5351747436023558303
+    second: ClokIdle_42
+  - first:
+      213: -3320032172913021906
+    second: ClokIdle_43
+  - first:
+      213: -4431299759545178012
+    second: ClokIdle_44
+  - first:
+      213: -4304098885799815962
+    second: ClokIdle_45
+  - first:
+      213: 6609455554597620164
+    second: ClokIdle_46
+  - first:
+      213: -5544026805163868790
+    second: ClokIdle_47
+  - first:
+      213: 4472213376846302780
+    second: ClokIdle_48
+  - first:
+      213: -7647386966926868601
+    second: ClokIdle_49
+  - first:
+      213: 2241597506479241904
+    second: ClokIdle_50
+  - first:
+      213: -7729297106884193629
+    second: ClokIdle_51
+  - first:
+      213: 2419536399551282019
+    second: ClokIdle_52
+  - first:
+      213: 4734127386555952029
+    second: ClokIdle_53
+  - first:
+      213: 1265177198214197108
+    second: ClokIdle_54
+  - first:
+      213: 8507786917838762343
+    second: ClokIdle_55
+  - first:
+      213: -1621456372596909419
+    second: ClokIdle_56
+  - first:
+      213: 540441998657046532
+    second: ClokIdle_57
+  - first:
+      213: 8911006883671793366
+    second: ClokIdle_58
+  - first:
+      213: 4549723796165559280
+    second: ClokIdle_59
+  - first:
+      213: 4590317446612853339
+    second: ClokIdle_60
+  - first:
+      213: -6838991329175060215
+    second: ClokIdle_61
+  - first:
+      213: -1062875772050117838
+    second: ClokIdle_62
+  - first:
+      213: 2022879911617335910
+    second: ClokIdle_63
+  - first:
+      213: 4988358751055768942
+    second: ClokIdle_64
+  - first:
+      213: -3177945568389873934
+    second: ClokIdle_65
+  - first:
+      213: -1644486212680924062
+    second: ClokIdle_66
+  - first:
+      213: 55296736294357019
+    second: ClokIdle_67
+  - first:
+      213: -4607541544223018373
+    second: ClokIdle_68
+  - first:
+      213: -508433288987478819
+    second: ClokIdle_69
+  - first:
+      213: 4717157724850294784
+    second: ClokIdle_70
+  - first:
+      213: -1431541563824280616
+    second: ClokIdle_71
+  - first:
+      213: -8648493856217849400
+    second: ClokIdle_72
+  - first:
+      213: 7461666727757609232
+    second: ClokIdle_73
+  - first:
+      213: 7977208108541873127
+    second: ClokIdle_74
+  - first:
+      213: 2484735377151239246
+    second: ClokIdle_75
+  - first:
+      213: -1821922983850198899
+    second: ClokIdle_76
+  - first:
+      213: -4399973994281519535
+    second: ClokIdle_77
+  - first:
+      213: -6470732016763162309
+    second: ClokIdle_78
+  - first:
+      213: 7363542893145501611
+    second: ClokIdle_79
+  - first:
+      213: 2824258418380170869
+    second: ClokIdle_80
+  - first:
+      213: 1639168549556691590
+    second: ClokIdle_81
+  - first:
+      213: 910348870087555464
+    second: ClokIdle_82
+  - first:
+      213: -6488841222764830488
+    second: ClokIdle_83
+  - first:
+      213: -1647178744400940861
+    second: ClokIdle_84
+  - first:
+      213: -4205428862320548915
+    second: ClokIdle_85
+  - first:
+      213: -1485619601263131659
+    second: ClokIdle_86
+  - first:
+      213: 6234346709995048915
+    second: ClokIdle_87
+  - first:
+      213: 1730195855879352749
+    second: ClokIdle_88
+  - first:
+      213: -6441504124881292443
+    second: ClokIdle_89
+  - first:
+      213: -8216270357184769603
+    second: ClokIdle_90
+  - first:
+      213: -2463736266089526264
+    second: ClokIdle_91
+  - first:
+      213: 3644934749974684730
+    second: ClokIdle_92
+  - first:
+      213: 2425792332832424426
+    second: ClokIdle_93
+  - first:
+      213: 4339883408759386579
+    second: ClokIdle_94
+  - first:
+      213: -7330265335326098088
+    second: ClokIdle_95
+  - first:
+      213: 3183557763725523732
+    second: ClokIdle_96
+  - first:
+      213: -6711640579202110439
+    second: ClokIdle_97
+  - first:
+      213: 7125873209696322279
+    second: ClokIdle_98
+  - first:
+      213: 6377691637907711682
+    second: ClokIdle_99
+  - first:
+      213: 7595131556313389176
+    second: ClokIdle_100
+  - first:
+      213: 4993746460770741754
+    second: ClokIdle_101
+  - first:
+      213: -268072352935435726
+    second: ClokIdle_102
+  - first:
+      213: -944045907319432612
+    second: ClokIdle_103
+  - first:
+      213: -3156246336554694337
+    second: ClokIdle_104
+  - first:
+      213: -8793428582324461560
+    second: ClokIdle_105
+  - first:
+      213: 9100763704268445367
+    second: ClokIdle_106
+  - first:
+      213: 2225398738479386772
+    second: ClokIdle_107
+  - first:
+      213: 162109845828338093
+    second: ClokIdle_108
+  - first:
+      213: -3958647830965152775
+    second: ClokIdle_109
+  - first:
+      213: -852742667216725730
+    second: ClokIdle_110
+  - first:
+      213: -7311350847700135873
+    second: ClokIdle_111
+  - first:
+      213: 8672005827691533765
+    second: ClokIdle_112
+  - first:
+      213: 8276348451740027146
+    second: ClokIdle_113
+  - first:
+      213: -2341113824007237874
+    second: ClokIdle_114
+  - first:
+      213: 1508353455113065334
+    second: ClokIdle_115
+  - first:
+      213: -4712075365909347900
+    second: ClokIdle_116
+  - first:
+      213: 2739903195469940787
+    second: ClokIdle_117
+  - first:
+      213: -2846103863733306261
+    second: ClokIdle_118
+  - first:
+      213: -1702003944726934364
+    second: ClokIdle_119
+  - first:
+      213: 2291141008129633658
+    second: ClokIdle_120
+  - first:
+      213: 4404221516890032824
+    second: ClokIdle_121
+  - first:
+      213: 1717265799274969009
+    second: ClokIdle_122
+  - first:
+      213: -4423051476683607723
+    second: ClokIdle_123
+  - first:
+      213: 4105707838077676239
+    second: ClokIdle_124
+  - first:
+      213: -5578556058206371759
+    second: ClokIdle_125
+  - first:
+      213: -76511850932545950
+    second: ClokIdle_126
+  - first:
+      213: 582704869756085019
+    second: ClokIdle_127
+  - first:
+      213: -5607309939158627807
+    second: ClokIdle_128
+  - first:
+      213: 8364913967589862169
+    second: ClokIdle_129
+  - first:
+      213: -7372670070968131657
+    second: ClokIdle_130
+  - first:
+      213: 7291205170475145705
+    second: ClokIdle_131
+  - first:
+      213: -7442444608981381256
+    second: ClokIdle_132
+  - first:
+      213: 8901543253150841264
+    second: ClokIdle_133
+  - first:
+      213: -37585680243685501
+    second: ClokIdle_134
+  - first:
+      213: -2817459136048841551
+    second: ClokIdle_135
+  - first:
+      213: 3438034819646054635
+    second: ClokIdle_136
+  - first:
+      213: -7456831754064096125
+    second: ClokIdle_137
+  - first:
+      213: 1809950815816732407
+    second: ClokIdle_138
+  - first:
+      213: -8109764274295439405
+    second: ClokIdle_139
+  - first:
+      213: 588842558047168947
+    second: ClokIdle_140
+  - first:
+      213: -3382624109250627083
+    second: ClokIdle_141
+  - first:
+      213: 1298467357792037873
+    second: ClokIdle_142
+  - first:
+      213: -6426591619180428394
+    second: ClokIdle_143
+  - first:
+      213: -1216076327204905592
+    second: ClokIdle_144
+  - first:
+      213: 2491944470317475573
+    second: ClokIdle_145
+  - first:
+      213: -7212536106626563008
+    second: ClokIdle_146
+  - first:
+      213: -8300780929693466673
+    second: ClokIdle_147
+  - first:
+      213: 1412082239060441368
+    second: ClokIdle_148
+  - first:
+      213: -3301239585648898571
+    second: ClokIdle_149
+  - first:
+      213: -8411983658150676860
+    second: ClokIdle_150
+  - first:
+      213: 5341719824206005798
+    second: ClokIdle_151
+  - first:
+      213: 1701559057875170964
+    second: ClokIdle_152
+  - first:
+      213: 4708790652635326151
+    second: ClokIdle_153
+  - first:
+      213: -801166523476643659
+    second: ClokIdle_154
+  - first:
+      213: 2350215977173611720
+    second: ClokIdle_155
+  - first:
+      213: 4937402440132313011
+    second: ClokIdle_156
+  - first:
+      213: -1853901278416707662
+    second: ClokIdle_157
+  - first:
+      213: -8695782524600841144
+    second: ClokIdle_158
+  - first:
+      213: 8445452048467747355
+    second: ClokIdle_159
+  - first:
+      213: 6423284831952364758
+    second: ClokIdle_160
+  - first:
+      213: 1027250595562552177
+    second: ClokIdle_161
+  - first:
+      213: -8564628562205314567
+    second: ClokIdle_162
+  - first:
+      213: 7889279778934468092
+    second: ClokIdle_163
+  - first:
+      213: -3194980919083741795
+    second: ClokIdle_164
+  - first:
+      213: -447350727953901768
+    second: ClokIdle_165
+  - first:
+      213: -4485671027985523829
+    second: ClokIdle_166
+  - first:
+      213: -6021532772486949890
+    second: ClokIdle_167
+  - first:
+      213: -1414464576633424726
+    second: ClokIdle_168
+  - first:
+      213: 1063019979128797515
+    second: ClokIdle_169
+  - first:
+      213: 2078642966004338503
+    second: ClokIdle_170
+  - first:
+      213: 2707439212542360003
+    second: ClokIdle_171
+  - first:
+      213: 6368749049263066013
+    second: ClokIdle_172
+  - first:
+      213: 6531665411561026398
+    second: ClokIdle_173
+  - first:
+      213: -1272308435781490547
+    second: ClokIdle_174
+  - first:
+      213: -8135961962782326429
+    second: ClokIdle_175
+  - first:
+      213: 3068142085060739668
+    second: ClokIdle_176
+  - first:
+      213: 6683935577559687501
+    second: ClokIdle_177
+  - first:
+      213: 8318265098880592323
+    second: ClokIdle_178
+  - first:
+      213: -608515132542269631
+    second: ClokIdle_179
+  - first:
+      213: 8408284183827779818
+    second: ClokIdle_180
+  - first:
+      213: -8763243437789367114
+    second: ClokIdle_181
+  - first:
+      213: 6367219987293164944
+    second: ClokIdle_182
+  - first:
+      213: -5012610936770803161
+    second: ClokIdle_183
+  - first:
+      213: -1537766774328790505
+    second: ClokIdle_184
+  - first:
+      213: 408534429047576576
+    second: ClokIdle_185
+  - first:
+      213: -3491452730247856783
+    second: ClokIdle_186
+  - first:
+      213: -6086304104272418356
+    second: ClokIdle_187
+  - first:
+      213: -2629295702456342771
+    second: ClokIdle_188
+  - first:
+      213: 856882332494095988
+    second: ClokIdle_189
+  - first:
+      213: 6432013597220342845
+    second: ClokIdle_190
+  - first:
+      213: 2401679832870397745
+    second: ClokIdle_191
+  - first:
+      213: 5337215347249740069
+    second: ClokIdle_192
+  - first:
+      213: 1420411165019668463
+    second: ClokIdle_193
+  - first:
+      213: 7619185729001692519
+    second: ClokIdle_194
+  - first:
+      213: -8739721185441174418
+    second: ClokIdle_195
+  - first:
+      213: 3562866729619037755
+    second: ClokIdle_196
+  - first:
+      213: 9167088014452351705
+    second: ClokIdle_197
+  - first:
+      213: -4634565317919559403
+    second: ClokIdle_198
+  - first:
+      213: 7099898070247455263
+    second: ClokIdle_199
+  - first:
+      213: 4339549942269079740
+    second: ClokIdle_200
+  - first:
+      213: 2828118677317058424
+    second: ClokIdle_201
+  - first:
+      213: 6235023287117567518
+    second: ClokIdle_202
+  - first:
+      213: 2801733921654191046
+    second: ClokIdle_203
+  - first:
+      213: 4198168869608422688
+    second: ClokIdle_204
+  - first:
+      213: -2715023067022558725
+    second: ClokIdle_205
+  - first:
+      213: 6436428380566723007
+    second: ClokIdle_206
+  - first:
+      213: -6080545514232481487
+    second: ClokIdle_207
+  - first:
+      213: -5207066892104909232
+    second: ClokIdle_208
+  - first:
+      213: 910225125315804293
+    second: ClokIdle_209
+  - first:
+      213: -2226756567967103784
+    second: ClokIdle_210
+  - first:
+      213: -8620149063694335189
+    second: ClokIdle_211
+  - first:
+      213: 2403313020322106094
+    second: ClokIdle_212
+  - first:
+      213: 457644161747264231
+    second: ClokIdle_213
+  - first:
+      213: -8885387407656130092
+    second: ClokIdle_214
+  - first:
+      213: 8252554932204681214
+    second: ClokIdle_215
+  - first:
+      213: -1871228249994891549
+    second: ClokIdle_216
+  - first:
+      213: 7541045160670608470
+    second: ClokIdle_217
+  - first:
+      213: 8719608683965360049
+    second: ClokIdle_218
+  - first:
+      213: 244880832202132622
+    second: ClokIdle_219
+  - first:
+      213: 5827446747203898176
+    second: ClokIdle_220
+  - first:
+      213: 2833964907473301469
+    second: ClokIdle_221
+  - first:
+      213: -8764291566509718825
+    second: ClokIdle_222
+  - first:
+      213: 2071620148989641214
+    second: ClokIdle_223
+  - first:
+      213: -9123677957322556340
+    second: ClokIdle_224
+  - first:
+      213: -4815241311758260672
+    second: ClokIdle_225
+  - first:
+      213: -965846295185303620
+    second: ClokIdle_226
+  - first:
+      213: 4671407951481331172
+    second: ClokIdle_227
+  - first:
+      213: -2317185676451133134
+    second: ClokIdle_228
+  - first:
+      213: 5269824871402441558
+    second: ClokIdle_229
+  - first:
+      213: -1658942694578418922
+    second: ClokIdle_230
+  - first:
+      213: -4886845961433816114
+    second: ClokIdle_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClokIdle_0
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 7311
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a8e16e10d105590800000000000000
+      internalID: -7687612669928502696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 7299
+        width: 225
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3364af6281c1053e0800000000000000
+      internalID: -2067121338904328653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 7307
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29c1c2e06d65d0c0800000000000000
+      internalID: -4551611585499379412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_3
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 7299
+        width: 257
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4e49d87311b3600800000000000000
+      internalID: 448971518149715154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_4
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 7309
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a189c95b3101c30800000000000000
+      internalID: 4327980912640268839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_5
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 7299
+        width: 253
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765b341d3f3ea58c0800000000000000
+      internalID: -4009641881892571801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_6
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 7309
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f06980177815fed0800000000000000
+      internalID: -2380969928337825550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 7299
+        width: 246
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df1068e1eb94eb10800000000000000
+      internalID: 2009902728282644432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_8
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 7315
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c533c9e39be7b8080800000000000000
+      internalID: -9184107681007520932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_9
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 7298
+        width: 263
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d7b18905d562bb0800000000000000
+      internalID: -4961175338771317374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_10
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 7316
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10041dc92abd46540800000000000000
+      internalID: 5000362977750237185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_11
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 7309
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9127bf8b907546d0800000000000000
+      internalID: -3006873362766552678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_12
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 7309
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9002d98c9b903130800000000000000
+      internalID: 3544504003370025118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_13
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 7299
+        width: 249
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce152dd7f61246e90800000000000000
+      internalID: -7033459955309850132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_14
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 7309
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cd99cb47bc252c0800000000000000
+      internalID: -4444266180020413294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_15
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 7299
+        width: 248
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfc12c015a44ba00800000000000000
+      internalID: 771323148143546302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_16
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 7309
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e80839c05e91f50800000000000000
+      internalID: 6852760150197964294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_17
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 6698
+        width: 258
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b6278fdb58cb870800000000000000
+      internalID: 8699975631136516901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_18
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 6710
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08be4eddde277980800000000000000
+      internalID: -8541306637832505329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_19
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 6700
+        width: 252
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5babd2850d0e307f0800000000000000
+      internalID: -647426735974008139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_20
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 6710
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dc76f8e9a77d930800000000000000
+      internalID: 4167934801584049488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_21
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 6708
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff36282b369a5ee0800000000000000
+      internalID: -1271538763957911564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_22
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 6699
+        width: 228
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d96263c14074b480800000000000000
+      internalID: -8884352737141954091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_23
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 6711
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f899ab29d588250800000000000000
+      internalID: 5947106192719974223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_24
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 6708
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f81b2e2fe8cee90800000000000000
+      internalID: -6995058947376705763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_25
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 6706
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3088b7d2b78f429f0800000000000000
+      internalID: -493996851176175613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_26
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 6700
+        width: 225
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fdacfd40abb0d40800000000000000
+      internalID: 5551735495761518408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_27
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 6708
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532f5061b9158edc0800000000000000
+      internalID: -3609545374806183371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_28
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 6706
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424d7adad6fb29db0800000000000000
+      internalID: -4786552976155618268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_29
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 6706
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fee4da3d916e5c20800000000000000
+      internalID: 3197100113404423929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_30
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 6716
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42aa69e915ed5f50800000000000000
+      internalID: 6871900505890267723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_31
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 6698
+        width: 257
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c23463d8f1d29010800000000000000
+      internalID: 1194247717835256515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_32
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 6699
+        width: 255
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3be83d559069840800000000000000
+      internalID: 5230378281463624619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_33
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 6716
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38fa68068d043420800000000000000
+      internalID: 2608724953472366654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_34
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 6706
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26308dfb91b781720800000000000000
+      internalID: 2817136917443248994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_35
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 6707
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aa302523aafe130800000000000000
+      internalID: 3598281760393374269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_36
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 6699
+        width: 235
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958ccd3c699853240800000000000000
+      internalID: 4770870660893034585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_37
+      rect:
+        serializedVersion: 2
+        x: 4016
+        y: 6711
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb0369c10f7e28f0800000000000000
+      internalID: -563373257724326991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_38
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 6706
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e664ce266267a70800000000000000
+      internalID: 8824282726191754854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_39
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 6109
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccd1b9a286eb9580800000000000000
+      internalID: -8819201996407841586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_40
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 6098
+        width: 253
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5419f47805fae0b0800000000000000
+      internalID: -5698472961812917155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_41
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 6110
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03958f2352d1c26f0800000000000000
+      internalID: -708158995797878480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_42
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 6109
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f453ccf06cab5b0800000000000000
+      internalID: -5351747436023558303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_43
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 6099
+        width: 281
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ca6aa3450ece1d0800000000000000
+      internalID: -3320032172913021906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_44
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 6105
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4682903c85cd082c0800000000000000
+      internalID: -4431299759545178012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_45
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 6098
+        width: 245
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e45fb11ed4c444c0800000000000000
+      internalID: -4304098885799815962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_46
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 6109
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9068afec089bb50800000000000000
+      internalID: 6609455554597620164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_47
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 6106
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8db6f48ef8af03b0800000000000000
+      internalID: -5544026805163868790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_48
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 6107
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e8ca61f5e701e30800000000000000
+      internalID: 4472213376846302780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_49
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 6109
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f3f5832160fd590800000000000000
+      internalID: -7647386966926868601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_50
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 6100
+        width: 281
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bab81f3e01cb1f10800000000000000
+      internalID: 2241597506479241904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_51
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 6110
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a296bc9b350cb490800000000000000
+      internalID: -7729297106884193629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_52
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 6109
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bb160498be39120800000000000000
+      internalID: 2419536399551282019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_53
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 6099
+        width: 254
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bad1d86cff2b140800000000000000
+      internalID: 4734127386555952029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_54
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 6110
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f2b7565ffce8110800000000000000
+      internalID: 1265177198214197108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_55
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 6107
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761be76202bb11670800000000000000
+      internalID: 8507786917838762343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_56
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 6099
+        width: 269
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a519c150e6f79e0800000000000000
+      internalID: -1621456372596909419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_57
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 6099
+        width: 263
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408c7a76229008700800000000000000
+      internalID: 540441998657046532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_58
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 6109
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de51545c814aab70800000000000000
+      internalID: 8911006883671793366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_59
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 5506
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f30798efadd32f30800000000000000
+      internalID: 4549723796165559280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 5516
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5223aba56514bf30800000000000000
+      internalID: 4590317446612853339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5500
+        width: 235
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9014b82ee950711a0800000000000000
+      internalID: -6838991329175060215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_62
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 5514
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b659edd18ef31f0800000000000000
+      internalID: -1062875772050117838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_63
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 5508
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662993bdf86b21c10800000000000000
+      internalID: 2022879911617335910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_64
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 5499
+        width: 259
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6de3e8cad53a3540800000000000000
+      internalID: 4988358751055768942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_65
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 5509
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe3890d75ba5e3d0800000000000000
+      internalID: -3177945568389873934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_66
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 5508
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264402f908c9d29e0800000000000000
+      internalID: -1644486212680924062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_67
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 5499
+        width: 239
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b184014b61474c000800000000000000
+      internalID: 55296736294357019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_68
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 5510
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b727bb89069be00c0800000000000000
+      internalID: -4607541544223018373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_69
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 5499
+        width: 254
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4fae11e9ea1f8f0800000000000000
+      internalID: -508433288987478819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_70
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 5507
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000113b45f5b67140800000000000000
+      internalID: 4717157724850294784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_71
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 5498
+        width: 272
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbeb074884222ce0800000000000000
+      internalID: -1431541563824280616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_72
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 5500
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1acf1d8a06af780800000000000000
+      internalID: -8648493856217849400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_73
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 5509
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019f754fa5a2d8760800000000000000
+      internalID: 7461666727757609232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_74
+      rect:
+        serializedVersion: 2
+        x: 3790
+        y: 5509
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb0109728cb4be60800000000000000
+      internalID: 7977208108541873127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_75
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 5499
+        width: 243
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4422fb29ad8b7220800000000000000
+      internalID: 2484735377151239246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_76
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 5509
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d883d7bf2ba37b6e0800000000000000
+      internalID: -1821922983850198899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_77
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 4899
+        width: 253
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156b4e9d6f620f2c0800000000000000
+      internalID: -4399973994281519535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_78
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 4906
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31b510a3875336a0800000000000000
+      internalID: -6470732016763162309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_79
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 4898
+        width: 243
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf2a426f3f803660800000000000000
+      internalID: 7363542893145501611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_80
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 4898
+        width: 263
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576e4756118c13720800000000000000
+      internalID: 2824258418380170869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_81
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 4916
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682a1537c1f7fb610800000000000000
+      internalID: 1639168549556691590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_82
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 4900
+        width: 258
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8893f3f597532ac00800000000000000
+      internalID: 910348870087555464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_83
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 4912
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0e039894103f5a0800000000000000
+      internalID: -6488841222764830488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_84
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 4900
+        width: 249
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0786ab8ab0429e0800000000000000
+      internalID: -1647178744400940861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_85
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 4911
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc365352bb053a5c0800000000000000
+      internalID: -4205428862320548915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_86
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 4911
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f38a5308d4026be0800000000000000
+      internalID: -1485619601263131659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_87
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 4898
+        width: 258
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df41ef3d49d48650800000000000000
+      internalID: 6234346709995048915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_88
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 4907
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1ba85c6f3e20810800000000000000
+      internalID: 1730195855879352749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_89
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 4899
+        width: 276
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563bc31802e2b96a0800000000000000
+      internalID: -6441504124881292443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_90
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 4310
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db11e6d44a1f9fd80800000000000000
+      internalID: -8216270357184769603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_91
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 4307
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c8c7f5bec0fcdd0800000000000000
+      internalID: -2463736266089526264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_92
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4298
+        width: 254
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34e7b9e7d8659230800000000000000
+      internalID: 3644934749974684730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_93
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 4308
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1c75936452aa120800000000000000
+      internalID: 2425792332832424426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_94
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 4306
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1f6b177fc5a3c30800000000000000
+      internalID: 4339883408759386579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_95
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 4298
+        width: 225
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d3782d38aa54a90800000000000000
+      internalID: -7330265335326098088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_96
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 4308
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bfbcc3be44e2c20800000000000000
+      internalID: 3183557763725523732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_97
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 4306
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91caf88f3767bd2a0800000000000000
+      internalID: -6711640579202110439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_98
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 4306
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e20c620eef24e260800000000000000
+      internalID: 7125873209696322279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_99
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 4316
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6e77411cc128850800000000000000
+      internalID: 6377691637907711682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_100
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 4298
+        width: 228
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8785b64e8e3576960800000000000000
+      internalID: 7595131556313389176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_101
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 4313
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdaa94b2f95d4540800000000000000
+      internalID: 4993746460770741754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_102
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 4307
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2322e258d9d974cf0800000000000000
+      internalID: -268072352935435726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_103
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 4299
+        width: 254
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a5092cf3316e2f0800000000000000
+      internalID: -944045907319432612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_104
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 4310
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39870eeda2c234d0800000000000000
+      internalID: -3156246336554694337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_105
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 4307
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800a8c04b4777f580800000000000000
+      internalID: -8793428582324461560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_106
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 4299
+        width: 293
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b650b10f586c4e70800000000000000
+      internalID: 9100763704268445367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_107
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 4314
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4909aaaac5432ee10800000000000000
+      internalID: 2225398738479386772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_108
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 4309
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1013fbb0eef3200800000000000000
+      internalID: 162109845828338093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_109
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 4299
+        width: 277
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3937485ce0019c0800000000000000
+      internalID: -3958647830965152775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_110
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 4309
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e195abbef037a24f0800000000000000
+      internalID: -852742667216725730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_111
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 4298
+        width: 243
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f301596242dd88a90800000000000000
+      internalID: -7311350847700135873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_112
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 4309
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5dba1aa57295870800000000000000
+      internalID: 8672005827691533765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_113
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 4314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09815f111f7bd270800000000000000
+      internalID: 8276348451740027146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_114
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3705
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fca4d7161b28fd0800000000000000
+      internalID: -2341113824007237874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_115
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3698
+        width: 255
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6735fbfc97fbee410800000000000000
+      internalID: 1508353455113065334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_116
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3714
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1ca1c9b685b9eb0800000000000000
+      internalID: -4712075365909347900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_117
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3709
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33881fc8077160620800000000000000
+      internalID: 2739903195469940787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_118
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3709
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c3f408d9b9088d0800000000000000
+      internalID: -2846103863733306261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_119
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 3709
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4accc3c0e644168e0800000000000000
+      internalID: -1702003944726934364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_120
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 3698
+        width: 247
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7da5ef9b94cbcf10800000000000000
+      internalID: 2291141008129633658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_121
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 3706
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bacc529220fe1d30800000000000000
+      internalID: 4404221516890032824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_122
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 3709
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b736be5524f4d710800000000000000
+      internalID: 1717265799274969009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_123
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 3699
+        width: 277
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551b105cd1a2e92c0800000000000000
+      internalID: -4423051476683607723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_124
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 3707
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca282896876af830800000000000000
+      internalID: 4105707838077676239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_125
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 3700
+        width: 238
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150810f42dcf492b0800000000000000
+      internalID: -5578556058206371759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_126
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 3705
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266de0080ec20fef0800000000000000
+      internalID: -76511850932545950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_127
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 3708
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13a3b2edfe261800800000000000000
+      internalID: 582704869756085019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_128
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 3700
+        width: 256
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12acee2b155de22b0800000000000000
+      internalID: -5607309939158627807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_129
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 3699
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ba5ee2fe4261470800000000000000
+      internalID: 8364913967589862169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_130
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 3706
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf5acde1a30fa990800000000000000
+      internalID: -7372670070968131657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_131
+      rect:
+        serializedVersion: 2
+        x: 3171
+        y: 3699
+        width: 258
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e999aad8709f2560800000000000000
+      internalID: 7291205170475145705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_132
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 3716
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fc4255f0027b890800000000000000
+      internalID: -7442444608981381256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_133
+      rect:
+        serializedVersion: 2
+        x: 3426
+        y: 3707
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9b4d42d62a88b70800000000000000
+      internalID: 8901543253150841264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_134
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 3709
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3870f60e5087a7ff0800000000000000
+      internalID: -37585680243685501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_135
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 3699
+        width: 285
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc31a2e7df56e8d0800000000000000
+      internalID: -2817459136048841551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_136
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3108
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be06d66f37a56bf20800000000000000
+      internalID: 3438034819646054635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_137
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3100
+        width: 261
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38418251703048890800000000000000
+      internalID: -7456831754064096125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_138
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 3099
+        width: 254
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe4fad6dac3e1910800000000000000
+      internalID: 1809950815816732407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_139
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 3110
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df77722c54547f80800000000000000
+      internalID: -8109764274295439405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_140
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 3100
+        width: 243
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9a80dcf2dfb2800800000000000000
+      internalID: 588842558047168947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_141
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 3108
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9b1776b418e01d0800000000000000
+      internalID: -3382624109250627083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_142
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 3099
+        width: 245
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb62adae25150210800000000000000
+      internalID: 1298467357792037873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_143
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 3119
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6938f3ec8f820d6a0800000000000000
+      internalID: -6426591619180428394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_144
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 3110
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d90310601af1fe0800000000000000
+      internalID: -1216076327204905592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_145
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 3109
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6a549fa4a259220800000000000000
+      internalID: 2491944470317475573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_146
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 3099
+        width: 255
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04448daef9ce7eb90800000000000000
+      internalID: -7212536106626563008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_147
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 3100
+        width: 262
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfb84f49b3bdcc80800000000000000
+      internalID: -8300780929693466673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_148
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 3099
+        width: 237
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819f5dc9059b89310800000000000000
+      internalID: 1412082239060441368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_149
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 3108
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd80fa6614af22d0800000000000000
+      internalID: -3301239585648898571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_150
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3110
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486b9877e61a24b80800000000000000
+      internalID: -8411983658150676860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_151
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2499
+        width: 244
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6260673e0e9912a40800000000000000
+      internalID: 5341719824206005798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_152
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2510
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4967ff8a2f62d9710800000000000000
+      internalID: 1701559057875170964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_153
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2500
+        width: 256
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6220c762cf85140800000000000000
+      internalID: 4708790652635326151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_154
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2509
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b07d3aaa4fa1e4f0800000000000000
+      internalID: -801166523476643659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_155
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 2499
+        width: 237
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c471e0baf4ad9020800000000000000
+      internalID: 2350215977173611720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_156
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2514
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfbb3d1c5d258440800000000000000
+      internalID: 4937402440132313011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_157
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2507
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf54531c9e9546e0800000000000000
+      internalID: -1853901278416707662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_158
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 2500
+        width: 257
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c0e19bddf525780800000000000000
+      internalID: -8695782524600841144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_159
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 2509
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12e38464e5443570800000000000000
+      internalID: 8445452048467747355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_160
+      rect:
+        serializedVersion: 2
+        x: 2588
+        y: 2499
+        width: 249
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4ecabc587142950800000000000000
+      internalID: 6423284831952364758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_161
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 2506
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b70db59f6814e00800000000000000
+      internalID: 1027250595562552177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_162
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 2499
+        width: 243
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1769433b3542980800000000000000
+      internalID: -8564628562205314567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_163
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 2511
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdaf05e82a5c7d60800000000000000
+      internalID: 7889279778934468092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_164
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 2499
+        width: 262
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dccd528c529a3d0800000000000000
+      internalID: -3194980919083741795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_165
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1898
+        width: 263
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8379b4212e0bac9f0800000000000000
+      internalID: -447350727953901768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_166
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1916
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b59a557f1bfb1c0800000000000000
+      internalID: -4485671027985523829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_167
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1899
+        width: 248
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3da8cc8d73f6ca0800000000000000
+      internalID: -6021532772486949890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_168
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1909
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4346236ffce5ce0800000000000000
+      internalID: -1414464576633424726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_169
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1898
+        width: 258
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b497d15f90b90ce00800000000000000
+      internalID: 1063019979128797515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_170
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1910
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f8d83b3c2d8dc10800000000000000
+      internalID: 2078642966004338503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_171
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1899
+        width: 252
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9fc828e91c29520800000000000000
+      internalID: 2707439212542360003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_172
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1910
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b8ee86487526850800000000000000
+      internalID: 6368749049263066013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_173
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 1908
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53fcc7e51325aa50800000000000000
+      internalID: 6531665411561026398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_174
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 1898
+        width: 228
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88e288f73ad75ee0800000000000000
+      internalID: -1272308435781490547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_175
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 1911
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361054673b1471f80800000000000000
+      internalID: -8135961962782326429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_176
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 1899
+        width: 285
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452c87c78fa349a20800000000000000
+      internalID: 3068142085060739668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_177
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 1912
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d416a0aaefb12cc50800000000000000
+      internalID: 6683935577559687501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_178
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 1906
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9ae4e090a607370800000000000000
+      internalID: 8318265098880592323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_179
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 1916
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1474e5406be1e87f0800000000000000
+      internalID: -608515132542269631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_180
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 1899
+        width: 257
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0179b8ae930b470800000000000000
+      internalID: 8408284183827779818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_181
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1299
+        width: 255
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4ba42e584b26680800000000000000
+      internalID: -8763243437789367114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_182
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1316
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095506de7d8ec5850800000000000000
+      internalID: 6367219987293164944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_183
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1306
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ac98439e0af6ab0800000000000000
+      internalID: -5012610936770803161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_184
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1307
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712fbb42441c8aae0800000000000000
+      internalID: -1537766774328790505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_185
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1299
+        width: 235
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008d5e116e76ba500800000000000000
+      internalID: 408534429047576576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_186
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1311
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d32878d3edb8fc0800000000000000
+      internalID: -3491452730247856783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_187
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1306
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc927dde9aa198ba0800000000000000
+      internalID: -6086304104272418356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_188
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1309
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07e0ad3d7dd28bd0800000000000000
+      internalID: -2629295702456342771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_189
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1298
+        width: 253
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4766e9201f144eb00800000000000000
+      internalID: 856882332494095988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_190
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1310
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c0dc4d94a134950800000000000000
+      internalID: 6432013597220342845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_191
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1309
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137a576551b745120800000000000000
+      internalID: 2401679832870397745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_192
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1299
+        width: 281
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529759e9419911a40800000000000000
+      internalID: 5337215347249740069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_193
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 1305
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feffefdcd6056b310800000000000000
+      internalID: 1420411165019668463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_194
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 1298
+        width: 245
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d1fd66d09ccb960800000000000000
+      internalID: 7619185729001692519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_195
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 1309
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ca2d903e546b680800000000000000
+      internalID: -8739721185441174418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_196
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 1306
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e1009e968d17130800000000000000
+      internalID: 3562866729619037755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_197
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 1307
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d26c26daf9083f70800000000000000
+      internalID: 9167088014452351705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_198
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 1309
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5113f09f567beafb0800000000000000
+      internalID: -4634565317919559403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_199
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1300
+        width: 281
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ab4929da7e78260800000000000000
+      internalID: 7099898070247455263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_200
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 1310
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0f30a3ead293c30800000000000000
+      internalID: 4339549942269079740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_201
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 1309
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f7128f3fe7f3720800000000000000
+      internalID: 2828118677317058424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_202
+      rect:
+        serializedVersion: 2
+        x: 3786
+        y: 1299
+        width: 255
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e165ee225a0478650800000000000000
+      internalID: 6235023287117567518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_203
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 1310
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c33c535822c1e620800000000000000
+      internalID: 2801733921654191046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_204
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 707
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dfc141854e24a30800000000000000
+      internalID: 4198168869608422688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_205
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 699
+        width: 269
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9f025c7ec425ad0800000000000000
+      internalID: -2715023067022558725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_206
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 699
+        width: 263
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb91ceda289c25950800000000000000
+      internalID: 6436428380566723007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_207
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 709
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139f39722109d9ba0800000000000000
+      internalID: -6080545514232481487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_208
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 706
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eb366ff38ccb7b0800000000000000
+      internalID: -5207066892104909232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_209
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 716
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c751ccde4c1ac00800000000000000
+      internalID: 910225125315804293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_210
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 700
+        width: 235
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d48d0503b8f811e0800000000000000
+      internalID: -2226756567967103784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_211
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 714
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23459b19141f5880800000000000000
+      internalID: -8620149063694335189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_212
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 708
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeace5c65784a5120800000000000000
+      internalID: 2403313020322106094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_213
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 708
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e22a7eb0f0e95600800000000000000
+      internalID: 457644161747264231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_214
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 711
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d96de2ca33c0b480800000000000000
+      internalID: -8885387407656130092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_215
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 699
+        width: 245
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef73577acf6f68270800000000000000
+      internalID: 8252554932204681214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_216
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 709
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eee06122df0806e0800000000000000
+      internalID: -1871228249994891549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_217
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 708
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c33f49e9c27a860800000000000000
+      internalID: 7541045160670608470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_218
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 699
+        width: 239
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7aa2c46e5420970800000000000000
+      internalID: 8719608683965360049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_219
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 710
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cc5b7c1ddf56300800000000000000
+      internalID: 244880832202132622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_220
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 699
+        width: 254
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b089201ff3fd050800000000000000
+      internalID: 5827446747203898176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_221
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 707
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf6edf7114445720800000000000000
+      internalID: 2833964907473301469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_222
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 698
+        width: 272
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d28c36614bfe5680800000000000000
+      internalID: -8764291566509718825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_223
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 100
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1c112bc8fdfbc10800000000000000
+      internalID: 2071620148989641214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_224
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 109
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c3ab4bc3f226180800000000000000
+      internalID: -9123677957322556340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_225
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 109
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046ecd80a83dc2db0800000000000000
+      internalID: -4815241311758260672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_226
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 99
+        width: 243
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb75adb69ef9892f0800000000000000
+      internalID: -965846295185303620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_227
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 109
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eddafc18cc24d040800000000000000
+      internalID: 4671407951481331172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_228
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 100
+        width: 263
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239c18c77e3b7dfd0800000000000000
+      internalID: -2317185676451133134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_229
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 111
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b0670cccd222940800000000000000
+      internalID: 5269824871402441558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_230
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 99
+        width: 225
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b8ce2a8604af8e0800000000000000
+      internalID: -1658942694578418922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClokIdle_231
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 107
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec36fac5d7f6e2cb0800000000000000
+      internalID: -4886845961433816114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ClokIdle_0: -7687612669928502696
+      ClokIdle_1: -2067121338904328653
+      ClokIdle_10: 5000362977750237185
+      ClokIdle_100: 7595131556313389176
+      ClokIdle_101: 4993746460770741754
+      ClokIdle_102: -268072352935435726
+      ClokIdle_103: -944045907319432612
+      ClokIdle_104: -3156246336554694337
+      ClokIdle_105: -8793428582324461560
+      ClokIdle_106: 9100763704268445367
+      ClokIdle_107: 2225398738479386772
+      ClokIdle_108: 162109845828338093
+      ClokIdle_109: -3958647830965152775
+      ClokIdle_11: -3006873362766552678
+      ClokIdle_110: -852742667216725730
+      ClokIdle_111: -7311350847700135873
+      ClokIdle_112: 8672005827691533765
+      ClokIdle_113: 8276348451740027146
+      ClokIdle_114: -2341113824007237874
+      ClokIdle_115: 1508353455113065334
+      ClokIdle_116: -4712075365909347900
+      ClokIdle_117: 2739903195469940787
+      ClokIdle_118: -2846103863733306261
+      ClokIdle_119: -1702003944726934364
+      ClokIdle_12: 3544504003370025118
+      ClokIdle_120: 2291141008129633658
+      ClokIdle_121: 4404221516890032824
+      ClokIdle_122: 1717265799274969009
+      ClokIdle_123: -4423051476683607723
+      ClokIdle_124: 4105707838077676239
+      ClokIdle_125: -5578556058206371759
+      ClokIdle_126: -76511850932545950
+      ClokIdle_127: 582704869756085019
+      ClokIdle_128: -5607309939158627807
+      ClokIdle_129: 8364913967589862169
+      ClokIdle_13: -7033459955309850132
+      ClokIdle_130: -7372670070968131657
+      ClokIdle_131: 7291205170475145705
+      ClokIdle_132: -7442444608981381256
+      ClokIdle_133: 8901543253150841264
+      ClokIdle_134: -37585680243685501
+      ClokIdle_135: -2817459136048841551
+      ClokIdle_136: 3438034819646054635
+      ClokIdle_137: -7456831754064096125
+      ClokIdle_138: 1809950815816732407
+      ClokIdle_139: -8109764274295439405
+      ClokIdle_14: -4444266180020413294
+      ClokIdle_140: 588842558047168947
+      ClokIdle_141: -3382624109250627083
+      ClokIdle_142: 1298467357792037873
+      ClokIdle_143: -6426591619180428394
+      ClokIdle_144: -1216076327204905592
+      ClokIdle_145: 2491944470317475573
+      ClokIdle_146: -7212536106626563008
+      ClokIdle_147: -8300780929693466673
+      ClokIdle_148: 1412082239060441368
+      ClokIdle_149: -3301239585648898571
+      ClokIdle_15: 771323148143546302
+      ClokIdle_150: -8411983658150676860
+      ClokIdle_151: 5341719824206005798
+      ClokIdle_152: 1701559057875170964
+      ClokIdle_153: 4708790652635326151
+      ClokIdle_154: -801166523476643659
+      ClokIdle_155: 2350215977173611720
+      ClokIdle_156: 4937402440132313011
+      ClokIdle_157: -1853901278416707662
+      ClokIdle_158: -8695782524600841144
+      ClokIdle_159: 8445452048467747355
+      ClokIdle_16: 6852760150197964294
+      ClokIdle_160: 6423284831952364758
+      ClokIdle_161: 1027250595562552177
+      ClokIdle_162: -8564628562205314567
+      ClokIdle_163: 7889279778934468092
+      ClokIdle_164: -3194980919083741795
+      ClokIdle_165: -447350727953901768
+      ClokIdle_166: -4485671027985523829
+      ClokIdle_167: -6021532772486949890
+      ClokIdle_168: -1414464576633424726
+      ClokIdle_169: 1063019979128797515
+      ClokIdle_17: 8699975631136516901
+      ClokIdle_170: 2078642966004338503
+      ClokIdle_171: 2707439212542360003
+      ClokIdle_172: 6368749049263066013
+      ClokIdle_173: 6531665411561026398
+      ClokIdle_174: -1272308435781490547
+      ClokIdle_175: -8135961962782326429
+      ClokIdle_176: 3068142085060739668
+      ClokIdle_177: 6683935577559687501
+      ClokIdle_178: 8318265098880592323
+      ClokIdle_179: -608515132542269631
+      ClokIdle_18: -8541306637832505329
+      ClokIdle_180: 8408284183827779818
+      ClokIdle_181: -8763243437789367114
+      ClokIdle_182: 6367219987293164944
+      ClokIdle_183: -5012610936770803161
+      ClokIdle_184: -1537766774328790505
+      ClokIdle_185: 408534429047576576
+      ClokIdle_186: -3491452730247856783
+      ClokIdle_187: -6086304104272418356
+      ClokIdle_188: -2629295702456342771
+      ClokIdle_189: 856882332494095988
+      ClokIdle_19: -647426735974008139
+      ClokIdle_190: 6432013597220342845
+      ClokIdle_191: 2401679832870397745
+      ClokIdle_192: 5337215347249740069
+      ClokIdle_193: 1420411165019668463
+      ClokIdle_194: 7619185729001692519
+      ClokIdle_195: -8739721185441174418
+      ClokIdle_196: 3562866729619037755
+      ClokIdle_197: 9167088014452351705
+      ClokIdle_198: -4634565317919559403
+      ClokIdle_199: 7099898070247455263
+      ClokIdle_2: -4551611585499379412
+      ClokIdle_20: 4167934801584049488
+      ClokIdle_200: 4339549942269079740
+      ClokIdle_201: 2828118677317058424
+      ClokIdle_202: 6235023287117567518
+      ClokIdle_203: 2801733921654191046
+      ClokIdle_204: 4198168869608422688
+      ClokIdle_205: -2715023067022558725
+      ClokIdle_206: 6436428380566723007
+      ClokIdle_207: -6080545514232481487
+      ClokIdle_208: -5207066892104909232
+      ClokIdle_209: 910225125315804293
+      ClokIdle_21: -1271538763957911564
+      ClokIdle_210: -2226756567967103784
+      ClokIdle_211: -8620149063694335189
+      ClokIdle_212: 2403313020322106094
+      ClokIdle_213: 457644161747264231
+      ClokIdle_214: -8885387407656130092
+      ClokIdle_215: 8252554932204681214
+      ClokIdle_216: -1871228249994891549
+      ClokIdle_217: 7541045160670608470
+      ClokIdle_218: 8719608683965360049
+      ClokIdle_219: 244880832202132622
+      ClokIdle_22: -8884352737141954091
+      ClokIdle_220: 5827446747203898176
+      ClokIdle_221: 2833964907473301469
+      ClokIdle_222: -8764291566509718825
+      ClokIdle_223: 2071620148989641214
+      ClokIdle_224: -9123677957322556340
+      ClokIdle_225: -4815241311758260672
+      ClokIdle_226: -965846295185303620
+      ClokIdle_227: 4671407951481331172
+      ClokIdle_228: -2317185676451133134
+      ClokIdle_229: 5269824871402441558
+      ClokIdle_23: 5947106192719974223
+      ClokIdle_230: -1658942694578418922
+      ClokIdle_231: -4886845961433816114
+      ClokIdle_24: -6995058947376705763
+      ClokIdle_25: -493996851176175613
+      ClokIdle_26: 5551735495761518408
+      ClokIdle_27: -3609545374806183371
+      ClokIdle_28: -4786552976155618268
+      ClokIdle_29: 3197100113404423929
+      ClokIdle_3: 448971518149715154
+      ClokIdle_30: 6871900505890267723
+      ClokIdle_31: 1194247717835256515
+      ClokIdle_32: 5230378281463624619
+      ClokIdle_33: 2608724953472366654
+      ClokIdle_34: 2817136917443248994
+      ClokIdle_35: 3598281760393374269
+      ClokIdle_36: 4770870660893034585
+      ClokIdle_37: -563373257724326991
+      ClokIdle_38: 8824282726191754854
+      ClokIdle_39: -8819201996407841586
+      ClokIdle_4: 4327980912640268839
+      ClokIdle_40: -5698472961812917155
+      ClokIdle_41: -708158995797878480
+      ClokIdle_42: -5351747436023558303
+      ClokIdle_43: -3320032172913021906
+      ClokIdle_44: -4431299759545178012
+      ClokIdle_45: -4304098885799815962
+      ClokIdle_46: 6609455554597620164
+      ClokIdle_47: -5544026805163868790
+      ClokIdle_48: 4472213376846302780
+      ClokIdle_49: -7647386966926868601
+      ClokIdle_5: -4009641881892571801
+      ClokIdle_50: 2241597506479241904
+      ClokIdle_51: -7729297106884193629
+      ClokIdle_52: 2419536399551282019
+      ClokIdle_53: 4734127386555952029
+      ClokIdle_54: 1265177198214197108
+      ClokIdle_55: 8507786917838762343
+      ClokIdle_56: -1621456372596909419
+      ClokIdle_57: 540441998657046532
+      ClokIdle_58: 8911006883671793366
+      ClokIdle_59: 4549723796165559280
+      ClokIdle_6: -2380969928337825550
+      ClokIdle_60: 4590317446612853339
+      ClokIdle_61: -6838991329175060215
+      ClokIdle_62: -1062875772050117838
+      ClokIdle_63: 2022879911617335910
+      ClokIdle_64: 4988358751055768942
+      ClokIdle_65: -3177945568389873934
+      ClokIdle_66: -1644486212680924062
+      ClokIdle_67: 55296736294357019
+      ClokIdle_68: -4607541544223018373
+      ClokIdle_69: -508433288987478819
+      ClokIdle_7: 2009902728282644432
+      ClokIdle_70: 4717157724850294784
+      ClokIdle_71: -1431541563824280616
+      ClokIdle_72: -8648493856217849400
+      ClokIdle_73: 7461666727757609232
+      ClokIdle_74: 7977208108541873127
+      ClokIdle_75: 2484735377151239246
+      ClokIdle_76: -1821922983850198899
+      ClokIdle_77: -4399973994281519535
+      ClokIdle_78: -6470732016763162309
+      ClokIdle_79: 7363542893145501611
+      ClokIdle_8: -9184107681007520932
+      ClokIdle_80: 2824258418380170869
+      ClokIdle_81: 1639168549556691590
+      ClokIdle_82: 910348870087555464
+      ClokIdle_83: -6488841222764830488
+      ClokIdle_84: -1647178744400940861
+      ClokIdle_85: -4205428862320548915
+      ClokIdle_86: -1485619601263131659
+      ClokIdle_87: 6234346709995048915
+      ClokIdle_88: 1730195855879352749
+      ClokIdle_89: -6441504124881292443
+      ClokIdle_9: -4961175338771317374
+      ClokIdle_90: -8216270357184769603
+      ClokIdle_91: -2463736266089526264
+      ClokIdle_92: 3644934749974684730
+      ClokIdle_93: 2425792332832424426
+      ClokIdle_94: 4339883408759386579
+      ClokIdle_95: -7330265335326098088
+      ClokIdle_96: 3183557763725523732
+      ClokIdle_97: -6711640579202110439
+      ClokIdle_98: 7125873209696322279
+      ClokIdle_99: 6377691637907711682
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

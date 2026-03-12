@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 4b761cb58da96624984b4860b792831c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1318024232129505998
+    second: burumi_pinch-hap_0
+  - first:
+      213: -1745806532026625313
+    second: burumi_pinch-hap_1
+  - first:
+      213: 3262418514706721304
+    second: burumi_pinch-hap_2
+  - first:
+      213: -5332779826173809715
+    second: burumi_pinch-hap_3
+  - first:
+      213: 4338479262788020525
+    second: burumi_pinch-hap_4
+  - first:
+      213: 847351756825827953
+    second: burumi_pinch-hap_5
+  - first:
+      213: 6333926086479606380
+    second: burumi_pinch-hap_6
+  - first:
+      213: 1380598904653216701
+    second: burumi_pinch-hap_7
+  - first:
+      213: -7192116673568208030
+    second: burumi_pinch-hap_8
+  - first:
+      213: -9054836461165476214
+    second: burumi_pinch-hap_9
+  - first:
+      213: -786227205869626884
+    second: burumi_pinch-hap_10
+  - first:
+      213: 7471086315822213199
+    second: burumi_pinch-hap_11
+  - first:
+      213: -5498217344633958887
+    second: burumi_pinch-hap_12
+  - first:
+      213: -3617769506846078353
+    second: burumi_pinch-hap_13
+  - first:
+      213: -4651430095853460313
+    second: burumi_pinch-hap_14
+  - first:
+      213: 2997286852679736697
+    second: burumi_pinch-hap_15
+  - first:
+      213: -5877204864477890836
+    second: burumi_pinch-hap_16
+  - first:
+      213: 807696357574891184
+    second: burumi_pinch-hap_17
+  - first:
+      213: 1585429169420451079
+    second: burumi_pinch-hap_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: burumi_pinch-hap_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3669
+        width: 646
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235509ea1ff65bde0800000000000000
+      internalID: -1318024232129505998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_1
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 3669
+        width: 648
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd21ff37536a5c7e0800000000000000
+      internalID: -1745806532026625313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_2
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 3669
+        width: 651
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a60c5aa50764d20800000000000000
+      internalID: 3262418514706721304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3084
+        width: 654
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb6a8b90092ef5b0800000000000000
+      internalID: -5332779826173809715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_4
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 3084
+        width: 656
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29e0eb37ef553c30800000000000000
+      internalID: 4338479262788020525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_5
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 3084
+        width: 656
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a1861fee562cb00800000000000000
+      internalID: 847351756825827953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2500
+        width: 654
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6272329730a6e750800000000000000
+      internalID: 6333926086479606380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_7
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2500
+        width: 653
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbf529936fd82310800000000000000
+      internalID: 1380598904653216701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_8
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 2500
+        width: 654
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b8dc8adf7703c90800000000000000
+      internalID: -7192116673568208030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1916
+        width: 655
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a860af09632c65280800000000000000
+      internalID: -9054836461165476214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_10
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1916
+        width: 656
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf994699582c615f0800000000000000
+      internalID: -786227205869626884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1916
+        width: 655
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f486dd4bb61aea760800000000000000
+      internalID: 7471086315822213199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1332
+        width: 654
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e8333b47862b3b0800000000000000
+      internalID: -5498217344633958887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_13
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1333
+        width: 652
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a03312dc91bcdc0800000000000000
+      internalID: -3617769506846078353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_14
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1333
+        width: 651
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4e71fd8fcc27fb0800000000000000
+      internalID: -4651430095853460313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 749
+        width: 651
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d9cef1380889920800000000000000
+      internalID: 2997286852679736697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_16
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 749
+        width: 648
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6f8948059ff6ea0800000000000000
+      internalID: -5877204864477890836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_17
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 749
+        width: 646
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6d0afce83853b00800000000000000
+      internalID: 807696357574891184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-hap_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 165
+        width: 646
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d39dbfd63900610800000000000000
+      internalID: 1585429169420451079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      burumi_pinch-hap_0: -1318024232129505998
+      burumi_pinch-hap_1: -1745806532026625313
+      burumi_pinch-hap_10: -786227205869626884
+      burumi_pinch-hap_11: 7471086315822213199
+      burumi_pinch-hap_12: -5498217344633958887
+      burumi_pinch-hap_13: -3617769506846078353
+      burumi_pinch-hap_14: -4651430095853460313
+      burumi_pinch-hap_15: 2997286852679736697
+      burumi_pinch-hap_16: -5877204864477890836
+      burumi_pinch-hap_17: 807696357574891184
+      burumi_pinch-hap_18: 1585429169420451079
+      burumi_pinch-hap_2: 3262418514706721304
+      burumi_pinch-hap_3: -5332779826173809715
+      burumi_pinch-hap_4: 4338479262788020525
+      burumi_pinch-hap_5: 847351756825827953
+      burumi_pinch-hap_6: 6333926086479606380
+      burumi_pinch-hap_7: 1380598904653216701
+      burumi_pinch-hap_8: -7192116673568208030
+      burumi_pinch-hap_9: -9054836461165476214
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

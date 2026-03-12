@@ -7,6 +7,9 @@ public class ThiefController : MonoBehaviour
     public WordManager wordManager; 
     public KommyController kommy; 
 
+    [Header("Emoticon Settings")]
+    public Animator emoticonAnimator; // DRAG YOUR EmoticonBubble HERE!
+
     [Header("Cycle Timers")]
     public float runDuration = 3f;      
     public float takeoffDuration = 0.5f; 
@@ -17,9 +20,7 @@ public class ThiefController : MonoBehaviour
     public float flightHeightOffset = 3f; 
     public float escapeDistance = 2f;     
     public float escapeSpeed = 2f;        
-    
-    // --- THE NEW ENRAGE TIMER LIMIT ---
-    public float escapeLimitX = 7f; // If his X hits this number, the player loses!
+    public float escapeLimitX = 7f; 
 
     private bool isDefeated = false;
     private float groundY; 
@@ -33,6 +34,10 @@ public class ThiefController : MonoBehaviour
         groundY = transform.position.y; 
         airY = groundY + flightHeightOffset; 
         targetX = transform.position.x; 
+        
+        // Hide the bubble at the start
+        if (emoticonAnimator != null) emoticonAnimator.gameObject.SetActive(false);
+        
         StartCoroutine(JetpackCycle());
     }
 
@@ -46,25 +51,23 @@ public class ThiefController : MonoBehaviour
 
         if (kommy != null && !isDefeated)
         {
-            // Watch for Stuns to push him further right
+            // --- REACTION: KOMMY STUNNED ---
             if (kommy.currentState == KommyController.CharacterState.Stunned)
             {
                 if (!wasStunned) 
                 {
                     targetX += escapeDistance; 
                     wasStunned = true;
+                    // Play the laughing animation!
+                    ShowEmoticon("EmoticonLaugh"); 
                 }
             }
-            else
-            {
-                wasStunned = false; 
-            }
+            else { wasStunned = false; }
 
-            // --- OUT OF BOUNDS GAME OVER TRIGGER ---
             if (transform.position.x >= escapeLimitX && kommy.currentState != KommyController.CharacterState.Dead)
             {
-                kommy.Die(); // Instantly kill Kommy
-                TriggerDefeat(); // Stop the Thief from flying
+                kommy.Die();
+                TriggerDefeat();
             }
         }
     }
@@ -77,6 +80,9 @@ public class ThiefController : MonoBehaviour
             yield return new WaitForSeconds(runDuration);
             if (isDefeated) break; 
 
+            // --- REACTION: PREPARING TO FLY ---
+            ShowEmoticon("EmoticonPrep");
+            
             anim.Play("ThiefPrep");
             float elapsed = 0f;
             float startY = transform.position.y;
@@ -110,9 +116,26 @@ public class ThiefController : MonoBehaviour
                 yield return null;
             }
             transform.position = new Vector3(transform.position.x, groundY, transform.position.z);
-            
             yield return new WaitForSeconds(fallDuration - dropTime);
         }
+    }
+
+    // This method now tells the Animator which state to play
+    public void ShowEmoticon(string animName)
+    {
+        if (emoticonAnimator == null) return;
+        
+        emoticonAnimator.gameObject.SetActive(true);
+        emoticonAnimator.Play(animName); // Plays the specific animated clip
+        
+        StopCoroutine(nameof(HideEmoticonRoutine));
+        StartCoroutine(HideEmoticonRoutine());
+    }
+
+    private IEnumerator HideEmoticonRoutine()
+    {
+        yield return new WaitForSeconds(2.0f); // How long the reaction stays up
+        emoticonAnimator.gameObject.SetActive(false);
     }
 
     public void TriggerDefeat()
@@ -121,7 +144,20 @@ public class ThiefController : MonoBehaviour
         StopAllCoroutines(); 
         wordManager.StopSpawning(); 
         
+        // --- REACTION: CRYING ON DEFEAT ---
+        ShowEmoticon("EmoticonCry");
+        
         transform.position = new Vector3(transform.position.x, groundY, transform.position.z);
         anim.Play("ThiefDie"); 
+    }
+
+    // NEW: Called by WordManager when Kommy hits acid
+    public void TriggerPoisonEscape()
+    {
+        if (!isDefeated)
+        {
+            targetX += escapeDistance; // Moves him forward
+            ShowEmoticon("Emoticon_Laugh"); // Pops the laughing bubble!
+        }
     }
 }

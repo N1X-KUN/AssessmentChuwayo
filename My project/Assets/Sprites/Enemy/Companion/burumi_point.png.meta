@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 73bed9f8af33323438cd01648abb78d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8591316391476735661
+    second: burumi_point_0
+  - first:
+      213: 3749247342772314923
+    second: burumi_point_1
+  - first:
+      213: 5078864288395389224
+    second: burumi_point_2
+  - first:
+      213: 1183353230477820170
+    second: burumi_point_3
+  - first:
+      213: 569969503685215509
+    second: burumi_point_4
+  - first:
+      213: -8868164878618096204
+    second: burumi_point_5
+  - first:
+      213: 3194003181521081526
+    second: burumi_point_6
+  - first:
+      213: -8380158648093518682
+    second: burumi_point_7
+  - first:
+      213: -8305768957817066499
+    second: burumi_point_8
+  - first:
+      213: -6203888303354945183
+    second: burumi_point_9
+  - first:
+      213: 8197031111925586274
+    second: burumi_point_10
+  - first:
+      213: -5651606396374062928
+    second: burumi_point_11
+  - first:
+      213: 2369989328800917291
+    second: burumi_point_12
+  - first:
+      213: 2133644335122257509
+    second: burumi_point_13
+  - first:
+      213: -4008119698314713779
+    second: burumi_point_14
+  - first:
+      213: 811816225867534655
+    second: burumi_point_15
+  - first:
+      213: 5426861746291167187
+    second: burumi_point_16
+  - first:
+      213: 5598044950976743419
+    second: burumi_point_17
+  - first:
+      213: 3919241264826306239
+    second: burumi_point_18
+  - first:
+      213: -396842098351638170
+    second: burumi_point_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: burumi_point_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1818
+        width: 646
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae26f24dbc7a3770800000000000000
+      internalID: 8591316391476735661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_1
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1818
+        width: 646
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2365090890080430800000000000000
+      internalID: 3749247342772314923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_2
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1818
+        width: 650
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829693c4920cb7640800000000000000
+      internalID: 5078864288395389224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_3
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1819
+        width: 654
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0101725e7d1c6010800000000000000
+      internalID: 1183353230477820170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_4
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 1819
+        width: 657
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51586f76e30f8e700800000000000000
+      internalID: 569969503685215509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_5
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 1819
+        width: 660
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd8f584703fde480800000000000000
+      internalID: -8868164878618096204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1243
+        width: 665
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4180698f0635c20800000000000000
+      internalID: 3194003181521081526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_7
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1243
+        width: 668
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4d7fa0c12b3bb80800000000000000
+      internalID: -8380158648093518682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_8
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1243
+        width: 671
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbe8d2832bfbbc80800000000000000
+      internalID: -8305768957817066499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_9
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1243
+        width: 672
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161e35c257c57e9a0800000000000000
+      internalID: -6203888303354945183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_10
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1243
+        width: 672
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2695627dd54b1c170800000000000000
+      internalID: 8197031111925586274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_11
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 1243
+        width: 668
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b86ccd0de57191b0800000000000000
+      internalID: -5651606396374062928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 667
+        width: 666
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2725a0ecb4e3e020800000000000000
+      internalID: 2369989328800917291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_13
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 667
+        width: 662
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5669cffd73a3c9d10800000000000000
+      internalID: 2133644335122257509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_14
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 667
+        width: 659
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45a4bcce5c4068c0800000000000000
+      internalID: -4008119698314713779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_15
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 667
+        width: 656
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f319bb56e86244b00800000000000000
+      internalID: 811816225867534655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_16
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 666
+        width: 651
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df47d86106105b40800000000000000
+      internalID: 5426861746291167187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_17
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 666
+        width: 648
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf743a3293040bd40800000000000000
+      internalID: 5598044950976743419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 90
+        width: 646
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe46035a21f36630800000000000000
+      internalID: 3919241264826306239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_point_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 90
+        width: 646
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66974dfc6322e7af0800000000000000
+      internalID: -396842098351638170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      burumi_point_0: 8591316391476735661
+      burumi_point_1: 3749247342772314923
+      burumi_point_10: 8197031111925586274
+      burumi_point_11: -5651606396374062928
+      burumi_point_12: 2369989328800917291
+      burumi_point_13: 2133644335122257509
+      burumi_point_14: -4008119698314713779
+      burumi_point_15: 811816225867534655
+      burumi_point_16: 5426861746291167187
+      burumi_point_17: 5598044950976743419
+      burumi_point_18: 3919241264826306239
+      burumi_point_19: -396842098351638170
+      burumi_point_2: 5078864288395389224
+      burumi_point_3: 1183353230477820170
+      burumi_point_4: 569969503685215509
+      burumi_point_5: -8868164878618096204
+      burumi_point_6: 3194003181521081526
+      burumi_point_7: -8380158648093518682
+      burumi_point_8: -8305768957817066499
+      burumi_point_9: -6203888303354945183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5902 @@
+fileFormatVersion: 2
+guid: aba0a9affe790cd43b84d6749de32707
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 533503758327237213
+    second: droid-atk_0
+  - first:
+      213: 3029290455534723899
+    second: droid-atk_1
+  - first:
+      213: 8825814698768657135
+    second: droid-atk_2
+  - first:
+      213: -6609052759718713722
+    second: droid-atk_3
+  - first:
+      213: -8506366205702887067
+    second: droid-atk_4
+  - first:
+      213: 5150960639527522798
+    second: droid-atk_5
+  - first:
+      213: 7457368595817301967
+    second: droid-atk_6
+  - first:
+      213: -7689475380683696721
+    second: droid-atk_7
+  - first:
+      213: 2261208170092154655
+    second: droid-atk_8
+  - first:
+      213: 3990208757340881973
+    second: droid-atk_9
+  - first:
+      213: 466269598948068193
+    second: droid-atk_10
+  - first:
+      213: 9104089708074748429
+    second: droid-atk_11
+  - first:
+      213: 7399511741122966543
+    second: droid-atk_12
+  - first:
+      213: 6749731209387945090
+    second: droid-atk_13
+  - first:
+      213: 4939418713956712361
+    second: droid-atk_14
+  - first:
+      213: -4628452856875874243
+    second: droid-atk_15
+  - first:
+      213: -1399241864856203698
+    second: droid-atk_16
+  - first:
+      213: 3077646815002205316
+    second: droid-atk_17
+  - first:
+      213: -2518223449564301451
+    second: droid-atk_18
+  - first:
+      213: 2785300598081378860
+    second: droid-atk_19
+  - first:
+      213: -7653396607234297756
+    second: droid-atk_20
+  - first:
+      213: -7741832923780720987
+    second: droid-atk_21
+  - first:
+      213: 5004008466781879284
+    second: droid-atk_22
+  - first:
+      213: -5516848626458640105
+    second: droid-atk_23
+  - first:
+      213: 2265715638281398341
+    second: droid-atk_24
+  - first:
+      213: -5960212154923787810
+    second: droid-atk_25
+  - first:
+      213: 8832237088144302717
+    second: droid-atk_26
+  - first:
+      213: -4598828744456253624
+    second: droid-atk_27
+  - first:
+      213: -4074563473330899438
+    second: droid-atk_28
+  - first:
+      213: 3874333874117984376
+    second: droid-atk_29
+  - first:
+      213: 1774551078865670562
+    second: droid-atk_30
+  - first:
+      213: 8735905356578867137
+    second: droid-atk_31
+  - first:
+      213: 5599996207801166931
+    second: droid-atk_32
+  - first:
+      213: -148572596991232720
+    second: droid-atk_33
+  - first:
+      213: -2510436282927505950
+    second: droid-atk_34
+  - first:
+      213: 1990360885431955600
+    second: droid-atk_35
+  - first:
+      213: 8378951620496722578
+    second: droid-atk_36
+  - first:
+      213: -2788042447154184304
+    second: droid-atk_37
+  - first:
+      213: 4101036861356883824
+    second: droid-atk_38
+  - first:
+      213: -5021760549265551068
+    second: droid-atk_39
+  - first:
+      213: -2057525406636807772
+    second: droid-atk_40
+  - first:
+      213: 3983157808363801300
+    second: droid-atk_41
+  - first:
+      213: -7131732131830915382
+    second: droid-atk_42
+  - first:
+      213: 1847526538658437203
+    second: droid-atk_43
+  - first:
+      213: 3098426414298785321
+    second: droid-atk_44
+  - first:
+      213: 8741267615302820361
+    second: droid-atk_45
+  - first:
+      213: -5640588733945009105
+    second: droid-atk_46
+  - first:
+      213: -9060319822016536379
+    second: droid-atk_47
+  - first:
+      213: -2758981638871086261
+    second: droid-atk_48
+  - first:
+      213: 8582128281981794545
+    second: droid-atk_49
+  - first:
+      213: -7699136981835862088
+    second: droid-atk_50
+  - first:
+      213: -6660866053472298244
+    second: droid-atk_51
+  - first:
+      213: -1695535241050222449
+    second: droid-atk_52
+  - first:
+      213: 3624471227224686601
+    second: droid-atk_53
+  - first:
+      213: -417735307061231906
+    second: droid-atk_54
+  - first:
+      213: -9069392227092131176
+    second: droid-atk_55
+  - first:
+      213: -2009561117570981107
+    second: droid-atk_56
+  - first:
+      213: -2949678170069426496
+    second: droid-atk_57
+  - first:
+      213: -1957050226892925106
+    second: droid-atk_58
+  - first:
+      213: 7487345985672505029
+    second: droid-atk_59
+  - first:
+      213: -2513273913770281118
+    second: droid-atk_60
+  - first:
+      213: 1611601817149038129
+    second: droid-atk_61
+  - first:
+      213: -8681795507975316194
+    second: droid-atk_62
+  - first:
+      213: -4268966083909718785
+    second: droid-atk_63
+  - first:
+      213: -3753040464557710778
+    second: droid-atk_64
+  - first:
+      213: 2210491102966666031
+    second: droid-atk_65
+  - first:
+      213: 2800299171004690890
+    second: droid-atk_66
+  - first:
+      213: 8260741897400176221
+    second: droid-atk_67
+  - first:
+      213: -2795067032339798520
+    second: droid-atk_68
+  - first:
+      213: -7151775623873481623
+    second: droid-atk_69
+  - first:
+      213: 3976056697233697638
+    second: droid-atk_70
+  - first:
+      213: -711812430413048268
+    second: droid-atk_71
+  - first:
+      213: 1264669422829598291
+    second: droid-atk_72
+  - first:
+      213: 5570237040451789019
+    second: droid-atk_73
+  - first:
+      213: 5333883086220751136
+    second: droid-atk_74
+  - first:
+      213: 6394647366581651757
+    second: droid-atk_75
+  - first:
+      213: 5211677622936053758
+    second: droid-atk_76
+  - first:
+      213: -7218697753863783271
+    second: droid-atk_77
+  - first:
+      213: 7427195263168048382
+    second: droid-atk_78
+  - first:
+      213: -7285620897959654351
+    second: droid-atk_79
+  - first:
+      213: 1475560959607334181
+    second: droid-atk_80
+  - first:
+      213: -4629131055005815213
+    second: droid-atk_81
+  - first:
+      213: 2928231190653139171
+    second: droid-atk_82
+  - first:
+      213: -6448469995921204609
+    second: droid-atk_83
+  - first:
+      213: -3624747043798767594
+    second: droid-atk_84
+  - first:
+      213: 8319112406838069482
+    second: droid-atk_85
+  - first:
+      213: -706162080718617148
+    second: droid-atk_86
+  - first:
+      213: 231725897619385162
+    second: droid-atk_87
+  - first:
+      213: -6930585167908868161
+    second: droid-atk_88
+  - first:
+      213: -3023654243077482860
+    second: droid-atk_89
+  - first:
+      213: 555545334088763512
+    second: droid-atk_90
+  - first:
+      213: -5964781914492459137
+    second: droid-atk_91
+  - first:
+      213: 5497202308175398705
+    second: droid-atk_92
+  - first:
+      213: 2100542214531876050
+    second: droid-atk_93
+  - first:
+      213: 1838634276502700169
+    second: droid-atk_94
+  - first:
+      213: 8704795059031887805
+    second: droid-atk_95
+  - first:
+      213: 5317246158098113981
+    second: droid-atk_96
+  - first:
+      213: 1877010091977753213
+    second: droid-atk_97
+  - first:
+      213: 2333352154061182628
+    second: droid-atk_98
+  - first:
+      213: -2764041473244725209
+    second: droid-atk_99
+  - first:
+      213: 8132714285439836066
+    second: droid-atk_100
+  - first:
+      213: -8903255420066598177
+    second: droid-atk_101
+  - first:
+      213: -8400960899051749437
+    second: droid-atk_102
+  - first:
+      213: 6079298663555622265
+    second: droid-atk_103
+  - first:
+      213: -6590138548120561018
+    second: droid-atk_104
+  - first:
+      213: -5005487507678870352
+    second: droid-atk_105
+  - first:
+      213: 131188311618443611
+    second: droid-atk_106
+  - first:
+      213: 381781656615708241
+    second: droid-atk_107
+  - first:
+      213: 5445357467176756367
+    second: droid-atk_108
+  - first:
+      213: -8984611036396274955
+    second: droid-atk_109
+  - first:
+      213: 871266339455450638
+    second: droid-atk_110
+  - first:
+      213: -9041109246916310295
+    second: droid-atk_111
+  - first:
+      213: -2724788036764687318
+    second: droid-atk_112
+  - first:
+      213: 2869855528550308174
+    second: droid-atk_113
+  - first:
+      213: 5613806908364710171
+    second: droid-atk_114
+  - first:
+      213: -604260811581974443
+    second: droid-atk_115
+  - first:
+      213: 3125500720080085776
+    second: droid-atk_116
+  - first:
+      213: 4410711123149257584
+    second: droid-atk_117
+  - first:
+      213: -3055324311468908863
+    second: droid-atk_118
+  - first:
+      213: -2876913050081494381
+    second: droid-atk_119
+  - first:
+      213: 8202751247937921320
+    second: droid-atk_120
+  - first:
+      213: 6262906033142638954
+    second: droid-atk_121
+  - first:
+      213: 4556973149912317257
+    second: droid-atk_122
+  - first:
+      213: -782393710545458981
+    second: droid-atk_123
+  - first:
+      213: 1135317151360550309
+    second: droid-atk_124
+  - first:
+      213: -1965254846184332388
+    second: droid-atk_125
+  - first:
+      213: -4989857219546398086
+    second: droid-atk_126
+  - first:
+      213: 3623512813844293422
+    second: droid-atk_127
+  - first:
+      213: 2533878074892124059
+    second: droid-atk_128
+  - first:
+      213: -6342805773307638610
+    second: droid-atk_129
+  - first:
+      213: -7260553301840487845
+    second: droid-atk_130
+  - first:
+      213: 1092504580003357481
+    second: droid-atk_131
+  - first:
+      213: 4462840461398087320
+    second: droid-atk_132
+  - first:
+      213: -5000915032105247879
+    second: droid-atk_133
+  - first:
+      213: 1662244941716931714
+    second: droid-atk_134
+  - first:
+      213: -4249137637907080379
+    second: droid-atk_135
+  - first:
+      213: -6254608607842406607
+    second: droid-atk_136
+  - first:
+      213: -8302025502272536715
+    second: droid-atk_137
+  - first:
+      213: -6020979378441365058
+    second: droid-atk_138
+  - first:
+      213: -5942325920992976740
+    second: droid-atk_139
+  - first:
+      213: 2920223405070670236
+    second: droid-atk_140
+  - first:
+      213: -1287944619834308363
+    second: droid-atk_141
+  - first:
+      213: -4457140839196939974
+    second: droid-atk_142
+  - first:
+      213: -846129134993984315
+    second: droid-atk_143
+  - first:
+      213: -5459292909704970692
+    second: droid-atk_144
+  - first:
+      213: 3623454757672891818
+    second: droid-atk_145
+  - first:
+      213: -36999601210914428
+    second: droid-atk_146
+  - first:
+      213: 2645176285101728714
+    second: droid-atk_147
+  - first:
+      213: 3733467841954705657
+    second: droid-atk_148
+  - first:
+      213: -6565086355794422811
+    second: droid-atk_149
+  - first:
+      213: 5164562374298562536
+    second: droid-atk_150
+  - first:
+      213: 5184461913023713409
+    second: droid-atk_151
+  - first:
+      213: -8239590318041649741
+    second: droid-atk_152
+  - first:
+      213: -2835869082708774752
+    second: droid-atk_153
+  - first:
+      213: 1044353185853815582
+    second: droid-atk_154
+  - first:
+      213: -2909344205374235336
+    second: droid-atk_155
+  - first:
+      213: -6185787385905377231
+    second: droid-atk_156
+  - first:
+      213: -2171495243031989437
+    second: droid-atk_157
+  - first:
+      213: -4489407451499232767
+    second: droid-atk_158
+  - first:
+      213: -6267611936675398823
+    second: droid-atk_159
+  - first:
+      213: 584644537228403208
+    second: droid-atk_160
+  - first:
+      213: 1145835647913830245
+    second: droid-atk_161
+  - first:
+      213: 7798613393114811302
+    second: droid-atk_162
+  - first:
+      213: -2620377766013641851
+    second: droid-atk_163
+  - first:
+      213: -9051263062475295885
+    second: droid-atk_164
+  - first:
+      213: -2681014767675258767
+    second: droid-atk_165
+  - first:
+      213: 7392728642825362534
+    second: droid-atk_166
+  - first:
+      213: 4962061160864511498
+    second: droid-atk_167
+  - first:
+      213: -8333595840844377053
+    second: droid-atk_168
+  - first:
+      213: -2285000666679362851
+    second: droid-atk_169
+  - first:
+      213: -2511286395356174617
+    second: droid-atk_170
+  - first:
+      213: -2851653362602270829
+    second: droid-atk_171
+  - first:
+      213: -5731481238865150546
+    second: droid-atk_172
+  - first:
+      213: -2978963434049409459
+    second: droid-atk_173
+  - first:
+      213: 7694762553902195566
+    second: droid-atk_174
+  - first:
+      213: -1724618431560896797
+    second: droid-atk_175
+  - first:
+      213: 7084071218139262286
+    second: droid-atk_176
+  - first:
+      213: 3286904657173989568
+    second: droid-atk_177
+  - first:
+      213: 9036066489448548364
+    second: droid-atk_178
+  - first:
+      213: 5544231370324892383
+    second: droid-atk_179
+  - first:
+      213: 7057374336261804203
+    second: droid-atk_180
+  - first:
+      213: -393371779872387984
+    second: droid-atk_181
+  - first:
+      213: 6407279382754138162
+    second: droid-atk_182
+  - first:
+      213: 2853650887140662407
+    second: droid-atk_183
+  - first:
+      213: 9156601795035754315
+    second: droid-atk_184
+  - first:
+      213: -8960917354775415706
+    second: droid-atk_185
+  - first:
+      213: 677350040117306248
+    second: droid-atk_186
+  - first:
+      213: 1257588220271271255
+    second: droid-atk_187
+  - first:
+      213: 2928262855753632761
+    second: droid-atk_188
+  - first:
+      213: 2456864580608476560
+    second: droid-atk_189
+  - first:
+      213: -7571256595313276401
+    second: droid-atk_190
+  - first:
+      213: 7548000850214123876
+    second: droid-atk_191
+  - first:
+      213: -2162092073006379591
+    second: droid-atk_192
+  - first:
+      213: -4471399287961462207
+    second: droid-atk_193
+  - first:
+      213: -6150375169780209799
+    second: droid-atk_194
+  - first:
+      213: 1411111853882765208
+    second: droid-atk_195
+  - first:
+      213: -4020806390682664405
+    second: droid-atk_196
+  - first:
+      213: 6571854161758600427
+    second: droid-atk_197
+  - first:
+      213: -5186754368321837170
+    second: droid-atk_198
+  - first:
+      213: 3386705730587612174
+    second: droid-atk_199
+  - first:
+      213: -7006188401134287947
+    second: droid-atk_200
+  - first:
+      213: -4252693053491890507
+    second: droid-atk_201
+  - first:
+      213: 2234613168757223557
+    second: droid-atk_202
+  - first:
+      213: 4378098555785580107
+    second: droid-atk_203
+  - first:
+      213: 3163964586596511261
+    second: droid-atk_204
+  - first:
+      213: -3159623694569138736
+    second: droid-atk_205
+  - first:
+      213: 5347059796053926011
+    second: droid-atk_206
+  - first:
+      213: -9194058207463003772
+    second: droid-atk_207
+  - first:
+      213: 1085246256693083200
+    second: droid-atk_208
+  - first:
+      213: -7721293858721692474
+    second: droid-atk_209
+  - first:
+      213: 3698372475913276089
+    second: droid-atk_210
+  - first:
+      213: 4373444290574532533
+    second: droid-atk_211
+  - first:
+      213: 9017744946965283604
+    second: droid-atk_212
+  - first:
+      213: 1387172182410319651
+    second: droid-atk_213
+  - first:
+      213: -7431021961947708280
+    second: droid-atk_214
+  - first:
+      213: 2673377671536050883
+    second: droid-atk_215
+  - first:
+      213: 3892232943164889941
+    second: droid-atk_216
+  - first:
+      213: -6387487421466425523
+    second: droid-atk_217
+  - first:
+      213: -6023263516332882891
+    second: droid-atk_218
+  - first:
+      213: 2652427561747640332
+    second: droid-atk_219
+  - first:
+      213: 1436160508682477380
+    second: droid-atk_220
+  - first:
+      213: 3517802865369921836
+    second: droid-atk_221
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: droid-atk_0
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 19401
+        width: 470
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a4e6177d2676700800000000000000
+      internalID: 533503758327237213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_1
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 19398
+        width: 468
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33e0a39e933a0a20800000000000000
+      internalID: 3029290455534723899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_2
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 19395
+        width: 463
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feae68515b79b7a70800000000000000
+      internalID: 8825814698768657135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_3
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 19393
+        width: 455
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686a623088de744a0800000000000000
+      internalID: -6609052759718713722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_4
+      rect:
+        serializedVersion: 2
+        x: 4109
+        y: 19392
+        width: 446
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56921bb210153f980800000000000000
+      internalID: -8506366205702887067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_5
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 19392
+        width: 437
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee19e032963eb7740800000000000000
+      internalID: 5150960639527522798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_6
+      rect:
+        serializedVersion: 2
+        x: 6024
+        y: 19393
+        width: 431
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc708d02a35ed7760800000000000000
+      internalID: 7457368595817301967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_7
+      rect:
+        serializedVersion: 2
+        x: 6978
+        y: 19394
+        width: 429
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa59c31c1ee794590800000000000000
+      internalID: -7689475380683696721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_8
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 18416
+        width: 471
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fcd8da9dc616f10800000000000000
+      internalID: 2261208170092154655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_9
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 18405
+        width: 477
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534c4f849b1106730800000000000000
+      internalID: 3990208757340881973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_10
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 18397
+        width: 481
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b0dd6dab5887600800000000000000
+      internalID: 466269598948068193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_11
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 18392
+        width: 480
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ac51d9a59385e70800000000000000
+      internalID: 9104089708074748429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_12
+      rect:
+        serializedVersion: 2
+        x: 4068
+        y: 18389
+        width: 477
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0477f869b850b660800000000000000
+      internalID: 7399511741122966543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_13
+      rect:
+        serializedVersion: 2
+        x: 5031
+        y: 18388
+        width: 473
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cafe8f5ccdbad50800000000000000
+      internalID: 6749731209387945090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_14
+      rect:
+        serializedVersion: 2
+        x: 5987
+        y: 18387
+        width: 477
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af7e4276275c8440800000000000000
+      internalID: 4939418713956712361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_15
+      rect:
+        serializedVersion: 2
+        x: 6943
+        y: 18387
+        width: 483
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38854636ae64cfb0800000000000000
+      internalID: -4628452856875874243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 17428
+        width: 491
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e046affe4e49ce0800000000000000
+      internalID: -1399241864856203698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_17
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 17429
+        width: 501
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c9150e87ff5ba20800000000000000
+      internalID: 3077646815002205316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_18
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 17432
+        width: 508
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57739af5d197d0dd0800000000000000
+      internalID: -2518223449564301451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_19
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 17436
+        width: 516
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ad255032067a620800000000000000
+      internalID: 2785300598081378860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_20
+      rect:
+        serializedVersion: 2
+        x: 4042
+        y: 17441
+        width: 523
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460be9cc55ca9c590800000000000000
+      internalID: -7653396607234297756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_21
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 17447
+        width: 526
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a650ab49fb7f8490800000000000000
+      internalID: -7741832923780720987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_22
+      rect:
+        serializedVersion: 2
+        x: 5963
+        y: 17455
+        width: 520
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbb49b203fc17540800000000000000
+      internalID: 5004008466781879284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_23
+      rect:
+        serializedVersion: 2
+        x: 6928
+        y: 17459
+        width: 511
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711c45c57673073b0800000000000000
+      internalID: -5516848626458640105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_24
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 16497
+        width: 502
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5486fc56e50717f10800000000000000
+      internalID: 2265715638281398341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_25
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 16495
+        width: 492
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed95dc7af92194da0800000000000000
+      internalID: -5960212154923787810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_26
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 16494
+        width: 491
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d722fd226d8629a70800000000000000
+      internalID: 8832237088144302717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_27
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 16492
+        width: 491
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f44df5f9dad20c0800000000000000
+      internalID: -4598828744456253624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_28
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 16488
+        width: 493
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2167455eb1e3477c0800000000000000
+      internalID: -4074563473330899438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_29
+      rect:
+        serializedVersion: 2
+        x: 5001
+        y: 16485
+        width: 495
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870c014a12664c530800000000000000
+      internalID: 3874333874117984376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_30
+      rect:
+        serializedVersion: 2
+        x: 5964
+        y: 16484
+        width: 492
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a11393edc870a810800000000000000
+      internalID: 1774551078865670562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_31
+      rect:
+        serializedVersion: 2
+        x: 6927
+        y: 16485
+        width: 492
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7c05213ab2c3970800000000000000
+      internalID: 8735905356578867137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 15529
+        width: 494
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ce58581ee27bd40800000000000000
+      internalID: 5599996207801166931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_33
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 15530
+        width: 495
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035fafc920a20fdf0800000000000000
+      internalID: -148572596991232720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_34
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 15531
+        width: 505
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed9ad46083292dd0800000000000000
+      internalID: -2510436282927505950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_35
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 15528
+        width: 512
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090f00f0eae2f9b10800000000000000
+      internalID: 1990360885431955600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_36
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 15524
+        width: 502
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a04e1fa14084470800000000000000
+      internalID: 8378951620496722578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_37
+      rect:
+        serializedVersion: 2
+        x: 5018
+        y: 15523
+        width: 490
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ff9ae7a22ee49d0800000000000000
+      internalID: -2788042447154184304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_38
+      rect:
+        serializedVersion: 2
+        x: 5972
+        y: 15528
+        width: 494
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fb5f31c4fc9e830800000000000000
+      internalID: 4101036861356883824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_39
+      rect:
+        serializedVersion: 2
+        x: 6927
+        y: 15540
+        width: 500
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421d4f9036f1f4ab0800000000000000
+      internalID: -5021760549265551068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_40
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 14630
+        width: 438
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9621d3b833273e0800000000000000
+      internalID: -2057525406636807772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_41
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 14641
+        width: 467
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da09db4ce4074730800000000000000
+      internalID: 3983157808363801300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_42
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 14649
+        width: 494
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace9af0696ff60d90800000000000000
+      internalID: -7131732131830915382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_43
+      rect:
+        serializedVersion: 2
+        x: 5232
+        y: 15096
+        width: 421
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358d7d9299bb3a910800000000000000
+      internalID: 1847526538658437203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_44
+      rect:
+        serializedVersion: 2
+        x: 6093
+        y: 14641
+        width: 386
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92667fa5862dffa20800000000000000
+      internalID: 3098426414298785321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_45
+      rect:
+        serializedVersion: 2
+        x: 6213
+        y: 15123
+        width: 419
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90220c835983f4970800000000000000
+      internalID: 8741267615302820361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_46
+      rect:
+        serializedVersion: 2
+        x: 7054
+        y: 14635
+        width: 381
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c232d7e6a98b1b0800000000000000
+      internalID: -5640588733945009105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_47
+      rect:
+        serializedVersion: 2
+        x: 7189
+        y: 15146
+        width: 418
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c026412027434280800000000000000
+      internalID: -9060319822016536379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_48
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 14598
+        width: 495
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b834131d026b9d0800000000000000
+      internalID: -2758981638871086261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_49
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 14618
+        width: 432
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8bb50d338d91770800000000000000
+      internalID: 8582128281981794545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_50
+      rect:
+        serializedVersion: 2
+        x: 5131
+        y: 14649
+        width: 392
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfa990f4bb272590800000000000000
+      internalID: -7699136981835862088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_51
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 14202
+        width: 416
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa535a7d99df83a0800000000000000
+      internalID: -6660866053472298244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_52
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 14216
+        width: 414
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f809b0d7eaf3878e0800000000000000
+      internalID: -1695535241050222449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_53
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 14225
+        width: 411
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9000a5db065bc4230800000000000000
+      internalID: 3624471227224686601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_54
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 14231
+        width: 408
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edef97493f7e33af0800000000000000
+      internalID: -417735307061231906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_55
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 14234
+        width: 405
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8921c7732db032280800000000000000
+      internalID: -9069392227092131176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_56
+      rect:
+        serializedVersion: 2
+        x: 5346
+        y: 14234
+        width: 401
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03aeb88fca9c14e0800000000000000
+      internalID: -2009561117570981107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_57
+      rect:
+        serializedVersion: 2
+        x: 6308
+        y: 14232
+        width: 397
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce99471553a017d0800000000000000
+      internalID: -2949678170069426496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_58
+      rect:
+        serializedVersion: 2
+        x: 7271
+        y: 14229
+        width: 392
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e471372003927d4e0800000000000000
+      internalID: -1957050226892925106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_59
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 13675
+        width: 376
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6e47a118568e760800000000000000
+      internalID: 7487345985672505029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_60
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 13678
+        width: 372
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267777af0be0f1dd0800000000000000
+      internalID: -2513273913770281118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_61
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 13682
+        width: 366
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13eda86605f8d5610800000000000000
+      internalID: 1611601817149038129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_62
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 13683
+        width: 356
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d9c8ecbf0148780800000000000000
+      internalID: -8681795507975316194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_63
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 13682
+        width: 352
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcee52f6f591c4c0800000000000000
+      internalID: -4268966083909718785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_64
+      rect:
+        serializedVersion: 2
+        x: 5135
+        y: 13681
+        width: 352
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642ee5af4958aebc0800000000000000
+      internalID: -3753040464557710778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_65
+      rect:
+        serializedVersion: 2
+        x: 6095
+        y: 13680
+        width: 352
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f235d7b42fd3dae10800000000000000
+      internalID: 2210491102966666031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_66
+      rect:
+        serializedVersion: 2
+        x: 7054
+        y: 13678
+        width: 352
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac13e886249acd620800000000000000
+      internalID: 2800299171004690890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_67
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 13233
+        width: 370
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e49b70dfc04a270800000000000000
+      internalID: 8260741897400176221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_68
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 13228
+        width: 369
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8062bfdc75de539d0800000000000000
+      internalID: -2795067032339798520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_69
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 13226
+        width: 371
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96439b936f9cfbc90800000000000000
+      internalID: -7151775623873481623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_70
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 13224
+        width: 374
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b6d65008acd2730800000000000000
+      internalID: 3976056697233697638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_71
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 13221
+        width: 377
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436d58aad522f16f0800000000000000
+      internalID: -711812430413048268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_72
+      rect:
+        serializedVersion: 2
+        x: 5239
+        y: 13221
+        width: 383
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3567e0ab3220d8110800000000000000
+      internalID: 1264669422829598291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_73
+      rect:
+        serializedVersion: 2
+        x: 6180
+        y: 13221
+        width: 388
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd02ade63157d4d40800000000000000
+      internalID: 5570237040451789019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_74
+      rect:
+        serializedVersion: 2
+        x: 7120
+        y: 13223
+        width: 394
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021f6a32862c50a40800000000000000
+      internalID: 5333883086220751136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_75
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 12684
+        width: 380
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d298cfc46e95eb850800000000000000
+      internalID: 6394647366581651757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_76
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 12677
+        width: 387
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7a4f67f29935840800000000000000
+      internalID: 5211677622936053758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_77
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 12670
+        width: 391
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cf900a3a802db90800000000000000
+      internalID: -7218697753863783271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_78
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 12664
+        width: 397
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc689aadb2b21760800000000000000
+      internalID: 7427195263168048382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_79
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 12657
+        width: 402
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cc3f8e46644ea90800000000000000
+      internalID: -7285620897959654351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_80
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 12652
+        width: 405
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52564d9ffde3a7410800000000000000
+      internalID: 1475560959607334181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_81
+      rect:
+        serializedVersion: 2
+        x: 6083
+        y: 12647
+        width: 409
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e26a7e4d502cfb0800000000000000
+      internalID: -4629131055005815213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_82
+      rect:
+        serializedVersion: 2
+        x: 7043
+        y: 12643
+        width: 412
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e87913e0ca23a820800000000000000
+      internalID: 2928231190653139171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_83
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 12265
+        width: 402
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a1a5444be6286a0800000000000000
+      internalID: -6448469995921204609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_84
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 12266
+        width: 407
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6182ab5b4cf42bdc0800000000000000
+      internalID: -3624747043798767594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_85
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 12268
+        width: 413
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8c02058ac637370800000000000000
+      internalID: 8319112406838069482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_86
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 12268
+        width: 418
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c58ae834553336f0800000000000000
+      internalID: -706162080718617148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_87
+      rect:
+        serializedVersion: 2
+        x: 4129
+        y: 12265
+        width: 421
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bacd4e971473300800000000000000
+      internalID: 231725897619385162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_88
+      rect:
+        serializedVersion: 2
+        x: 5067
+        y: 12259
+        width: 424
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf6335728d91df90800000000000000
+      internalID: -6930585167908868161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_89
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 12250
+        width: 424
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49693c56c72d906d0800000000000000
+      internalID: -3023654243077482860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_90
+      rect:
+        serializedVersion: 2
+        x: 6946
+        y: 12238
+        width: 423
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8788cf6b981b5b700800000000000000
+      internalID: 555545334088763512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_91
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 11680
+        width: 414
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77a0089376d83da0800000000000000
+      internalID: -5964781914492459137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_92
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 11679
+        width: 416
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1378045bf5cf94c40800000000000000
+      internalID: 5497202308175398705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_93
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 11679
+        width: 418
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d482e4d300a62d10800000000000000
+      internalID: 2100542214531876050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_94
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 11681
+        width: 420
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9800dca0224248910800000000000000
+      internalID: 1838634276502700169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_95
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 11683
+        width: 421
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfcb287cf4adc870800000000000000
+      internalID: 8704795059031887805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_96
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 11687
+        width: 422
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5afb47537aac940800000000000000
+      internalID: 5317246158098113981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_97
+      rect:
+        serializedVersion: 2
+        x: 6085
+        y: 11692
+        width: 423
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72482cdbba7c0a10800000000000000
+      internalID: 1877010091977753213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_98
+      rect:
+        serializedVersion: 2
+        x: 7046
+        y: 11697
+        width: 423
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a695b6eb6bb16020800000000000000
+      internalID: 2333352154061182628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_99
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 11263
+        width: 421
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7200dc2bce624a9d0800000000000000
+      internalID: -2764041473244725209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_100
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 11247
+        width: 417
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afd26bbd843dd070800000000000000
+      internalID: 8132714285439836066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_101
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 11230
+        width: 412
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2fb5eed58417480800000000000000
+      internalID: -8903255420066598177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_102
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 11212
+        width: 406
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cff210929ac96b80800000000000000
+      internalID: -8400960899051749437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_103
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 11194
+        width: 400
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9756dbccce10e5450800000000000000
+      internalID: 6079298663555622265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_104
+      rect:
+        serializedVersion: 2
+        x: 4919
+        y: 11177
+        width: 395
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a5aa218ef1b84a0800000000000000
+      internalID: -6590138548120561018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_105
+      rect:
+        serializedVersion: 2
+        x: 5866
+        y: 11161
+        width: 388
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b44529c1afe88ab0800000000000000
+      internalID: -5005487507678870352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_106
+      rect:
+        serializedVersion: 2
+        x: 6811
+        y: 11144
+        width: 384
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5953b8031312d100800000000000000
+      internalID: 131188311618443611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_107
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 10744
+        width: 426
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156e658d46c5c4500800000000000000
+      internalID: 381781656615708241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_108
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 10751
+        width: 431
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84671204cbc19b40800000000000000
+      internalID: 5445357467176756367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_109
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 10754
+        width: 433
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fabb8a6ddf305380800000000000000
+      internalID: -8984611036396274955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_110
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 10754
+        width: 434
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e3ffb9e1c571c00800000000000000
+      internalID: 871266339455450638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_111
+      rect:
+        serializedVersion: 2
+        x: 4162
+        y: 10755
+        width: 434
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eacd02ba07878280800000000000000
+      internalID: -9041109246916310295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_112
+      rect:
+        serializedVersion: 2
+        x: 5126
+        y: 10757
+        width: 431
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24286497bb9f2ad0800000000000000
+      internalID: -2724788036764687318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_113
+      rect:
+        serializedVersion: 2
+        x: 6091
+        y: 10758
+        width: 428
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e499ee7e566c3d720800000000000000
+      internalID: 2869855528550308174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_114
+      rect:
+        serializedVersion: 2
+        x: 7057
+        y: 10759
+        width: 424
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1166b2d3af38ed40800000000000000
+      internalID: 5613806908364710171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_115
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 10170
+        width: 380
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55897fd4efb3d97f0800000000000000
+      internalID: -604260811581974443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_116
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 9801
+        width: 419
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013e9956852006b20800000000000000
+      internalID: 3125500720080085776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_117
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 10156
+        width: 378
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bfc26c56ef53d30800000000000000
+      internalID: 4410711123149257584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_118
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 9804
+        width: 414
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ced74df9be4995d0800000000000000
+      internalID: -3055324311468908863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_119
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 10142
+        width: 376
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39af430d2d62318d0800000000000000
+      internalID: -2876913050081494381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_120
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 9808
+        width: 412
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8216b3accc606d170800000000000000
+      internalID: 8202751247937921320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_121
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 10130
+        width: 377
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a692e17dadf4ae650800000000000000
+      internalID: 6262906033142638954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_122
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 9811
+        width: 411
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d348b9fee9d3f30800000000000000
+      internalID: 4556973149912317257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_123
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 10119
+        width: 379
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd82078c0116425f0800000000000000
+      internalID: -782393710545458981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_124
+      rect:
+        serializedVersion: 2
+        x: 4217
+        y: 9815
+        width: 409
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5014a1fe471cf00800000000000000
+      internalID: 1135317151360550309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_125
+      rect:
+        serializedVersion: 2
+        x: 4822
+        y: 10108
+        width: 381
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93611831230ab4e0800000000000000
+      internalID: -1965254846184332388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_126
+      rect:
+        serializedVersion: 2
+        x: 5185
+        y: 9818
+        width: 406
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72c405db4770cab0800000000000000
+      internalID: -4989857219546398086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_127
+      rect:
+        serializedVersion: 2
+        x: 5774
+        y: 10100
+        width: 388
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27e34cb4bd494230800000000000000
+      internalID: 3623512813844293422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_128
+      rect:
+        serializedVersion: 2
+        x: 6150
+        y: 9820
+        width: 403
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f781e1fa42a2320800000000000000
+      internalID: 2533878074892124059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_129
+      rect:
+        serializedVersion: 2
+        x: 6726
+        y: 10091
+        width: 395
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac83ba31c3d9f7a0800000000000000
+      internalID: -6342805773307638610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_130
+      rect:
+        serializedVersion: 2
+        x: 7115
+        y: 9821
+        width: 400
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a12037d355d3b90800000000000000
+      internalID: -7260553301840487845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_131
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9124
+        width: 402
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923669e802b592f00800000000000000
+      internalID: 1092504580003357481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_132
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 8859
+        width: 396
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8969fd621c13fed30800000000000000
+      internalID: 4462840461398087320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_133
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 9117
+        width: 412
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b9477364e299ab0800000000000000
+      internalID: -5000915032105247879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_134
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 8857
+        width: 389
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2844ab0b7fa711710800000000000000
+      internalID: 1662244941716931714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_135
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 9111
+        width: 419
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b5ecac4d70805c0800000000000000
+      internalID: -4249137637907080379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_136
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 8855
+        width: 384
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fe3780c9a2339a0800000000000000
+      internalID: -6254608607842406607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_137
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 8854
+        width: 756
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fbfccaac749cc80800000000000000
+      internalID: -8302025502272536715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_138
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 8853
+        width: 740
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9dc04e72f217ca0800000000000000
+      internalID: -6020979378441365058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_139
+      rect:
+        serializedVersion: 2
+        x: 4855
+        y: 8853
+        width: 721
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c902e930f0e988da0800000000000000
+      internalID: -5942325920992976740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_140
+      rect:
+        serializedVersion: 2
+        x: 5845
+        y: 8854
+        width: 685
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99d40407b7b68820800000000000000
+      internalID: 2920223405070670236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_141
+      rect:
+        serializedVersion: 2
+        x: 6836
+        y: 8855
+        width: 654
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8866c213d402ee0800000000000000
+      internalID: -1287944619834308363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_142
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 7896
+        width: 615
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39a7cd850e0522c0800000000000000
+      internalID: -4457140839196939974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_143
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 7897
+        width: 577
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c43392e802f144f0800000000000000
+      internalID: -846129134993984315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_144
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 7899
+        width: 534
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ef930f502bc34b0800000000000000
+      internalID: -5459292909704970692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_145
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 7900
+        width: 489
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5baca77e8194230800000000000000
+      internalID: 3623454757672891818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_146
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 7901
+        width: 446
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4890ef80f0d8c7ff0800000000000000
+      internalID: -36999601210914428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_147
+      rect:
+        serializedVersion: 2
+        x: 5177
+        y: 7903
+        width: 405
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3a6c901dd85b420800000000000000
+      internalID: 2645176285101728714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_148
+      rect:
+        serializedVersion: 2
+        x: 6182
+        y: 7905
+        width: 398
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0fd04b831ffc330800000000000000
+      internalID: 3733467841954705657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_149
+      rect:
+        serializedVersion: 2
+        x: 7156
+        y: 7907
+        width: 420
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e31c132eb024e4a0800000000000000
+      internalID: -6565086355794422811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_150
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 6949
+        width: 454
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efe96ccd163ca740800000000000000
+      internalID: 5164562374298562536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_151
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 6945
+        width: 485
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180125534a8e2f740800000000000000
+      internalID: 5184461913023713409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_152
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 6941
+        width: 353
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd216ec24817ad80800000000000000
+      internalID: -8239590318041649741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_153
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 7230
+        width: 357
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a071a72818f4a8d0800000000000000
+      internalID: -2835869082708774752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_154
+      rect:
+        serializedVersion: 2
+        x: 3316
+        y: 6938
+        width: 356
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b3dd670b94e7e00800000000000000
+      internalID: 1044353185853815582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_155
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 7233
+        width: 333
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dd35d0cdeef97d0800000000000000
+      internalID: -2909344205374235336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_156
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 6938
+        width: 360
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130940f652ba72aa0800000000000000
+      internalID: -6185787385905377231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_157
+      rect:
+        serializedVersion: 2
+        x: 4502
+        y: 7242
+        width: 299
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343b0afd49c4dd1e0800000000000000
+      internalID: -2171495243031989437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_158
+      rect:
+        serializedVersion: 2
+        x: 5234
+        y: 6939
+        width: 363
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102856175bb62b1c0800000000000000
+      internalID: -4489407451499232767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_159
+      rect:
+        serializedVersion: 2
+        x: 5485
+        y: 7253
+        width: 276
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bf67c9628f409a0800000000000000
+      internalID: -6267611936675398823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_160
+      rect:
+        serializedVersion: 2
+        x: 6189
+        y: 6943
+        width: 365
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8022f59eb131d1800800000000000000
+      internalID: 584644537228403208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_161
+      rect:
+        serializedVersion: 2
+        x: 6467
+        y: 7268
+        width: 254
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56722ec6373d6ef00800000000000000
+      internalID: 1145835647913830245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_162
+      rect:
+        serializedVersion: 2
+        x: 7139
+        y: 6946
+        width: 367
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab463def8d3a3c60800000000000000
+      internalID: 7798613393114811302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_163
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 7277
+        width: 240
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bdc6f1e4c82abd0800000000000000
+      internalID: -2620377766013641851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_164
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 5986
+        width: 370
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373bb884334736280800000000000000
+      internalID: -9051263062475295885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_165
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 6328
+        width: 235
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178c32ff54f1bcad0800000000000000
+      internalID: -2681014767675258767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_166
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 5986
+        width: 371
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c1674488f389660800000000000000
+      internalID: 7392728642825362534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_167
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 6339
+        width: 237
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06771fe558ccd440800000000000000
+      internalID: 4962061160864511498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_168
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 5988
+        width: 373
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3245ccc6cbe195c80800000000000000
+      internalID: -8333595840844377053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_169
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 6345
+        width: 250
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddabb07000c0a40e0800000000000000
+      internalID: -2285000666679362851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_170
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 5991
+        width: 379
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6268b245e162dd0800000000000000
+      internalID: -2511286395356174617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_171
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 6354
+        width: 263
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f1b8b1064ec68d0800000000000000
+      internalID: -2851653362602270829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_172
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 5993
+        width: 391
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead70a01e20b570b0800000000000000
+      internalID: -5731481238865150546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_173
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 6354
+        width: 305
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e6b9a3a8898a6d0800000000000000
+      internalID: -2978963434049409459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_174
+      rect:
+        serializedVersion: 2
+        x: 5082
+        y: 5994
+        width: 406
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63615036c949ca60800000000000000
+      internalID: 7694762553902195566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_175
+      rect:
+        serializedVersion: 2
+        x: 5402
+        y: 6358
+        width: 359
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eea8b58cace018e0800000000000000
+      internalID: -1724618431560896797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_176
+      rect:
+        serializedVersion: 2
+        x: 6022
+        y: 5991
+        width: 418
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d62c86d3daf4260800000000000000
+      internalID: 7084071218139262286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_177
+      rect:
+        serializedVersion: 2
+        x: 6283
+        y: 6358
+        width: 406
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8ce65fe5e6d9d20800000000000000
+      internalID: 3286904657173989568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_178
+      rect:
+        serializedVersion: 2
+        x: 6966
+        y: 5986
+        width: 423
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c084466d89e866d70800000000000000
+      internalID: 9036066489448548364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_179
+      rect:
+        serializedVersion: 2
+        x: 7139
+        y: 6345
+        width: 415
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdadac48e0111fc40800000000000000
+      internalID: 5544231370324892383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_180
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 5011
+        width: 487
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0d7d73194d0f160800000000000000
+      internalID: 7057374336261804203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_181
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 4999
+        width: 485
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c0b0c43767a8af0800000000000000
+      internalID: -393371779872387984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_182
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 4990
+        width: 627
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2389eb1c6aa3be850800000000000000
+      internalID: 6407279382754138162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_183
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 4981
+        width: 637
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c5ff0dc543a9720800000000000000
+      internalID: 2853650887140662407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_184
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 5258
+        width: 143
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f6fce91d8c21f70800000000000000
+      internalID: 9156601795035754315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_185
+      rect:
+        serializedVersion: 2
+        x: 4035
+        y: 4972
+        width: 435
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6647afe842d64a380800000000000000
+      internalID: -8960917354775415706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_186
+      rect:
+        serializedVersion: 2
+        x: 4991
+        y: 4964
+        width: 434
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883e9c1d54e666900800000000000000
+      internalID: 677350040117306248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_187
+      rect:
+        serializedVersion: 2
+        x: 5948
+        y: 4957
+        width: 433
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d1cf6c2d9d37110800000000000000
+      internalID: 1257588220271271255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_188
+      rect:
+        serializedVersion: 2
+        x: 6906
+        y: 4954
+        width: 432
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb8a2e7d8743a820800000000000000
+      internalID: 2928262855753632761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_189
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3993
+        width: 432
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095486ca159881220800000000000000
+      internalID: 2456864580608476560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_190
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 3988
+        width: 431
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ac405ad3e7de690800000000000000
+      internalID: -7571256595313276401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_191
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 3983
+        width: 433
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469fb5148c2efb860800000000000000
+      internalID: 7548000850214123876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_192
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 3980
+        width: 433
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd44c007b4bef1e0800000000000000
+      internalID: -2162092073006379591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_193
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 3981
+        width: 435
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a5f10c90662f1c0800000000000000
+      internalID: -4471399287961462207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_194
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 3984
+        width: 435
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9772ed18e5a75aaa0800000000000000
+      internalID: -6150375169780209799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_195
+      rect:
+        serializedVersion: 2
+        x: 5959
+        y: 3991
+        width: 433
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f660531c6459310800000000000000
+      internalID: 1411111853882765208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_196
+      rect:
+        serializedVersion: 2
+        x: 6923
+        y: 3999
+        width: 428
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b224dbc04e93338c0800000000000000
+      internalID: -4020806390682664405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_197
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3050
+        width: 418
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec3b4b7a8ae33b50800000000000000
+      internalID: 6571854161758600427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_198
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 3061
+        width: 405
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87a8f2f162f408b0800000000000000
+      internalID: -5186754368321837170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_199
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 3073
+        width: 390
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04547e1beefffe20800000000000000
+      internalID: 3386705730587612174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_200
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 3084
+        width: 375
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3cde005c405ce90800000000000000
+      internalID: -7006188401134287947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_201
+      rect:
+        serializedVersion: 2
+        x: 4078
+        y: 3090
+        width: 369
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b638d713366bf4c0800000000000000
+      internalID: -4252693053491890507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_202
+      rect:
+        serializedVersion: 2
+        x: 5047
+        y: 3091
+        width: 366
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5803f2666d0f20f10800000000000000
+      internalID: 2234613168757223557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_203
+      rect:
+        serializedVersion: 2
+        x: 6017
+        y: 3090
+        width: 361
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e0049b07122cc30800000000000000
+      internalID: 4378098555785580107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_204
+      rect:
+        serializedVersion: 2
+        x: 6988
+        y: 3088
+        width: 357
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e20023709a8eb20800000000000000
+      internalID: 3163964586596511261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_205
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2125
+        width: 351
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d59c4d7df2c624d0800000000000000
+      internalID: -3159623694569138736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_206
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2122
+        width: 353
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b702198fd82943a40800000000000000
+      internalID: 5347059796053926011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_207
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 2114
+        width: 356
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48927e3c5c4286080800000000000000
+      internalID: -9194058207463003772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_208
+      rect:
+        serializedVersion: 2
+        x: 3176
+        y: 2107
+        width: 359
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c730878b19f0f00800000000000000
+      internalID: 1085246256693083200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_209
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 2101
+        width: 362
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c40d78052478d490800000000000000
+      internalID: -7721293858721692474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_210
+      rect:
+        serializedVersion: 2
+        x: 5105
+        y: 2096
+        width: 365
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba84e90c22435330800000000000000
+      internalID: 3698372475913276089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_211
+      rect:
+        serializedVersion: 2
+        x: 6069
+        y: 2093
+        width: 368
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfb7a8296891bc30800000000000000
+      internalID: 4373444290574532533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_212
+      rect:
+        serializedVersion: 2
+        x: 7033
+        y: 2092
+        width: 372
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41380fe4047752d70800000000000000
+      internalID: 9017744946965283604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_213
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1131
+        width: 375
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327ded610c9304310800000000000000
+      internalID: 1387172182410319651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_214
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1130
+        width: 379
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8840bf795e4bfd890800000000000000
+      internalID: -7431021961947708280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_215
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 1128
+        width: 388
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c20e5ef3deb91520800000000000000
+      internalID: 2673377671536050883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_216
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 1127
+        width: 395
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b9a686d3df30630800000000000000
+      internalID: 3892232943164889941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_217
+      rect:
+        serializedVersion: 2
+        x: 4163
+        y: 1127
+        width: 402
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47c73458061b57a0800000000000000
+      internalID: -6387487421466425523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_218
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 1127
+        width: 405
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53488689eb1196ca0800000000000000
+      internalID: -6023263516332882891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_219
+      rect:
+        serializedVersion: 2
+        x: 6084
+        y: 1125
+        width: 408
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c007c6270d05fc420800000000000000
+      internalID: 2652427561747640332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_220
+      rect:
+        serializedVersion: 2
+        x: 7044
+        y: 1123
+        width: 409
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f9670af544ee310800000000000000
+      internalID: 1436160508682477380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-atk_221
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 161
+        width: 410
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29b934611fb1d030800000000000000
+      internalID: 3517802865369921836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      droid-atk_0: 533503758327237213
+      droid-atk_1: 3029290455534723899
+      droid-atk_10: 466269598948068193
+      droid-atk_100: 8132714285439836066
+      droid-atk_101: -8903255420066598177
+      droid-atk_102: -8400960899051749437
+      droid-atk_103: 6079298663555622265
+      droid-atk_104: -6590138548120561018
+      droid-atk_105: -5005487507678870352
+      droid-atk_106: 131188311618443611
+      droid-atk_107: 381781656615708241
+      droid-atk_108: 5445357467176756367
+      droid-atk_109: -8984611036396274955
+      droid-atk_11: 9104089708074748429
+      droid-atk_110: 871266339455450638
+      droid-atk_111: -9041109246916310295
+      droid-atk_112: -2724788036764687318
+      droid-atk_113: 2869855528550308174
+      droid-atk_114: 5613806908364710171
+      droid-atk_115: -604260811581974443
+      droid-atk_116: 3125500720080085776
+      droid-atk_117: 4410711123149257584
+      droid-atk_118: -3055324311468908863
+      droid-atk_119: -2876913050081494381
+      droid-atk_12: 7399511741122966543
+      droid-atk_120: 8202751247937921320
+      droid-atk_121: 6262906033142638954
+      droid-atk_122: 4556973149912317257
+      droid-atk_123: -782393710545458981
+      droid-atk_124: 1135317151360550309
+      droid-atk_125: -1965254846184332388
+      droid-atk_126: -4989857219546398086
+      droid-atk_127: 3623512813844293422
+      droid-atk_128: 2533878074892124059
+      droid-atk_129: -6342805773307638610
+      droid-atk_13: 6749731209387945090
+      droid-atk_130: -7260553301840487845
+      droid-atk_131: 1092504580003357481
+      droid-atk_132: 4462840461398087320
+      droid-atk_133: -5000915032105247879
+      droid-atk_134: 1662244941716931714
+      droid-atk_135: -4249137637907080379
+      droid-atk_136: -6254608607842406607
+      droid-atk_137: -8302025502272536715
+      droid-atk_138: -6020979378441365058
+      droid-atk_139: -5942325920992976740
+      droid-atk_14: 4939418713956712361
+      droid-atk_140: 2920223405070670236
+      droid-atk_141: -1287944619834308363
+      droid-atk_142: -4457140839196939974
+      droid-atk_143: -846129134993984315
+      droid-atk_144: -5459292909704970692
+      droid-atk_145: 3623454757672891818
+      droid-atk_146: -36999601210914428
+      droid-atk_147: 2645176285101728714
+      droid-atk_148: 3733467841954705657
+      droid-atk_149: -6565086355794422811
+      droid-atk_15: -4628452856875874243
+      droid-atk_150: 5164562374298562536
+      droid-atk_151: 5184461913023713409
+      droid-atk_152: -8239590318041649741
+      droid-atk_153: -2835869082708774752
+      droid-atk_154: 1044353185853815582
+      droid-atk_155: -2909344205374235336
+      droid-atk_156: -6185787385905377231
+      droid-atk_157: -2171495243031989437
+      droid-atk_158: -4489407451499232767
+      droid-atk_159: -6267611936675398823
+      droid-atk_16: -1399241864856203698
+      droid-atk_160: 584644537228403208
+      droid-atk_161: 1145835647913830245
+      droid-atk_162: 7798613393114811302
+      droid-atk_163: -2620377766013641851
+      droid-atk_164: -9051263062475295885
+      droid-atk_165: -2681014767675258767
+      droid-atk_166: 7392728642825362534
+      droid-atk_167: 4962061160864511498
+      droid-atk_168: -8333595840844377053
+      droid-atk_169: -2285000666679362851
+      droid-atk_17: 3077646815002205316
+      droid-atk_170: -2511286395356174617
+      droid-atk_171: -2851653362602270829
+      droid-atk_172: -5731481238865150546
+      droid-atk_173: -2978963434049409459
+      droid-atk_174: 7694762553902195566
+      droid-atk_175: -1724618431560896797
+      droid-atk_176: 7084071218139262286
+      droid-atk_177: 3286904657173989568
+      droid-atk_178: 9036066489448548364
+      droid-atk_179: 5544231370324892383
+      droid-atk_18: -2518223449564301451
+      droid-atk_180: 7057374336261804203
+      droid-atk_181: -393371779872387984
+      droid-atk_182: 6407279382754138162
+      droid-atk_183: 2853650887140662407
+      droid-atk_184: 9156601795035754315
+      droid-atk_185: -8960917354775415706
+      droid-atk_186: 677350040117306248
+      droid-atk_187: 1257588220271271255
+      droid-atk_188: 2928262855753632761
+      droid-atk_189: 2456864580608476560
+      droid-atk_19: 2785300598081378860
+      droid-atk_190: -7571256595313276401
+      droid-atk_191: 7548000850214123876
+      droid-atk_192: -2162092073006379591
+      droid-atk_193: -4471399287961462207
+      droid-atk_194: -6150375169780209799
+      droid-atk_195: 1411111853882765208
+      droid-atk_196: -4020806390682664405
+      droid-atk_197: 6571854161758600427
+      droid-atk_198: -5186754368321837170
+      droid-atk_199: 3386705730587612174
+      droid-atk_2: 8825814698768657135
+      droid-atk_20: -7653396607234297756
+      droid-atk_200: -7006188401134287947
+      droid-atk_201: -4252693053491890507
+      droid-atk_202: 2234613168757223557
+      droid-atk_203: 4378098555785580107
+      droid-atk_204: 3163964586596511261
+      droid-atk_205: -3159623694569138736
+      droid-atk_206: 5347059796053926011
+      droid-atk_207: -9194058207463003772
+      droid-atk_208: 1085246256693083200
+      droid-atk_209: -7721293858721692474
+      droid-atk_21: -7741832923780720987
+      droid-atk_210: 3698372475913276089
+      droid-atk_211: 4373444290574532533
+      droid-atk_212: 9017744946965283604
+      droid-atk_213: 1387172182410319651
+      droid-atk_214: -7431021961947708280
+      droid-atk_215: 2673377671536050883
+      droid-atk_216: 3892232943164889941
+      droid-atk_217: -6387487421466425523
+      droid-atk_218: -6023263516332882891
+      droid-atk_219: 2652427561747640332
+      droid-atk_22: 5004008466781879284
+      droid-atk_220: 1436160508682477380
+      droid-atk_221: 3517802865369921836
+      droid-atk_23: -5516848626458640105
+      droid-atk_24: 2265715638281398341
+      droid-atk_25: -5960212154923787810
+      droid-atk_26: 8832237088144302717
+      droid-atk_27: -4598828744456253624
+      droid-atk_28: -4074563473330899438
+      droid-atk_29: 3874333874117984376
+      droid-atk_3: -6609052759718713722
+      droid-atk_30: 1774551078865670562
+      droid-atk_31: 8735905356578867137
+      droid-atk_32: 5599996207801166931
+      droid-atk_33: -148572596991232720
+      droid-atk_34: -2510436282927505950
+      droid-atk_35: 1990360885431955600
+      droid-atk_36: 8378951620496722578
+      droid-atk_37: -2788042447154184304
+      droid-atk_38: 4101036861356883824
+      droid-atk_39: -5021760549265551068
+      droid-atk_4: -8506366205702887067
+      droid-atk_40: -2057525406636807772
+      droid-atk_41: 3983157808363801300
+      droid-atk_42: -7131732131830915382
+      droid-atk_43: 1847526538658437203
+      droid-atk_44: 3098426414298785321
+      droid-atk_45: 8741267615302820361
+      droid-atk_46: -5640588733945009105
+      droid-atk_47: -9060319822016536379
+      droid-atk_48: -2758981638871086261
+      droid-atk_49: 8582128281981794545
+      droid-atk_5: 5150960639527522798
+      droid-atk_50: -7699136981835862088
+      droid-atk_51: -6660866053472298244
+      droid-atk_52: -1695535241050222449
+      droid-atk_53: 3624471227224686601
+      droid-atk_54: -417735307061231906
+      droid-atk_55: -9069392227092131176
+      droid-atk_56: -2009561117570981107
+      droid-atk_57: -2949678170069426496
+      droid-atk_58: -1957050226892925106
+      droid-atk_59: 7487345985672505029
+      droid-atk_6: 7457368595817301967
+      droid-atk_60: -2513273913770281118
+      droid-atk_61: 1611601817149038129
+      droid-atk_62: -8681795507975316194
+      droid-atk_63: -4268966083909718785
+      droid-atk_64: -3753040464557710778
+      droid-atk_65: 2210491102966666031
+      droid-atk_66: 2800299171004690890
+      droid-atk_67: 8260741897400176221
+      droid-atk_68: -2795067032339798520
+      droid-atk_69: -7151775623873481623
+      droid-atk_7: -7689475380683696721
+      droid-atk_70: 3976056697233697638
+      droid-atk_71: -711812430413048268
+      droid-atk_72: 1264669422829598291
+      droid-atk_73: 5570237040451789019
+      droid-atk_74: 5333883086220751136
+      droid-atk_75: 6394647366581651757
+      droid-atk_76: 5211677622936053758
+      droid-atk_77: -7218697753863783271
+      droid-atk_78: 7427195263168048382
+      droid-atk_79: -7285620897959654351
+      droid-atk_8: 2261208170092154655
+      droid-atk_80: 1475560959607334181
+      droid-atk_81: -4629131055005815213
+      droid-atk_82: 2928231190653139171
+      droid-atk_83: -6448469995921204609
+      droid-atk_84: -3624747043798767594
+      droid-atk_85: 8319112406838069482
+      droid-atk_86: -706162080718617148
+      droid-atk_87: 231725897619385162
+      droid-atk_88: -6930585167908868161
+      droid-atk_89: -3023654243077482860
+      droid-atk_9: 3990208757340881973
+      droid-atk_90: 555545334088763512
+      droid-atk_91: -5964781914492459137
+      droid-atk_92: 5497202308175398705
+      droid-atk_93: 2100542214531876050
+      droid-atk_94: 1838634276502700169
+      droid-atk_95: 8704795059031887805
+      droid-atk_96: 5317246158098113981
+      droid-atk_97: 1877010091977753213
+      droid-atk_98: 2333352154061182628
+      droid-atk_99: -2764041473244725209
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

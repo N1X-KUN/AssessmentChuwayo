@@ -1,0 +1,5408 @@
+fileFormatVersion: 2
+guid: 0fffc54ff6391d1418089c3a0813f15e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6310400996522262908
+    second: droid-down_0
+  - first:
+      213: -5622181642960933213
+    second: droid-down_1
+  - first:
+      213: 3165170777326184995
+    second: droid-down_2
+  - first:
+      213: 1182575345478168023
+    second: droid-down_3
+  - first:
+      213: -2959291060593300014
+    second: droid-down_4
+  - first:
+      213: 6258514590936309409
+    second: droid-down_5
+  - first:
+      213: 3645516622382419062
+    second: droid-down_6
+  - first:
+      213: 7180291976294626475
+    second: droid-down_7
+  - first:
+      213: -7695581431798379052
+    second: droid-down_8
+  - first:
+      213: 3387440086176600018
+    second: droid-down_9
+  - first:
+      213: -4316875347164984506
+    second: droid-down_10
+  - first:
+      213: -8881438686369879019
+    second: droid-down_11
+  - first:
+      213: -7009399045899662898
+    second: droid-down_12
+  - first:
+      213: 4172448180630312582
+    second: droid-down_13
+  - first:
+      213: -6105201538509321539
+    second: droid-down_14
+  - first:
+      213: 3789368403864660561
+    second: droid-down_15
+  - first:
+      213: -95796261463149974
+    second: droid-down_16
+  - first:
+      213: 7849350797976243044
+    second: droid-down_17
+  - first:
+      213: -1978690562309453594
+    second: droid-down_18
+  - first:
+      213: -5657203779145596925
+    second: droid-down_19
+  - first:
+      213: 496414722124732992
+    second: droid-down_20
+  - first:
+      213: -4426639571459440510
+    second: droid-down_21
+  - first:
+      213: 578517348143898093
+    second: droid-down_22
+  - first:
+      213: 9021916941999874255
+    second: droid-down_23
+  - first:
+      213: -394215968496690398
+    second: droid-down_24
+  - first:
+      213: 1097006635077344485
+    second: droid-down_25
+  - first:
+      213: 165313196037130486
+    second: droid-down_26
+  - first:
+      213: -8746928581736426809
+    second: droid-down_27
+  - first:
+      213: -6361597416206544767
+    second: droid-down_28
+  - first:
+      213: 7901596346612408324
+    second: droid-down_29
+  - first:
+      213: 2202234251387595299
+    second: droid-down_30
+  - first:
+      213: 8777906261652964177
+    second: droid-down_31
+  - first:
+      213: -9034102887607034242
+    second: droid-down_32
+  - first:
+      213: -6190838049572420188
+    second: droid-down_33
+  - first:
+      213: 8433403689061576374
+    second: droid-down_34
+  - first:
+      213: -977691452248059284
+    second: droid-down_35
+  - first:
+      213: -7770519514629949601
+    second: droid-down_36
+  - first:
+      213: 418021228457233226
+    second: droid-down_37
+  - first:
+      213: 7905437989106960242
+    second: droid-down_38
+  - first:
+      213: 1511461976774690172
+    second: droid-down_39
+  - first:
+      213: -7417011332794091638
+    second: droid-down_40
+  - first:
+      213: 8482144315979300162
+    second: droid-down_41
+  - first:
+      213: 2833562855211873105
+    second: droid-down_42
+  - first:
+      213: -1629427039086668411
+    second: droid-down_43
+  - first:
+      213: 1619294176343982721
+    second: droid-down_44
+  - first:
+      213: -4643104524081099713
+    second: droid-down_45
+  - first:
+      213: -6671307941587947114
+    second: droid-down_46
+  - first:
+      213: -7188050759153726420
+    second: droid-down_47
+  - first:
+      213: 8023909410670111992
+    second: droid-down_48
+  - first:
+      213: -6998696141132868436
+    second: droid-down_49
+  - first:
+      213: 2327937309864755898
+    second: droid-down_50
+  - first:
+      213: 3834522956783302165
+    second: droid-down_51
+  - first:
+      213: 8234193179138069580
+    second: droid-down_52
+  - first:
+      213: 9122647000826452361
+    second: droid-down_53
+  - first:
+      213: 8512998597704188370
+    second: droid-down_54
+  - first:
+      213: 5204526323610621202
+    second: droid-down_55
+  - first:
+      213: 3784109991327837211
+    second: droid-down_56
+  - first:
+      213: 1955095292346061927
+    second: droid-down_57
+  - first:
+      213: 755552477542738643
+    second: droid-down_58
+  - first:
+      213: 319053309375596719
+    second: droid-down_59
+  - first:
+      213: -1469512422565764323
+    second: droid-down_60
+  - first:
+      213: 382147625879030077
+    second: droid-down_61
+  - first:
+      213: -214708769347484003
+    second: droid-down_62
+  - first:
+      213: 1575742901936573744
+    second: droid-down_63
+  - first:
+      213: -4427264514050439008
+    second: droid-down_64
+  - first:
+      213: -9147736185443162312
+    second: droid-down_65
+  - first:
+      213: 7715482920616233001
+    second: droid-down_66
+  - first:
+      213: 7807698960626111826
+    second: droid-down_67
+  - first:
+      213: -8692137985806313201
+    second: droid-down_68
+  - first:
+      213: 5292351623438600566
+    second: droid-down_69
+  - first:
+      213: 1617394797659466890
+    second: droid-down_70
+  - first:
+      213: -8648697418324306901
+    second: droid-down_71
+  - first:
+      213: 1433355700611939420
+    second: droid-down_72
+  - first:
+      213: -8528306846020859339
+    second: droid-down_73
+  - first:
+      213: -4651746784359379938
+    second: droid-down_74
+  - first:
+      213: 1116068228543976004
+    second: droid-down_75
+  - first:
+      213: -806501990787001459
+    second: droid-down_76
+  - first:
+      213: 4202333260025445635
+    second: droid-down_77
+  - first:
+      213: -1425507229303858754
+    second: droid-down_78
+  - first:
+      213: -3955685440655186531
+    second: droid-down_79
+  - first:
+      213: -8791239098312599967
+    second: droid-down_80
+  - first:
+      213: -2127496692932894751
+    second: droid-down_81
+  - first:
+      213: 8288905782080696536
+    second: droid-down_82
+  - first:
+      213: 6803000272190237408
+    second: droid-down_83
+  - first:
+      213: -2131793112924164904
+    second: droid-down_84
+  - first:
+      213: 1225983988362270943
+    second: droid-down_85
+  - first:
+      213: 9176565865502800684
+    second: droid-down_86
+  - first:
+      213: -8672045531624857911
+    second: droid-down_87
+  - first:
+      213: -2320631308264901474
+    second: droid-down_88
+  - first:
+      213: 5917654459083274403
+    second: droid-down_89
+  - first:
+      213: -768269392619295594
+    second: droid-down_90
+  - first:
+      213: -3303995535218255966
+    second: droid-down_91
+  - first:
+      213: 6250964604527354357
+    second: droid-down_92
+  - first:
+      213: -8190014177176189351
+    second: droid-down_93
+  - first:
+      213: 7808526398358295428
+    second: droid-down_94
+  - first:
+      213: -5328221807905052368
+    second: droid-down_95
+  - first:
+      213: 5217011119173985623
+    second: droid-down_96
+  - first:
+      213: -7010207020458862452
+    second: droid-down_97
+  - first:
+      213: -7491884817656592403
+    second: droid-down_98
+  - first:
+      213: 5864142552230206392
+    second: droid-down_99
+  - first:
+      213: 1041776734724467246
+    second: droid-down_100
+  - first:
+      213: 1304739399299378007
+    second: droid-down_101
+  - first:
+      213: 6556797866662464066
+    second: droid-down_102
+  - first:
+      213: -165396523397688906
+    second: droid-down_103
+  - first:
+      213: -6922212737976692963
+    second: droid-down_104
+  - first:
+      213: 9168310189058615904
+    second: droid-down_105
+  - first:
+      213: -4447646682023661803
+    second: droid-down_106
+  - first:
+      213: 3725279530337133300
+    second: droid-down_107
+  - first:
+      213: -8420902229515107758
+    second: droid-down_108
+  - first:
+      213: 8907832963553078283
+    second: droid-down_109
+  - first:
+      213: -3269493184918013154
+    second: droid-down_110
+  - first:
+      213: 5263610616347303513
+    second: droid-down_111
+  - first:
+      213: -811645552032411426
+    second: droid-down_112
+  - first:
+      213: 6984201483855239971
+    second: droid-down_113
+  - first:
+      213: -2715961290191924232
+    second: droid-down_114
+  - first:
+      213: -5810599522243192487
+    second: droid-down_115
+  - first:
+      213: 2111020536491241308
+    second: droid-down_116
+  - first:
+      213: 4216997902657237794
+    second: droid-down_117
+  - first:
+      213: -2916618834877907471
+    second: droid-down_118
+  - first:
+      213: -6348795569658764898
+    second: droid-down_119
+  - first:
+      213: 7004245739560613622
+    second: droid-down_120
+  - first:
+      213: -4638161886976389225
+    second: droid-down_121
+  - first:
+      213: -4882266144443193802
+    second: droid-down_122
+  - first:
+      213: -2875851989370409333
+    second: droid-down_123
+  - first:
+      213: 2504638829400776970
+    second: droid-down_124
+  - first:
+      213: 2419683801294311146
+    second: droid-down_125
+  - first:
+      213: -959272544174928444
+    second: droid-down_126
+  - first:
+      213: 461214863312378762
+    second: droid-down_127
+  - first:
+      213: 8554154097836431388
+    second: droid-down_128
+  - first:
+      213: -2830340233674152909
+    second: droid-down_129
+  - first:
+      213: -7106273057705975803
+    second: droid-down_130
+  - first:
+      213: -2227398119327988696
+    second: droid-down_131
+  - first:
+      213: -2448797208211651279
+    second: droid-down_132
+  - first:
+      213: 5026089512636993958
+    second: droid-down_133
+  - first:
+      213: -1392858536780012115
+    second: droid-down_134
+  - first:
+      213: -1570269654725574188
+    second: droid-down_135
+  - first:
+      213: 5555819224318371612
+    second: droid-down_136
+  - first:
+      213: 8925774860018067603
+    second: droid-down_137
+  - first:
+      213: 6418760750207589986
+    second: droid-down_138
+  - first:
+      213: 6472259251219004033
+    second: droid-down_139
+  - first:
+      213: 2573501270081627275
+    second: droid-down_140
+  - first:
+      213: -1802585861015558792
+    second: droid-down_141
+  - first:
+      213: 3124982793306790024
+    second: droid-down_142
+  - first:
+      213: 6868210438807093008
+    second: droid-down_143
+  - first:
+      213: 2783260851669372840
+    second: droid-down_144
+  - first:
+      213: 2296082016963286518
+    second: droid-down_145
+  - first:
+      213: 2509462434084422083
+    second: droid-down_146
+  - first:
+      213: 5306197963589353436
+    second: droid-down_147
+  - first:
+      213: -2739067380809995747
+    second: droid-down_148
+  - first:
+      213: 7603392168687651527
+    second: droid-down_149
+  - first:
+      213: -5139462606311200529
+    second: droid-down_150
+  - first:
+      213: 8200615046799941169
+    second: droid-down_151
+  - first:
+      213: 2564070574765480829
+    second: droid-down_152
+  - first:
+      213: -3069960355081817925
+    second: droid-down_153
+  - first:
+      213: -7143450680901812311
+    second: droid-down_154
+  - first:
+      213: 393388178582330239
+    second: droid-down_155
+  - first:
+      213: -8177085483620712890
+    second: droid-down_156
+  - first:
+      213: -7960178307366540103
+    second: droid-down_157
+  - first:
+      213: 5083380467605575072
+    second: droid-down_158
+  - first:
+      213: 6416277803894649376
+    second: droid-down_159
+  - first:
+      213: -3293179749262515531
+    second: droid-down_160
+  - first:
+      213: -7121733879542222218
+    second: droid-down_161
+  - first:
+      213: -8862738640667784627
+    second: droid-down_162
+  - first:
+      213: 4821771351792415245
+    second: droid-down_163
+  - first:
+      213: -8530855093996921188
+    second: droid-down_164
+  - first:
+      213: 649942783330397795
+    second: droid-down_165
+  - first:
+      213: 914310151060319723
+    second: droid-down_166
+  - first:
+      213: 6862692003831379655
+    second: droid-down_167
+  - first:
+      213: -7314506614154924027
+    second: droid-down_168
+  - first:
+      213: 614696669738082858
+    second: droid-down_169
+  - first:
+      213: 4053829574933507531
+    second: droid-down_170
+  - first:
+      213: -8993358778094214338
+    second: droid-down_171
+  - first:
+      213: -6985148171714617178
+    second: droid-down_172
+  - first:
+      213: 6730016529503924230
+    second: droid-down_173
+  - first:
+      213: -7416206111359056179
+    second: droid-down_174
+  - first:
+      213: -5448231825980622939
+    second: droid-down_175
+  - first:
+      213: -6003446800962551163
+    second: droid-down_176
+  - first:
+      213: -6110442053710666683
+    second: droid-down_177
+  - first:
+      213: 6047148639164285865
+    second: droid-down_178
+  - first:
+      213: -4778684094646724138
+    second: droid-down_179
+  - first:
+      213: 5924420262136895601
+    second: droid-down_180
+  - first:
+      213: 4994976330926113278
+    second: droid-down_181
+  - first:
+      213: -8560391717504051227
+    second: droid-down_182
+  - first:
+      213: 6261149436133307659
+    second: droid-down_183
+  - first:
+      213: -3731692305713234843
+    second: droid-down_184
+  - first:
+      213: 8925386991530474071
+    second: droid-down_185
+  - first:
+      213: -5250016493527434422
+    second: droid-down_186
+  - first:
+      213: 717936352943787665
+    second: droid-down_187
+  - first:
+      213: 3140918969004996333
+    second: droid-down_188
+  - first:
+      213: 2558719143153039536
+    second: droid-down_189
+  - first:
+      213: 6261449537807046396
+    second: droid-down_190
+  - first:
+      213: -5816202105728368816
+    second: droid-down_191
+  - first:
+      213: -5005379273600541733
+    second: droid-down_192
+  - first:
+      213: -760644404394277821
+    second: droid-down_193
+  - first:
+      213: 3242934738798361194
+    second: droid-down_194
+  - first:
+      213: -4054110082128856596
+    second: droid-down_195
+  - first:
+      213: -6296001780574190461
+    second: droid-down_196
+  - first:
+      213: -3956421254420737183
+    second: droid-down_197
+  - first:
+      213: 443742845642044682
+    second: droid-down_198
+  - first:
+      213: -5478672499292474957
+    second: droid-down_199
+  - first:
+      213: 2812119972256213739
+    second: droid-down_200
+  - first:
+      213: -569964790712945723
+    second: droid-down_201
+  - first:
+      213: 154216281824017926
+    second: droid-down_202
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: droid-down_0
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16521
+        width: 470
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ef4044ab3fc68a0800000000000000
+      internalID: -6310400996522262908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_1
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 16557
+        width: 496
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae6794559ff9f1b0800000000000000
+      internalID: -5622181642960933213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_2
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 16590
+        width: 519
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a69fb5d02fceb20800000000000000
+      internalID: 3165170777326184995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_3
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 16607
+        width: 537
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd6c5bd20a596010800000000000000
+      internalID: 1182575345478168023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_4
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 16618
+        width: 548
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dde85a957c7ee6d0800000000000000
+      internalID: -2959291060593300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_5
+      rect:
+        serializedVersion: 2
+        x: 5047
+        y: 16626
+        width: 548
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae9b568cd5bad650800000000000000
+      internalID: 6258514590936309409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_6
+      rect:
+        serializedVersion: 2
+        x: 6006
+        y: 16631
+        width: 548
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cc2e3ad0a779230800000000000000
+      internalID: 3645516622382419062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_7
+      rect:
+        serializedVersion: 2
+        x: 6966
+        y: 16634
+        width: 546
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4f0a6728585a360800000000000000
+      internalID: 7180291976294626475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 15679
+        width: 544
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddc091f57dc33590800000000000000
+      internalID: -7695581431798379052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_9
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 15682
+        width: 542
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df897a9fca920f20800000000000000
+      internalID: 3387440086176600018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_10
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 15685
+        width: 536
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b07985eb06714c0800000000000000
+      internalID: -4316875347164984506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_11
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 15688
+        width: 527
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ce284129aceb480800000000000000
+      internalID: -8881438686369879019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_12
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 15690
+        width: 518
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9403484bc99be90800000000000000
+      internalID: -7009399045899662898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_13
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 15690
+        width: 512
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686d132838387e930800000000000000
+      internalID: 4172448180630312582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_14
+      rect:
+        serializedVersion: 2
+        x: 6052
+        y: 15691
+        width: 508
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbacbf62c87f54ba0800000000000000
+      internalID: -6105201538509321539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_15
+      rect:
+        serializedVersion: 2
+        x: 7014
+        y: 15692
+        width: 506
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a21738c7a869430800000000000000
+      internalID: 3789368403864660561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 14733
+        width: 509
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62bda8cec9abaef0800000000000000
+      internalID: -95796261463149974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_17
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 14736
+        width: 513
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b8dce86fe7eec60800000000000000
+      internalID: 7849350797976243044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_18
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 14739
+        width: 514
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e88029ca674a84e0800000000000000
+      internalID: -1978690562309453594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_19
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 14744
+        width: 513
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3008702d2239d71b0800000000000000
+      internalID: -5657203779145596925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_20
+      rect:
+        serializedVersion: 2
+        x: 4132
+        y: 14749
+        width: 508
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ad4854f8e93e600800000000000000
+      internalID: 496414722124732992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_21
+      rect:
+        serializedVersion: 2
+        x: 5098
+        y: 14754
+        width: 502
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280097a53ca6192c0800000000000000
+      internalID: -4426639571459440510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_22
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 14761
+        width: 496
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded9488867e470800800000000000000
+      internalID: 578517348143898093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_23
+      rect:
+        serializedVersion: 2
+        x: 7027
+        y: 14767
+        width: 492
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc02bf898a9443d70800000000000000
+      internalID: 9021916941999874255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 13813
+        width: 492
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bd7f05aa6778af0800000000000000
+      internalID: -394215968496690398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_25
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 13819
+        width: 492
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec1800f8b9593f00800000000000000
+      internalID: 1097006635077344485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_26
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 13825
+        width: 488
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f84a76d97f4b4200800000000000000
+      internalID: 165313196037130486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_27
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 13831
+        width: 485
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c293e15ccaac9680800000000000000
+      internalID: -8746928581736426809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_28
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 13837
+        width: 483
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18057faead017b7a0800000000000000
+      internalID: -6361597416206544767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_29
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 13841
+        width: 487
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4006b56430c18ad60800000000000000
+      internalID: 7901596346612408324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_30
+      rect:
+        serializedVersion: 2
+        x: 6083
+        y: 13847
+        width: 493
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ae72a3268ef8e10800000000000000
+      internalID: 2202234251387595299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_31
+      rect:
+        serializedVersion: 2
+        x: 7048
+        y: 13853
+        width: 493
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1538085dc3361d970800000000000000
+      internalID: 8777906261652964177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_32
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 12899
+        width: 488
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e1ad7d94b60a280800000000000000
+      internalID: -9034102887607034242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_33
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 12901
+        width: 483
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a583492899b51aa0800000000000000
+      internalID: -6190838049572420188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_34
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 12902
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beebfd19f7790570800000000000000
+      internalID: 8433403689061576374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_35
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 12905
+        width: 483
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6291d0edca8e62f0800000000000000
+      internalID: -977691452248059284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_36
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 12907
+        width: 487
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57bd32eba1992490800000000000000
+      internalID: -7770519514629949601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_37
+      rect:
+        serializedVersion: 2
+        x: 5143
+        y: 12908
+        width: 491
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b04cea71c1dc500800000000000000
+      internalID: 418021228457233226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_38
+      rect:
+        serializedVersion: 2
+        x: 6103
+        y: 12909
+        width: 490
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277499e57f1c5bd60800000000000000
+      internalID: 7905437989106960242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_39
+      rect:
+        serializedVersion: 2
+        x: 7068
+        y: 12911
+        width: 484
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c754a29e8aac9f410800000000000000
+      internalID: 1511461976774690172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_40
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 11952
+        width: 472
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87f2c56d7b711990800000000000000
+      internalID: -7417011332794091638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_41
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 11953
+        width: 461
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d7b87a051a6b570800000000000000
+      internalID: 8482144315979300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_42
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 11954
+        width: 453
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15335a96766d25720800000000000000
+      internalID: 2833562855211873105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_43
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 11954
+        width: 449
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58592d3bdbc1369e0800000000000000
+      internalID: -1629427039086668411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_44
+      rect:
+        serializedVersion: 2
+        x: 4209
+        y: 11954
+        width: 447
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18287d75973e87610800000000000000
+      internalID: 1619294176343982721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_45
+      rect:
+        serializedVersion: 2
+        x: 5164
+        y: 11953
+        width: 448
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c032b1901609fb0800000000000000
+      internalID: -4643104524081099713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_46
+      rect:
+        serializedVersion: 2
+        x: 6119
+        y: 11951
+        width: 449
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6917862f5c0ca63a0800000000000000
+      internalID: -6671307941587947114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_47
+      rect:
+        serializedVersion: 2
+        x: 7074
+        y: 11950
+        width: 451
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c4a212be9ee3c90800000000000000
+      internalID: -7188050759153726420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_48
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 10989
+        width: 452
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fce7e4b817aa5f60800000000000000
+      internalID: 8023909410670111992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_49
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 10988
+        width: 453
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4d0e8b0f2afde90800000000000000
+      internalID: -6998696141132868436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_50
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 10986
+        width: 455
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab20edd36ae7e4020800000000000000
+      internalID: 2327937309864755898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_51
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 10985
+        width: 457
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51636222056f63530800000000000000
+      internalID: 3834522956783302165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_52
+      rect:
+        serializedVersion: 2
+        x: 4169
+        y: 10982
+        width: 458
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44187ed11bb54270800000000000000
+      internalID: 8234193179138069580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_53
+      rect:
+        serializedVersion: 2
+        x: 5124
+        y: 10979
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9891b870d172a9e70800000000000000
+      internalID: 9122647000826452361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_54
+      rect:
+        serializedVersion: 2
+        x: 6079
+        y: 10974
+        width: 464
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d18e8dee1f342670800000000000000
+      internalID: 8512998597704188370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_55
+      rect:
+        serializedVersion: 2
+        x: 7034
+        y: 10964
+        width: 467
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2151bf6dd113a3840800000000000000
+      internalID: 5204526323610621202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_56
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 9996
+        width: 470
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c2a10fcfbd38430800000000000000
+      internalID: 3784109991327837211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_57
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 9989
+        width: 472
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76453525fc4e12b10800000000000000
+      internalID: 1955095292346061927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_58
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 9962
+        width: 475
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dae919a9f24c7a00800000000000000
+      internalID: 755552477542738643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_59
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 9901
+        width: 477
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8ceb16b418d6400800000000000000
+      internalID: 319053309375596719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_60
+      rect:
+        serializedVersion: 2
+        x: 4129
+        y: 9828
+        width: 416
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13a1fbcc3e3b9be0800000000000000
+      internalID: -1469512422565764323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_61
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 9975
+        width: 398
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d394744bd39ad4500800000000000000
+      internalID: 382147625879030077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_62
+      rect:
+        serializedVersion: 2
+        x: 5084
+        y: 9737
+        width: 480
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96c1e80383350df0800000000000000
+      internalID: -214708769347484003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_63
+      rect:
+        serializedVersion: 2
+        x: 6123
+        y: 9971
+        width: 397
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dc54712d92ed510800000000000000
+      internalID: 1575742901936573744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_64
+      rect:
+        serializedVersion: 2
+        x: 7079
+        y: 9970
+        width: 397
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8c45191623f82c0800000000000000
+      internalID: -4427264514050439008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_65
+      rect:
+        serializedVersion: 2
+        x: 6039
+        y: 9625
+        width: 416
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8376ca7f766bc0180800000000000000
+      internalID: -9147736185443162312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_66
+      rect:
+        serializedVersion: 2
+        x: 6993
+        y: 9647
+        width: 417
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9288ce186d6e21b60800000000000000
+      internalID: 7715482920616233001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_67
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 9011
+        width: 395
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2555e4576d48a5c60800000000000000
+      internalID: 7807698960626111826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_68
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 9012
+        width: 395
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09d5590e825f5780800000000000000
+      internalID: -8692137985806313201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_69
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 9013
+        width: 393
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679058de2c5327940800000000000000
+      internalID: 5292351623438600566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_70
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 9014
+        width: 392
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cae08cff3227610800000000000000
+      internalID: 1617394797659466890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_71
+      rect:
+        serializedVersion: 2
+        x: 4182
+        y: 9017
+        width: 391
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2411f25587a9f780800000000000000
+      internalID: -8648697418324306901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_72
+      rect:
+        serializedVersion: 2
+        x: 5139
+        y: 9019
+        width: 391
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c71cb5a6d44e310800000000000000
+      internalID: 1433355700611939420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_73
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 9022
+        width: 390
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a0563cb1e55a980800000000000000
+      internalID: -8528306846020859339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_74
+      rect:
+        serializedVersion: 2
+        x: 7054
+        y: 9025
+        width: 391
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c813512fca17fb0800000000000000
+      internalID: -4651746784359379938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_75
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 8708
+        width: 418
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442967304221d7f00800000000000000
+      internalID: 1116068228543976004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_76
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 8727
+        width: 418
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83de7066babec4f0800000000000000
+      internalID: -806501990787001459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_77
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 8741
+        width: 418
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d30a7c5dfa15a30800000000000000
+      internalID: 4202333260025445635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_78
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 8745
+        width: 418
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb997944ab4973ce0800000000000000
+      internalID: -1425507229303858754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_79
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 8742
+        width: 419
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d952092cc059a19c0800000000000000
+      internalID: -3955685440655186531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_80
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 8737
+        width: 419
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1665d893e9e3ff580800000000000000
+      internalID: -8791239098312599967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_81
+      rect:
+        serializedVersion: 2
+        x: 5997
+        y: 8733
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef9aec970d9972e0800000000000000
+      internalID: -2127496692932894751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_82
+      rect:
+        serializedVersion: 2
+        x: 6957
+        y: 8733
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0f99d64eb180370800000000000000
+      internalID: 8288905782080696536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_83
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 8070
+        width: 393
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eae8c624bc196e50800000000000000
+      internalID: 6803000272190237408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_84
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 8076
+        width: 395
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dce78165795a62e0800000000000000
+      internalID: -2131793112924164904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_85
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 8082
+        width: 397
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd856ae11f1930110800000000000000
+      internalID: 1225983988362270943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_86
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 8090
+        width: 400
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bf44ff806b95f70800000000000000
+      internalID: 9176565865502800684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_87
+      rect:
+        serializedVersion: 2
+        x: 4163
+        y: 8094
+        width: 404
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce9c731984b6a780800000000000000
+      internalID: -8672045531624857911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_88
+      rect:
+        serializedVersion: 2
+        x: 5122
+        y: 8097
+        width: 407
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e947830de167bcfd0800000000000000
+      internalID: -2320631308264901474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_89
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 8101
+        width: 412
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a83a21a06bbf1250800000000000000
+      internalID: 5917654459083274403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_90
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 8105
+        width: 414
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c2f11de0f8655f0800000000000000
+      internalID: -768269392619295594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_91
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 7773
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7d6d7e099d522d0800000000000000
+      internalID: -3303995535218255966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_92
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 7773
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1a4645033efb650800000000000000
+      internalID: 6250964604527354357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_93
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 7773
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95600089f79375e80800000000000000
+      internalID: -8190014177176189351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_94
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 7773
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483186153657d5c60800000000000000
+      internalID: 7808526398358295428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_95
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 7773
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039645fee7a5e06b0800000000000000
+      internalID: -5328221807905052368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_96
+      rect:
+        serializedVersion: 2
+        x: 5037
+        y: 7773
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755e0a3d8fb866840800000000000000
+      internalID: 5217011119173985623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_97
+      rect:
+        serializedVersion: 2
+        x: 5997
+        y: 7773
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8899974bddb6be90800000000000000
+      internalID: -7010207020458862452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_98
+      rect:
+        serializedVersion: 2
+        x: 6957
+        y: 7773
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7cf69b37a770890800000000000000
+      internalID: -7491884817656592403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_99
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 7149
+        width: 417
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb1fe9e49e916150800000000000000
+      internalID: 5864142552230206392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_100
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 7154
+        width: 420
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aa480bb62257e00800000000000000
+      internalID: 1041776734724467246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_101
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 7159
+        width: 421
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b22b3229d5b1210800000000000000
+      internalID: 1304739399299378007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_102
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 7164
+        width: 422
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a847a9bec6efa50800000000000000
+      internalID: 6556797866662464066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_103
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 7169
+        width: 421
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1dbcffcb464bdf0800000000000000
+      internalID: -165396523397688906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_104
+      rect:
+        serializedVersion: 2
+        x: 5119
+        y: 7174
+        width: 421
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f0735b03c5fef90800000000000000
+      internalID: -6922212737976692963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_105
+      rect:
+        serializedVersion: 2
+        x: 6078
+        y: 7179
+        width: 421
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aee698a816c3f70800000000000000
+      internalID: 9168310189058615904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_106
+      rect:
+        serializedVersion: 2
+        x: 7038
+        y: 7184
+        width: 419
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fe88748e8c642c0800000000000000
+      internalID: -4447646682023661803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_107
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 6813
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f267c6def9d2b330800000000000000
+      internalID: 3725279530337133300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_108
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 6813
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2520571c902f22b80800000000000000
+      internalID: -8420902229515107758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_109
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 6813
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ca81772eafe9b70800000000000000
+      internalID: 8907832963553078283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_110
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 6813
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bb665554d60a2d0800000000000000
+      internalID: -3269493184918013154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_111
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 6813
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e1b5fb7f91c0940800000000000000
+      internalID: 5263610616347303513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_112
+      rect:
+        serializedVersion: 2
+        x: 5037
+        y: 6813
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed01593bba47cb4f0800000000000000
+      internalID: -811645552032411426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_113
+      rect:
+        serializedVersion: 2
+        x: 5997
+        y: 6813
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b92f4ee3edce060800000000000000
+      internalID: 6984201483855239971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_114
+      rect:
+        serializedVersion: 2
+        x: 6957
+        y: 6813
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3166aa897fe4ad0800000000000000
+      internalID: -2715961290191924232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_115
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 6228
+        width: 416
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959d3a8358a9c5fa0800000000000000
+      internalID: -5810599522243192487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_116
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 6231
+        width: 412
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f6d174ef9db4d10800000000000000
+      internalID: 2111020536491241308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_117
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 6234
+        width: 408
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223b376ff39c58a30800000000000000
+      internalID: 4216997902657237794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_118
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 6237
+        width: 402
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd73e16f961687d0800000000000000
+      internalID: -2916618834877907471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_119
+      rect:
+        serializedVersion: 2
+        x: 4169
+        y: 6238
+        width: 397
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e916ae6111c84e7a0800000000000000
+      internalID: -6348795569658764898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_120
+      rect:
+        serializedVersion: 2
+        x: 5131
+        y: 6239
+        width: 394
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6bd0ad364143160800000000000000
+      internalID: 7004245739560613622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_121
+      rect:
+        serializedVersion: 2
+        x: 6093
+        y: 6237
+        width: 391
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f440c7650f1afb0800000000000000
+      internalID: -4638161886976389225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_122
+      rect:
+        serializedVersion: 2
+        x: 7055
+        y: 6235
+        width: 388
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6362c891fc4be3cb0800000000000000
+      internalID: -4882266144443193802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_123
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 5853
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ee9f24adbe618d0800000000000000
+      internalID: -2875851989370409333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_124
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 5853
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a016515ceb342c220800000000000000
+      internalID: 2504638829400776970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_125
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 5853
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee0ae4e891749120800000000000000
+      internalID: 2419683801294311146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_126
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 5853
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd0ba914baffa2f0800000000000000
+      internalID: -959272544174928444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_127
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 5853
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b5ddc7970966600800000000000000
+      internalID: 461214863312378762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_128
+      rect:
+        serializedVersion: 2
+        x: 5037
+        y: 5853
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c181e7384d576b670800000000000000
+      internalID: 8554154097836431388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_129
+      rect:
+        serializedVersion: 2
+        x: 5997
+        y: 5853
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3342b52ad8c98b8d0800000000000000
+      internalID: -2830340233674152909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_130
+      rect:
+        serializedVersion: 2
+        x: 6957
+        y: 5853
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500a18efd42716d90800000000000000
+      internalID: -7106273057705975803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_131
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 5273
+        width: 386
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82405143631b611e0800000000000000
+      internalID: -2227398119327988696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_132
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 5273
+        width: 385
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1358395d9ef140ed0800000000000000
+      internalID: -2448797208211651279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_133
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 5272
+        width: 383
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a15b0a48c140c540800000000000000
+      internalID: 5026089512636993958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_134
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 5273
+        width: 383
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da56bdc5a829bace0800000000000000
+      internalID: -1392858536780012115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_135
+      rect:
+        serializedVersion: 2
+        x: 4185
+        y: 5274
+        width: 383
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1c1849118453ae0800000000000000
+      internalID: -1570269654725574188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_136
+      rect:
+        serializedVersion: 2
+        x: 5147
+        y: 5275
+        width: 383
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1768c5062c3a1d40800000000000000
+      internalID: 5555819224318371612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_137
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 5278
+        width: 384
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3982d74c1f8bedb70800000000000000
+      internalID: 8925774860018067603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_138
+      rect:
+        serializedVersion: 2
+        x: 7069
+        y: 5280
+        width: 385
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ed75ee4e4041950800000000000000
+      internalID: 6418760750207589986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_139
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 4893
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18af42b5f7512d950800000000000000
+      internalID: 6472259251219004033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_140
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 4893
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b846b3825c9e6b320800000000000000
+      internalID: 2573501270081627275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_141
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 4893
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875a60db5bdebf6e0800000000000000
+      internalID: -1802585861015558792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_142
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 4893
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888524c2b4b2e5b20800000000000000
+      internalID: 3124982793306790024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_143
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 4893
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ff9b73109c05f50800000000000000
+      internalID: 6868210438807093008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_144
+      rect:
+        serializedVersion: 2
+        x: 5037
+        y: 4893
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af010d8ff020a620800000000000000
+      internalID: 2783260851669372840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_145
+      rect:
+        serializedVersion: 2
+        x: 5997
+        y: 4893
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f55244ed625ddf10800000000000000
+      internalID: 2296082016963286518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_146
+      rect:
+        serializedVersion: 2
+        x: 6957
+        y: 4893
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c10ac0c9c663d220800000000000000
+      internalID: 2509462434084422083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_147
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 4323
+        width: 386
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdff4a73fe663a940800000000000000
+      internalID: 5306197963589353436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_148
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 4325
+        width: 388
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ae5f6bab0ecf9d0800000000000000
+      internalID: -2739067380809995747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_149
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 4317
+        width: 389
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca4d9694eca48960800000000000000
+      internalID: 7603392168687651527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_150
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 4296
+        width: 391
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8ea665df5fca8b0800000000000000
+      internalID: -5139462606311200529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_151
+      rect:
+        serializedVersion: 2
+        x: 4190
+        y: 4264
+        width: 393
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13edb34bfef6ec170800000000000000
+      internalID: 8200615046799941169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_152
+      rect:
+        serializedVersion: 2
+        x: 5149
+        y: 4227
+        width: 396
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b9deb4a98659320800000000000000
+      internalID: 2564070574765480829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_153
+      rect:
+        serializedVersion: 2
+        x: 6105
+        y: 4185
+        width: 401
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0f0d8825f4565d0800000000000000
+      internalID: -3069960355081817925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_154
+      rect:
+        serializedVersion: 2
+        x: 7062
+        y: 4136
+        width: 405
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af335e047d5ddc90800000000000000
+      internalID: -7143450680901812311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_155
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 3933
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bdc33d678957500800000000000000
+      internalID: 393388178582330239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_156
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 3933
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eb8c2a318258e80800000000000000
+      internalID: -8177085483620712890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_157
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 3933
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bca5a81104c78190800000000000000
+      internalID: -7960178307366540103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_158
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 3933
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a51ac53a9bcb8640800000000000000
+      internalID: 5083380467605575072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_159
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 3933
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0223d51faa23b0950800000000000000
+      internalID: 6416277803894649376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_160
+      rect:
+        serializedVersion: 2
+        x: 5037
+        y: 3933
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2a2bf47764c42d0800000000000000
+      internalID: -3293179749262515531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_161
+      rect:
+        serializedVersion: 2
+        x: 5997
+        y: 3933
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6727505e4c48a2d90800000000000000
+      internalID: -7121733879542222218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_162
+      rect:
+        serializedVersion: 2
+        x: 6957
+        y: 3933
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a4ed1c92a310580800000000000000
+      internalID: -8862738640667784627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_163
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 3123
+        width: 408
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02fdb36f7f5ae240800000000000000
+      internalID: 4821771351792415245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_164
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3012
+        width: 412
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e5bfb8d705c9980800000000000000
+      internalID: -8530855093996921188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_165
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 2952
+        width: 591
+        height: 497
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eacb4948f050900800000000000000
+      internalID: 649942783330397795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_166
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 2952
+        width: 587
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedeb78fc3840bc00800000000000000
+      internalID: 914310151060319723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_167
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 2952
+        width: 594
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c67843740e2d3f50800000000000000
+      internalID: 6862692003831379655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_168
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 2952
+        width: 588
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500fc040df6ad7a90800000000000000
+      internalID: -7314506614154924027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_169
+      rect:
+        serializedVersion: 2
+        x: 5965
+        y: 2952
+        width: 587
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22aa544d57d78800800000000000000
+      internalID: 614696669738082858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_170
+      rect:
+        serializedVersion: 2
+        x: 6925
+        y: 2952
+        width: 586
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd62e13588124830800000000000000
+      internalID: 4053829574933507531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_171
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2973
+        width: 419
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33ad0617db213380800000000000000
+      internalID: -8993358778094214338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_172
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 2973
+        width: 428
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a02b792fb4cf0f90800000000000000
+      internalID: -6985148171714617178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_173
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1992
+        width: 591
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600b69d5062d56d50800000000000000
+      internalID: 6730016529503924230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_174
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1992
+        width: 598
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6cc5f95d7541990800000000000000
+      internalID: -7416206111359056179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_175
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1992
+        width: 588
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7727e250ef364b0800000000000000
+      internalID: -5448231825980622939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_176
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 2111
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5820ca031f87faca0800000000000000
+      internalID: -6003446800962551163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_177
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 1992
+        width: 588
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544a7ff9359533ba0800000000000000
+      internalID: -6110442053710666683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_178
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 1992
+        width: 588
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3cf5de5a9cbe350800000000000000
+      internalID: 6047148639164285865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_179
+      rect:
+        serializedVersion: 2
+        x: 4558
+        y: 2107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9d5cc6224beadb0800000000000000
+      internalID: -4778684094646724138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_180
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 1992
+        width: 587
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178dbc8e6d4c73250800000000000000
+      internalID: 5924420262136895601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_181
+      rect:
+        serializedVersion: 2
+        x: 5965
+        y: 1992
+        width: 588
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1c55a2288b15540800000000000000
+      internalID: 4994976330926113278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_182
+      rect:
+        serializedVersion: 2
+        x: 6925
+        y: 1992
+        width: 591
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e799fb7611633980800000000000000
+      internalID: -8560391717504051227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_183
+      rect:
+        serializedVersion: 2
+        x: 5507
+        y: 2096
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05fc5a3d3214e650800000000000000
+      internalID: 6261149436133307659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_184
+      rect:
+        serializedVersion: 2
+        x: 7426
+        y: 2093
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c77ea8e9d563cc0800000000000000
+      internalID: -3731692305713234843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_185
+      rect:
+        serializedVersion: 2
+        x: 7430
+        y: 2096
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75af0191e285ddb70800000000000000
+      internalID: 8925386991530474071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_186
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1032
+        width: 587
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bfa5e90d13427b0800000000000000
+      internalID: -5250016493527434422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_187
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1032
+        width: 588
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ecd882f4f96f900800000000000000
+      internalID: 717936352943787665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_188
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1032
+        width: 596
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de634d73929c69b20800000000000000
+      internalID: 3140918969004996333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_189
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8f0a70185628320800000000000000
+      internalID: 2558719143153039536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_190
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 1032
+        width: 588
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6d5081e2325e650800000000000000
+      internalID: 6261449537807046396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_191
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 1032
+        width: 588
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f7e2a1003b84fa0800000000000000
+      internalID: -5816202105728368816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_192
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 1032
+        width: 588
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbdfeef112598ab0800000000000000
+      internalID: -5005379273600541733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_193
+      rect:
+        serializedVersion: 2
+        x: 5965
+        y: 1030
+        width: 588
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344c0bbb1f5a175f0800000000000000
+      internalID: -760644404394277821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_194
+      rect:
+        serializedVersion: 2
+        x: 6925
+        y: 1030
+        width: 588
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ab9df86f7310d20800000000000000
+      internalID: 3242934738798361194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_195
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 72
+        width: 588
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce931622c58ecb7c0800000000000000
+      internalID: -4054110082128856596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_196
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 71
+        width: 588
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38406abfcbb10a8a0800000000000000
+      internalID: -6296001780574190461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_197
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 67
+        width: 588
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1635274c4d7f719c0800000000000000
+      internalID: -3956421254420737183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_198
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 63
+        width: 588
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a057d1e54cd782600800000000000000
+      internalID: 443742845642044682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_199
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 57
+        width: 588
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b178fe9368d7f3b0800000000000000
+      internalID: -5478672499292474957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_200
+      rect:
+        serializedVersion: 2
+        x: 5005
+        y: 52
+        width: 588
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaec1c2738a60720800000000000000
+      internalID: 2812119972256213739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_201
+      rect:
+        serializedVersion: 2
+        x: 5965
+        y: 48
+        width: 588
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3331bea041718f0800000000000000
+      internalID: -569964790712945723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: droid-down_202
+      rect:
+        serializedVersion: 2
+        x: 6925
+        y: 45
+        width: 588
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60eb3b824e2e32200800000000000000
+      internalID: 154216281824017926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      droid-down_0: -6310400996522262908
+      droid-down_1: -5622181642960933213
+      droid-down_10: -4316875347164984506
+      droid-down_100: 1041776734724467246
+      droid-down_101: 1304739399299378007
+      droid-down_102: 6556797866662464066
+      droid-down_103: -165396523397688906
+      droid-down_104: -6922212737976692963
+      droid-down_105: 9168310189058615904
+      droid-down_106: -4447646682023661803
+      droid-down_107: 3725279530337133300
+      droid-down_108: -8420902229515107758
+      droid-down_109: 8907832963553078283
+      droid-down_11: -8881438686369879019
+      droid-down_110: -3269493184918013154
+      droid-down_111: 5263610616347303513
+      droid-down_112: -811645552032411426
+      droid-down_113: 6984201483855239971
+      droid-down_114: -2715961290191924232
+      droid-down_115: -5810599522243192487
+      droid-down_116: 2111020536491241308
+      droid-down_117: 4216997902657237794
+      droid-down_118: -2916618834877907471
+      droid-down_119: -6348795569658764898
+      droid-down_12: -7009399045899662898
+      droid-down_120: 7004245739560613622
+      droid-down_121: -4638161886976389225
+      droid-down_122: -4882266144443193802
+      droid-down_123: -2875851989370409333
+      droid-down_124: 2504638829400776970
+      droid-down_125: 2419683801294311146
+      droid-down_126: -959272544174928444
+      droid-down_127: 461214863312378762
+      droid-down_128: 8554154097836431388
+      droid-down_129: -2830340233674152909
+      droid-down_13: 4172448180630312582
+      droid-down_130: -7106273057705975803
+      droid-down_131: -2227398119327988696
+      droid-down_132: -2448797208211651279
+      droid-down_133: 5026089512636993958
+      droid-down_134: -1392858536780012115
+      droid-down_135: -1570269654725574188
+      droid-down_136: 5555819224318371612
+      droid-down_137: 8925774860018067603
+      droid-down_138: 6418760750207589986
+      droid-down_139: 6472259251219004033
+      droid-down_14: -6105201538509321539
+      droid-down_140: 2573501270081627275
+      droid-down_141: -1802585861015558792
+      droid-down_142: 3124982793306790024
+      droid-down_143: 6868210438807093008
+      droid-down_144: 2783260851669372840
+      droid-down_145: 2296082016963286518
+      droid-down_146: 2509462434084422083
+      droid-down_147: 5306197963589353436
+      droid-down_148: -2739067380809995747
+      droid-down_149: 7603392168687651527
+      droid-down_15: 3789368403864660561
+      droid-down_150: -5139462606311200529
+      droid-down_151: 8200615046799941169
+      droid-down_152: 2564070574765480829
+      droid-down_153: -3069960355081817925
+      droid-down_154: -7143450680901812311
+      droid-down_155: 393388178582330239
+      droid-down_156: -8177085483620712890
+      droid-down_157: -7960178307366540103
+      droid-down_158: 5083380467605575072
+      droid-down_159: 6416277803894649376
+      droid-down_16: -95796261463149974
+      droid-down_160: -3293179749262515531
+      droid-down_161: -7121733879542222218
+      droid-down_162: -8862738640667784627
+      droid-down_163: 4821771351792415245
+      droid-down_164: -8530855093996921188
+      droid-down_165: 649942783330397795
+      droid-down_166: 914310151060319723
+      droid-down_167: 6862692003831379655
+      droid-down_168: -7314506614154924027
+      droid-down_169: 614696669738082858
+      droid-down_17: 7849350797976243044
+      droid-down_170: 4053829574933507531
+      droid-down_171: -8993358778094214338
+      droid-down_172: -6985148171714617178
+      droid-down_173: 6730016529503924230
+      droid-down_174: -7416206111359056179
+      droid-down_175: -5448231825980622939
+      droid-down_176: -6003446800962551163
+      droid-down_177: -6110442053710666683
+      droid-down_178: 6047148639164285865
+      droid-down_179: -4778684094646724138
+      droid-down_18: -1978690562309453594
+      droid-down_180: 5924420262136895601
+      droid-down_181: 4994976330926113278
+      droid-down_182: -8560391717504051227
+      droid-down_183: 6261149436133307659
+      droid-down_184: -3731692305713234843
+      droid-down_185: 8925386991530474071
+      droid-down_186: -5250016493527434422
+      droid-down_187: 717936352943787665
+      droid-down_188: 3140918969004996333
+      droid-down_189: 2558719143153039536
+      droid-down_19: -5657203779145596925
+      droid-down_190: 6261449537807046396
+      droid-down_191: -5816202105728368816
+      droid-down_192: -5005379273600541733
+      droid-down_193: -760644404394277821
+      droid-down_194: 3242934738798361194
+      droid-down_195: -4054110082128856596
+      droid-down_196: -6296001780574190461
+      droid-down_197: -3956421254420737183
+      droid-down_198: 443742845642044682
+      droid-down_199: -5478672499292474957
+      droid-down_2: 3165170777326184995
+      droid-down_20: 496414722124732992
+      droid-down_200: 2812119972256213739
+      droid-down_201: -569964790712945723
+      droid-down_202: 154216281824017926
+      droid-down_21: -4426639571459440510
+      droid-down_22: 578517348143898093
+      droid-down_23: 9021916941999874255
+      droid-down_24: -394215968496690398
+      droid-down_25: 1097006635077344485
+      droid-down_26: 165313196037130486
+      droid-down_27: -8746928581736426809
+      droid-down_28: -6361597416206544767
+      droid-down_29: 7901596346612408324
+      droid-down_3: 1182575345478168023
+      droid-down_30: 2202234251387595299
+      droid-down_31: 8777906261652964177
+      droid-down_32: -9034102887607034242
+      droid-down_33: -6190838049572420188
+      droid-down_34: 8433403689061576374
+      droid-down_35: -977691452248059284
+      droid-down_36: -7770519514629949601
+      droid-down_37: 418021228457233226
+      droid-down_38: 7905437989106960242
+      droid-down_39: 1511461976774690172
+      droid-down_4: -2959291060593300014
+      droid-down_40: -7417011332794091638
+      droid-down_41: 8482144315979300162
+      droid-down_42: 2833562855211873105
+      droid-down_43: -1629427039086668411
+      droid-down_44: 1619294176343982721
+      droid-down_45: -4643104524081099713
+      droid-down_46: -6671307941587947114
+      droid-down_47: -7188050759153726420
+      droid-down_48: 8023909410670111992
+      droid-down_49: -6998696141132868436
+      droid-down_5: 6258514590936309409
+      droid-down_50: 2327937309864755898
+      droid-down_51: 3834522956783302165
+      droid-down_52: 8234193179138069580
+      droid-down_53: 9122647000826452361
+      droid-down_54: 8512998597704188370
+      droid-down_55: 5204526323610621202
+      droid-down_56: 3784109991327837211
+      droid-down_57: 1955095292346061927
+      droid-down_58: 755552477542738643
+      droid-down_59: 319053309375596719
+      droid-down_6: 3645516622382419062
+      droid-down_60: -1469512422565764323
+      droid-down_61: 382147625879030077
+      droid-down_62: -214708769347484003
+      droid-down_63: 1575742901936573744
+      droid-down_64: -4427264514050439008
+      droid-down_65: -9147736185443162312
+      droid-down_66: 7715482920616233001
+      droid-down_67: 7807698960626111826
+      droid-down_68: -8692137985806313201
+      droid-down_69: 5292351623438600566
+      droid-down_7: 7180291976294626475
+      droid-down_70: 1617394797659466890
+      droid-down_71: -8648697418324306901
+      droid-down_72: 1433355700611939420
+      droid-down_73: -8528306846020859339
+      droid-down_74: -4651746784359379938
+      droid-down_75: 1116068228543976004
+      droid-down_76: -806501990787001459
+      droid-down_77: 4202333260025445635
+      droid-down_78: -1425507229303858754
+      droid-down_79: -3955685440655186531
+      droid-down_8: -7695581431798379052
+      droid-down_80: -8791239098312599967
+      droid-down_81: -2127496692932894751
+      droid-down_82: 8288905782080696536
+      droid-down_83: 6803000272190237408
+      droid-down_84: -2131793112924164904
+      droid-down_85: 1225983988362270943
+      droid-down_86: 9176565865502800684
+      droid-down_87: -8672045531624857911
+      droid-down_88: -2320631308264901474
+      droid-down_89: 5917654459083274403
+      droid-down_9: 3387440086176600018
+      droid-down_90: -768269392619295594
+      droid-down_91: -3303995535218255966
+      droid-down_92: 6250964604527354357
+      droid-down_93: -8190014177176189351
+      droid-down_94: 7808526398358295428
+      droid-down_95: -5328221807905052368
+      droid-down_96: 5217011119173985623
+      droid-down_97: -7010207020458862452
+      droid-down_98: -7491884817656592403
+      droid-down_99: 5864142552230206392
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 1c43f3c5546923a499b2ab1a3138514c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4947851408076224068
+    second: erufinn-dumb_0
+  - first:
+      213: -1838002238455737521
+    second: erufinn-dumb_1
+  - first:
+      213: -4303174185057954614
+    second: erufinn-dumb_2
+  - first:
+      213: 3848686705880874828
+    second: erufinn-dumb_3
+  - first:
+      213: 5106502885679249315
+    second: erufinn-dumb_4
+  - first:
+      213: -3828410692037214331
+    second: erufinn-dumb_5
+  - first:
+      213: -2695585991418789151
+    second: erufinn-dumb_6
+  - first:
+      213: 1513729068241461129
+    second: erufinn-dumb_7
+  - first:
+      213: 6403785595901144630
+    second: erufinn-dumb_8
+  - first:
+      213: -3268523092519153877
+    second: erufinn-dumb_9
+  - first:
+      213: 7042581886500981477
+    second: erufinn-dumb_10
+  - first:
+      213: 6934788049569804990
+    second: erufinn-dumb_11
+  - first:
+      213: 271005950939782064
+    second: erufinn-dumb_12
+  - first:
+      213: 3335909048141418266
+    second: erufinn-dumb_13
+  - first:
+      213: -4804545774424650472
+    second: erufinn-dumb_14
+  - first:
+      213: -1568076493455227729
+    second: erufinn-dumb_15
+  - first:
+      213: 3084059930251269622
+    second: erufinn-dumb_16
+  - first:
+      213: 6031781886900631464
+    second: erufinn-dumb_17
+  - first:
+      213: 3787820096696109920
+    second: erufinn-dumb_18
+  - first:
+      213: 7838229380398169253
+    second: erufinn-dumb_19
+  - first:
+      213: 3831934685022022105
+    second: erufinn-dumb_20
+  - first:
+      213: -5610684969125926951
+    second: erufinn-dumb_21
+  - first:
+      213: -8326172226626107864
+    second: erufinn-dumb_22
+  - first:
+      213: 3381968465262625599
+    second: erufinn-dumb_23
+  - first:
+      213: -2468853173342435414
+    second: erufinn-dumb_24
+  - first:
+      213: -7719309134954563596
+    second: erufinn-dumb_25
+  - first:
+      213: -3807251040418627802
+    second: erufinn-dumb_26
+  - first:
+      213: 8720245262909209729
+    second: erufinn-dumb_27
+  - first:
+      213: 2126576508865997934
+    second: erufinn-dumb_28
+  - first:
+      213: 2385205652089954995
+    second: erufinn-dumb_29
+  - first:
+      213: -6457354881951449756
+    second: erufinn-dumb_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: erufinn-dumb_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2489
+        width: 689
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446bccb04ac4aa440800000000000000
+      internalID: 4947851408076224068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_1
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 2489
+        width: 604
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f431978c3ba1e76e0800000000000000
+      internalID: -1838002238455737521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_2
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2689
+        width: 130
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac45dfcb0ed0844c0800000000000000
+      internalID: -4303174185057954614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_3
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 2489
+        width: 602
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f3cc3fa28496530800000000000000
+      internalID: 3848686705880874828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_4
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 2703
+        width: 134
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a73b61b151fdd640800000000000000
+      internalID: 5106502885679249315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_5
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 2489
+        width: 624
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f70d662c0cedac0800000000000000
+      internalID: -3828410692037214331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_6
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 2718
+        width: 134
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2c6f792da579ad0800000000000000
+      internalID: -2695585991418789151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1881
+        width: 636
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f17b64198d10510800000000000000
+      internalID: 1513729068241461129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_8
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2117
+        width: 134
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e637d1211ded850800000000000000
+      internalID: 6403785595901144630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_9
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1881
+        width: 644
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f0c32909fd3a2d0800000000000000
+      internalID: -3268523092519153877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_10
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 2122
+        width: 133
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eacd7e99e64cb160800000000000000
+      internalID: 7042581886500981477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_11
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1881
+        width: 643
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb27b3f2df05d3060800000000000000
+      internalID: 6934788049569804990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_12
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 2119
+        width: 134
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb58cdf97ec2c300800000000000000
+      internalID: 271005950939782064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_13
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 1881
+        width: 643
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f0b79da978b4e20800000000000000
+      internalID: 3335909048141418266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_14
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 2117
+        width: 135
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d8050e213d25db0800000000000000
+      internalID: -4804545774424650472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1273
+        width: 642
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa406fabcb21d3ae0800000000000000
+      internalID: -1568076493455227729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_16
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1504
+        width: 134
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f594a0aa28ccca20800000000000000
+      internalID: 3084059930251269622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_17
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1273
+        width: 698
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7f85b1ba135b350800000000000000
+      internalID: 6031781886900631464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_18
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1273
+        width: 696
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b48a82f4a019430800000000000000
+      internalID: 3787820096696109920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_19
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1273
+        width: 612
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acb9aeb71cf6cc60800000000000000
+      internalID: 7838229380398169253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_20
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 1492
+        width: 133
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d96c372b44cd2530800000000000000
+      internalID: 3831934685022022105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 665
+        width: 606
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d720ac4fb7d222b0800000000000000
+      internalID: -5610684969125926951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_22
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 880
+        width: 133
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8264a3d497e737c80800000000000000
+      internalID: -8326172226626107864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_23
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 665
+        width: 612
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f334d85966a2fee20800000000000000
+      internalID: 3381968465262625599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_24
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 874
+        width: 132
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa704509e1fdcbdd0800000000000000
+      internalID: -2468853173342435414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_25
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 657
+        width: 691
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7fa9b8d318fd490800000000000000
+      internalID: -7719309134954563596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_26
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 657
+        width: 691
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f7c15b95de92bc0800000000000000
+      internalID: -3807251040418627802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 50
+        width: 692
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c7cf16dd8840970800000000000000
+      internalID: 8720245262909209729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_28
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 54
+        width: 692
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ce5a6511e138d10800000000000000
+      internalID: 2126576508865997934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_29
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 57
+        width: 691
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2631937e3f91120800000000000000
+      internalID: 2385205652089954995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-dumb_30
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 57
+        width: 691
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d36a882fdd266a0800000000000000
+      internalID: -6457354881951449756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      erufinn-dumb_0: 4947851408076224068
+      erufinn-dumb_1: -1838002238455737521
+      erufinn-dumb_10: 7042581886500981477
+      erufinn-dumb_11: 6934788049569804990
+      erufinn-dumb_12: 271005950939782064
+      erufinn-dumb_13: 3335909048141418266
+      erufinn-dumb_14: -4804545774424650472
+      erufinn-dumb_15: -1568076493455227729
+      erufinn-dumb_16: 3084059930251269622
+      erufinn-dumb_17: 6031781886900631464
+      erufinn-dumb_18: 3787820096696109920
+      erufinn-dumb_19: 7838229380398169253
+      erufinn-dumb_2: -4303174185057954614
+      erufinn-dumb_20: 3831934685022022105
+      erufinn-dumb_21: -5610684969125926951
+      erufinn-dumb_22: -8326172226626107864
+      erufinn-dumb_23: 3381968465262625599
+      erufinn-dumb_24: -2468853173342435414
+      erufinn-dumb_25: -7719309134954563596
+      erufinn-dumb_26: -3807251040418627802
+      erufinn-dumb_27: 8720245262909209729
+      erufinn-dumb_28: 2126576508865997934
+      erufinn-dumb_29: 2385205652089954995
+      erufinn-dumb_3: 3848686705880874828
+      erufinn-dumb_30: -6457354881951449756
+      erufinn-dumb_4: 5106502885679249315
+      erufinn-dumb_5: -3828410692037214331
+      erufinn-dumb_6: -2695585991418789151
+      erufinn-dumb_7: 1513729068241461129
+      erufinn-dumb_8: 6403785595901144630
+      erufinn-dumb_9: -3268523092519153877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

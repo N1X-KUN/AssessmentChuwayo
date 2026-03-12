@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 571bc4fa19c0f7a42a2669d83e93c0a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7607364758821942613
+    second: erufinn-run_0
+  - first:
+      213: 7134695450381116443
+    second: erufinn-run_1
+  - first:
+      213: -2720585451553146740
+    second: erufinn-run_2
+  - first:
+      213: -7170275375307171574
+    second: erufinn-run_3
+  - first:
+      213: 7392769092971570781
+    second: erufinn-run_4
+  - first:
+      213: -3346749413479917131
+    second: erufinn-run_5
+  - first:
+      213: -790035393042881616
+    second: erufinn-run_6
+  - first:
+      213: 5176138532304537377
+    second: erufinn-run_7
+  - first:
+      213: -8933743654427299744
+    second: erufinn-run_8
+  - first:
+      213: 1542408531859858087
+    second: erufinn-run_9
+  - first:
+      213: 3465388412890462004
+    second: erufinn-run_10
+  - first:
+      213: -1433683791309977945
+    second: erufinn-run_11
+  - first:
+      213: -5294441509466257531
+    second: erufinn-run_12
+  - first:
+      213: -7063925501475942207
+    second: erufinn-run_13
+  - first:
+      213: -8383013778340662297
+    second: erufinn-run_14
+  - first:
+      213: -1848905111516270319
+    second: erufinn-run_15
+  - first:
+      213: 7944105434975065120
+    second: erufinn-run_16
+  - first:
+      213: -4531313591730635724
+    second: erufinn-run_17
+  - first:
+      213: 7928476138831732200
+    second: erufinn-run_18
+  - first:
+      213: -2762314695102970641
+    second: erufinn-run_19
+  - first:
+      213: -6010807514916105329
+    second: erufinn-run_20
+  - first:
+      213: -2038942451567729135
+    second: erufinn-run_21
+  - first:
+      213: 6544403915708726726
+    second: erufinn-run_22
+  - first:
+      213: 1524011043264856518
+    second: erufinn-run_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: erufinn-run_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1719
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555386e41f9c29960800000000000000
+      internalID: 7607364758821942613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1373
+        width: 652
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14ef8cf5b7830360800000000000000
+      internalID: 7134695450381116443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_2
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1716
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88341332f98e3ad0800000000000000
+      internalID: -2720585451553146740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_3
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1369
+        width: 645
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09d51139801e7c90800000000000000
+      internalID: -7170275375307171574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_4
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1712
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56ae0d4254689660800000000000000
+      internalID: 7392769092971570781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_5
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1365
+        width: 654
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b95849e325fd81d0800000000000000
+      internalID: -3346749413479917131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1640
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b361bdeefa3905f0800000000000000
+      internalID: -790035393042881616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_7
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1638
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127493e129655d740800000000000000
+      internalID: 5176138532304537377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_8
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1635
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060f573ba77f40480800000000000000
+      internalID: -8933743654427299744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1142
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2e900436cb76510800000000000000
+      internalID: 1542408531859858087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 803
+        width: 650
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437371fa668871030800000000000000
+      internalID: 3465388412890462004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_11
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1144
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6cbb210388a1ce0800000000000000
+      internalID: -1433683791309977945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_12
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 803
+        width: 653
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5874e209f7d5686b0800000000000000
+      internalID: -5294441509466257531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_13
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1145
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c014b4ce25e7fd90800000000000000
+      internalID: -7063925501475942207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_14
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 802
+        width: 653
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3bcca326d89ab80800000000000000
+      internalID: -8383013778340662297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1063
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1113ba4d89e5756e0800000000000000
+      internalID: -1848905111516270319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_16
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1065
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02450fdadc12f3e60800000000000000
+      internalID: 7944105434975065120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_17
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1067
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cfef6db4a8d11c0800000000000000
+      internalID: -4531313591730635724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 569
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edd9399a0b970e60800000000000000
+      internalID: 7928476138831732200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 226
+        width: 653
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4cb809b694aa9d0800000000000000
+      internalID: -2762314695102970641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_20
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 568
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f835d2c6962559ca0800000000000000
+      internalID: -6010807514916105329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_21
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 226
+        width: 653
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11667d0a4a834b3e0800000000000000
+      internalID: -2038942451567729135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 491
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd7e7600b462da50800000000000000
+      internalID: 6544403915708726726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-run_23
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 489
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1039328ff562510800000000000000
+      internalID: 1524011043264856518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      erufinn-run_0: 7607364758821942613
+      erufinn-run_1: 7134695450381116443
+      erufinn-run_10: 3465388412890462004
+      erufinn-run_11: -1433683791309977945
+      erufinn-run_12: -5294441509466257531
+      erufinn-run_13: -7063925501475942207
+      erufinn-run_14: -8383013778340662297
+      erufinn-run_15: -1848905111516270319
+      erufinn-run_16: 7944105434975065120
+      erufinn-run_17: -4531313591730635724
+      erufinn-run_18: 7928476138831732200
+      erufinn-run_19: -2762314695102970641
+      erufinn-run_2: -2720585451553146740
+      erufinn-run_20: -6010807514916105329
+      erufinn-run_21: -2038942451567729135
+      erufinn-run_22: 6544403915708726726
+      erufinn-run_23: 1524011043264856518
+      erufinn-run_3: -7170275375307171574
+      erufinn-run_4: 7392769092971570781
+      erufinn-run_5: -3346749413479917131
+      erufinn-run_6: -790035393042881616
+      erufinn-run_7: 5176138532304537377
+      erufinn-run_8: -8933743654427299744
+      erufinn-run_9: 1542408531859858087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

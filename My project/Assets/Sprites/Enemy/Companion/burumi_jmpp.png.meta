@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 4f8b4aa0eeb3d164bb4a367ab469e593
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6983004261800556818
+    second: burumi_jmpp_0
+  - first:
+      213: -6979883443451535001
+    second: burumi_jmpp_1
+  - first:
+      213: 2199700908326050477
+    second: burumi_jmpp_2
+  - first:
+      213: -9032317911756156821
+    second: burumi_jmpp_3
+  - first:
+      213: 200769842950241286
+    second: burumi_jmpp_4
+  - first:
+      213: -5438384707005946756
+    second: burumi_jmpp_5
+  - first:
+      213: 803581603042937643
+    second: burumi_jmpp_6
+  - first:
+      213: -53570552709656786
+    second: burumi_jmpp_7
+  - first:
+      213: -3303191392848282050
+    second: burumi_jmpp_8
+  - first:
+      213: 7431482799010132297
+    second: burumi_jmpp_9
+  - first:
+      213: -2050878458736349418
+    second: burumi_jmpp_10
+  - first:
+      213: -2248621999369319037
+    second: burumi_jmpp_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: burumi_jmpp_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1386
+        width: 645
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6c6561f92671f90800000000000000
+      internalID: -6983004261800556818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_jmpp_1
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1385
+        width: 645
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761e07b3df8722f90800000000000000
+      internalID: -6979883443451535001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_jmpp_2
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1383
+        width: 647
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daad0e45258e68e10800000000000000
+      internalID: 2199700908326050477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_jmpp_3
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1378
+        width: 653
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60506be6b2c6a280800000000000000
+      internalID: -9032317911756156821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_jmpp_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 737
+        width: 657
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cf8a2cb1749c200800000000000000
+      internalID: 200769842950241286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_jmpp_5
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 730
+        width: 665
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c746efa3ce9f684b0800000000000000
+      internalID: -5438384707005946756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_jmpp_6
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 729
+        width: 665
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bc96dd535e62b00800000000000000
+      internalID: 803581603042937643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_jmpp_7
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 737
+        width: 657
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fc15bbddda14ff0800000000000000
+      internalID: -53570552709656786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_jmpp_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 109
+        width: 650
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e7624ede4b822d0800000000000000
+      internalID: -3303191392848282050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_jmpp_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 111
+        width: 647
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941bc656b3ee12760800000000000000
+      internalID: 7431482799010132297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_jmpp_10
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 113
+        width: 646
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fe48568e0d983e0800000000000000
+      internalID: -2050878458736349418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_jmpp_11
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 113
+        width: 646
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d867d843a4bc0e0800000000000000
+      internalID: -2248621999369319037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      burumi_jmpp_0: -6983004261800556818
+      burumi_jmpp_1: -6979883443451535001
+      burumi_jmpp_10: -2050878458736349418
+      burumi_jmpp_11: -2248621999369319037
+      burumi_jmpp_2: 2199700908326050477
+      burumi_jmpp_3: -9032317911756156821
+      burumi_jmpp_4: 200769842950241286
+      burumi_jmpp_5: -5438384707005946756
+      burumi_jmpp_6: 803581603042937643
+      burumi_jmpp_7: -53570552709656786
+      burumi_jmpp_8: -3303191392848282050
+      burumi_jmpp_9: 7431482799010132297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

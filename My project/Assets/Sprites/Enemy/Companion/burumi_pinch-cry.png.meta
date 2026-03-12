@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: ff886d05ef1f1624ea4316b8d1514533
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -606756003890699433
+    second: burumi_pinch-cry_0
+  - first:
+      213: -1278956265878517760
+    second: burumi_pinch-cry_1
+  - first:
+      213: 3234575571580893118
+    second: burumi_pinch-cry_2
+  - first:
+      213: -5450780834655016005
+    second: burumi_pinch-cry_3
+  - first:
+      213: -3558215031351231240
+    second: burumi_pinch-cry_4
+  - first:
+      213: -505078320558384325
+    second: burumi_pinch-cry_5
+  - first:
+      213: -4448484855777005425
+    second: burumi_pinch-cry_6
+  - first:
+      213: 3741341288384838916
+    second: burumi_pinch-cry_7
+  - first:
+      213: -7258306907243490158
+    second: burumi_pinch-cry_8
+  - first:
+      213: -310249386966668677
+    second: burumi_pinch-cry_9
+  - first:
+      213: 6261248538970967433
+    second: burumi_pinch-cry_10
+  - first:
+      213: 7589629699176344374
+    second: burumi_pinch-cry_11
+  - first:
+      213: -8360875736203369599
+    second: burumi_pinch-cry_12
+  - first:
+      213: -2362922397683188608
+    second: burumi_pinch-cry_13
+  - first:
+      213: -186114276903854270
+    second: burumi_pinch-cry_14
+  - first:
+      213: -8186107846431860675
+    second: burumi_pinch-cry_15
+  - first:
+      213: -7275487990155230701
+    second: burumi_pinch-cry_16
+  - first:
+      213: 7828622710759472960
+    second: burumi_pinch-cry_17
+  - first:
+      213: 6936908053687113633
+    second: burumi_pinch-cry_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: burumi_pinch-cry_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2385
+        width: 646
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75362c211ae5497f0800000000000000
+      internalID: -606756003890699433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2385
+        width: 648
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0080d096d0c304ee0800000000000000
+      internalID: -1278956265878517760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_2
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 2385
+        width: 651
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb73c37485583ec20800000000000000
+      internalID: 3234575571580893118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_3
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 2384
+        width: 654
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb61e9d5bfea54b0800000000000000
+      internalID: -5450780834655016005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1800
+        width: 656
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcbaddf74eae9ec0800000000000000
+      internalID: -3558215031351231240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_5
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1800
+        width: 656
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bdd5781f99df8f0800000000000000
+      internalID: -505078320558384325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_6
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1800
+        width: 654
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80f4beb79ec342c0800000000000000
+      internalID: -4448484855777005425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_7
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 1800
+        width: 653
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d3ead441aebe330800000000000000
+      internalID: 3741341288384838916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1216
+        width: 654
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294dcf2f250554b90800000000000000
+      internalID: -7258306907243490158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_9
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1216
+        width: 655
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aa11a83d5c1bbf0800000000000000
+      internalID: -310249386966668677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_10
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1216
+        width: 656
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d4cc76f5c64e650800000000000000
+      internalID: 6261248538970967433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_11
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1216
+        width: 655
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b2924fff7c35960800000000000000
+      internalID: 7589629699176344374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 632
+        width: 654
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1836a64d0d338fb80800000000000000
+      internalID: -8360875736203369599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_13
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 633
+        width: 652
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c774e3996353fd0800000000000000
+      internalID: -2362922397683188608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_14
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 633
+        width: 651
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f548d1d0aca6df0800000000000000
+      internalID: -186114276903854270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_15
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 633
+        width: 651
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d381468194a156e80800000000000000
+      internalID: -8186107846431860675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 49
+        width: 648
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3124d2b5836480b90800000000000000
+      internalID: -7275487990155230701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_17
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 49
+        width: 646
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fbf5ba0ead4ac60800000000000000
+      internalID: 7828622710759472960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_pinch-cry_18
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 49
+        width: 646
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7119b1f19d44060800000000000000
+      internalID: 6936908053687113633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      burumi_pinch-cry_0: -606756003890699433
+      burumi_pinch-cry_1: -1278956265878517760
+      burumi_pinch-cry_10: 6261248538970967433
+      burumi_pinch-cry_11: 7589629699176344374
+      burumi_pinch-cry_12: -8360875736203369599
+      burumi_pinch-cry_13: -2362922397683188608
+      burumi_pinch-cry_14: -186114276903854270
+      burumi_pinch-cry_15: -8186107846431860675
+      burumi_pinch-cry_16: -7275487990155230701
+      burumi_pinch-cry_17: 7828622710759472960
+      burumi_pinch-cry_18: 6936908053687113633
+      burumi_pinch-cry_2: 3234575571580893118
+      burumi_pinch-cry_3: -5450780834655016005
+      burumi_pinch-cry_4: -3558215031351231240
+      burumi_pinch-cry_5: -505078320558384325
+      burumi_pinch-cry_6: -4448484855777005425
+      burumi_pinch-cry_7: 3741341288384838916
+      burumi_pinch-cry_8: -7258306907243490158
+      burumi_pinch-cry_9: -310249386966668677
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

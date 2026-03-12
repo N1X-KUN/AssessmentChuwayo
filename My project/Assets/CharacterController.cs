@@ -21,7 +21,7 @@ public class KommyController : MonoBehaviour
     private float originalY;          
 
     private float attackTimer = 0f;
-    private float timeToStopAttacking = 0.3f; 
+    private float timeToStopAttacking = 1.0f; 
 
     void Start()
     {

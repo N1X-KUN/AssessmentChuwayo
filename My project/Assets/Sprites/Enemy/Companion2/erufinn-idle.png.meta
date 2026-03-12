@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: d3a5a89a67aeccf428375eaa84bb67b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7894234092066906891
+    second: erufinn-idle_0
+  - first:
+      213: -3927003364687603808
+    second: erufinn-idle_1
+  - first:
+      213: 6163782001070468429
+    second: erufinn-idle_2
+  - first:
+      213: 1162274441717350739
+    second: erufinn-idle_3
+  - first:
+      213: -8025078462579607045
+    second: erufinn-idle_4
+  - first:
+      213: -8382287041226349883
+    second: erufinn-idle_5
+  - first:
+      213: 2565289245778468801
+    second: erufinn-idle_6
+  - first:
+      213: 4852772665345504253
+    second: erufinn-idle_7
+  - first:
+      213: 6687194913077406737
+    second: erufinn-idle_8
+  - first:
+      213: -6185317557788064015
+    second: erufinn-idle_9
+  - first:
+      213: -9085220810539025020
+    second: erufinn-idle_10
+  - first:
+      213: -6411775869956509747
+    second: erufinn-idle_11
+  - first:
+      213: -5708473262125383198
+    second: erufinn-idle_12
+  - first:
+      213: 3050544746575672195
+    second: erufinn-idle_13
+  - first:
+      213: 2864238377610359166
+    second: erufinn-idle_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: erufinn-idle_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1317
+        width: 698
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b032d6fc414fd8d60800000000000000
+      internalID: 7894234092066906891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-idle_1
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1317
+        width: 700
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a71808fe3b7089c0800000000000000
+      internalID: -3927003364687603808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-idle_2
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1317
+        width: 704
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d60c6a2172a8550800000000000000
+      internalID: 6163782001070468429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-idle_3
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 1317
+        width: 708
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351041e527a312010800000000000000
+      internalID: 1162274441717350739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-idle_4
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 1317
+        width: 710
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9fd4f28a131a090800000000000000
+      internalID: -8025078462579607045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-idle_5
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 1317
+        width: 711
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2e756e8522cab80800000000000000
+      internalID: -8382287041226349883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-idle_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 711
+        width: 714
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf51c04afcb99320800000000000000
+      internalID: 2565289245778468801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-idle_7
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 711
+        width: 715
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3f4ad2703885340800000000000000
+      internalID: 4852772665345504253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-idle_8
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 711
+        width: 713
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c27c9d750bdcc50800000000000000
+      internalID: 6687194913077406737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-idle_9
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 711
+        width: 711
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f64e01d376592aa0800000000000000
+      internalID: -6185317557788064015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-idle_10
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 711
+        width: 710
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48db5d1fecfcae180800000000000000
+      internalID: -9085220810539025020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-idle_11
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 711
+        width: 706
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf22db31dbc407a0800000000000000
+      internalID: -6411775869956509747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-idle_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 105
+        width: 704
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1833910dd67c0b0800000000000000
+      internalID: -5708473262125383198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-idle_13
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 105
+        width: 700
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383b317d846b55a20800000000000000
+      internalID: 3050544746575672195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: erufinn-idle_14
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 105
+        width: 700
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71b18901a1dfb720800000000000000
+      internalID: 2864238377610359166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      erufinn-idle_0: 7894234092066906891
+      erufinn-idle_1: -3927003364687603808
+      erufinn-idle_10: -9085220810539025020
+      erufinn-idle_11: -6411775869956509747
+      erufinn-idle_12: -5708473262125383198
+      erufinn-idle_13: 3050544746575672195
+      erufinn-idle_14: 2864238377610359166
+      erufinn-idle_2: 6163782001070468429
+      erufinn-idle_3: 1162274441717350739
+      erufinn-idle_4: -8025078462579607045
+      erufinn-idle_5: -8382287041226349883
+      erufinn-idle_6: 2565289245778468801
+      erufinn-idle_7: 4852772665345504253
+      erufinn-idle_8: 6687194913077406737
+      erufinn-idle_9: -6185317557788064015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

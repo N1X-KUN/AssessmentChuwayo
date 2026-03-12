@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: aeef8aab5bea9ba4cacacc907b8405ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6514047685578418509
+    second: pigman-react_0
+  - first:
+      213: 4325359467339951474
+    second: pigman-react_1
+  - first:
+      213: -9137209389698442284
+    second: pigman-react_2
+  - first:
+      213: -7316226121822464412
+    second: pigman-react_3
+  - first:
+      213: 2066184272434523960
+    second: pigman-react_4
+  - first:
+      213: -8680792480924661659
+    second: pigman-react_5
+  - first:
+      213: 1580073215990233811
+    second: pigman-react_6
+  - first:
+      213: 6964324592071339548
+    second: pigman-react_7
+  - first:
+      213: -1904282043635509644
+    second: pigman-react_8
+  - first:
+      213: -6816413004300816321
+    second: pigman-react_9
+  - first:
+      213: 7425646128775130312
+    second: pigman-react_10
+  - first:
+      213: -5936938179665260402
+    second: pigman-react_11
+  - first:
+      213: 8648718737213847084
+    second: pigman-react_12
+  - first:
+      213: -1184145830355456893
+    second: pigman-react_13
+  - first:
+      213: -4744191230531272682
+    second: pigman-react_14
+  - first:
+      213: -7452819118558560016
+    second: pigman-react_15
+  - first:
+      213: -614704379576705248
+    second: pigman-react_16
+  - first:
+      213: -3554716343819175383
+    second: pigman-react_17
+  - first:
+      213: 5121398956440690888
+    second: pigman-react_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pigman-react_0
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3050
+        width: 455
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6942394247995a0800000000000000
+      internalID: -6514047685578418509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_1
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 3052
+        width: 418
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27daba0d483c60c30800000000000000
+      internalID: 4325359467339951474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_2
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 3101
+        width: 361
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db19a8987c123180800000000000000
+      internalID: -9137209389698442284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_3
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 3084
+        width: 341
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4669650fa1b877a90800000000000000
+      internalID: -7316226121822464412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_4
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 3060
+        width: 321
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f65fe06af8cac10800000000000000
+      internalID: 2066184272434523960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2080
+        width: 311
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5688a9d3b31a78780800000000000000
+      internalID: -8680792480924661659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_6
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 2060
+        width: 305
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daf436e73c8de510800000000000000
+      internalID: 1580073215990233811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_7
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 2038
+        width: 308
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eede2615046a060800000000000000
+      internalID: 6964324592071339548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_8
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 2016
+        width: 322
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47653f41291a295e0800000000000000
+      internalID: -1904282043635509644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_9
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 2001
+        width: 385
+        height: 638
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30fb4ccc7c3761a0800000000000000
+      internalID: -6816413004300816321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1042
+        width: 436
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc6565bfc13d0760800000000000000
+      internalID: 7425646128775130312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_11
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1064
+        width: 473
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80199b4e22cb9da0800000000000000
+      internalID: -5936938179665260402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_12
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1097
+        width: 496
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2675ed5edb660870800000000000000
+      internalID: 8648718737213847084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_13
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 1130
+        width: 516
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c276324a1119fe0800000000000000
+      internalID: -1184145830355456893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_14
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 1130
+        width: 530
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61009ad263f392eb0800000000000000
+      internalID: -4744191230531272682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 171
+        width: 530
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0c3179f74429890800000000000000
+      internalID: -7452819118558560016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_16
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 170
+        width: 513
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f1475af912877f0800000000000000
+      internalID: -614704379576705248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_17
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 171
+        width: 491
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92af169a15c1baec0800000000000000
+      internalID: -3554716343819175383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-react_18
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 169
+        width: 467
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c024bf673dd21740800000000000000
+      internalID: 5121398956440690888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pigman-react_0: -6514047685578418509
+      pigman-react_1: 4325359467339951474
+      pigman-react_10: 7425646128775130312
+      pigman-react_11: -5936938179665260402
+      pigman-react_12: 8648718737213847084
+      pigman-react_13: -1184145830355456893
+      pigman-react_14: -4744191230531272682
+      pigman-react_15: -7452819118558560016
+      pigman-react_16: -614704379576705248
+      pigman-react_17: -3554716343819175383
+      pigman-react_18: 5121398956440690888
+      pigman-react_2: -9137209389698442284
+      pigman-react_3: -7316226121822464412
+      pigman-react_4: 2066184272434523960
+      pigman-react_5: -8680792480924661659
+      pigman-react_6: 1580073215990233811
+      pigman-react_7: 6964324592071339548
+      pigman-react_8: -1904282043635509644
+      pigman-react_9: -6816413004300816321
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

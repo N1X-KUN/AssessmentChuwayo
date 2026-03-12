@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: ef842b7d52fd5724cbbc3dab2d1dad7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2794930690593280687
+    second: burumi_idle_0
+  - first:
+      213: 1618757834409248078
+    second: burumi_idle_1
+  - first:
+      213: 5248094095747384957
+    second: burumi_idle_2
+  - first:
+      213: -4665202273527344540
+    second: burumi_idle_3
+  - first:
+      213: 1413743686435182853
+    second: burumi_idle_4
+  - first:
+      213: -4592926136358879968
+    second: burumi_idle_5
+  - first:
+      213: -6860755236299176476
+    second: burumi_idle_6
+  - first:
+      213: -7341214074137275203
+    second: burumi_idle_7
+  - first:
+      213: -906551590075937935
+    second: burumi_idle_8
+  - first:
+      213: -6340827051673729806
+    second: burumi_idle_9
+  - first:
+      213: 2000567820582751266
+    second: burumi_idle_10
+  - first:
+      213: -3475418784911101754
+    second: burumi_idle_11
+  - first:
+      213: -5386322620381644809
+    second: burumi_idle_12
+  - first:
+      213: -8723612536848917777
+    second: burumi_idle_13
+  - first:
+      213: -6177403340857870169
+    second: burumi_idle_14
+  - first:
+      213: 5853622217641569265
+    second: burumi_idle_15
+  - first:
+      213: -1755720069831933330
+    second: burumi_idle_16
+  - first:
+      213: 407592115914059114
+    second: burumi_idle_17
+  - first:
+      213: 9020659548041232457
+    second: burumi_idle_18
+  - first:
+      213: 7031775578726132424
+    second: burumi_idle_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: burumi_idle_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2372
+        width: 646
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa256a8a7a699c620800000000000000
+      internalID: 2794930690593280687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_1
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2372
+        width: 648
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4508518cabf67610800000000000000
+      internalID: 1618757834409248078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_2
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 2372
+        width: 652
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7609d446c9f4d840800000000000000
+      internalID: 5248094095747384957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_3
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 2373
+        width: 655
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462de01ef3fd14fb0800000000000000
+      internalID: -4665202273527344540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1797
+        width: 657
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5099b697460ae9310800000000000000
+      internalID: 1413743686435182853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_5
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1797
+        width: 659
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02db8ba6306a240c0800000000000000
+      internalID: -4592926136358879968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_6
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1797
+        width: 663
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e58c716673b9c0a0800000000000000
+      internalID: -6860755236299176476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_7
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 1797
+        width: 665
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db413fae1b4ce1a90800000000000000
+      internalID: -7341214074137275203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1221
+        width: 670
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b45f6c1284b63f0800000000000000
+      internalID: -906551590075937935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_9
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1221
+        width: 671
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4ccc2446bd008a0800000000000000
+      internalID: -6340827051673729806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_10
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1221
+        width: 670
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c89e655d173cb10800000000000000
+      internalID: 2000567820582751266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_11
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 1221
+        width: 666
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c077a75705d4cfc0800000000000000
+      internalID: -3475418784911101754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 645
+        width: 664
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7308e5d10ff35b0800000000000000
+      internalID: -5386322620381644809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_13
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 645
+        width: 661
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fead9fe0e908fe680800000000000000
+      internalID: -8723612536848917777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 645
+        width: 659
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8fad90464754aa0800000000000000
+      internalID: -6177403340857870169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_15
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 645
+        width: 657
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb2cd3a46e3c3150800000000000000
+      internalID: 5853622217641569265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 69
+        width: 653
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62c4a016ed62a7e0800000000000000
+      internalID: -1755720069831933330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_17
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 68
+        width: 649
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dae42bede08a500800000000000000
+      internalID: 407592115914059114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_18
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 68
+        width: 648
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940cbb0c012df2d70800000000000000
+      internalID: 9020659548041232457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burumi_idle_19
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 68
+        width: 648
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8caec3602a2e59160800000000000000
+      internalID: 7031775578726132424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      burumi_idle_0: 2794930690593280687
+      burumi_idle_1: 1618757834409248078
+      burumi_idle_10: 2000567820582751266
+      burumi_idle_11: -3475418784911101754
+      burumi_idle_12: -5386322620381644809
+      burumi_idle_13: -8723612536848917777
+      burumi_idle_14: -6177403340857870169
+      burumi_idle_15: 5853622217641569265
+      burumi_idle_16: -1755720069831933330
+      burumi_idle_17: 407592115914059114
+      burumi_idle_18: 9020659548041232457
+      burumi_idle_19: 7031775578726132424
+      burumi_idle_2: 5248094095747384957
+      burumi_idle_3: -4665202273527344540
+      burumi_idle_4: 1413743686435182853
+      burumi_idle_5: -4592926136358879968
+      burumi_idle_6: -6860755236299176476
+      burumi_idle_7: -7341214074137275203
+      burumi_idle_8: -906551590075937935
+      burumi_idle_9: -6340827051673729806
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

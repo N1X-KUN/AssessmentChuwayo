@@ -3,32 +3,28 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-// Force this GameObject to have an Image component, so we can't break it
 [RequireComponent(typeof(Image))]
 public class DizzyOverlayAnimator : MonoBehaviour
 {
     private Image targetImage;
 
     [Header("Sprites")]
-    // --- THIS IS WHERE YOU DRAG YOUR 10 SPRITES ---
     public List<Sprite> poisonVignettes = new List<Sprite>();
-    // ----------------------------------------------
 
     [Header("Settings")]
-    // The delay between frames (10 frames * 0.05s = 0.5s fade in time)
     public float timePerFrame = 0.05f; 
+    public int flickerCount = 6; // How many times it flashes before vanishing
 
     void Awake()
     {
         targetImage = GetComponent<Image>();
     }
 
-    // --- COROUTINE 1: The Intro (Fades in, 1-10) ---
     public IEnumerator PlayPoisonIntro()
     {
-        if (poisonVignettes.Count < 2) yield break; // Failsafe
+        if (poisonVignettes.Count < 2) yield break;
 
-        // Cycle through sprites from the beginning to the end
+        targetImage.color = Color.white; // Ensure it's visible
         for (int i = 0; i < poisonVignettes.Count; i++)
         {
             targetImage.sprite = poisonVignettes[i];
@@ -36,16 +32,30 @@ public class DizzyOverlayAnimator : MonoBehaviour
         }
     }
 
-    // --- COROUTINE 2: The Outro (Fades out, 10-1) ---
     public IEnumerator PlayPoisonOutro()
     {
-        if (poisonVignettes.Count < 2) yield break; // Failsafe
+        if (poisonVignettes.Count < 2) yield break;
 
-        // Cycle through sprites BACKWARDS (from the end to the beginning)
-        for (int i = poisonVignettes.Count - 1; i >= 0; i--)
+        // --- NEW: THE FLICKER WARNING ---
+        // Rapidly toggle the image on and off to warn the player
+        for (int i = 0; i < flickerCount; i++)
         {
-            targetImage.sprite = poisonVignettes[i];
-            yield return new WaitForSeconds(timePerFrame);
+            targetImage.enabled = !targetImage.enabled;
+            yield return new WaitForSeconds(0.1f);
+        }
+        targetImage.enabled = true; // Ensure it stays on for the final fade
+
+        // --- THE SMOOTH FADE OUT ---
+        float elapsed = 0f;
+        float fadeTime = 0.5f;
+        Color startColor = targetImage.color;
+
+        while (elapsed < fadeTime)
+        {
+            elapsed += Time.deltaTime;
+            float alpha = Mathf.Lerp(1f, 0f, elapsed / fadeTime);
+            targetImage.color = new Color(startColor.r, startColor.g, startColor.b, alpha);
+            yield return null;
         }
     }
 }

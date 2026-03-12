@@ -1,0 +1,2444 @@
+fileFormatVersion: 2
+guid: 8d7731cd638536444817ae980734d9fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7123554687383578227
+    second: SPEAKI_SpriteSheet_0
+  - first:
+      213: -2845764256336454573
+    second: SPEAKI_SpriteSheet_1
+  - first:
+      213: 3342073382695629488
+    second: SPEAKI_SpriteSheet_2
+  - first:
+      213: -7796629830232026480
+    second: SPEAKI_SpriteSheet_3
+  - first:
+      213: -1453011249169299616
+    second: SPEAKI_SpriteSheet_4
+  - first:
+      213: 4870616657479322922
+    second: SPEAKI_SpriteSheet_5
+  - first:
+      213: -6598500412872739261
+    second: SPEAKI_SpriteSheet_6
+  - first:
+      213: 2604333081804044247
+    second: SPEAKI_SpriteSheet_7
+  - first:
+      213: -4538245279594000734
+    second: SPEAKI_SpriteSheet_8
+  - first:
+      213: 8934422944953217418
+    second: SPEAKI_SpriteSheet_9
+  - first:
+      213: 7993199269252360791
+    second: SPEAKI_SpriteSheet_10
+  - first:
+      213: 2267926957000228324
+    second: SPEAKI_SpriteSheet_11
+  - first:
+      213: -4493718312889117217
+    second: SPEAKI_SpriteSheet_12
+  - first:
+      213: -7749929047662091542
+    second: SPEAKI_SpriteSheet_13
+  - first:
+      213: -5228327964454820242
+    second: SPEAKI_SpriteSheet_14
+  - first:
+      213: 2532822053444200923
+    second: SPEAKI_SpriteSheet_15
+  - first:
+      213: 6783069677318349235
+    second: SPEAKI_SpriteSheet_16
+  - first:
+      213: -2783293305940860582
+    second: SPEAKI_SpriteSheet_17
+  - first:
+      213: 3691103377536137914
+    second: SPEAKI_SpriteSheet_18
+  - first:
+      213: 8315456591211954694
+    second: SPEAKI_SpriteSheet_19
+  - first:
+      213: -2950210790117099014
+    second: SPEAKI_SpriteSheet_20
+  - first:
+      213: -344027730392436700
+    second: SPEAKI_SpriteSheet_21
+  - first:
+      213: 8622286358303579161
+    second: SPEAKI_SpriteSheet_22
+  - first:
+      213: 68244888077125373
+    second: SPEAKI_SpriteSheet_23
+  - first:
+      213: 1851713084233437274
+    second: SPEAKI_SpriteSheet_24
+  - first:
+      213: 2539795948152796300
+    second: SPEAKI_SpriteSheet_25
+  - first:
+      213: 659958373309384065
+    second: SPEAKI_SpriteSheet_26
+  - first:
+      213: -8779488444610359949
+    second: SPEAKI_SpriteSheet_27
+  - first:
+      213: -2095239262559449045
+    second: SPEAKI_SpriteSheet_28
+  - first:
+      213: -5005446168125009942
+    second: SPEAKI_SpriteSheet_29
+  - first:
+      213: 261980110627127394
+    second: SPEAKI_SpriteSheet_30
+  - first:
+      213: -8710914106402470639
+    second: SPEAKI_SpriteSheet_31
+  - first:
+      213: -527331884282482912
+    second: SPEAKI_SpriteSheet_32
+  - first:
+      213: 5140426238165477309
+    second: SPEAKI_SpriteSheet_33
+  - first:
+      213: 7775044474006175688
+    second: SPEAKI_SpriteSheet_34
+  - first:
+      213: -8233108870242260515
+    second: SPEAKI_SpriteSheet_35
+  - first:
+      213: 6209876484927086799
+    second: SPEAKI_SpriteSheet_36
+  - first:
+      213: -9013346507275765878
+    second: SPEAKI_SpriteSheet_37
+  - first:
+      213: -3646169139899026631
+    second: SPEAKI_SpriteSheet_38
+  - first:
+      213: -1726188915413131949
+    second: SPEAKI_SpriteSheet_39
+  - first:
+      213: -3897675195115412381
+    second: SPEAKI_SpriteSheet_40
+  - first:
+      213: 6591595602751629770
+    second: SPEAKI_SpriteSheet_41
+  - first:
+      213: -8360521088333467539
+    second: SPEAKI_SpriteSheet_42
+  - first:
+      213: -4758588671297934784
+    second: SPEAKI_SpriteSheet_43
+  - first:
+      213: 4203377237688529003
+    second: SPEAKI_SpriteSheet_44
+  - first:
+      213: -6560414430526976996
+    second: SPEAKI_SpriteSheet_45
+  - first:
+      213: 6874893859277296251
+    second: SPEAKI_SpriteSheet_46
+  - first:
+      213: -6193442547778275215
+    second: SPEAKI_SpriteSheet_47
+  - first:
+      213: -5564579510593126514
+    second: SPEAKI_SpriteSheet_48
+  - first:
+      213: -8335138072720356098
+    second: SPEAKI_SpriteSheet_49
+  - first:
+      213: 7196576461168415314
+    second: SPEAKI_SpriteSheet_50
+  - first:
+      213: 9213867371789470696
+    second: SPEAKI_SpriteSheet_51
+  - first:
+      213: -7449579929571123515
+    second: SPEAKI_SpriteSheet_52
+  - first:
+      213: 3336137578055676848
+    second: SPEAKI_SpriteSheet_53
+  - first:
+      213: 4922567001767897126
+    second: SPEAKI_SpriteSheet_54
+  - first:
+      213: -4460881618289339007
+    second: SPEAKI_SpriteSheet_55
+  - first:
+      213: 7297143769849987584
+    second: SPEAKI_SpriteSheet_56
+  - first:
+      213: -3264666534652723737
+    second: SPEAKI_SpriteSheet_57
+  - first:
+      213: -2818184910472289879
+    second: SPEAKI_SpriteSheet_58
+  - first:
+      213: -498731298390482071
+    second: SPEAKI_SpriteSheet_59
+  - first:
+      213: 8463984347919060599
+    second: SPEAKI_SpriteSheet_60
+  - first:
+      213: 1373320973312735988
+    second: SPEAKI_SpriteSheet_61
+  - first:
+      213: -7716932536083000165
+    second: SPEAKI_SpriteSheet_62
+  - first:
+      213: -440610352102900433
+    second: SPEAKI_SpriteSheet_63
+  - first:
+      213: 846571799863888170
+    second: SPEAKI_SpriteSheet_64
+  - first:
+      213: -2734990023866297445
+    second: SPEAKI_SpriteSheet_65
+  - first:
+      213: 628173095221547147
+    second: SPEAKI_SpriteSheet_66
+  - first:
+      213: -2494055408619418439
+    second: SPEAKI_SpriteSheet_67
+  - first:
+      213: -1976160586568117431
+    second: SPEAKI_SpriteSheet_68
+  - first:
+      213: -6763411736865819619
+    second: SPEAKI_SpriteSheet_69
+  - first:
+      213: -9004764015727919931
+    second: SPEAKI_SpriteSheet_70
+  - first:
+      213: -6958488640228338370
+    second: SPEAKI_SpriteSheet_71
+  - first:
+      213: 1054930907433007541
+    second: SPEAKI_SpriteSheet_72
+  - first:
+      213: 6545683722815470645
+    second: SPEAKI_SpriteSheet_73
+  - first:
+      213: -8237962790458764667
+    second: SPEAKI_SpriteSheet_74
+  - first:
+      213: 8051641543715336544
+    second: SPEAKI_SpriteSheet_75
+  - first:
+      213: -4235747157506286888
+    second: SPEAKI_SpriteSheet_76
+  - first:
+      213: 8189344676533495865
+    second: SPEAKI_SpriteSheet_77
+  - first:
+      213: -1759273683280095327
+    second: SPEAKI_SpriteSheet_78
+  - first:
+      213: -6870808419931876777
+    second: SPEAKI_SpriteSheet_79
+  - first:
+      213: 3640490400420606202
+    second: SPEAKI_SpriteSheet_80
+  - first:
+      213: -288854933775654341
+    second: SPEAKI_SpriteSheet_81
+  - first:
+      213: -2041472168663908879
+    second: SPEAKI_SpriteSheet_82
+  - first:
+      213: 5585575877120852908
+    second: SPEAKI_SpriteSheet_83
+  - first:
+      213: -2388000608630456506
+    second: SPEAKI_SpriteSheet_84
+  - first:
+      213: -7927516489762396012
+    second: SPEAKI_SpriteSheet_85
+  - first:
+      213: 2690093621471226138
+    second: SPEAKI_SpriteSheet_86
+  - first:
+      213: 8043143019442359366
+    second: SPEAKI_SpriteSheet_87
+  - first:
+      213: 6268673139733680094
+    second: SPEAKI_SpriteSheet_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 10986
+        width: 711
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89de6801cc042d90800000000000000
+      internalID: -7123554687383578227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 10993
+        width: 711
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cdf828c70d188d0800000000000000
+      internalID: -2845764256336454573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 10993
+        width: 713
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b27cd4d80e616e20800000000000000
+      internalID: 3342073382695629488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 10993
+        width: 713
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0925ecb4a7eccc390800000000000000
+      internalID: -7796629830232026480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 10986
+        width: 713
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0670e9e97fdd5dbe0800000000000000
+      internalID: -1453011249169299616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 4678
+        y: 10986
+        width: 713
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dc72a5b08e79340800000000000000
+      internalID: 4870616657479322922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 5566
+        y: 10993
+        width: 713
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346b378b5da6d64a0800000000000000
+      internalID: -6598500412872739261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 10039
+        width: 713
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d77ab9b323742420800000000000000
+      internalID: 2604333081804044247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 10039
+        width: 711
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aec43e76f9e401c0800000000000000
+      internalID: -4538245279594000734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 10039
+        width: 711
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a813903f4527dfb70800000000000000
+      internalID: 8934422944953217418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 10039
+        width: 711
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ae2b6b26c8dee60800000000000000
+      internalID: 7993199269252360791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 10039
+        width: 711
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edf7882d8b497f10800000000000000
+      internalID: 2267926957000228324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 4674
+        y: 10039
+        width: 717
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5939fc00b13a1c0800000000000000
+      internalID: -4493718312889117217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 5562
+        y: 10039
+        width: 717
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2ae9f8798b27490800000000000000
+      internalID: -7749929047662091542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 9186
+        width: 691
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66ed6dca6f3177b0800000000000000
+      internalID: -5228327964454820242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 9186
+        width: 691
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd921d6fc34662320800000000000000
+      internalID: 2532822053444200923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 9186
+        width: 691
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1a84beeed422e50800000000000000
+      internalID: 6783069677318349235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 9186
+        width: 691
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a512ca91c71cf59d0800000000000000
+      internalID: -2783293305940860582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 9181
+        width: 693
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba394f27fe693330800000000000000
+      internalID: 3691103377536137914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 4674
+        y: 9181
+        width: 693
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6028e5866bf666370800000000000000
+      internalID: 8315456591211954694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 5588
+        y: 9181
+        width: 691
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9bb82daeebe07d0800000000000000
+      internalID: -2950210790117099014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8281
+        width: 691
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42033191a94c93bf0800000000000000
+      internalID: -344027730392436700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 8281
+        width: 691
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c916292c388a770800000000000000
+      internalID: 8622286358303579161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 8281
+        width: 691
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6c2973d5472f000800000000000000
+      internalID: 68244888077125373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 8281
+        width: 691
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a505da34d3b92b910800000000000000
+      internalID: 1851713084233437274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 8281
+        width: 691
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84bf9b55fa2f3320800000000000000
+      internalID: 2539795948152796300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 4674
+        y: 8281
+        width: 687
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18586a7d4a4a82900800000000000000
+      internalID: 659958373309384065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 5592
+        y: 8281
+        width: 687
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d4a5d76cdf82680800000000000000
+      internalID: -8779488444610359949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 7452
+        width: 678
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2051b3edf63ce2e0800000000000000
+      internalID: -2095239262559449045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 7452
+        width: 678
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef8196ea35198ab0800000000000000
+      internalID: -5005446168125009942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 7452
+        width: 678
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260c528c58db2a300800000000000000
+      internalID: 261980110627127394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 7452
+        width: 678
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11501fac5cd9c1780800000000000000
+      internalID: -8710914106402470639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 7449
+        width: 677
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fea96f17a8ea8f0800000000000000
+      internalID: -527331884282482912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 7449
+        width: 677
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db763ffad66765740800000000000000
+      internalID: 5140426238165477309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 5588
+        y: 7449
+        width: 675
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf700251c186eb60800000000000000
+      internalID: 7775044474006175688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 6525
+        width: 675
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9a7187a1f1ebd80800000000000000
+      internalID: -8233108870242260515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 6525
+        width: 674
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0612ff2c9ed2650800000000000000
+      internalID: 6209876484927086799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 6533
+        width: 715
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87f15c3b192ae280800000000000000
+      internalID: -9013346507275765878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 6533
+        width: 715
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933b3594c74366dc0800000000000000
+      internalID: -3646169139899026631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 6533
+        width: 718
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d5591c3585b08e0800000000000000
+      internalID: -1726188915413131949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 6533
+        width: 718
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3646b419f0da8e9c0800000000000000
+      internalID: -3897675195115412381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 5592
+        y: 6533
+        width: 717
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9a905e64d0a7b50800000000000000
+      internalID: 6591595602751629770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 5704
+        width: 717
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60b8b8bd5679fb80800000000000000
+      internalID: -8360521088333467539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 5704
+        width: 716
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aa617c0d816fdb0800000000000000
+      internalID: -4758588671297934784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 5704
+        width: 716
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b603365c355655a30800000000000000
+      internalID: 4203377237688529003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 5704
+        width: 716
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cc71185d9b4f4a0800000000000000
+      internalID: -6560414430526976996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 5704
+        width: 716
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72dcbe4a87886f50800000000000000
+      internalID: 6874893859277296251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 5704
+        width: 714
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178b2ea21d87c0aa0800000000000000
+      internalID: -6193442547778275215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 5595
+        y: 5704
+        width: 714
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ffda2ea64a6c2b0800000000000000
+      internalID: -5564579510593126514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 4766
+        width: 713
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc4ba59514a35c80800000000000000
+      internalID: -8335138072720356098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 4766
+        width: 713
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25291ee89206fd360800000000000000
+      internalID: 7196576461168415314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 4766
+        width: 713
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebc217be8b3edf70800000000000000
+      internalID: 9213867371789470696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 4766
+        width: 713
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce980c0686cd9890800000000000000
+      internalID: -7449579929571123515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 4766
+        width: 713
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b337dd93775c4e20800000000000000
+      internalID: 3336137578055676848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 4689
+        y: 4766
+        width: 713
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6286f637b98705440800000000000000
+      internalID: 4922567001767897126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 5601
+        y: 4766
+        width: 708
+        height: 616
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1855bcc8dc3c712c0800000000000000
+      internalID: -4460881618289339007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3801
+        width: 712
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0020dd4c899a44560800000000000000
+      internalID: 7297143769849987584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 3801
+        width: 712
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed3beb651391b2d0800000000000000
+      internalID: -3264666534652723737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 3801
+        width: 715
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1eeeb51cbc3e8d0800000000000000
+      internalID: -2818184910472289879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 3801
+        width: 715
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963e019c6862419f0800000000000000
+      internalID: -498731298390482071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 3801
+        width: 713
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e8e2a9bec167570800000000000000
+      internalID: 8463984347919060599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 4689
+        y: 3801
+        width: 713
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa36e826240f0310800000000000000
+      internalID: 1373320973312735988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 5580
+        y: 3801
+        width: 711
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b945e179eb2f7e490800000000000000
+      internalID: -7716932536083000165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2866
+        width: 711
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dfb8e1833a2e9f0800000000000000
+      internalID: -440610352102900433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2866
+        width: 710
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2900cf0190afbb00800000000000000
+      internalID: 846571799863888170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 2866
+        width: 710
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93563b501d5b0ad0800000000000000
+      internalID: -2734990023866297445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 2866
+        width: 710
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8053261a18b7b800800000000000000
+      internalID: 628173095221547147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 2866
+        width: 710
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc0917e1d5536dd0800000000000000
+      internalID: -2494055408619418439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 4656
+        y: 2866
+        width: 711
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943da7aaa644394e0800000000000000
+      internalID: -1976160586568117431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 5592
+        y: 2866
+        width: 711
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14b7620cd88322a0800000000000000
+      internalID: -6763411736865819619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 2013
+        width: 711
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc315446d6a80380800000000000000
+      internalID: -9004764015727919931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2013
+        width: 711
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e355999037b7e6f90800000000000000
+      internalID: -6958488640228338370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 2013
+        width: 711
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9ff10321ed3ae00800000000000000
+      internalID: 1054930907433007541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 2013
+        width: 711
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cf8765aa0f6da50800000000000000
+      internalID: 6545683722815470645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 2013
+        width: 711
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582d1d91d70ecad80800000000000000
+      internalID: -8237962790458764667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 4651
+        y: 2013
+        width: 710
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0613ee7135d2dbf60800000000000000
+      internalID: 8051641543715336544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 5553
+        y: 2013
+        width: 710
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da9776f66a9735c0800000000000000
+      internalID: -4235747157506286888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1129
+        width: 710
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938e304289566a170800000000000000
+      internalID: 8189344676533495865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1129
+        width: 711
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a79565f7edc597e0800000000000000
+      internalID: -1759273683280095327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1129
+        width: 711
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752923a252cf5a0a0800000000000000
+      internalID: -6870808419931876777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 1129
+        width: 711
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af03a452bbe958230800000000000000
+      internalID: 3640490400420606202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1129
+        width: 717
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32eea8d7f7cdfbf0800000000000000
+      internalID: -288854933775654341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 4689
+        y: 1129
+        width: 717
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdf0f7f0eb3ba3e0800000000000000
+      internalID: -2041472168663908879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 5545
+        y: 1129
+        width: 718
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca387c5aaa3f38d40800000000000000
+      internalID: 5585575877120852908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 255
+        width: 718
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f3a2f391e1cded0800000000000000
+      internalID: -2388000608630456506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 255
+        width: 710
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49829ac11cdcbf190800000000000000
+      internalID: -7927516489762396012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 262
+        width: 713
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19265065e1255520800000000000000
+      internalID: 2690093621471226138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 262
+        width: 713
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c468736fbfe9f60800000000000000
+      internalID: 8043143019442359366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPEAKI_SpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 269
+        width: 713
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfcbdaf10dcef650800000000000000
+      internalID: 6268673139733680094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SPEAKI_SpriteSheet_0: -7123554687383578227
+      SPEAKI_SpriteSheet_1: -2845764256336454573
+      SPEAKI_SpriteSheet_10: 7993199269252360791
+      SPEAKI_SpriteSheet_11: 2267926957000228324
+      SPEAKI_SpriteSheet_12: -4493718312889117217
+      SPEAKI_SpriteSheet_13: -7749929047662091542
+      SPEAKI_SpriteSheet_14: -5228327964454820242
+      SPEAKI_SpriteSheet_15: 2532822053444200923
+      SPEAKI_SpriteSheet_16: 6783069677318349235
+      SPEAKI_SpriteSheet_17: -2783293305940860582
+      SPEAKI_SpriteSheet_18: 3691103377536137914
+      SPEAKI_SpriteSheet_19: 8315456591211954694
+      SPEAKI_SpriteSheet_2: 3342073382695629488
+      SPEAKI_SpriteSheet_20: -2950210790117099014
+      SPEAKI_SpriteSheet_21: -344027730392436700
+      SPEAKI_SpriteSheet_22: 8622286358303579161
+      SPEAKI_SpriteSheet_23: 68244888077125373
+      SPEAKI_SpriteSheet_24: 1851713084233437274
+      SPEAKI_SpriteSheet_25: 2539795948152796300
+      SPEAKI_SpriteSheet_26: 659958373309384065
+      SPEAKI_SpriteSheet_27: -8779488444610359949
+      SPEAKI_SpriteSheet_28: -2095239262559449045
+      SPEAKI_SpriteSheet_29: -5005446168125009942
+      SPEAKI_SpriteSheet_3: -7796629830232026480
+      SPEAKI_SpriteSheet_30: 261980110627127394
+      SPEAKI_SpriteSheet_31: -8710914106402470639
+      SPEAKI_SpriteSheet_32: -527331884282482912
+      SPEAKI_SpriteSheet_33: 5140426238165477309
+      SPEAKI_SpriteSheet_34: 7775044474006175688
+      SPEAKI_SpriteSheet_35: -8233108870242260515
+      SPEAKI_SpriteSheet_36: 6209876484927086799
+      SPEAKI_SpriteSheet_37: -9013346507275765878
+      SPEAKI_SpriteSheet_38: -3646169139899026631
+      SPEAKI_SpriteSheet_39: -1726188915413131949
+      SPEAKI_SpriteSheet_4: -1453011249169299616
+      SPEAKI_SpriteSheet_40: -3897675195115412381
+      SPEAKI_SpriteSheet_41: 6591595602751629770
+      SPEAKI_SpriteSheet_42: -8360521088333467539
+      SPEAKI_SpriteSheet_43: -4758588671297934784
+      SPEAKI_SpriteSheet_44: 4203377237688529003
+      SPEAKI_SpriteSheet_45: -6560414430526976996
+      SPEAKI_SpriteSheet_46: 6874893859277296251
+      SPEAKI_SpriteSheet_47: -6193442547778275215
+      SPEAKI_SpriteSheet_48: -5564579510593126514
+      SPEAKI_SpriteSheet_49: -8335138072720356098
+      SPEAKI_SpriteSheet_5: 4870616657479322922
+      SPEAKI_SpriteSheet_50: 7196576461168415314
+      SPEAKI_SpriteSheet_51: 9213867371789470696
+      SPEAKI_SpriteSheet_52: -7449579929571123515
+      SPEAKI_SpriteSheet_53: 3336137578055676848
+      SPEAKI_SpriteSheet_54: 4922567001767897126
+      SPEAKI_SpriteSheet_55: -4460881618289339007
+      SPEAKI_SpriteSheet_56: 7297143769849987584
+      SPEAKI_SpriteSheet_57: -3264666534652723737
+      SPEAKI_SpriteSheet_58: -2818184910472289879
+      SPEAKI_SpriteSheet_59: -498731298390482071
+      SPEAKI_SpriteSheet_6: -6598500412872739261
+      SPEAKI_SpriteSheet_60: 8463984347919060599
+      SPEAKI_SpriteSheet_61: 1373320973312735988
+      SPEAKI_SpriteSheet_62: -7716932536083000165
+      SPEAKI_SpriteSheet_63: -440610352102900433
+      SPEAKI_SpriteSheet_64: 846571799863888170
+      SPEAKI_SpriteSheet_65: -2734990023866297445
+      SPEAKI_SpriteSheet_66: 628173095221547147
+      SPEAKI_SpriteSheet_67: -2494055408619418439
+      SPEAKI_SpriteSheet_68: -1976160586568117431
+      SPEAKI_SpriteSheet_69: -6763411736865819619
+      SPEAKI_SpriteSheet_7: 2604333081804044247
+      SPEAKI_SpriteSheet_70: -9004764015727919931
+      SPEAKI_SpriteSheet_71: -6958488640228338370
+      SPEAKI_SpriteSheet_72: 1054930907433007541
+      SPEAKI_SpriteSheet_73: 6545683722815470645
+      SPEAKI_SpriteSheet_74: -8237962790458764667
+      SPEAKI_SpriteSheet_75: 8051641543715336544
+      SPEAKI_SpriteSheet_76: -4235747157506286888
+      SPEAKI_SpriteSheet_77: 8189344676533495865
+      SPEAKI_SpriteSheet_78: -1759273683280095327
+      SPEAKI_SpriteSheet_79: -6870808419931876777
+      SPEAKI_SpriteSheet_8: -4538245279594000734
+      SPEAKI_SpriteSheet_80: 3640490400420606202
+      SPEAKI_SpriteSheet_81: -288854933775654341
+      SPEAKI_SpriteSheet_82: -2041472168663908879
+      SPEAKI_SpriteSheet_83: 5585575877120852908
+      SPEAKI_SpriteSheet_84: -2388000608630456506
+      SPEAKI_SpriteSheet_85: -7927516489762396012
+      SPEAKI_SpriteSheet_86: 2690093621471226138
+      SPEAKI_SpriteSheet_87: 8043143019442359366
+      SPEAKI_SpriteSheet_88: 6268673139733680094
+      SPEAKI_SpriteSheet_9: 8934422944953217418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

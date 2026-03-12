@@ -1,0 +1,2314 @@
+fileFormatVersion: 2
+guid: d35445ee5552ff947b9e3ac605b43356
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1044086292697574728
+    second: bat-move1_0
+  - first:
+      213: 2843204052003967371
+    second: bat-move1_1
+  - first:
+      213: -8149970051550501003
+    second: bat-move1_2
+  - first:
+      213: 5888270908823981282
+    second: bat-move1_3
+  - first:
+      213: -269472996273446119
+    second: bat-move1_4
+  - first:
+      213: 825614398169507461
+    second: bat-move1_5
+  - first:
+      213: 5623358146015926709
+    second: bat-move1_6
+  - first:
+      213: -1482040708897938140
+    second: bat-move1_7
+  - first:
+      213: -2785196533930852838
+    second: bat-move1_8
+  - first:
+      213: -1845272107756438444
+    second: bat-move1_9
+  - first:
+      213: 1853808113253320688
+    second: bat-move1_10
+  - first:
+      213: -248179852774162101
+    second: bat-move1_11
+  - first:
+      213: -7032496171787227
+    second: bat-move1_12
+  - first:
+      213: 5121088331127003059
+    second: bat-move1_13
+  - first:
+      213: -2195431605575719745
+    second: bat-move1_14
+  - first:
+      213: 8096983072048168589
+    second: bat-move1_15
+  - first:
+      213: 788704233620139888
+    second: bat-move1_16
+  - first:
+      213: 5056485098070978417
+    second: bat-move1_17
+  - first:
+      213: 8615732452069367872
+    second: bat-move1_18
+  - first:
+      213: 7190629084527687039
+    second: bat-move1_19
+  - first:
+      213: 8989387800645304460
+    second: bat-move1_20
+  - first:
+      213: -5553651762104815565
+    second: bat-move1_21
+  - first:
+      213: -2542841939949256770
+    second: bat-move1_22
+  - first:
+      213: 3062471415315294369
+    second: bat-move1_23
+  - first:
+      213: -8631948761265941830
+    second: bat-move1_24
+  - first:
+      213: -8856211284933965484
+    second: bat-move1_25
+  - first:
+      213: 1455786586791721986
+    second: bat-move1_26
+  - first:
+      213: 8866771488301510367
+    second: bat-move1_27
+  - first:
+      213: -9046082201900411556
+    second: bat-move1_28
+  - first:
+      213: 9181991416705020827
+    second: bat-move1_29
+  - first:
+      213: -5922344499236358268
+    second: bat-move1_30
+  - first:
+      213: 2014101171901988980
+    second: bat-move1_31
+  - first:
+      213: 1771829875816798228
+    second: bat-move1_32
+  - first:
+      213: -6365248871140216370
+    second: bat-move1_33
+  - first:
+      213: -1966162510271277424
+    second: bat-move1_34
+  - first:
+      213: -2039996544447867744
+    second: bat-move1_35
+  - first:
+      213: 2237320159594559823
+    second: bat-move1_36
+  - first:
+      213: -7906467526615530507
+    second: bat-move1_37
+  - first:
+      213: 3983645156091087504
+    second: bat-move1_38
+  - first:
+      213: 5280848100825035870
+    second: bat-move1_39
+  - first:
+      213: 4288223612037692624
+    second: bat-move1_40
+  - first:
+      213: -9059663498884191960
+    second: bat-move1_41
+  - first:
+      213: 3499333140135061401
+    second: bat-move1_42
+  - first:
+      213: 1590087516302981791
+    second: bat-move1_43
+  - first:
+      213: -2887837551116212242
+    second: bat-move1_44
+  - first:
+      213: 6639845974215660255
+    second: bat-move1_45
+  - first:
+      213: 343386849853921820
+    second: bat-move1_46
+  - first:
+      213: 921666928858104634
+    second: bat-move1_47
+  - first:
+      213: -8615758412044874518
+    second: bat-move1_48
+  - first:
+      213: -5063378058359180494
+    second: bat-move1_49
+  - first:
+      213: -6760177595706282575
+    second: bat-move1_50
+  - first:
+      213: -948090272428440209
+    second: bat-move1_51
+  - first:
+      213: -6360961990268214536
+    second: bat-move1_52
+  - first:
+      213: 8554982526200048165
+    second: bat-move1_53
+  - first:
+      213: -5722071294763453257
+    second: bat-move1_54
+  - first:
+      213: 6973942404643344925
+    second: bat-move1_55
+  - first:
+      213: 5086587210675391149
+    second: bat-move1_56
+  - first:
+      213: 3135703149808087524
+    second: bat-move1_57
+  - first:
+      213: 2897220893716941744
+    second: bat-move1_58
+  - first:
+      213: 313860023604380621
+    second: bat-move1_59
+  - first:
+      213: -6213037950647235098
+    second: bat-move1_60
+  - first:
+      213: 4961556856332034094
+    second: bat-move1_61
+  - first:
+      213: 8708923265066421306
+    second: bat-move1_62
+  - first:
+      213: -7534532829171639344
+    second: bat-move1_63
+  - first:
+      213: -7683260208794747747
+    second: bat-move1_64
+  - first:
+      213: 974075488757013190
+    second: bat-move1_65
+  - first:
+      213: -5319366320225280267
+    second: bat-move1_66
+  - first:
+      213: 8452697845941252103
+    second: bat-move1_67
+  - first:
+      213: -8523960046167669128
+    second: bat-move1_68
+  - first:
+      213: 230433711977688365
+    second: bat-move1_69
+  - first:
+      213: -2804221090211942518
+    second: bat-move1_70
+  - first:
+      213: 3039162552748161744
+    second: bat-move1_71
+  - first:
+      213: -1385047868170586970
+    second: bat-move1_72
+  - first:
+      213: 667089366472350701
+    second: bat-move1_73
+  - first:
+      213: -1846532898272537426
+    second: bat-move1_74
+  - first:
+      213: 5734032289934238792
+    second: bat-move1_75
+  - first:
+      213: 636142677816520629
+    second: bat-move1_76
+  - first:
+      213: -1445762221380610518
+    second: bat-move1_77
+  - first:
+      213: 5181176276026706139
+    second: bat-move1_78
+  - first:
+      213: -5905563852887453692
+    second: bat-move1_79
+  - first:
+      213: 1641318707566169574
+    second: bat-move1_80
+  - first:
+      213: 4016092331024347889
+    second: bat-move1_81
+  - first:
+      213: 6298236345430768635
+    second: bat-move1_82
+  - first:
+      213: 8408411986904012108
+    second: bat-move1_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bat-move1_0
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 7922
+        width: 367
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b218e07c09a281f0800000000000000
+      internalID: -1044086292697574728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_1
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 7913
+        width: 366
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81d5a77507157720800000000000000
+      internalID: 2843204052003967371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_2
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 7902
+        width: 363
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577a2432b6d75ee80800000000000000
+      internalID: -8149970051550501003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_3
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 7892
+        width: 359
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec48b5b13757b150800000000000000
+      internalID: 5888270908823981282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_4
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 7882
+        width: 356
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913af84dcb3a24cf0800000000000000
+      internalID: -269472996273446119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_5
+      rect:
+        serializedVersion: 2
+        x: 5106
+        y: 7874
+        width: 357
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586675cbbeb257b00800000000000000
+      internalID: 825614398169507461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_6
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 7869
+        width: 359
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b91412a07e2a0e40800000000000000
+      internalID: 5623358146015926709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_7
+      rect:
+        serializedVersion: 2
+        x: 7021
+        y: 7870
+        width: 369
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4256873d3dbbe6be0800000000000000
+      internalID: -1482040708897938140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_8
+      rect:
+        serializedVersion: 2
+        x: 7977
+        y: 7872
+        width: 389
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ef66d428ef859d0800000000000000
+      internalID: -2785196533930852838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_9
+      rect:
+        serializedVersion: 2
+        x: 8932
+        y: 7876
+        width: 414
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cbd3f6bc64466e0800000000000000
+      internalID: -1845272107756438444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6915
+        width: 429
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7833838ac0ab910800000000000000
+      internalID: 1853808113253320688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_11
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 6897
+        width: 432
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41ccf22db94e8cf0800000000000000
+      internalID: -248179852774162101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_12
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 6887
+        width: 421
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cdbc36bf307eff0800000000000000
+      internalID: -7032496171787227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_13
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 6888
+        width: 406
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7193854b2c11740800000000000000
+      internalID: 5121088331127003059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_14
+      rect:
+        serializedVersion: 2
+        x: 4118
+        y: 6889
+        width: 393
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb46efc26924881e0800000000000000
+      internalID: -2195431605575719745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_15
+      rect:
+        serializedVersion: 2
+        x: 5078
+        y: 6897
+        width: 389
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e38c154334e5070800000000000000
+      internalID: 8096983072048168589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_16
+      rect:
+        serializedVersion: 2
+        x: 6039
+        y: 6913
+        width: 388
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f66cd525a02fa00800000000000000
+      internalID: 788704233620139888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_17
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 6924
+        width: 402
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fa392086e3c2640800000000000000
+      internalID: 5056485098070978417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_18
+      rect:
+        serializedVersion: 2
+        x: 7963
+        y: 6944
+        width: 419
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040666d540b319770800000000000000
+      internalID: 8615732452069367872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_19
+      rect:
+        serializedVersion: 2
+        x: 8924
+        y: 6944
+        width: 437
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f757dd60e0f3ac360800000000000000
+      internalID: 7190629084527687039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_20
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 5981
+        width: 454
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8081bda398b0cc70800000000000000
+      internalID: 8989387800645304460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_21
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 5978
+        width: 453
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330358995277de2b0800000000000000
+      internalID: -5553651762104815565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_22
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 5978
+        width: 436
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebffb596ab206bcd0800000000000000
+      internalID: -2542841939949256770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_23
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 5981
+        width: 422
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8e7acc685108a20800000000000000
+      internalID: 3062471415315294369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_24
+      rect:
+        serializedVersion: 2
+        x: 4132
+        y: 5990
+        width: 420
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2de5de558253880800000000000000
+      internalID: -8631948761265941830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_25
+      rect:
+        serializedVersion: 2
+        x: 5089
+        y: 5995
+        width: 426
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45984b132ca681580800000000000000
+      internalID: -8856211284933965484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_26
+      rect:
+        serializedVersion: 2
+        x: 6047
+        y: 5995
+        width: 428
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cbf76003ef33410800000000000000
+      internalID: 1455786586791721986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_27
+      rect:
+        serializedVersion: 2
+        x: 7005
+        y: 5991
+        width: 420
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdee5c0c0b91d0b70800000000000000
+      internalID: 8866771488301510367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_28
+      rect:
+        serializedVersion: 2
+        x: 7965
+        y: 5965
+        width: 395
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c551eb26a2cd57280800000000000000
+      internalID: -9046082201900411556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_29
+      rect:
+        serializedVersion: 2
+        x: 8926
+        y: 5937
+        width: 394
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9373639b8cfc6f70800000000000000
+      internalID: 9181991416705020827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 4966
+        width: 392
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487378d4e0b9fcda0800000000000000
+      internalID: -5922344499236358268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_31
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 4972
+        width: 403
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4708aec385683fb10800000000000000
+      internalID: 2014101171901988980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_32
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 4984
+        width: 412
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4181c7e62edc69810800000000000000
+      internalID: 1771829875816798228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_33
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 4994
+        width: 417
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec13bb050e71aa7a0800000000000000
+      internalID: -6365248871140216370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_34
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 5003
+        width: 421
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09617943d99c6b4e0800000000000000
+      internalID: -1966162510271277424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_35
+      rect:
+        serializedVersion: 2
+        x: 5106
+        y: 5015
+        width: 423
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4192183f970b3e0800000000000000
+      internalID: -2039996544447867744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_36
+      rect:
+        serializedVersion: 2
+        x: 6068
+        y: 5040
+        width: 423
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f493471d4de8c0f10800000000000000
+      internalID: 2237320159594559823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_37
+      rect:
+        serializedVersion: 2
+        x: 7012
+        y: 5070
+        width: 440
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f38befbca5964290800000000000000
+      internalID: -7906467526615530507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_38
+      rect:
+        serializedVersion: 2
+        x: 7960
+        y: 5066
+        width: 457
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ac308c920c84730800000000000000
+      internalID: 3983645156091087504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_39
+      rect:
+        serializedVersion: 2
+        x: 8923
+        y: 5064
+        width: 453
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54f87a5e57594940800000000000000
+      internalID: 5280848100825035870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_40
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 4105
+        width: 430
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcf2f8b7a4d28b30800000000000000
+      internalID: 4288223612037692624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_41
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 4110
+        width: 420
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8296f644c0c954280800000000000000
+      internalID: -9059663498884191960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_42
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 4116
+        width: 419
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997a08063f0209030800000000000000
+      internalID: 3499333140135061401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_43
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 4126
+        width: 419
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ab503eb20211610800000000000000
+      internalID: 1590087516302981791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_44
+      rect:
+        serializedVersion: 2
+        x: 4132
+        y: 4137
+        width: 419
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee72fa43c075ce7d0800000000000000
+      internalID: -2887837551116212242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_45
+      rect:
+        serializedVersion: 2
+        x: 5089
+        y: 4145
+        width: 434
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd29e60fbb8752c50800000000000000
+      internalID: 6639845974215660255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_46
+      rect:
+        serializedVersion: 2
+        x: 6047
+        y: 4149
+        width: 436
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a55164584f3c400800000000000000
+      internalID: 343386849853921820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_47
+      rect:
+        serializedVersion: 2
+        x: 7005
+        y: 4126
+        width: 419
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3300d7403b6acc00800000000000000
+      internalID: 921666928858104634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_48
+      rect:
+        serializedVersion: 2
+        x: 7964
+        y: 4078
+        width: 419
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec4b7b5f5dae6880800000000000000
+      internalID: -8615758412044874518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_49
+      rect:
+        serializedVersion: 2
+        x: 8923
+        y: 4052
+        width: 418
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2337efb9b744bb9b0800000000000000
+      internalID: -5063378058359180494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_50
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 3087
+        width: 418
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd6f5d2b460f22a0800000000000000
+      internalID: -6760177595706282575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_51
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 3094
+        width: 419
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6546e0abe4b7d2f0800000000000000
+      internalID: -948090272428440209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_52
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 3102
+        width: 418
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f22d4c85c259b7a0800000000000000
+      internalID: -6360961990268214536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_53
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 3108
+        width: 416
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ae3d5084769b670800000000000000
+      internalID: 8554982526200048165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_54
+      rect:
+        serializedVersion: 2
+        x: 4124
+        y: 3111
+        width: 416
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b43a28697e1790b0800000000000000
+      internalID: -5722071294763453257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_55
+      rect:
+        serializedVersion: 2
+        x: 5085
+        y: 3112
+        width: 415
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12dcc0eaab68c060800000000000000
+      internalID: 6973942404643344925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_56
+      rect:
+        serializedVersion: 2
+        x: 6046
+        y: 3113
+        width: 414
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa0a534e10379640800000000000000
+      internalID: 5086587210675391149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_57
+      rect:
+        serializedVersion: 2
+        x: 7007
+        y: 3114
+        width: 413
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1726da661448b20800000000000000
+      internalID: 3135703149808087524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_58
+      rect:
+        serializedVersion: 2
+        x: 7968
+        y: 3116
+        width: 412
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb86dd7d0ff43820800000000000000
+      internalID: 2897220893716941744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_59
+      rect:
+        serializedVersion: 2
+        x: 8929
+        y: 3118
+        width: 411
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc38220570e0b5400800000000000000
+      internalID: 313860023604380621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_60
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2161
+        width: 410
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed86a7e6ead6c9a0800000000000000
+      internalID: -6213037950647235098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_61
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 2165
+        width: 409
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2023926cadfad440800000000000000
+      internalID: 4961556856332034094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_62
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 2169
+        width: 408
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c4b66519f4cd870800000000000000
+      internalID: 8708923265066421306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_63
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 2175
+        width: 407
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db94b0cf46ff6790800000000000000
+      internalID: -7534532829171639344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_64
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 2182
+        width: 405
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c35e93c839f5590800000000000000
+      internalID: -7683260208794747747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_65
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 2190
+        width: 403
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cad6c30f7c948d00800000000000000
+      internalID: 974075488757013190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_66
+      rect:
+        serializedVersion: 2
+        x: 6057
+        y: 2200
+        width: 402
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe9bc4d380dd26b0800000000000000
+      internalID: -5319366320225280267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_67
+      rect:
+        serializedVersion: 2
+        x: 7018
+        y: 2212
+        width: 400
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700b90518e30e4570800000000000000
+      internalID: 8452697845941252103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_68
+      rect:
+        serializedVersion: 2
+        x: 7978
+        y: 2227
+        width: 407
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876cd88ff7fc4b980800000000000000
+      internalID: -8523960046167669128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_69
+      rect:
+        serializedVersion: 2
+        x: 8939
+        y: 2235
+        width: 419
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d64ba7d3aa23300800000000000000
+      internalID: 230433711977688365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_70
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1272
+        width: 431
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f224e96c76519d0800000000000000
+      internalID: -2804221090211942518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_71
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1270
+        width: 448
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da39335d364d2a20800000000000000
+      internalID: 3039162552748161744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_72
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1267
+        width: 456
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4b7cc5d4257cce0800000000000000
+      internalID: -1385047868170586970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_73
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 1265
+        width: 458
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb56029e3af14900800000000000000
+      internalID: 667089366472350701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_74
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 1262
+        width: 452
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea49464cc1ccf56e0800000000000000
+      internalID: -1846532898272537426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_75
+      rect:
+        serializedVersion: 2
+        x: 5084
+        y: 1259
+        width: 443
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844662cccff539f40800000000000000
+      internalID: 5734032289934238792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_76
+      rect:
+        serializedVersion: 2
+        x: 6049
+        y: 1256
+        width: 428
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf28b1256804d800800000000000000
+      internalID: 636142677816520629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_77
+      rect:
+        serializedVersion: 2
+        x: 7015
+        y: 1252
+        width: 409
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26ddec6bee9febe0800000000000000
+      internalID: -1445762221380610518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_78
+      rect:
+        serializedVersion: 2
+        x: 7982
+        y: 1248
+        width: 387
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8c04b3f5c37e740800000000000000
+      internalID: 5181176276026706139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_79
+      rect:
+        serializedVersion: 2
+        x: 8945
+        y: 1243
+        width: 368
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400914ef6f83b0ea0800000000000000
+      internalID: -5905563852887453692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_80
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 277
+        width: 367
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed4faf1ba227c610800000000000000
+      internalID: 1641318707566169574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_81
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 271
+        width: 368
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f270e762b60cb730800000000000000
+      internalID: 4016092331024347889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_82
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 263
+        width: 367
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbfad03694d76750800000000000000
+      internalID: 6298236345430768635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat-move1_83
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 254
+        width: 368
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45dc84072ea0b470800000000000000
+      internalID: 8408411986904012108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bat-move1_0: -1044086292697574728
+      bat-move1_1: 2843204052003967371
+      bat-move1_10: 1853808113253320688
+      bat-move1_11: -248179852774162101
+      bat-move1_12: -7032496171787227
+      bat-move1_13: 5121088331127003059
+      bat-move1_14: -2195431605575719745
+      bat-move1_15: 8096983072048168589
+      bat-move1_16: 788704233620139888
+      bat-move1_17: 5056485098070978417
+      bat-move1_18: 8615732452069367872
+      bat-move1_19: 7190629084527687039
+      bat-move1_2: -8149970051550501003
+      bat-move1_20: 8989387800645304460
+      bat-move1_21: -5553651762104815565
+      bat-move1_22: -2542841939949256770
+      bat-move1_23: 3062471415315294369
+      bat-move1_24: -8631948761265941830
+      bat-move1_25: -8856211284933965484
+      bat-move1_26: 1455786586791721986
+      bat-move1_27: 8866771488301510367
+      bat-move1_28: -9046082201900411556
+      bat-move1_29: 9181991416705020827
+      bat-move1_3: 5888270908823981282
+      bat-move1_30: -5922344499236358268
+      bat-move1_31: 2014101171901988980
+      bat-move1_32: 1771829875816798228
+      bat-move1_33: -6365248871140216370
+      bat-move1_34: -1966162510271277424
+      bat-move1_35: -2039996544447867744
+      bat-move1_36: 2237320159594559823
+      bat-move1_37: -7906467526615530507
+      bat-move1_38: 3983645156091087504
+      bat-move1_39: 5280848100825035870
+      bat-move1_4: -269472996273446119
+      bat-move1_40: 4288223612037692624
+      bat-move1_41: -9059663498884191960
+      bat-move1_42: 3499333140135061401
+      bat-move1_43: 1590087516302981791
+      bat-move1_44: -2887837551116212242
+      bat-move1_45: 6639845974215660255
+      bat-move1_46: 343386849853921820
+      bat-move1_47: 921666928858104634
+      bat-move1_48: -8615758412044874518
+      bat-move1_49: -5063378058359180494
+      bat-move1_5: 825614398169507461
+      bat-move1_50: -6760177595706282575
+      bat-move1_51: -948090272428440209
+      bat-move1_52: -6360961990268214536
+      bat-move1_53: 8554982526200048165
+      bat-move1_54: -5722071294763453257
+      bat-move1_55: 6973942404643344925
+      bat-move1_56: 5086587210675391149
+      bat-move1_57: 3135703149808087524
+      bat-move1_58: 2897220893716941744
+      bat-move1_59: 313860023604380621
+      bat-move1_6: 5623358146015926709
+      bat-move1_60: -6213037950647235098
+      bat-move1_61: 4961556856332034094
+      bat-move1_62: 8708923265066421306
+      bat-move1_63: -7534532829171639344
+      bat-move1_64: -7683260208794747747
+      bat-move1_65: 974075488757013190
+      bat-move1_66: -5319366320225280267
+      bat-move1_67: 8452697845941252103
+      bat-move1_68: -8523960046167669128
+      bat-move1_69: 230433711977688365
+      bat-move1_7: -1482040708897938140
+      bat-move1_70: -2804221090211942518
+      bat-move1_71: 3039162552748161744
+      bat-move1_72: -1385047868170586970
+      bat-move1_73: 667089366472350701
+      bat-move1_74: -1846532898272537426
+      bat-move1_75: 5734032289934238792
+      bat-move1_76: 636142677816520629
+      bat-move1_77: -1445762221380610518
+      bat-move1_78: 5181176276026706139
+      bat-move1_79: -5905563852887453692
+      bat-move1_8: -2785196533930852838
+      bat-move1_80: 1641318707566169574
+      bat-move1_81: 4016092331024347889
+      bat-move1_82: 6298236345430768635
+      bat-move1_83: 8408411986904012108
+      bat-move1_9: -1845272107756438444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

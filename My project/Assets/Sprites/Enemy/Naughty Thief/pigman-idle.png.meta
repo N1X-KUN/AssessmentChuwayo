@@ -1,0 +1,4056 @@
+fileFormatVersion: 2
+guid: 07e3fa6ffbdad764cb84c6d65557d4fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4928745290603578416
+    second: pigman-idle_0
+  - first:
+      213: -7451705358415421235
+    second: pigman-idle_1
+  - first:
+      213: 8491659544163253922
+    second: pigman-idle_2
+  - first:
+      213: -7259486318076944510
+    second: pigman-idle_3
+  - first:
+      213: -2945120659321451039
+    second: pigman-idle_4
+  - first:
+      213: -6204047475658381793
+    second: pigman-idle_5
+  - first:
+      213: 9127761462093711989
+    second: pigman-idle_6
+  - first:
+      213: 3877020202066711043
+    second: pigman-idle_7
+  - first:
+      213: -826356974372467388
+    second: pigman-idle_8
+  - first:
+      213: -8635002810266253200
+    second: pigman-idle_9
+  - first:
+      213: 2989313351575915341
+    second: pigman-idle_10
+  - first:
+      213: 9069406405847444928
+    second: pigman-idle_11
+  - first:
+      213: 2287578643255491075
+    second: pigman-idle_12
+  - first:
+      213: 8464374250395303883
+    second: pigman-idle_13
+  - first:
+      213: 23682356903434244
+    second: pigman-idle_14
+  - first:
+      213: -8292763732281643208
+    second: pigman-idle_15
+  - first:
+      213: -6783346127852773509
+    second: pigman-idle_16
+  - first:
+      213: 7384192204970225445
+    second: pigman-idle_17
+  - first:
+      213: 2469445851058356895
+    second: pigman-idle_18
+  - first:
+      213: 5666212226598306253
+    second: pigman-idle_19
+  - first:
+      213: 8578444883751611002
+    second: pigman-idle_20
+  - first:
+      213: 718364305439463898
+    second: pigman-idle_21
+  - first:
+      213: -6826356650629770087
+    second: pigman-idle_22
+  - first:
+      213: 1189777310147408543
+    second: pigman-idle_23
+  - first:
+      213: -7418816834729758770
+    second: pigman-idle_24
+  - first:
+      213: 2835940122124032733
+    second: pigman-idle_25
+  - first:
+      213: -7306780674358021319
+    second: pigman-idle_26
+  - first:
+      213: 8782181330162399015
+    second: pigman-idle_27
+  - first:
+      213: -7332694895685923504
+    second: pigman-idle_28
+  - first:
+      213: -5787487427344334021
+    second: pigman-idle_29
+  - first:
+      213: 6493002056253258798
+    second: pigman-idle_30
+  - first:
+      213: -3886884244238679493
+    second: pigman-idle_31
+  - first:
+      213: 2386515869358944377
+    second: pigman-idle_32
+  - first:
+      213: 3824705413741698637
+    second: pigman-idle_33
+  - first:
+      213: 9074469120848554260
+    second: pigman-idle_34
+  - first:
+      213: -2684350588779340085
+    second: pigman-idle_35
+  - first:
+      213: -3251239890468686122
+    second: pigman-idle_36
+  - first:
+      213: 5604859534215734901
+    second: pigman-idle_37
+  - first:
+      213: 4159338957379184738
+    second: pigman-idle_38
+  - first:
+      213: -1862391778390143895
+    second: pigman-idle_39
+  - first:
+      213: 4990617196043267818
+    second: pigman-idle_40
+  - first:
+      213: 418542162629360094
+    second: pigman-idle_41
+  - first:
+      213: -1943298667767142931
+    second: pigman-idle_42
+  - first:
+      213: 508071962602602629
+    second: pigman-idle_43
+  - first:
+      213: 8373911571140842424
+    second: pigman-idle_44
+  - first:
+      213: -8196270343389736664
+    second: pigman-idle_45
+  - first:
+      213: -1814174015726378739
+    second: pigman-idle_46
+  - first:
+      213: -632314032853810894
+    second: pigman-idle_47
+  - first:
+      213: -8506459304006126294
+    second: pigman-idle_48
+  - first:
+      213: -2952515333520433565
+    second: pigman-idle_49
+  - first:
+      213: -770954572626211834
+    second: pigman-idle_50
+  - first:
+      213: 2903274000127348596
+    second: pigman-idle_51
+  - first:
+      213: 3547387968157346363
+    second: pigman-idle_52
+  - first:
+      213: -8493977591309696254
+    second: pigman-idle_53
+  - first:
+      213: -8409335088786759821
+    second: pigman-idle_54
+  - first:
+      213: -3514929985338164204
+    second: pigman-idle_55
+  - first:
+      213: -4771811040414144774
+    second: pigman-idle_56
+  - first:
+      213: -4745414830859367304
+    second: pigman-idle_57
+  - first:
+      213: 3037511638755710895
+    second: pigman-idle_58
+  - first:
+      213: 8229771089065959143
+    second: pigman-idle_59
+  - first:
+      213: 2862348852639315841
+    second: pigman-idle_60
+  - first:
+      213: -632858143613615736
+    second: pigman-idle_61
+  - first:
+      213: -2500405677567561253
+    second: pigman-idle_62
+  - first:
+      213: 7047855209987391523
+    second: pigman-idle_63
+  - first:
+      213: -7638170017504973164
+    second: pigman-idle_64
+  - first:
+      213: 1255102745862670992
+    second: pigman-idle_65
+  - first:
+      213: -7473261189922867261
+    second: pigman-idle_66
+  - first:
+      213: 257874828800348503
+    second: pigman-idle_67
+  - first:
+      213: 4701063505204995576
+    second: pigman-idle_68
+  - first:
+      213: 4268501467229837543
+    second: pigman-idle_69
+  - first:
+      213: -5927492993739020689
+    second: pigman-idle_70
+  - first:
+      213: -2747433090934069474
+    second: pigman-idle_71
+  - first:
+      213: 1300491927161552853
+    second: pigman-idle_72
+  - first:
+      213: -1076646439827701207
+    second: pigman-idle_73
+  - first:
+      213: -4769098001557865247
+    second: pigman-idle_74
+  - first:
+      213: -8466477048880602201
+    second: pigman-idle_75
+  - first:
+      213: 9108314717888030978
+    second: pigman-idle_76
+  - first:
+      213: 442226287852348644
+    second: pigman-idle_77
+  - first:
+      213: -247336208797082257
+    second: pigman-idle_78
+  - first:
+      213: -1313387604613834440
+    second: pigman-idle_79
+  - first:
+      213: 8278987661929893122
+    second: pigman-idle_80
+  - first:
+      213: -3641772955720545509
+    second: pigman-idle_81
+  - first:
+      213: -8780432282028387430
+    second: pigman-idle_82
+  - first:
+      213: 8940550505567872851
+    second: pigman-idle_83
+  - first:
+      213: -1554997185154482043
+    second: pigman-idle_84
+  - first:
+      213: 8646040701136487619
+    second: pigman-idle_85
+  - first:
+      213: -1689963238045251398
+    second: pigman-idle_86
+  - first:
+      213: 8663481831074389509
+    second: pigman-idle_87
+  - first:
+      213: 5311595096777785906
+    second: pigman-idle_88
+  - first:
+      213: -3104370762192216417
+    second: pigman-idle_89
+  - first:
+      213: -5793481877859558068
+    second: pigman-idle_90
+  - first:
+      213: 2936115658285653211
+    second: pigman-idle_91
+  - first:
+      213: -6612627618835284245
+    second: pigman-idle_92
+  - first:
+      213: 1666284488816782634
+    second: pigman-idle_93
+  - first:
+      213: -3060927755120992356
+    second: pigman-idle_94
+  - first:
+      213: 9063662002827817626
+    second: pigman-idle_95
+  - first:
+      213: -3943264786476760646
+    second: pigman-idle_96
+  - first:
+      213: 2904113293768399614
+    second: pigman-idle_97
+  - first:
+      213: 3964028107858789633
+    second: pigman-idle_98
+  - first:
+      213: 3015748945887818126
+    second: pigman-idle_99
+  - first:
+      213: -5168609917214189772
+    second: pigman-idle_100
+  - first:
+      213: 6264767273213627486
+    second: pigman-idle_101
+  - first:
+      213: -516147567492663689
+    second: pigman-idle_102
+  - first:
+      213: 9037838349987575388
+    second: pigman-idle_103
+  - first:
+      213: -6251439019268503066
+    second: pigman-idle_104
+  - first:
+      213: -5303775856496795810
+    second: pigman-idle_105
+  - first:
+      213: -7051549673385898000
+    second: pigman-idle_106
+  - first:
+      213: 8782792712022139226
+    second: pigman-idle_107
+  - first:
+      213: -3752755412762866250
+    second: pigman-idle_108
+  - first:
+      213: 5219292531480753611
+    second: pigman-idle_109
+  - first:
+      213: -311413949908374762
+    second: pigman-idle_110
+  - first:
+      213: 7198063992225544597
+    second: pigman-idle_111
+  - first:
+      213: -5786121428309824778
+    second: pigman-idle_112
+  - first:
+      213: -829796325660633993
+    second: pigman-idle_113
+  - first:
+      213: -2063623701795691563
+    second: pigman-idle_114
+  - first:
+      213: 4771709918203194180
+    second: pigman-idle_115
+  - first:
+      213: -1183302841171385144
+    second: pigman-idle_116
+  - first:
+      213: -443209929610815727
+    second: pigman-idle_117
+  - first:
+      213: -7067194408038915198
+    second: pigman-idle_118
+  - first:
+      213: -3702350790720480316
+    second: pigman-idle_119
+  - first:
+      213: -4677315356495447722
+    second: pigman-idle_120
+  - first:
+      213: -8633742628819101717
+    second: pigman-idle_121
+  - first:
+      213: 8627905376613652693
+    second: pigman-idle_122
+  - first:
+      213: -8195563175232756435
+    second: pigman-idle_123
+  - first:
+      213: -2263548569059975086
+    second: pigman-idle_124
+  - first:
+      213: 7678286605824107785
+    second: pigman-idle_125
+  - first:
+      213: -3141728709587037628
+    second: pigman-idle_126
+  - first:
+      213: -3440278439006859393
+    second: pigman-idle_127
+  - first:
+      213: -3596706005081650700
+    second: pigman-idle_128
+  - first:
+      213: 8616504518660664822
+    second: pigman-idle_129
+  - first:
+      213: 8888709557519260228
+    second: pigman-idle_130
+  - first:
+      213: -4323438702254567874
+    second: pigman-idle_131
+  - first:
+      213: 3328593094316305998
+    second: pigman-idle_132
+  - first:
+      213: 3762384116557480069
+    second: pigman-idle_133
+  - first:
+      213: 2933349519930664279
+    second: pigman-idle_134
+  - first:
+      213: 6605075159107711430
+    second: pigman-idle_135
+  - first:
+      213: -2481004973297907495
+    second: pigman-idle_136
+  - first:
+      213: -262970162475151767
+    second: pigman-idle_137
+  - first:
+      213: -8388639095705681361
+    second: pigman-idle_138
+  - first:
+      213: 7608319598731132981
+    second: pigman-idle_139
+  - first:
+      213: 6743173923649738288
+    second: pigman-idle_140
+  - first:
+      213: -1638918629356676237
+    second: pigman-idle_141
+  - first:
+      213: -3595510992325772310
+    second: pigman-idle_142
+  - first:
+      213: 1027578948274820067
+    second: pigman-idle_143
+  - first:
+      213: -4964757592348222525
+    second: pigman-idle_144
+  - first:
+      213: 4582813301953570882
+    second: pigman-idle_145
+  - first:
+      213: -1102489171420369700
+    second: pigman-idle_146
+  - first:
+      213: -7127724209384744897
+    second: pigman-idle_147
+  - first:
+      213: -442956027271879895
+    second: pigman-idle_148
+  - first:
+      213: -2841816769678537037
+    second: pigman-idle_149
+  - first:
+      213: -7538358517993783208
+    second: pigman-idle_150
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pigman-idle_0
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 17439
+        width: 372
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbb1359544999bb0800000000000000
+      internalID: -4928745290603578416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_1
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 17439
+        width: 375
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc026c41579369890800000000000000
+      internalID: -7451705358415421235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_2
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 17440
+        width: 375
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aef76b5d5f68d570800000000000000
+      internalID: 8491659544163253922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_3
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 17441
+        width: 374
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f1737f7af114b90800000000000000
+      internalID: -7259486318076944510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_4
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 17441
+        width: 374
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed0b704d54d027d0800000000000000
+      internalID: -2945120659321451039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_5
+      rect:
+        serializedVersion: 2
+        x: 5108
+        y: 17441
+        width: 373
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1629bbf0bbc6e9a0800000000000000
+      internalID: -6204047475658381793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_6
+      rect:
+        serializedVersion: 2
+        x: 6068
+        y: 17441
+        width: 373
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a889650b25cae70800000000000000
+      internalID: 9127761462093711989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_7
+      rect:
+        serializedVersion: 2
+        x: 7029
+        y: 17441
+        width: 372
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302133b1551fdc530800000000000000
+      internalID: 3877020202066711043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 16481
+        width: 371
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dccd4c5b03884f0800000000000000
+      internalID: -826356974372467388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_9
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 16481
+        width: 371
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078849bb1be4a2880800000000000000
+      internalID: -8635002810266253200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_10
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 16481
+        width: 370
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bc30bb7ac2c7920800000000000000
+      internalID: 2989313351575915341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_11
+      rect:
+        serializedVersion: 2
+        x: 3191
+        y: 16480
+        width: 370
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd603803110ddd70800000000000000
+      internalID: 9069406405847444928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_12
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 16479
+        width: 369
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a730be7ac1fbf10800000000000000
+      internalID: 2287578643255491075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_13
+      rect:
+        serializedVersion: 2
+        x: 5112
+        y: 16479
+        width: 369
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf76c8d88f777570800000000000000
+      internalID: 8464374250395303883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_14
+      rect:
+        serializedVersion: 2
+        x: 6073
+        y: 16478
+        width: 368
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4085ca66af2245000800000000000000
+      internalID: 23682356903434244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_15
+      rect:
+        serializedVersion: 2
+        x: 7033
+        y: 16477
+        width: 368
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f2c1b825f2aec80800000000000000
+      internalID: -8292763732281643208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_16
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 15516
+        width: 366
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f50dce2a6bcd1a0800000000000000
+      internalID: -6783346127852773509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_17
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 15515
+        width: 367
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f6572ffabe97660800000000000000
+      internalID: 7384192204970225445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_18
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 15515
+        width: 364
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f924568faeb354220800000000000000
+      internalID: 2469445851058356895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_19
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 15514
+        width: 366
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc10e5ccffd62ae40800000000000000
+      internalID: 5666212226598306253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_20
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 15513
+        width: 366
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a2845db22cc0770800000000000000
+      internalID: 8578444883751611002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_21
+      rect:
+        serializedVersion: 2
+        x: 5115
+        y: 15512
+        width: 366
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad91a0d978428f900800000000000000
+      internalID: 718364305439463898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_22
+      rect:
+        serializedVersion: 2
+        x: 6076
+        y: 15512
+        width: 365
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99456193bc8e341a0800000000000000
+      internalID: -6826356650629770087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_23
+      rect:
+        serializedVersion: 2
+        x: 7036
+        y: 15511
+        width: 364
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92f72de820f28010800000000000000
+      internalID: 1189777310147408543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_24
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 14550
+        width: 364
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfae3835611b0990800000000000000
+      internalID: -7418816834729758770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_25
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 14550
+        width: 366
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda1b7ff3884b5720800000000000000
+      internalID: 2835940122124032733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_26
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 14549
+        width: 367
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933733d80b9199a90800000000000000
+      internalID: -7306780674358021319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_27
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 14549
+        width: 368
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727b569c36390e970800000000000000
+      internalID: 8782181330162399015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_28
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 14548
+        width: 369
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d0258b7d80d3a90800000000000000
+      internalID: -7332694895685923504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_29
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 14548
+        width: 369
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b330a1729d6beafa0800000000000000
+      internalID: -5787487427344334021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_30
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 14548
+        width: 370
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c3bd008f6cb1a50800000000000000
+      internalID: 6493002056253258798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_31
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 14547
+        width: 371
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32471b9f530f0ac0800000000000000
+      internalID: -3886884244238679493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 13587
+        width: 372
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970f8f3f98b9e1120800000000000000
+      internalID: 2386515869358944377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 13587
+        width: 373
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e56944f45141530800000000000000
+      internalID: 3824705413741698637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_34
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 13586
+        width: 373
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419ed69369dfeed70800000000000000
+      internalID: 9074469120848554260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_35
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 13586
+        width: 374
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce523f9c554fbad0800000000000000
+      internalID: -2684350588779340085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_36
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 13586
+        width: 374
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6b801ab8641e2d0800000000000000
+      internalID: -3251239890468686122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_37
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 13585
+        width: 375
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576e3e0fc0678cd40800000000000000
+      internalID: 5604859534215734901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_38
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 13585
+        width: 375
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268a70f9eb0f8b930800000000000000
+      internalID: 4159338957379184738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_39
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 13584
+        width: 375
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c82708b847726e0800000000000000
+      internalID: -1862391778390143895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 12623
+        width: 376
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee6d1cf5eb324540800000000000000
+      internalID: 4990617196043267818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_41
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 12623
+        width: 376
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9fb0f11e5fec500800000000000000
+      internalID: 418542162629360094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_42
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 12622
+        width: 376
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5ef3f58240805e0800000000000000
+      internalID: -1943298667767142931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_43
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 12621
+        width: 376
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580834312c80d0700800000000000000
+      internalID: 508071962602602629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_44
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 12621
+        width: 376
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b31262053c163470800000000000000
+      internalID: 8373911571140842424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_45
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 12620
+        width: 376
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8219f236c8ff04e80800000000000000
+      internalID: -8196270343389736664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_46
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 12619
+        width: 377
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01a2e73852c2d6e0800000000000000
+      internalID: -1814174015726378739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_47
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 12618
+        width: 377
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231014dbcb19937f0800000000000000
+      internalID: -632314032853810894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 11658
+        width: 377
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25f568055cf2f980800000000000000
+      internalID: -8506459304006126294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_49
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 11657
+        width: 377
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ede9f72fe8607d0800000000000000
+      internalID: -2952515333520433565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_50
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 11656
+        width: 377
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cc6a0a6e40d45f0800000000000000
+      internalID: -770954572626211834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_51
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 11656
+        width: 378
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fc73722508a4820800000000000000
+      internalID: 2903274000127348596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_52
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 11655
+        width: 378
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a638aef8ada3130800000000000000
+      internalID: 3547387968157346363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_53
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 11655
+        width: 378
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2038bdb32645f1a80800000000000000
+      internalID: -8493977591309696254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_54
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 11655
+        width: 378
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f13a39a4a0c4b80800000000000000
+      internalID: -8409335088786759821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_55
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 11655
+        width: 378
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cbc8d1dc5783fc0800000000000000
+      internalID: -3514929985338164204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 10695
+        width: 378
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6e3d0142f17cdb0800000000000000
+      internalID: -4771811040414144774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_57
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 10696
+        width: 378
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cc1c68a56e42eb0800000000000000
+      internalID: -4745414830859367304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_58
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 10696
+        width: 378
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa71625fdb8672a20800000000000000
+      internalID: 3037511638755710895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_59
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 10697
+        width: 378
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee5e8ac335063270800000000000000
+      internalID: 8229771089065959143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_60
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 10697
+        width: 378
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18730d8bd1b19b720800000000000000
+      internalID: 2862348852639315841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_61
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 10698
+        width: 377
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88182b41fd2a737f0800000000000000
+      internalID: -632858143613615736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_62
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 10699
+        width: 376
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd13732b846cc4dd0800000000000000
+      internalID: -2500405677567561253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_63
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 10700
+        width: 376
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3204fabe8f20fc160800000000000000
+      internalID: 7047855209987391523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 9742
+        width: 375
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ea39c76d4cff590800000000000000
+      internalID: -7638170017504973164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_65
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 9743
+        width: 376
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a03cb2c450b6110800000000000000
+      internalID: 1255102745862670992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_66
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 9744
+        width: 377
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c73fe4fa84a94890800000000000000
+      internalID: -7473261189922867261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_67
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 9746
+        width: 377
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751d82f5ac7249300800000000000000
+      internalID: 257874828800348503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_68
+      rect:
+        serializedVersion: 2
+        x: 4154
+        y: 9747
+        width: 377
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5eb46c9588d3140800000000000000
+      internalID: 4701063505204995576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_69
+      rect:
+        serializedVersion: 2
+        x: 5113
+        y: 9749
+        width: 377
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8d77d0873cc3b30800000000000000
+      internalID: 4268501467229837543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_70
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 9751
+        width: 377
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66a19307805dbda0800000000000000
+      internalID: -5927492993739020689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_71
+      rect:
+        serializedVersion: 2
+        x: 7032
+        y: 9752
+        width: 376
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17a8ba09282fd9d0800000000000000
+      internalID: -2747433090934069474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_72
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 8794
+        width: 374
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df3ab774864c0210800000000000000
+      internalID: 1300491927161552853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_73
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 8795
+        width: 374
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922816d64cbfe01f0800000000000000
+      internalID: -1076646439827701207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_74
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 8797
+        width: 372
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec3e16a2a2c0ddb0800000000000000
+      internalID: -4769098001557865247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_75
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 8799
+        width: 371
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3697a3bf7018a80800000000000000
+      internalID: -8466477048880602201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_76
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 8799
+        width: 370
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209ad2e5afb376e70800000000000000
+      internalID: 9108314717888030978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_77
+      rect:
+        serializedVersion: 2
+        x: 5113
+        y: 8800
+        width: 368
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e467cd377a132600800000000000000
+      internalID: 442226287852348644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_78
+      rect:
+        serializedVersion: 2
+        x: 6073
+        y: 8800
+        width: 368
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6dde8e4709419cf0800000000000000
+      internalID: -247336208797082257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_79
+      rect:
+        serializedVersion: 2
+        x: 7034
+        y: 8800
+        width: 367
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8395796aee8e5cde0800000000000000
+      internalID: -1313387604613834440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_80
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 7841
+        width: 367
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d4c212a6fd4e270800000000000000
+      internalID: 8278987661929893122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_81
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 7841
+        width: 366
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b07adaac2d57dc0800000000000000
+      internalID: -3641772955720545509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_82
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 7841
+        width: 365
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9353573c53a52680800000000000000
+      internalID: -8780432282028387430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_83
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 7841
+        width: 365
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357efc4d057331c70800000000000000
+      internalID: 8940550505567872851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_84
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 7841
+        width: 364
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58082208c4a8b6ae0800000000000000
+      internalID: -1554997185154482043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_85
+      rect:
+        serializedVersion: 2
+        x: 5117
+        y: 7841
+        width: 364
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c44fc08538ecf770800000000000000
+      internalID: 8646040701136487619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_86
+      rect:
+        serializedVersion: 2
+        x: 6078
+        y: 7840
+        width: 363
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab808d8836b0c88e0800000000000000
+      internalID: -1689963238045251398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_87
+      rect:
+        serializedVersion: 2
+        x: 7038
+        y: 7840
+        width: 364
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e5d3303deda3870800000000000000
+      internalID: 8663481831074389509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_88
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 6879
+        width: 364
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2328526399396b940800000000000000
+      internalID: 5311595096777785906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_89
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 6879
+        width: 366
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e9c6c4d3f0be4d0800000000000000
+      internalID: -3104370762192216417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_90
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 6878
+        width: 366
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d94816dea699fa0800000000000000
+      internalID: -5793481877859558068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_91
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 6877
+        width: 367
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc149f82ad2fb820800000000000000
+      internalID: 2936115658285653211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_92
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 6876
+        width: 369
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeb263473a3b34a0800000000000000
+      internalID: -6612627618835284245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_93
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 6875
+        width: 370
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2deaaa0ae4df1710800000000000000
+      internalID: 1666284488816782634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_94
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 6874
+        width: 372
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f11e89c666585d0800000000000000
+      internalID: -3060927755120992356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_95
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 6873
+        width: 374
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92f1caf19898cd70800000000000000
+      internalID: 9063662002827817626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 5913
+        width: 375
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab10fbaa195b649c0800000000000000
+      internalID: -3943264786476760646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_97
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5912
+        width: 377
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa1e8e67ab7d4820800000000000000
+      internalID: 2904113293768399614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_98
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 5912
+        width: 378
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1054690df8e030730800000000000000
+      internalID: 3964028107858789633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_99
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5911
+        width: 380
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81f66b20b71ad920800000000000000
+      internalID: 3015748945887818126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_100
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 5911
+        width: 381
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43713ed2aa86548b0800000000000000
+      internalID: -5168609917214189772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_101
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 5910
+        width: 382
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c046094ace0f650800000000000000
+      internalID: 6264767273213627486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_102
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 5910
+        width: 383
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776fae3a58646d8f0800000000000000
+      internalID: -516147567492663689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_103
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 5909
+        width: 383
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c567964481adc6d70800000000000000
+      internalID: 9037838349987575388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_104
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 4949
+        width: 384
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e90c71655d6e39a0800000000000000
+      internalID: -6251439019268503066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_105
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4948
+        width: 384
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f173985f33566b0800000000000000
+      internalID: -5303775856496795810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_106
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 4947
+        width: 383
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffcfc9ceecd32e90800000000000000
+      internalID: -7051549673385898000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_107
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4948
+        width: 384
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5128f7307fb2e970800000000000000
+      internalID: 8782792712022139226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_108
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 4947
+        width: 383
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd4855c5d88bebc0800000000000000
+      internalID: -3752755412762866250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_109
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 4946
+        width: 382
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc572c587e6ae6840800000000000000
+      internalID: 5219292531480753611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_110
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 4946
+        width: 382
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b2c9999a2adabf0800000000000000
+      internalID: -311413949908374762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_111
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 4946
+        width: 381
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599322f5019a4e360800000000000000
+      internalID: 7198063992225544597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_112
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3985
+        width: 380
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa2156973193bfa0800000000000000
+      internalID: -5786121428309824778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_113
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3985
+        width: 379
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774d21563a8fb74f0800000000000000
+      internalID: -829796325660633993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_114
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3984
+        width: 379
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d324604d298c53e0800000000000000
+      internalID: -2063623701795691563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_115
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3983
+        width: 378
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ba5b593e4883240800000000000000
+      internalID: 4771709918203194180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_116
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 3983
+        width: 376
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4e44ad550149fe0800000000000000
+      internalID: -1183302841171385144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_117
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3982
+        width: 375
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1171f90dae669d9f0800000000000000
+      internalID: -443209929610815727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_118
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 3981
+        width: 374
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283a63621284ced90800000000000000
+      internalID: -7067194408038915198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_119
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 3981
+        width: 373
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb183d529b9e9cc0800000000000000
+      internalID: -3702350790720480316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_120
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3020
+        width: 372
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659fb99f676d61fb0800000000000000
+      internalID: -4677315356495447722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_121
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3019
+        width: 377
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7171792d8ce2880800000000000000
+      internalID: -8633742628819101717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_122
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3018
+        width: 383
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d85db83a3a7cb770800000000000000
+      internalID: 8627905376613652693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_123
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3018
+        width: 388
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25aafdc6b2834e80800000000000000
+      internalID: -8195563175232756435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_124
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 3017
+        width: 393
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2502659b1924690e0800000000000000
+      internalID: -2263548569059975086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_125
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3016
+        width: 394
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90529c79cf0ce8a60800000000000000
+      internalID: 7678286605824107785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_126
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 3016
+        width: 392
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4421b6c52665664d0800000000000000
+      internalID: -3141728709587037628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_127
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 3016
+        width: 387
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f8f82bcfca140d0800000000000000
+      internalID: -3440278439006859393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_128
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2055
+        width: 381
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9089dc1fee51ec0800000000000000
+      internalID: -3596706005081650700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_129
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2055
+        width: 376
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd21502539f39770800000000000000
+      internalID: 8616504518660664822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_130
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2055
+        width: 378
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a1e878f3a0b5b70800000000000000
+      internalID: 8888709557519260228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_131
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2055
+        width: 382
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ec0f7286f0004c0800000000000000
+      internalID: -4323438702254567874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_132
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 2056
+        width: 387
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eaa8c98c9813e20800000000000000
+      internalID: 3328593094316305998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_133
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2056
+        width: 391
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5800bf78b6ca63430800000000000000
+      internalID: 3762384116557480069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_134
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 2057
+        width: 391
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755a789c8d955b820800000000000000
+      internalID: 2933349519930664279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_135
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 2058
+        width: 389
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c13f5dacd0f9ab50800000000000000
+      internalID: 6605075159107711430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1099
+        width: 387
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8c9982f13b19dd0800000000000000
+      internalID: -2481004973297907495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_137
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1100
+        width: 385
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e442fc70eb95cf0800000000000000
+      internalID: -262970162475151767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_138
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1101
+        width: 383
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f224287ff21959b80800000000000000
+      internalID: -8388639095705681361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_139
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1102
+        width: 381
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530030c4d5e269960800000000000000
+      internalID: 7608319598731132981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_140
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 1104
+        width: 382
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036d1d9e4f0949d50800000000000000
+      internalID: 6743173923649738288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_141
+      rect:
+        serializedVersion: 2
+        x: 5113
+        y: 1105
+        width: 387
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bdc61a0346149e0800000000000000
+      internalID: -1638918629356676237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_142
+      rect:
+        serializedVersion: 2
+        x: 6069
+        y: 1107
+        width: 390
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebf8646dcd2a1ec0800000000000000
+      internalID: -3595510992325772310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_143
+      rect:
+        serializedVersion: 2
+        x: 7027
+        y: 1108
+        width: 390
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3179eeb91b24e00800000000000000
+      internalID: 1027578948274820067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_144
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 150
+        width: 388
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb19203643a91bb0800000000000000
+      internalID: -4964757592348222525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_145
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 152
+        width: 386
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248a0e6da6c699f30800000000000000
+      internalID: 4582813301953570882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_146
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 153
+        width: 381
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc26c890fb23b0f0800000000000000
+      internalID: -1102489171420369700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_147
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 155
+        width: 377
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f389baa889c351d90800000000000000
+      internalID: -7127724209384744897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_148
+      rect:
+        serializedVersion: 2
+        x: 4145
+        y: 156
+        width: 376
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923675f07dd4ad9f0800000000000000
+      internalID: -442956027271879895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_149
+      rect:
+        serializedVersion: 2
+        x: 5105
+        y: 157
+        width: 374
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be009e54b6df88d0800000000000000
+      internalID: -2841816769678537037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pigman-idle_150
+      rect:
+        serializedVersion: 2
+        x: 6065
+        y: 159
+        width: 372
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850c0792ede526790800000000000000
+      internalID: -7538358517993783208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pigman-idle_0: -4928745290603578416
+      pigman-idle_1: -7451705358415421235
+      pigman-idle_10: 2989313351575915341
+      pigman-idle_100: -5168609917214189772
+      pigman-idle_101: 6264767273213627486
+      pigman-idle_102: -516147567492663689
+      pigman-idle_103: 9037838349987575388
+      pigman-idle_104: -6251439019268503066
+      pigman-idle_105: -5303775856496795810
+      pigman-idle_106: -7051549673385898000
+      pigman-idle_107: 8782792712022139226
+      pigman-idle_108: -3752755412762866250
+      pigman-idle_109: 5219292531480753611
+      pigman-idle_11: 9069406405847444928
+      pigman-idle_110: -311413949908374762
+      pigman-idle_111: 7198063992225544597
+      pigman-idle_112: -5786121428309824778
+      pigman-idle_113: -829796325660633993
+      pigman-idle_114: -2063623701795691563
+      pigman-idle_115: 4771709918203194180
+      pigman-idle_116: -1183302841171385144
+      pigman-idle_117: -443209929610815727
+      pigman-idle_118: -7067194408038915198
+      pigman-idle_119: -3702350790720480316
+      pigman-idle_12: 2287578643255491075
+      pigman-idle_120: -4677315356495447722
+      pigman-idle_121: -8633742628819101717
+      pigman-idle_122: 8627905376613652693
+      pigman-idle_123: -8195563175232756435
+      pigman-idle_124: -2263548569059975086
+      pigman-idle_125: 7678286605824107785
+      pigman-idle_126: -3141728709587037628
+      pigman-idle_127: -3440278439006859393
+      pigman-idle_128: -3596706005081650700
+      pigman-idle_129: 8616504518660664822
+      pigman-idle_13: 8464374250395303883
+      pigman-idle_130: 8888709557519260228
+      pigman-idle_131: -4323438702254567874
+      pigman-idle_132: 3328593094316305998
+      pigman-idle_133: 3762384116557480069
+      pigman-idle_134: 2933349519930664279
+      pigman-idle_135: 6605075159107711430
+      pigman-idle_136: -2481004973297907495
+      pigman-idle_137: -262970162475151767
+      pigman-idle_138: -8388639095705681361
+      pigman-idle_139: 7608319598731132981
+      pigman-idle_14: 23682356903434244
+      pigman-idle_140: 6743173923649738288
+      pigman-idle_141: -1638918629356676237
+      pigman-idle_142: -3595510992325772310
+      pigman-idle_143: 1027578948274820067
+      pigman-idle_144: -4964757592348222525
+      pigman-idle_145: 4582813301953570882
+      pigman-idle_146: -1102489171420369700
+      pigman-idle_147: -7127724209384744897
+      pigman-idle_148: -442956027271879895
+      pigman-idle_149: -2841816769678537037
+      pigman-idle_15: -8292763732281643208
+      pigman-idle_150: -7538358517993783208
+      pigman-idle_16: -6783346127852773509
+      pigman-idle_17: 7384192204970225445
+      pigman-idle_18: 2469445851058356895
+      pigman-idle_19: 5666212226598306253
+      pigman-idle_2: 8491659544163253922
+      pigman-idle_20: 8578444883751611002
+      pigman-idle_21: 718364305439463898
+      pigman-idle_22: -6826356650629770087
+      pigman-idle_23: 1189777310147408543
+      pigman-idle_24: -7418816834729758770
+      pigman-idle_25: 2835940122124032733
+      pigman-idle_26: -7306780674358021319
+      pigman-idle_27: 8782181330162399015
+      pigman-idle_28: -7332694895685923504
+      pigman-idle_29: -5787487427344334021
+      pigman-idle_3: -7259486318076944510
+      pigman-idle_30: 6493002056253258798
+      pigman-idle_31: -3886884244238679493
+      pigman-idle_32: 2386515869358944377
+      pigman-idle_33: 3824705413741698637
+      pigman-idle_34: 9074469120848554260
+      pigman-idle_35: -2684350588779340085
+      pigman-idle_36: -3251239890468686122
+      pigman-idle_37: 5604859534215734901
+      pigman-idle_38: 4159338957379184738
+      pigman-idle_39: -1862391778390143895
+      pigman-idle_4: -2945120659321451039
+      pigman-idle_40: 4990617196043267818
+      pigman-idle_41: 418542162629360094
+      pigman-idle_42: -1943298667767142931
+      pigman-idle_43: 508071962602602629
+      pigman-idle_44: 8373911571140842424
+      pigman-idle_45: -8196270343389736664
+      pigman-idle_46: -1814174015726378739
+      pigman-idle_47: -632314032853810894
+      pigman-idle_48: -8506459304006126294
+      pigman-idle_49: -2952515333520433565
+      pigman-idle_5: -6204047475658381793
+      pigman-idle_50: -770954572626211834
+      pigman-idle_51: 2903274000127348596
+      pigman-idle_52: 3547387968157346363
+      pigman-idle_53: -8493977591309696254
+      pigman-idle_54: -8409335088786759821
+      pigman-idle_55: -3514929985338164204
+      pigman-idle_56: -4771811040414144774
+      pigman-idle_57: -4745414830859367304
+      pigman-idle_58: 3037511638755710895
+      pigman-idle_59: 8229771089065959143
+      pigman-idle_6: 9127761462093711989
+      pigman-idle_60: 2862348852639315841
+      pigman-idle_61: -632858143613615736
+      pigman-idle_62: -2500405677567561253
+      pigman-idle_63: 7047855209987391523
+      pigman-idle_64: -7638170017504973164
+      pigman-idle_65: 1255102745862670992
+      pigman-idle_66: -7473261189922867261
+      pigman-idle_67: 257874828800348503
+      pigman-idle_68: 4701063505204995576
+      pigman-idle_69: 4268501467229837543
+      pigman-idle_7: 3877020202066711043
+      pigman-idle_70: -5927492993739020689
+      pigman-idle_71: -2747433090934069474
+      pigman-idle_72: 1300491927161552853
+      pigman-idle_73: -1076646439827701207
+      pigman-idle_74: -4769098001557865247
+      pigman-idle_75: -8466477048880602201
+      pigman-idle_76: 9108314717888030978
+      pigman-idle_77: 442226287852348644
+      pigman-idle_78: -247336208797082257
+      pigman-idle_79: -1313387604613834440
+      pigman-idle_8: -826356974372467388
+      pigman-idle_80: 8278987661929893122
+      pigman-idle_81: -3641772955720545509
+      pigman-idle_82: -8780432282028387430
+      pigman-idle_83: 8940550505567872851
+      pigman-idle_84: -1554997185154482043
+      pigman-idle_85: 8646040701136487619
+      pigman-idle_86: -1689963238045251398
+      pigman-idle_87: 8663481831074389509
+      pigman-idle_88: 5311595096777785906
+      pigman-idle_89: -3104370762192216417
+      pigman-idle_9: -8635002810266253200
+      pigman-idle_90: -5793481877859558068
+      pigman-idle_91: 2936115658285653211
+      pigman-idle_92: -6612627618835284245
+      pigman-idle_93: 1666284488816782634
+      pigman-idle_94: -3060927755120992356
+      pigman-idle_95: 9063662002827817626
+      pigman-idle_96: -3943264786476760646
+      pigman-idle_97: 2904113293768399614
+      pigman-idle_98: 3964028107858789633
+      pigman-idle_99: 3015748945887818126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

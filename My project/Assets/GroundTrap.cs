@@ -6,13 +6,16 @@ public class GroundTrap : MonoBehaviour
     public float moveSpeed = 2f; 
     public float kommyPositionX = -5f; 
     
-    // --- NEW: GRAVITY SETTINGS ---
-    public float fallSpeed = 8f;       // Fast falling speed like an anvil
-    public float groundYLevel = -3.5f; // Where the dirt floor is
+    [Header("Trap Type")]
+    public bool isAcidTrap = false; // CHECK THIS BOX ON THE ACID BARREL PREFAB!
+
+    [Header("Gravity Settings")]
+    public float fallSpeed = 8f;       
+    public float groundYLevel = -3.5f; 
 
     public KommyController kommy; 
     private bool hasTriggered = false;
-    private bool hasHitGround = false; // Prevents it from biting Kommy while still in the air!
+    private bool hasHitGround = false; 
 
     public void SetupTrap(KommyController playerRef)
     {
@@ -21,7 +24,7 @@ public class GroundTrap : MonoBehaviour
 
     void Update()
     {
-        // 1. GRAVITY: Plunge to the ground first!
+        // 1. GRAVITY
         if (!hasHitGround)
         {
             transform.Translate(Vector3.down * fallSpeed * Time.deltaTime);
@@ -32,21 +35,30 @@ public class GroundTrap : MonoBehaviour
             }
         }
 
-        // 2. SLIDE: Move to the left, but ONLY if the background is moving
-        if (kommy != null && (kommy.currentState == KommyController.CharacterState.Running || kommy.currentState == KommyController.CharacterState.Attacking || kommy.currentState == KommyController.CharacterState.Jumping))
+        // 2. SLIDE
+        if (kommy != null && (kommy.currentState == KommyController.CharacterState.Running || 
+            kommy.currentState == KommyController.CharacterState.Attacking || 
+            kommy.currentState == KommyController.CharacterState.Jumping))
         {
             transform.Translate(Vector3.left * moveSpeed * Time.deltaTime);
         }
 
-        // 3. BITE: Did the trap just slide under Kommy's feet?
+        // 3. TRIGGER (BITE/POISON)
         if (hasHitGround && !hasTriggered && transform.position.x <= kommyPositionX + 0.5f) 
         {
             hasTriggered = true; 
 
-            // Did she forget to jump?!
             if (kommy != null && kommy.currentState != KommyController.CharacterState.Jumping) 
             {
-                kommy.HitByTrap(); 
+                // Is this the Acid Trap?
+                if (isAcidTrap)
+                {
+                    FindAnyObjectByType<WordManager>().TriggerPoisonFromTrap();
+                }
+                else
+                {
+                    kommy.HitByTrap(); 
+                }
             }
 
             Destroy(gameObject, 2f);
