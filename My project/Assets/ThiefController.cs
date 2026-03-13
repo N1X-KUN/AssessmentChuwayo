@@ -79,11 +79,17 @@ public class ThiefController : MonoBehaviour
     {
         while (!isDefeated)
         {
-            isFlying = false; // Grounded
+            isFlying = false; 
+            
+            // --- GROUND: TRAPS ONLY! ---
+            wordManager.onlySpawnTraps = true; 
+            wordManager.StartSpawning(); 
+            
             anim.Play("ThiefMove"); 
             yield return new WaitForSeconds(runDuration);
             if (isDefeated) break; 
 
+            wordManager.StopSpawning(); 
             ShowEmoticon("EmoticonPrep");
             
             anim.Play("ThiefPrep");
@@ -100,14 +106,15 @@ public class ThiefController : MonoBehaviour
             transform.position = new Vector3(transform.position.x, airY, transform.position.z);
             if (isDefeated) break;
 
-            // --- NOW FLYING ---
+            // --- FLYING: FOOD AND TRAPS! ---
             isFlying = true; 
-            anim.Play("ThiefFlight");
+            wordManager.onlySpawnTraps = false; 
             wordManager.StartSpawning(); 
+            
+            anim.Play("ThiefFlight");
             yield return new WaitForSeconds(flyDuration);
             if (isDefeated) break;
 
-            // --- NORMAL DESCENT ---
             wordManager.StopSpawning(); 
             isFlying = false; 
             anim.Play("ThiefStun");

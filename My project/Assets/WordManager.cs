@@ -43,7 +43,9 @@ public class WordManager : MonoBehaviour
     
     private List<FoodItem> activeFoods = new List<FoodItem>(); 
     private FoodItem targetedFood = null; 
+    
     [HideInInspector] public bool isPlayerDizzy = false; 
+    [HideInInspector] public bool onlySpawnTraps = false; // FIXED: Only declared ONCE!
 
     void Start()
     {
@@ -57,8 +59,7 @@ public class WordManager : MonoBehaviour
 
     void SpawnFood()
     {
-        if (allFoods.Count == 0) return; 
-
+        // 1. Physical Trap Logic (Always allowed to drop)
         if (canDropPhysicalTraps && physicalTrapPrefabs.Length > 0)
         {
             if (Random.Range(0f, 100f) <= physicalTrapChance)
@@ -70,14 +71,20 @@ public class WordManager : MonoBehaviour
             }
         }
 
-        bool droppingRotten = canDropRottenFood && (Random.Range(0f, 100f) <= rottenChance);
-        int randomIndex = Random.Range(0, allFoods.Count);
-        FoodEntry chosenEntry = allFoods[randomIndex];
+        // 2. Food Logic (ONLY drops if the switch says it's okay!)
+        if (!onlySpawnTraps)
+        {
+            if (allFoods.Count == 0) return; 
 
-        GameObject newFoodObj = Instantiate(foodPrefab, spawnPoint.position, Quaternion.identity);
-        FoodItem newFood = newFoodObj.GetComponent<FoodItem>();
-        newFood.SetupFood(chosenEntry.word, chosenEntry.foodSprite, this, droppingRotten);
-        activeFoods.Add(newFood); 
+            bool droppingRotten = canDropRottenFood && (Random.Range(0f, 100f) <= rottenChance);
+            int randomIndex = Random.Range(0, allFoods.Count);
+            FoodEntry chosenEntry = allFoods[randomIndex];
+
+            GameObject newFoodObj = Instantiate(foodPrefab, spawnPoint.position, Quaternion.identity);
+            FoodItem newFood = newFoodObj.GetComponent<FoodItem>();
+            newFood.SetupFood(chosenEntry.word, chosenEntry.foodSprite, this, droppingRotten);
+            activeFoods.Add(newFood); 
+        }
     }
 
     public void MissedFood(FoodItem missedFood, string originalWord)
