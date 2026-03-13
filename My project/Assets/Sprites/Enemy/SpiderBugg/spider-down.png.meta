@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: c541b1f9dedc556478d3f527aea46607
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 195212027241770111
+    second: spider-down_0
+  - first:
+      213: -1770202178665207770
+    second: spider-down_1
+  - first:
+      213: 2519198335388364524
+    second: spider-down_2
+  - first:
+      213: 5909828408349447679
+    second: spider-down_3
+  - first:
+      213: 7690960196223861437
+    second: spider-down_4
+  - first:
+      213: -4082976604972842277
+    second: spider-down_5
+  - first:
+      213: 2283947285654845964
+    second: spider-down_6
+  - first:
+      213: -6405975520339400766
+    second: spider-down_7
+  - first:
+      213: 2645092010874639123
+    second: spider-down_8
+  - first:
+      213: -2077946698137338166
+    second: spider-down_9
+  - first:
+      213: 8563037832043553380
+    second: spider-down_10
+  - first:
+      213: -8860554545210328849
+    second: spider-down_11
+  - first:
+      213: -5128392404208039704
+    second: spider-down_12
+  - first:
+      213: 3189711551213366343
+    second: spider-down_13
+  - first:
+      213: -8252237499473548149
+    second: spider-down_14
+  - first:
+      213: -1199936690733638625
+    second: spider-down_15
+  - first:
+      213: -3823439457962278820
+    second: spider-down_16
+  - first:
+      213: -4552377874064028937
+    second: spider-down_17
+  - first:
+      213: 7233323194144660243
+    second: spider-down_18
+  - first:
+      213: -1750967593988046585
+    second: spider-down_19
+  - first:
+      213: 7714498144984014025
+    second: spider-down_20
+  - first:
+      213: 3983490167796948815
+    second: spider-down_21
+  - first:
+      213: 2429170113766413917
+    second: spider-down_22
+  - first:
+      213: -3472138538775316889
+    second: spider-down_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spider-down_0
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2239
+        width: 226
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c21a3fd4885b200800000000000000
+      internalID: 195212027241770111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_1
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2244
+        width: 248
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628a9085f7afe67e0800000000000000
+      internalID: -1770202178665207770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_2
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 2256
+        width: 236
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee249be98df5f220800000000000000
+      internalID: 2519198335388364524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_3
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 2282
+        width: 215
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff55e2330ade30250800000000000000
+      internalID: 5909828408349447679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1856
+        width: 178
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2879dcc87cbba60800000000000000
+      internalID: 7690960196223861437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_5
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1876
+        width: 151
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd20d5a096a5657c0800000000000000
+      internalID: -4082976604972842277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_6
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1916
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0abc2794f532bf10800000000000000
+      internalID: 2283947285654845964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_7
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1947
+        width: 218
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7625e54376917a0800000000000000
+      internalID: -6405975520339400766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1471
+        width: 197
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313186a6b2145b420800000000000000
+      internalID: 2645092010874639123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_9
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1424
+        width: 186
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acef35bcc76a923e0800000000000000
+      internalID: -2077946698137338166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_10
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1372
+        width: 171
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462ef211a8506d670800000000000000
+      internalID: 8563037832043553380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_11
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1363
+        width: 308
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8f3cb169cf80580800000000000000
+      internalID: -8860554545210328849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 933
+        width: 306
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e84e5e974a44d8b0800000000000000
+      internalID: -5128392404208039704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_13
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 932
+        width: 307
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c680a81c1244c20800000000000000
+      internalID: 3189711551213366343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_14
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 930
+        width: 307
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ca8b967b92a7d80800000000000000
+      internalID: -8252237499473548149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_15
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 928
+        width: 307
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c1dd3ffe7f85fe0800000000000000
+      internalID: -1199936690733638625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 496
+        width: 307
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5042f7021a60fac0800000000000000
+      internalID: -3823439457962278820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_17
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 496
+        width: 307
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fac01d6174b2d0c0800000000000000
+      internalID: -4552377874064028937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_18
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 496
+        width: 307
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b169c0f1de16460800000000000000
+      internalID: 7233323194144660243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_19
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 496
+        width: 307
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7014f13104053b7e0800000000000000
+      internalID: -1750967593988046585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 307
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc9e2090376f0b60800000000000000
+      internalID: 7714498144984014025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_21
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 64
+        width: 307
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f5cc1c333384730800000000000000
+      internalID: 3983490167796948815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_22
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 64
+        width: 307
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56da02295526b120800000000000000
+      internalID: 2429170113766413917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-down_23
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 64
+        width: 307
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7667a59256c70dfc0800000000000000
+      internalID: -3472138538775316889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spider-down_0: 195212027241770111
+      spider-down_1: -1770202178665207770
+      spider-down_10: 8563037832043553380
+      spider-down_11: -8860554545210328849
+      spider-down_12: -5128392404208039704
+      spider-down_13: 3189711551213366343
+      spider-down_14: -8252237499473548149
+      spider-down_15: -1199936690733638625
+      spider-down_16: -3823439457962278820
+      spider-down_17: -4552377874064028937
+      spider-down_18: 7233323194144660243
+      spider-down_19: -1750967593988046585
+      spider-down_2: 2519198335388364524
+      spider-down_20: 7714498144984014025
+      spider-down_21: 3983490167796948815
+      spider-down_22: 2429170113766413917
+      spider-down_23: -3472138538775316889
+      spider-down_3: 5909828408349447679
+      spider-down_4: 7690960196223861437
+      spider-down_5: -4082976604972842277
+      spider-down_6: 2283947285654845964
+      spider-down_7: -6405975520339400766
+      spider-down_8: 2645092010874639123
+      spider-down_9: -2077946698137338166
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

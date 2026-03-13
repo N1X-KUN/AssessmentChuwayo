@@ -3,7 +3,7 @@ using System.Collections;
 
 public class KommyController : MonoBehaviour
 {
-    private Animator animator;
+    public Animator anim; // FIXED: Now public so other scripts can talk to it!
     
     [Header("Game Settings")]
     public float runSpeed = 2f;
@@ -16,7 +16,7 @@ public class KommyController : MonoBehaviour
     [Header("Jump Settings")]
     public float jumpHeight = 2.5f;   
     public float jumpDuration = 0.6f; 
-    public float jumpCooldown = 0.8f; // NEW: Prevent spamming
+    public float jumpCooldown = 0.8f; 
     private float nextJumpTime = 0f;
     private float originalY;          
 
@@ -25,7 +25,7 @@ public class KommyController : MonoBehaviour
 
     void Start()
     {
-        animator = GetComponent<Animator>();
+        anim = GetComponent<Animator>(); // FIXED
         currentHp = maxHp;
         originalY = transform.position.y; 
         StartGame();
@@ -67,17 +67,15 @@ public class KommyController : MonoBehaviour
     public void TypeCorrectLetter()
     {
         if (currentState == CharacterState.Dead || currentState == CharacterState.Victory || currentState == CharacterState.Stunned) return;
-        // Animation removed for typing per your request!
     }
 
-    // This is called by the WordManager when you hit Backspace
     public void TriggerSwipeAnimation()
     {
         if (currentState == CharacterState.Dead || currentState == CharacterState.Stunned) return;
         
         attackTimer = timeToStopAttacking;
         currentState = CharacterState.Attacking;
-        PlayAnimation("KommyAttack"); // The "Swat" animation
+        PlayAnimation("KommyAttack"); 
     }
 
     public void TypeWrongLetter()
@@ -92,6 +90,24 @@ public class KommyController : MonoBehaviour
         TriggerStun();
     }
 
+    // --- NEW: THE SAFE BONK (No Stun, No HP Loss) ---
+    public void TriggerBonk()
+    {
+        if (currentState == CharacterState.Dead || currentState == CharacterState.Victory || currentState == CharacterState.Stunned) return;
+        
+        PlayAnimation("KommyBonk"); 
+        StartCoroutine(ResetRunAfterBonk());
+    }
+
+    private IEnumerator ResetRunAfterBonk()
+    {
+        yield return new WaitForSeconds(1.0f); // Bonk lasts 1 second
+        if (currentState != CharacterState.Dead && currentState != CharacterState.Stunned)
+        {
+            PlayAnimation("KommyMove");
+        }
+    }
+
     private void TriggerStun()
     {
         StopAllCoroutines();
@@ -99,7 +115,6 @@ public class KommyController : MonoBehaviour
         StartCoroutine(StunRoutine());
     }
 
-    // --- NEW: Added back the WinGame method to fix the LevelManager error ---
     public void WinGame()
     {
         if (currentState == CharacterState.Dead) return;
@@ -164,6 +179,6 @@ public class KommyController : MonoBehaviour
 
     private void PlayAnimation(string animName)
     {
-        if (animator != null) animator.Play(animName);
+        if (anim != null) anim.Play(animName); // FIXED
     }
 }

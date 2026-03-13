@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 803f9d199c3611449975958c523d18b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2143324489429873225
+    second: spider-atk_0
+  - first:
+      213: -4748993048695731546
+    second: spider-atk_1
+  - first:
+      213: 3782130184761477392
+    second: spider-atk_2
+  - first:
+      213: 7970102877615294911
+    second: spider-atk_3
+  - first:
+      213: -819260976069361242
+    second: spider-atk_4
+  - first:
+      213: -1943218749281596724
+    second: spider-atk_5
+  - first:
+      213: -564244686031524397
+    second: spider-atk_6
+  - first:
+      213: 8783784162705255991
+    second: spider-atk_7
+  - first:
+      213: 1272763479928914900
+    second: spider-atk_8
+  - first:
+      213: -2086795545807636064
+    second: spider-atk_9
+  - first:
+      213: -4468569987862815275
+    second: spider-atk_10
+  - first:
+      213: 1433462335630746306
+    second: spider-atk_11
+  - first:
+      213: 4806866437372889474
+    second: spider-atk_12
+  - first:
+      213: -8701703931602494725
+    second: spider-atk_13
+  - first:
+      213: 7360408564542850214
+    second: spider-atk_14
+  - first:
+      213: 6460508240990779674
+    second: spider-atk_15
+  - first:
+      213: -2561414553613974573
+    second: spider-atk_16
+  - first:
+      213: -1453804203282048966
+    second: spider-atk_17
+  - first:
+      213: -5523517916145801439
+    second: spider-atk_18
+  - first:
+      213: 67051200067769164
+    second: spider-atk_19
+  - first:
+      213: -6201175511916632923
+    second: spider-atk_20
+  - first:
+      213: 8859980311738087533
+    second: spider-atk_21
+  - first:
+      213: -5375276908039955112
+    second: spider-atk_22
+  - first:
+      213: 6652608879076717695
+    second: spider-atk_23
+  - first:
+      213: -3349625348799813230
+    second: spider-atk_24
+  - first:
+      213: -916025924654815950
+    second: spider-atk_25
+  - first:
+      213: 3557720404703152349
+    second: spider-atk_26
+  - first:
+      213: -7668633462147835526
+    second: spider-atk_27
+  - first:
+      213: -662730711380377165
+    second: spider-atk_28
+  - first:
+      213: 8120550506430506395
+    second: spider-atk_29
+  - first:
+      213: 1284156381170901066
+    second: spider-atk_30
+  - first:
+      213: -6350707073155025491
+    second: spider-atk_31
+  - first:
+      213: -2748481550643279811
+    second: spider-atk_32
+  - first:
+      213: -2610369217137729641
+    second: spider-atk_33
+  - first:
+      213: 6585381615611256808
+    second: spider-atk_34
+  - first:
+      213: -4136863711374356749
+    second: spider-atk_35
+  - first:
+      213: 5575990079586964282
+    second: spider-atk_36
+  - first:
+      213: 2103634941971184145
+    second: spider-atk_37
+  - first:
+      213: 790097927845628246
+    second: spider-atk_38
+  - first:
+      213: 8798657115840064928
+    second: spider-atk_39
+  - first:
+      213: -2414800929533048043
+    second: spider-atk_40
+  - first:
+      213: 4830848059143059045
+    second: spider-atk_41
+  - first:
+      213: 8989422537531503991
+    second: spider-atk_42
+  - first:
+      213: 6794458560687827712
+    second: spider-atk_43
+  - first:
+      213: 5794781016428319776
+    second: spider-atk_44
+  - first:
+      213: 1024475077408605854
+    second: spider-atk_45
+  - first:
+      213: -15181739293947641
+    second: spider-atk_46
+  - first:
+      213: 749046729179055516
+    second: spider-atk_47
+  - first:
+      213: -8689397300511816149
+    second: spider-atk_48
+  - first:
+      213: 4106533069212980657
+    second: spider-atk_49
+  - first:
+      213: 1395387741791510735
+    second: spider-atk_50
+  - first:
+      213: 6213071195697861733
+    second: spider-atk_51
+  - first:
+      213: 10667967196822721
+    second: spider-atk_52
+  - first:
+      213: 855116867198550464
+    second: spider-atk_53
+  - first:
+      213: 5489403343204947298
+    second: spider-atk_54
+  - first:
+      213: 7767110121679391777
+    second: spider-atk_55
+  - first:
+      213: -2395383014093702048
+    second: spider-atk_56
+  - first:
+      213: -7216271159626827649
+    second: spider-atk_57
+  - first:
+      213: 6963445426047122955
+    second: spider-atk_58
+  - first:
+      213: 2619918409822360117
+    second: spider-atk_59
+  - first:
+      213: 4939335142244656794
+    second: spider-atk_60
+  - first:
+      213: -1798433629415575359
+    second: spider-atk_61
+  - first:
+      213: -6041372925404617546
+    second: spider-atk_62
+  - first:
+      213: -4307191627604340700
+    second: spider-atk_63
+  - first:
+      213: 7997230970940196697
+    second: spider-atk_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spider-atk_0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3536
+        width: 230
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd03219bb16142e0800000000000000
+      internalID: -2143324489429873225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_1
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 3536
+        width: 231
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa01b3cbff281eb0800000000000000
+      internalID: -4748993048695731546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_2
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 3536
+        width: 238
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0198dfc4d53dc7430800000000000000
+      internalID: 3782130184761477392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_3
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 3536
+        width: 228
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9049bf65e7b9e60800000000000000
+      internalID: 7970102877615294911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_4
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 3536
+        width: 230
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1cb0f9b7661a4f0800000000000000
+      internalID: -819260976069361242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_5
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 3536
+        width: 230
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca0138d7dc4805e0800000000000000
+      internalID: -1943218749281596724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_6
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 3536
+        width: 235
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd60b292766b28f0800000000000000
+      internalID: -564244686031524397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_7
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 3536
+        width: 241
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eafb1582546e970800000000000000
+      internalID: 8783784162705255991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3104
+        width: 248
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3c04044a3c9a110800000000000000
+      internalID: 1272763479928914900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_9
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 3104
+        width: 250
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9b445e1863a03e0800000000000000
+      internalID: -2086795545807636064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_10
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3104
+        width: 238
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd177385437cf1c0800000000000000
+      internalID: -4468569987862815275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_11
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 3104
+        width: 234
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c22c22466ea4e310800000000000000
+      internalID: 1433462335630746306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_12
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 3104
+        width: 227
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289cb529e8b65b240800000000000000
+      internalID: 4806866437372889474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_13
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 3104
+        width: 278
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa9638b0665d3780800000000000000
+      internalID: -8701703931602494725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_14
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 3104
+        width: 264
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4c153a79c652660800000000000000
+      internalID: 7360408564542850214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_15
+      rect:
+        serializedVersion: 2
+        x: 4281
+        y: 3088
+        width: 269
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a193db4140658a950800000000000000
+      internalID: 6460508240990779674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2647
+        width: 266
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3c251d807047cd0800000000000000
+      internalID: -2561414553613974573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_17
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2654
+        width: 242
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38576a97cc03dbe0800000000000000
+      internalID: -1453804203282048966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_18
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2672
+        width: 229
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127af9958b58853b0800000000000000
+      internalID: -5523517916145801439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_19
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 2672
+        width: 214
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c439dc116b63ee000800000000000000
+      internalID: 67051200067769164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_20
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 2672
+        width: 214
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4ab562abff0f9a0800000000000000
+      internalID: -6201175511916632923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_21
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 2672
+        width: 261
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d687a1eb629f4fa70800000000000000
+      internalID: 8859980311738087533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_22
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 2664
+        width: 270
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d1beea12e2765b0800000000000000
+      internalID: -5375276908039955112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_23
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 2655
+        width: 290
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f743afa4780d25c50800000000000000
+      internalID: 6652608879076717695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2211
+        width: 291
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299a42a0e7db381d0800000000000000
+      internalID: -3349625348799813230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_25
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 2213
+        width: 251
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235a6eb564f9943f0800000000000000
+      internalID: -916025924654815950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_26
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 2218
+        width: 251
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd88d74cbdf8f5130800000000000000
+      internalID: 3557720404703152349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_27
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 2220
+        width: 228
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7911001f7a839590800000000000000
+      internalID: -7668633462147835526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_28
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 2240
+        width: 237
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b14e66ede18dc6f0800000000000000
+      internalID: -662730711380377165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_29
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 2240
+        width: 233
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95a86c39adf1b070800000000000000
+      internalID: 8120550506430506395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_30
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 2240
+        width: 266
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a402eb7cc6d32d110800000000000000
+      internalID: 1284156381170901066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_31
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 2240
+        width: 261
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5b8008091cdd7a0800000000000000
+      internalID: -6350707073155025491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1808
+        width: 288
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38413e779e6bd9d0800000000000000
+      internalID: -2748481550643279811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_33
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1808
+        width: 300
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f14eff60b16cbd0800000000000000
+      internalID: -2610369217137729641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_34
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1808
+        width: 300
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef95e440b9f36b50800000000000000
+      internalID: 6585381615611256808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_35
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1808
+        width: 226
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fec35f5f58e696c0800000000000000
+      internalID: -4136863711374356749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_36
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1808
+        width: 235
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3312ec3f65e16d40800000000000000
+      internalID: 5575990079586964282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_37
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 1808
+        width: 242
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aba4d85dc913d10800000000000000
+      internalID: 2103634941971184145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_38
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 1808
+        width: 243
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659c20711edf6fa00800000000000000
+      internalID: 790097927845628246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_39
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 1808
+        width: 245
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad2c12970c1b1a70800000000000000
+      internalID: 8798657115840064928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1376
+        width: 246
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b46e74957ec7ed0800000000000000
+      internalID: -2414800929533048043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_41
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1376
+        width: 241
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5667b1107be9a0340800000000000000
+      internalID: 4830848059143059045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_42
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1376
+        width: 233
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775b47d7b28d0cc70800000000000000
+      internalID: 8989422537531503991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_43
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 1376
+        width: 236
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00be8e6ff04ca4e50800000000000000
+      internalID: 6794458560687827712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_44
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 1369
+        width: 251
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0241363e1a23b6050800000000000000
+      internalID: 5794781016428319776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_45
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 1369
+        width: 249
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e964e2ea7aaa73e00800000000000000
+      internalID: 1024475077408605854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_46
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 1369
+        width: 249
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709cf4ed9401acff0800000000000000
+      internalID: -15181739293947641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_47
+      rect:
+        serializedVersion: 2
+        x: 4285
+        y: 1371
+        width: 247
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95c2e41806256a00800000000000000
+      internalID: 749046729179055516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_48
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 943
+        width: 245
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2641ce813f096780800000000000000
+      internalID: -8689397300511816149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_49
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 943
+        width: 246
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b595d0b1165df830800000000000000
+      internalID: 4106533069212980657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_50
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 943
+        width: 247
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0ea6112c96d5310800000000000000
+      internalID: 1395387741791510735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_51
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 944
+        width: 244
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56458cf8553493650800000000000000
+      internalID: 6213071195697861733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_52
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 944
+        width: 243
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccfd3ba576e52000800000000000000
+      internalID: 10667967196822721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_53
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 944
+        width: 239
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c180d6924cfddb00800000000000000
+      internalID: 855116867198550464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_54
+      rect:
+        serializedVersion: 2
+        x: 3694
+        y: 944
+        width: 233
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265929ca1474e2c40800000000000000
+      internalID: 5489403343204947298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_55
+      rect:
+        serializedVersion: 2
+        x: 4282
+        y: 944
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c8a06f0815acb60800000000000000
+      internalID: 7767110121679391777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_56
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 512
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cb0f707d3e1ced0800000000000000
+      internalID: -2395383014093702048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_57
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 512
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78fb8f1d97aadb90800000000000000
+      internalID: -7216271159626827649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_58
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 512
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e7b5898b023a060800000000000000
+      internalID: 6963445426047122955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_59
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 512
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532d7fda9e1db5420800000000000000
+      internalID: 2619918409822360117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_60
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 512
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96a814642b0c8440800000000000000
+      internalID: 4939335142244656794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_61
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 512
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0719e742eaa07e0800000000000000
+      internalID: -1798433629415575359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_62
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 512
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b46899355bb82ca0800000000000000
+      internalID: -6041372925404617546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_63
+      rect:
+        serializedVersion: 2
+        x: 4282
+        y: 512
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4205b110908c934c0800000000000000
+      internalID: -4307191627604340700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spider-atk_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 80
+        width: 227
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95784a9623fdbfe60800000000000000
+      internalID: 7997230970940196697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spider-atk_0: -2143324489429873225
+      spider-atk_1: -4748993048695731546
+      spider-atk_10: -4468569987862815275
+      spider-atk_11: 1433462335630746306
+      spider-atk_12: 4806866437372889474
+      spider-atk_13: -8701703931602494725
+      spider-atk_14: 7360408564542850214
+      spider-atk_15: 6460508240990779674
+      spider-atk_16: -2561414553613974573
+      spider-atk_17: -1453804203282048966
+      spider-atk_18: -5523517916145801439
+      spider-atk_19: 67051200067769164
+      spider-atk_2: 3782130184761477392
+      spider-atk_20: -6201175511916632923
+      spider-atk_21: 8859980311738087533
+      spider-atk_22: -5375276908039955112
+      spider-atk_23: 6652608879076717695
+      spider-atk_24: -3349625348799813230
+      spider-atk_25: -916025924654815950
+      spider-atk_26: 3557720404703152349
+      spider-atk_27: -7668633462147835526
+      spider-atk_28: -662730711380377165
+      spider-atk_29: 8120550506430506395
+      spider-atk_3: 7970102877615294911
+      spider-atk_30: 1284156381170901066
+      spider-atk_31: -6350707073155025491
+      spider-atk_32: -2748481550643279811
+      spider-atk_33: -2610369217137729641
+      spider-atk_34: 6585381615611256808
+      spider-atk_35: -4136863711374356749
+      spider-atk_36: 5575990079586964282
+      spider-atk_37: 2103634941971184145
+      spider-atk_38: 790097927845628246
+      spider-atk_39: 8798657115840064928
+      spider-atk_4: -819260976069361242
+      spider-atk_40: -2414800929533048043
+      spider-atk_41: 4830848059143059045
+      spider-atk_42: 8989422537531503991
+      spider-atk_43: 6794458560687827712
+      spider-atk_44: 5794781016428319776
+      spider-atk_45: 1024475077408605854
+      spider-atk_46: -15181739293947641
+      spider-atk_47: 749046729179055516
+      spider-atk_48: -8689397300511816149
+      spider-atk_49: 4106533069212980657
+      spider-atk_5: -1943218749281596724
+      spider-atk_50: 1395387741791510735
+      spider-atk_51: 6213071195697861733
+      spider-atk_52: 10667967196822721
+      spider-atk_53: 855116867198550464
+      spider-atk_54: 5489403343204947298
+      spider-atk_55: 7767110121679391777
+      spider-atk_56: -2395383014093702048
+      spider-atk_57: -7216271159626827649
+      spider-atk_58: 6963445426047122955
+      spider-atk_59: 2619918409822360117
+      spider-atk_6: -564244686031524397
+      spider-atk_60: 4939335142244656794
+      spider-atk_61: -1798433629415575359
+      spider-atk_62: -6041372925404617546
+      spider-atk_63: -4307191627604340700
+      spider-atk_64: 7997230970940196697
+      spider-atk_7: 8783784162705255991
+      spider-atk_8: 1272763479928914900
+      spider-atk_9: -2086795545807636064
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

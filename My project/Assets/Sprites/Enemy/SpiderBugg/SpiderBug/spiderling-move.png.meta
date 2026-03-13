@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: fbb53d4465ae54549a0bd6b5bbe03df6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5242561486581299481
+    second: spiderling-move_0
+  - first:
+      213: 106063346783399476
+    second: spiderling-move_1
+  - first:
+      213: -901548317962517372
+    second: spiderling-move_2
+  - first:
+      213: 1877363743894023084
+    second: spiderling-move_3
+  - first:
+      213: 7231615309274136954
+    second: spiderling-move_4
+  - first:
+      213: -5634646062187241795
+    second: spiderling-move_5
+  - first:
+      213: 3398337359357093179
+    second: spiderling-move_6
+  - first:
+      213: 7131450771333876375
+    second: spiderling-move_7
+  - first:
+      213: -4007806546403686274
+    second: spiderling-move_8
+  - first:
+      213: 45839936128458474
+    second: spiderling-move_9
+  - first:
+      213: 3667637587761456539
+    second: spiderling-move_10
+  - first:
+      213: 4286167825111845113
+    second: spiderling-move_11
+  - first:
+      213: -7862104997872837299
+    second: spiderling-move_12
+  - first:
+      213: 7733616925495549197
+    second: spiderling-move_13
+  - first:
+      213: -102377067800074291
+    second: spiderling-move_14
+  - first:
+      213: -4983886955372612925
+    second: spiderling-move_15
+  - first:
+      213: -2264097041554524438
+    second: spiderling-move_16
+  - first:
+      213: -1767311407575072864
+    second: spiderling-move_17
+  - first:
+      213: -3012148618228334864
+    second: spiderling-move_18
+  - first:
+      213: 2049753011404605506
+    second: spiderling-move_19
+  - first:
+      213: -8412449536406401119
+    second: spiderling-move_20
+  - first:
+      213: -6154340383786019923
+    second: spiderling-move_21
+  - first:
+      213: -5722992277728198499
+    second: spiderling-move_22
+  - first:
+      213: -4086566452393156075
+    second: spiderling-move_23
+  - first:
+      213: 5705984497821364446
+    second: spiderling-move_24
+  - first:
+      213: 6803791510215480486
+    second: spiderling-move_25
+  - first:
+      213: -4319710367470549624
+    second: spiderling-move_26
+  - first:
+      213: 9182965229680320623
+    second: spiderling-move_27
+  - first:
+      213: 6087654914294632299
+    second: spiderling-move_28
+  - first:
+      213: 8727712863498994259
+    second: spiderling-move_29
+  - first:
+      213: -1358213760349654310
+    second: spiderling-move_30
+  - first:
+      213: 1551896803158620319
+    second: spiderling-move_31
+  - first:
+      213: 2710691862359074923
+    second: spiderling-move_32
+  - first:
+      213: 1969437493373582586
+    second: spiderling-move_33
+  - first:
+      213: -5937701030687394429
+    second: spiderling-move_34
+  - first:
+      213: -5238784563558615050
+    second: spiderling-move_35
+  - first:
+      213: 5327099453652748259
+    second: spiderling-move_36
+  - first:
+      213: 3320652232375841496
+    second: spiderling-move_37
+  - first:
+      213: -7430632830961182279
+    second: spiderling-move_38
+  - first:
+      213: -6007855086051509739
+    second: spiderling-move_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spiderling-move_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 693
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e68d2faa1eae37b0800000000000000
+      internalID: -5242561486581299481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 693
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ea6bc4d00d87100800000000000000
+      internalID: 106063346783399476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_2
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 693
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4844ef7d49e0d73f0800000000000000
+      internalID: -901548317962517372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_3
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 693
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab200dd06cbd0a10800000000000000
+      internalID: 1877363743894023084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 693
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71cf8d1fcbdb5460800000000000000
+      internalID: 7231615309274136954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_5
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 693
+        width: 105
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe96449247bdc1b0800000000000000
+      internalID: -5634646062187241795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_6
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 693
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b352b6bb2d1592f20800000000000000
+      internalID: 3398337359357093179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_7
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 693
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a8a8641b008f260800000000000000
+      internalID: 7131450771333876375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 532
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e788f192e296168c0800000000000000
+      internalID: -4007806546403686274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 532
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee9675dd2bd2a000800000000000000
+      internalID: 45839936128458474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 532
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95646f34f016e230800000000000000
+      internalID: 3667637587761456539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_11
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 533
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f800878de68b7b30800000000000000
+      internalID: 4286167825111845113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_12
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 532
+        width: 83
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d57fed82134e290800000000000000
+      internalID: -7862104997872837299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_13
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 532
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d5c198e93535b60800000000000000
+      internalID: 7733616925495549197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_14
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 532
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc761a86998449ef0800000000000000
+      internalID: -102377067800074291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_15
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 531
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2ff48483da5dab0800000000000000
+      internalID: -4983886955372612925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 357
+        width: 111
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae631258cbf4490e0800000000000000
+      internalID: -2264097041554524438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_17
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 357
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0affdff63af3977e0800000000000000
+      internalID: -1767311407575072864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 357
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fef0df6ac2b236d0800000000000000
+      internalID: -3012148618228334864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_19
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 357
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2480f0af08f227c10800000000000000
+      internalID: 2049753011404605506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_20
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 357
+        width: 97
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afc89bb7b9f04b80800000000000000
+      internalID: -8412449536406401119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_21
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 357
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3d79d2704679aa0800000000000000
+      internalID: -6154340383786019923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_22
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 357
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9005b958d8d390b0800000000000000
+      internalID: -5722992277728198499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_23
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 357
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512e31e86799947c0800000000000000
+      internalID: -4086566452393156075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 196
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0378e4baabf2f40800000000000000
+      internalID: 5705984497821364446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 195
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4563c945ceb6e50800000000000000
+      internalID: 6803791510215480486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 196
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885885ebe4e4d04c0800000000000000
+      internalID: -4319710367470549624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_27
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 196
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60ebd31932707f70800000000000000
+      internalID: 9182965229680320623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_28
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 196
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f41b904e1bb7450800000000000000
+      internalID: 6087654914294632299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_29
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 196
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3520772ab901f1970800000000000000
+      internalID: 8727712863498994259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_30
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 196
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2bf45f7c7a62de0800000000000000
+      internalID: -1358213760349654310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_31
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 197
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9875509be1798510800000000000000
+      internalID: 1551896803158620319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 17
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68647f03ef4e9520800000000000000
+      internalID: 2710691862359074923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_33
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 17
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc3ed737f8d45b10800000000000000
+      internalID: 1969437493373582586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 17
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38538633f5c099da0800000000000000
+      internalID: -5937701030687394429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_35
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 16
+        width: 105
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7f94a12391c47b0800000000000000
+      internalID: -5238784563558615050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_36
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 17
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7462a9ab8ade940800000000000000
+      internalID: 5327099453652748259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_37
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 17
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2be5d9c93551e20800000000000000
+      internalID: 3320652232375841496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_38
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 17
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b914363fc611e890800000000000000
+      internalID: -7430632830961182279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-move_39
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 17
+        width: 86
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a30e551afcf9ca0800000000000000
+      internalID: -6007855086051509739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spiderling-move_0: -5242561486581299481
+      spiderling-move_1: 106063346783399476
+      spiderling-move_10: 3667637587761456539
+      spiderling-move_11: 4286167825111845113
+      spiderling-move_12: -7862104997872837299
+      spiderling-move_13: 7733616925495549197
+      spiderling-move_14: -102377067800074291
+      spiderling-move_15: -4983886955372612925
+      spiderling-move_16: -2264097041554524438
+      spiderling-move_17: -1767311407575072864
+      spiderling-move_18: -3012148618228334864
+      spiderling-move_19: 2049753011404605506
+      spiderling-move_2: -901548317962517372
+      spiderling-move_20: -8412449536406401119
+      spiderling-move_21: -6154340383786019923
+      spiderling-move_22: -5722992277728198499
+      spiderling-move_23: -4086566452393156075
+      spiderling-move_24: 5705984497821364446
+      spiderling-move_25: 6803791510215480486
+      spiderling-move_26: -4319710367470549624
+      spiderling-move_27: 9182965229680320623
+      spiderling-move_28: 6087654914294632299
+      spiderling-move_29: 8727712863498994259
+      spiderling-move_3: 1877363743894023084
+      spiderling-move_30: -1358213760349654310
+      spiderling-move_31: 1551896803158620319
+      spiderling-move_32: 2710691862359074923
+      spiderling-move_33: 1969437493373582586
+      spiderling-move_34: -5937701030687394429
+      spiderling-move_35: -5238784563558615050
+      spiderling-move_36: 5327099453652748259
+      spiderling-move_37: 3320652232375841496
+      spiderling-move_38: -7430632830961182279
+      spiderling-move_39: -6007855086051509739
+      spiderling-move_4: 7231615309274136954
+      spiderling-move_5: -5634646062187241795
+      spiderling-move_6: 3398337359357093179
+      spiderling-move_7: 7131450771333876375
+      spiderling-move_8: -4007806546403686274
+      spiderling-move_9: 45839936128458474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

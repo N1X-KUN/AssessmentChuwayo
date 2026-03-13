@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: cec06a9e74ef1924385471354c38ffa8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6818390755025755396
+    second: rider-move_0
+  - first:
+      213: -9072394514910068640
+    second: rider-move_1
+  - first:
+      213: 7730301302254490362
+    second: rider-move_2
+  - first:
+      213: 1925180188002578282
+    second: rider-move_3
+  - first:
+      213: -3674892458034181640
+    second: rider-move_4
+  - first:
+      213: -7020890223403923086
+    second: rider-move_5
+  - first:
+      213: 2294912620035078304
+    second: rider-move_6
+  - first:
+      213: -7434075159430162500
+    second: rider-move_7
+  - first:
+      213: 7110247220928858980
+    second: rider-move_8
+  - first:
+      213: 84143189366599792
+    second: rider-move_9
+  - first:
+      213: 8466308155721201220
+    second: rider-move_10
+  - first:
+      213: 7480852096102099686
+    second: rider-move_11
+  - first:
+      213: -5295337563789473512
+    second: rider-move_12
+  - first:
+      213: -3733434911774499899
+    second: rider-move_13
+  - first:
+      213: 7336688426391085013
+    second: rider-move_14
+  - first:
+      213: -7576192915253512009
+    second: rider-move_15
+  - first:
+      213: 4234221819591019245
+    second: rider-move_16
+  - first:
+      213: 8502176857437213999
+    second: rider-move_17
+  - first:
+      213: -4104000603241444683
+    second: rider-move_18
+  - first:
+      213: 4861592151532595278
+    second: rider-move_19
+  - first:
+      213: -8272423580198042252
+    second: rider-move_20
+  - first:
+      213: -1128914928835884973
+    second: rider-move_21
+  - first:
+      213: -8860678632190294244
+    second: rider-move_22
+  - first:
+      213: -2671080544597271993
+    second: rider-move_23
+  - first:
+      213: 1533073513873869572
+    second: rider-move_24
+  - first:
+      213: -435131621439462347
+    second: rider-move_25
+  - first:
+      213: -234940249780913130
+    second: rider-move_26
+  - first:
+      213: -275069172382902278
+    second: rider-move_27
+  - first:
+      213: -850804434091638217
+    second: rider-move_28
+  - first:
+      213: -5864777171105506316
+    second: rider-move_29
+  - first:
+      213: 1774423218174055431
+    second: rider-move_30
+  - first:
+      213: -613001591347816377
+    second: rider-move_31
+  - first:
+      213: 5754655986596374491
+    second: rider-move_32
+  - first:
+      213: 4703764440818274557
+    second: rider-move_33
+  - first:
+      213: 8943284891365261819
+    second: rider-move_34
+  - first:
+      213: -5680938360197870660
+    second: rider-move_35
+  - first:
+      213: -7824861649228998104
+    second: rider-move_36
+  - first:
+      213: 2283713355186373488
+    second: rider-move_37
+  - first:
+      213: 4200333430403689045
+    second: rider-move_38
+  - first:
+      213: -3931677653102013855
+    second: rider-move_39
+  - first:
+      213: -8632655357741577427
+    second: rider-move_40
+  - first:
+      213: 6736590014380171312
+    second: rider-move_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rider-move_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 826
+        width: 216
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2e1e2dbb53061a0800000000000000
+      internalID: -6818390755025755396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 818
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060459c9141681280800000000000000
+      internalID: -9072394514910068640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 825
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af25e97d31c874b60800000000000000
+      internalID: 7730301302254490362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 811
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f63825e2d97ba10800000000000000
+      internalID: 1925180188002578282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_4
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 809
+        width: 213
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f94c13a7c8200dc0800000000000000
+      internalID: -3674892458034181640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_5
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 794
+        width: 207
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2790ff24a89c09e90800000000000000
+      internalID: -7020890223403923086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_6
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 794
+        width: 199
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a870c37eda29df10800000000000000
+      internalID: 2294912620035078304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_7
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 795
+        width: 199
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb71c98a70cd4d890800000000000000
+      internalID: -7434075159430162500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 794
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b4cacfc2caca260800000000000000
+      internalID: 7110247220928858980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_9
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 795
+        width: 62
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070f670f8cfea2100800000000000000
+      internalID: 84143189366599792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 432
+        width: 205
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44631c4496e5e7570800000000000000
+      internalID: 8466308155721201220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_11
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 463
+        width: 211
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eae66d985351d760800000000000000
+      internalID: 7480852096102099686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_12
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 425
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819cb88aa8e2386b0800000000000000
+      internalID: -5295337563789473512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_13
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 459
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb93a37abc203cc0800000000000000
+      internalID: -3733434911774499899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_14
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 455
+        width: 215
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df92ca904721d560800000000000000
+      internalID: 7336688426391085013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_15
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 425
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8bb781fa4fbd690800000000000000
+      internalID: -7576192915253512009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_16
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 450
+        width: 216
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea4ee0af4af2ca30800000000000000
+      internalID: 4234221819591019245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_17
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 438
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25971d2ecccdf570800000000000000
+      internalID: 8502176857437213999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_18
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 422
+        width: 210
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba0ecdf139ab07c0800000000000000
+      internalID: -4104000603241444683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 422
+        width: 61
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e486de2dd48d77340800000000000000
+      internalID: 4861592151532595278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_20
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 420
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4750bbe3592723d80800000000000000
+      internalID: -8272423580198042252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 422
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3580a1d7ad94550f0800000000000000
+      internalID: -1128914928835884973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_22
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 449
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17476bdabb880580800000000000000
+      internalID: -8860678632190294244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_23
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 442
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a92dc856a6eead0800000000000000
+      internalID: -2671080544597271993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_24
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 422
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b03010d32964510800000000000000
+      internalID: 1533073513873869572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 202
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534af81881a16f9f0800000000000000
+      internalID: -435131621439462347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_26
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 48
+        width: 200
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cfd5c66135dbcf0800000000000000
+      internalID: -234940249780913130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_27
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 76
+        width: 201
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7d47b8b02ce2cf0800000000000000
+      internalID: -275069172382902278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_28
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 55
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73204acffd55134f0800000000000000
+      internalID: -850804434091638217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_29
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 47
+        width: 141
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb9f6d5c302c9ea0800000000000000
+      internalID: -5864777171105506316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_30
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 56
+        width: 207
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7045870048400a810800000000000000
+      internalID: 1774423218174055431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_31
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 47
+        width: 159
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748d6fcec4e2e77f0800000000000000
+      internalID: -613001591347816377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_32
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 88
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7e6ad5125acdf40800000000000000
+      internalID: 5754655986596374491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_33
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 47
+        width: 212
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0561a56d0274140800000000000000
+      internalID: 4703764440818274557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_34
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 47
+        width: 146
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1c1f2a93eec1c70800000000000000
+      internalID: 8943284891365261819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_35
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 95
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb048909a04921b0800000000000000
+      internalID: -5680938360197870660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_36
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 79
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ad025b9c1886390800000000000000
+      internalID: -7824861649228998104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_37
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 58
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07303b8623161bf10800000000000000
+      internalID: 2283713355186373488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_38
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 68
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ae86920059a4a30800000000000000
+      internalID: 4200333430403689045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_39
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 52
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16253836100ef69c0800000000000000
+      internalID: -3931677653102013855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_40
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 55
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bc07d90b5a23880800000000000000
+      internalID: -8632655357741577427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-move_41
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 50
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030e2941dec2d7d50800000000000000
+      internalID: 6736590014380171312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rider-move_0: -6818390755025755396
+      rider-move_1: -9072394514910068640
+      rider-move_10: 8466308155721201220
+      rider-move_11: 7480852096102099686
+      rider-move_12: -5295337563789473512
+      rider-move_13: -3733434911774499899
+      rider-move_14: 7336688426391085013
+      rider-move_15: -7576192915253512009
+      rider-move_16: 4234221819591019245
+      rider-move_17: 8502176857437213999
+      rider-move_18: -4104000603241444683
+      rider-move_19: 4861592151532595278
+      rider-move_2: 7730301302254490362
+      rider-move_20: -8272423580198042252
+      rider-move_21: -1128914928835884973
+      rider-move_22: -8860678632190294244
+      rider-move_23: -2671080544597271993
+      rider-move_24: 1533073513873869572
+      rider-move_25: -435131621439462347
+      rider-move_26: -234940249780913130
+      rider-move_27: -275069172382902278
+      rider-move_28: -850804434091638217
+      rider-move_29: -5864777171105506316
+      rider-move_3: 1925180188002578282
+      rider-move_30: 1774423218174055431
+      rider-move_31: -613001591347816377
+      rider-move_32: 5754655986596374491
+      rider-move_33: 4703764440818274557
+      rider-move_34: 8943284891365261819
+      rider-move_35: -5680938360197870660
+      rider-move_36: -7824861649228998104
+      rider-move_37: 2283713355186373488
+      rider-move_38: 4200333430403689045
+      rider-move_39: -3931677653102013855
+      rider-move_4: -3674892458034181640
+      rider-move_40: -8632655357741577427
+      rider-move_41: 6736590014380171312
+      rider-move_5: -7020890223403923086
+      rider-move_6: 2294912620035078304
+      rider-move_7: -7434075159430162500
+      rider-move_8: 7110247220928858980
+      rider-move_9: 84143189366599792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

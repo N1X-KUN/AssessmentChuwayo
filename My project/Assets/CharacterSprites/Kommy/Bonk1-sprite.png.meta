@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 1e3a2934aa4ca154b94e23fc057cacc4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5708611106398986326
+    second: Bonk1-sprite_0
+  - first:
+      213: 6304696150060045942
+    second: Bonk1-sprite_1
+  - first:
+      213: 121838582169952847
+    second: Bonk1-sprite_2
+  - first:
+      213: 1729575017277659105
+    second: Bonk1-sprite_3
+  - first:
+      213: -1497583945356183439
+    second: Bonk1-sprite_4
+  - first:
+      213: -9186833039621479353
+    second: Bonk1-sprite_5
+  - first:
+      213: 2903953238513478478
+    second: Bonk1-sprite_6
+  - first:
+      213: 6487364994660378698
+    second: Bonk1-sprite_7
+  - first:
+      213: -9141682114882047042
+    second: Bonk1-sprite_8
+  - first:
+      213: -6163836806525571087
+    second: Bonk1-sprite_9
+  - first:
+      213: 8472996663646113415
+    second: Bonk1-sprite_10
+  - first:
+      213: 3774943019937964491
+    second: Bonk1-sprite_11
+  - first:
+      213: -2238757700953453083
+    second: Bonk1-sprite_12
+  - first:
+      213: 4195983240831314123
+    second: Bonk1-sprite_13
+  - first:
+      213: 3303500094071747167
+    second: Bonk1-sprite_14
+  - first:
+      213: -52871741779040278
+    second: Bonk1-sprite_15
+  - first:
+      213: 6410791340109565879
+    second: Bonk1-sprite_16
+  - first:
+      213: 479817402860066154
+    second: Bonk1-sprite_17
+  - first:
+      213: -1716521742222870126
+    second: Bonk1-sprite_18
+  - first:
+      213: 8953767670424627123
+    second: Bonk1-sprite_19
+  - first:
+      213: -807083259562720698
+    second: Bonk1-sprite_20
+  - first:
+      213: -2243115985475021873
+    second: Bonk1-sprite_21
+  - first:
+      213: 2067271445382560309
+    second: Bonk1-sprite_22
+  - first:
+      213: -4772030871226027373
+    second: Bonk1-sprite_23
+  - first:
+      213: 1228910933340572871
+    second: Bonk1-sprite_24
+  - first:
+      213: 5953200315077254944
+    second: Bonk1-sprite_25
+  - first:
+      213: -6463583139885393637
+    second: Bonk1-sprite_26
+  - first:
+      213: 8500421218864567017
+    second: Bonk1-sprite_27
+  - first:
+      213: 5147151855373809527
+    second: Bonk1-sprite_28
+  - first:
+      213: 8836817606008363
+    second: Bonk1-sprite_29
+  - first:
+      213: 4273187679032362715
+    second: Bonk1-sprite_30
+  - first:
+      213: 5126151834429501228
+    second: Bonk1-sprite_31
+  - first:
+      213: -1086523110850998478
+    second: Bonk1-sprite_32
+  - first:
+      213: 3030060444449618629
+    second: Bonk1-sprite_33
+  - first:
+      213: -8764596488803250563
+    second: Bonk1-sprite_34
+  - first:
+      213: -163550594451314226
+    second: Bonk1-sprite_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bonk1-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3633
+        width: 217
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650e2c54e8f093f40800000000000000
+      internalID: 5708611106398986326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3633
+        width: 215
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6761a19aeb7ce7750800000000000000
+      internalID: 6304696150060045942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 3633
+        width: 214
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f426d228b8bd0b100800000000000000
+      internalID: 121838582169952847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 3633
+        width: 205
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e79935805fa00810800000000000000
+      internalID: 1729575017277659105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 3633
+        width: 238
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17877b31653873be0800000000000000
+      internalID: -1497583945356183439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3121
+        width: 246
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7442a8e3600d18080800000000000000
+      internalID: -9186833039621479353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 3121
+        width: 221
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4be0f9a51aec4820800000000000000
+      internalID: 2903953238513478478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 3121
+        width: 220
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4829035710c70a50800000000000000
+      internalID: 6487364994660378698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 3121
+        width: 226
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3f9ec1d88322180800000000000000
+      internalID: -9141682114882047042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 3121
+        width: 233
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffa095f417a57aa0800000000000000
+      internalID: -6163836806525571087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2609
+        width: 236
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e42bfd291269570800000000000000
+      internalID: 8472996663646113415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2609
+        width: 237
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc12eb61daa436430800000000000000
+      internalID: 3774943019937964491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 2609
+        width: 236
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edcf708bb55ee0e0800000000000000
+      internalID: -2238757700953453083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 2609
+        width: 235
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc82e39b6802b3a30800000000000000
+      internalID: 4195983240831314123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 2609
+        width: 234
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52bd9635d368dd20800000000000000
+      internalID: 3303500094071747167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2097
+        width: 234
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7aa945e69244ff0800000000000000
+      internalID: -52871741779040278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2097
+        width: 234
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf816c02c4b7f850800000000000000
+      internalID: 6410791340109565879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 2097
+        width: 233
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65568eb267a8a600800000000000000
+      internalID: 479817402860066154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2097
+        width: 232
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2993299e190bd28e0800000000000000
+      internalID: -1716521742222870126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 2097
+        width: 230
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b76905d14c224c70800000000000000
+      internalID: 8953767670424627123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1585
+        width: 229
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64289913d0aacc4f0800000000000000
+      internalID: -807083259562720698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1585
+        width: 227
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3d2cf45e9ded0e0800000000000000
+      internalID: -2243115985475021873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1585
+        width: 224
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53af55c3d6c60bc10800000000000000
+      internalID: 2067271445382560309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1585
+        width: 223
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392ff57b43756cdb0800000000000000
+      internalID: -4772030871226027373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 1585
+        width: 220
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cccb5a9bf7fd0110800000000000000
+      internalID: 1228910933340572871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1073
+        width: 217
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f5ce825240e9250800000000000000
+      internalID: 5953200315077254944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1073
+        width: 215
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b195dea316dbc46a0800000000000000
+      internalID: -6463583139885393637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1073
+        width: 213
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e29d97bf0097f570800000000000000
+      internalID: 8500421218864567017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1073
+        width: 211
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7777c88775b5e6740800000000000000
+      internalID: 5147151855373809527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1073
+        width: 210
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ed95ee9056f1000800000000000000
+      internalID: 8836817606008363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 561
+        width: 213
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6cc43cd896d4b30800000000000000
+      internalID: 4273187679032362715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 561
+        width: 215
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f23e31fefb32740800000000000000
+      internalID: 5126151834429501228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_32
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 561
+        width: 216
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f4971ccf4ebe0f0800000000000000
+      internalID: -1086523110850998478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_33
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 561
+        width: 217
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cab1679befec0a20800000000000000
+      internalID: 3030060444449618629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_34
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 561
+        width: 217
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e0f352ee5ed5680800000000000000
+      internalID: -8764596488803250563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonk1-sprite_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 49
+        width: 217
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9ece2d993fabdf0800000000000000
+      internalID: -163550594451314226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bonk1-sprite_0: 5708611106398986326
+      Bonk1-sprite_1: 6304696150060045942
+      Bonk1-sprite_10: 8472996663646113415
+      Bonk1-sprite_11: 3774943019937964491
+      Bonk1-sprite_12: -2238757700953453083
+      Bonk1-sprite_13: 4195983240831314123
+      Bonk1-sprite_14: 3303500094071747167
+      Bonk1-sprite_15: -52871741779040278
+      Bonk1-sprite_16: 6410791340109565879
+      Bonk1-sprite_17: 479817402860066154
+      Bonk1-sprite_18: -1716521742222870126
+      Bonk1-sprite_19: 8953767670424627123
+      Bonk1-sprite_2: 121838582169952847
+      Bonk1-sprite_20: -807083259562720698
+      Bonk1-sprite_21: -2243115985475021873
+      Bonk1-sprite_22: 2067271445382560309
+      Bonk1-sprite_23: -4772030871226027373
+      Bonk1-sprite_24: 1228910933340572871
+      Bonk1-sprite_25: 5953200315077254944
+      Bonk1-sprite_26: -6463583139885393637
+      Bonk1-sprite_27: 8500421218864567017
+      Bonk1-sprite_28: 5147151855373809527
+      Bonk1-sprite_29: 8836817606008363
+      Bonk1-sprite_3: 1729575017277659105
+      Bonk1-sprite_30: 4273187679032362715
+      Bonk1-sprite_31: 5126151834429501228
+      Bonk1-sprite_32: -1086523110850998478
+      Bonk1-sprite_33: 3030060444449618629
+      Bonk1-sprite_34: -8764596488803250563
+      Bonk1-sprite_35: -163550594451314226
+      Bonk1-sprite_4: -1497583945356183439
+      Bonk1-sprite_5: -9186833039621479353
+      Bonk1-sprite_6: 2903953238513478478
+      Bonk1-sprite_7: 6487364994660378698
+      Bonk1-sprite_8: -9141682114882047042
+      Bonk1-sprite_9: -6163836806525571087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

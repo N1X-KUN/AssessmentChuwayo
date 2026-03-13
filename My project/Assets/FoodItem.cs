@@ -19,7 +19,7 @@ public class FoodItem : MonoBehaviour
     [Header("Toss & Float Settings")]
     public float launchUpForce = 7f;      
     public float launchLeftForce = 3.5f;  
-    public float gravityScale = 1.2f;     
+    public float gravityScale = 1.2f; // Back to your original, normal gravity!
     public float groundYLevel = -3.5f; 
 
     [Header("Magnet Settings")]
@@ -37,7 +37,6 @@ public class FoodItem : MonoBehaviour
     {
         floatingText = GetComponentInChildren<TMP_Text>();
         foodImage = GetComponent<SpriteRenderer>();
-        // Removed hardcoded velocity here so the dynamic throw works!
     }
 
     public void SetupFood(string newWord, Sprite newSprite, WordManager manager, bool makeRotten = false)
@@ -48,33 +47,14 @@ public class FoodItem : MonoBehaviour
         isRotten = makeRotten;
 
         if (foodImage != null && newSprite != null) foodImage.sprite = newSprite;
-
-        // --- NEW: TOXIC GREEN TINT FOR ROTTEN FOOD ---
-        if (isRotten && foodImage != null)
-        {
-            foodImage.color = new Color(0.4f, 1f, 0.4f, 1f); 
-        }
-        else if (foodImage != null)
-        {
-            foodImage.color = Color.white; 
-        }
+        if (isRotten && foodImage != null) foodImage.color = new Color(0.4f, 1f, 0.4f, 1f); 
+        else if (foodImage != null) foodImage.color = Color.white; 
 
         UpdateVisuals();
 
-        // --- NEW: DYNAMIC TARGETED THROWING ---
-        if (wordManager != null && wordManager.kommy != null)
-        {
-            // Calculate distance and time to perfectly arc the throw!
-            float distanceToKommy = transform.position.x - wordManager.kommy.transform.position.x;
-            float timeInAir = (launchUpForce / gravityScale) * 1.8f; 
-            float dynamicLeftForce = distanceToKommy / timeInAir;
-
-            velocity = new Vector3(-dynamicLeftForce, launchUpForce, 0);
-        }
-        else
-        {
-            velocity = new Vector3(-launchLeftForce, launchUpForce, 0);
-        }
+        // THE ORIGINAL SIMPLE TOSS! No complex math, no head targeting.
+        gravityScale = 1.2f;
+        velocity = new Vector3(-launchLeftForce, launchUpForce, 0);
     }
 
     void Update()
@@ -117,13 +97,14 @@ public class FoodItem : MonoBehaviour
         velocity.y -= gravityScale * Time.deltaTime;
         transform.position += velocity * Time.deltaTime;
 
+        // THE ORIGINAL GROUND HIT! No specific coordinates.
         if (transform.position.y <= groundYLevel)
         {
             hasHitGround = true;
             velocity = Vector3.zero;
             transform.position = new Vector3(transform.position.x, groundYLevel, transform.position.z);
             
-            if (wordManager != null && !isRotten) wordManager.MissedFood(this, originalWord);
+            if (wordManager != null) wordManager.MissedFood(this, originalWord);
             if (!isFading) StartCoroutine(FadeOutAndDestroy());
         }
     }

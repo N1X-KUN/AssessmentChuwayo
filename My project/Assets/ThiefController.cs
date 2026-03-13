@@ -8,7 +8,7 @@ public class ThiefController : MonoBehaviour
     public KommyController kommy; 
 
     [Header("Emoticon Settings")]
-    public Animator emoticonAnimator; // DRAG YOUR EmoticonBubble HERE!
+    public Animator emoticonAnimator; 
 
     [Header("Cycle Timers")]
     public float runDuration = 3f;      
@@ -21,8 +21,13 @@ public class ThiefController : MonoBehaviour
     public float escapeDistance = 2f;     
     public float escapeSpeed = 2f;        
     public float escapeLimitX = 7f; 
+    
+    [Header("Tumble Settings")]
+    public float tumblePenaltyDistance = 3f; // NEW: How far back he slides when hit
 
     private bool isDefeated = false;
+    [HideInInspector] public bool isFlying = false; // NEW: Tracks if he is in the air!
+    
     private float groundY; 
     private float airY; 
     private float targetX;
@@ -35,7 +40,6 @@ public class ThiefController : MonoBehaviour
         airY = groundY + flightHeightOffset; 
         targetX = transform.position.x; 
         
-        // Hide the bubble at the start
         if (emoticonAnimator != null) emoticonAnimator.gameObject.SetActive(false);
         
         StartCoroutine(JetpackCycle());
@@ -43,6 +47,7 @@ public class ThiefController : MonoBehaviour
 
     void Update()
     {
+        // Smoothly slides the thief to his target X position
         if (transform.position.x != targetX)
         {
             float newX = Mathf.Lerp(transform.position.x, targetX, Time.deltaTime * escapeSpeed);
@@ -51,14 +56,12 @@ public class ThiefController : MonoBehaviour
 
         if (kommy != null && !isDefeated)
         {
-            // --- REACTION: KOMMY STUNNED ---
             if (kommy.currentState == KommyController.CharacterState.Stunned)
             {
                 if (!wasStunned) 
                 {
                     targetX += escapeDistance; 
                     wasStunned = true;
-                    // Play the laughing animation!
                     ShowEmoticon("EmoticonLaugh"); 
                 }
             }
@@ -76,11 +79,11 @@ public class ThiefController : MonoBehaviour
     {
         while (!isDefeated)
         {
+            isFlying = false; // Grounded
             anim.Play("ThiefMove"); 
             yield return new WaitForSeconds(runDuration);
             if (isDefeated) break; 
 
-            // --- REACTION: PREPARING TO FLY ---
             ShowEmoticon("EmoticonPrep");
             
             anim.Play("ThiefPrep");
@@ -97,12 +100,16 @@ public class ThiefController : MonoBehaviour
             transform.position = new Vector3(transform.position.x, airY, transform.position.z);
             if (isDefeated) break;
 
+            // --- NOW FLYING ---
+            isFlying = true; 
             anim.Play("ThiefFlight");
             wordManager.StartSpawning(); 
             yield return new WaitForSeconds(flyDuration);
             if (isDefeated) break;
 
+            // --- NORMAL DESCENT ---
             wordManager.StopSpawning(); 
+            isFlying = false; 
             anim.Play("ThiefStun");
             elapsed = 0f;
             startY = transform.position.y;
@@ -120,13 +127,60 @@ public class ThiefController : MonoBehaviour
         }
     }
 
-    // This method now tells the Animator which state to play
+    // --- NEW: THE TUMBLE HIT SEQUENCE ---
+    public void TriggerTumbleHit()
+    {
+        if (!isFlying || isDefeated) return; // Only works if he is flying!
+
+        // 1. Interrupt current flight!
+        StopAllCoroutines(); 
+        wordManager.StopSpawning(); 
+        isFlying = false;
+
+        // 2. Start the crash sequence
+        StartCoroutine(TumbleRoutine());
+    }
+
+    private IEnumerator TumbleRoutine()
+    {
+        // Prep animation to show he is falling
+        anim.Play("ThiefPrep"); 
+        ShowEmoticon("EmoticonCry"); // Shocked/Cry face!
+
+        // Drop him fast
+        float elapsed = 0f;
+        float dropTime = 0.15f; // Drops faster than a normal landing
+        float startY = transform.position.y;
+
+        while (elapsed < dropTime)
+        {
+            float newY = Mathf.Lerp(startY, groundY, elapsed / dropTime);
+            transform.position = new Vector3(transform.position.x, newY, transform.position.z);
+            elapsed += Time.deltaTime;
+            yield return null;
+        }
+        transform.position = new Vector3(transform.position.x, groundY, transform.position.z);
+
+        // STUNNED ON THE GROUND (The Background Illusion!)
+        anim.Play("ThiefStun");
+        targetX -= tumblePenaltyDistance; // Pushes him backwards, simulating loss of speed
+
+        // Wait while he recovers on the ground
+        yield return new WaitForSeconds(2.5f);
+
+        // Go right back to the normal running loop!
+        if (!isDefeated)
+        {
+            StartCoroutine(JetpackCycle());
+        }
+    }
+
     public void ShowEmoticon(string animName)
     {
         if (emoticonAnimator == null) return;
         
         emoticonAnimator.gameObject.SetActive(true);
-        emoticonAnimator.Play(animName); // Plays the specific animated clip
+        emoticonAnimator.Play(animName); 
         
         StopCoroutine(nameof(HideEmoticonRoutine));
         StartCoroutine(HideEmoticonRoutine());
@@ -134,7 +188,7 @@ public class ThiefController : MonoBehaviour
 
     private IEnumerator HideEmoticonRoutine()
     {
-        yield return new WaitForSeconds(2.0f); // How long the reaction stays up
+        yield return new WaitForSeconds(2.0f); 
         emoticonAnimator.gameObject.SetActive(false);
     }
 
@@ -143,21 +197,17 @@ public class ThiefController : MonoBehaviour
         isDefeated = true;
         StopAllCoroutines(); 
         wordManager.StopSpawning(); 
-        
-        // --- REACTION: CRYING ON DEFEAT ---
         ShowEmoticon("EmoticonCry");
-        
         transform.position = new Vector3(transform.position.x, groundY, transform.position.z);
         anim.Play("ThiefDie"); 
     }
 
-    // NEW: Called by WordManager when Kommy hits acid
     public void TriggerPoisonEscape()
     {
         if (!isDefeated)
         {
-            targetX += escapeDistance; // Moves him forward
-            ShowEmoticon("Emoticon_Laugh"); // Pops the laughing bubble!
+            targetX += escapeDistance; 
+            ShowEmoticon("EmoticonLaugh"); 
         }
     }
 }

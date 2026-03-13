@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 9f3a0e44fffa1c34e942bbf0b9d630be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2231279153235560069
+    second: rider-melee_0
+  - first:
+      213: 7915210671461310964
+    second: rider-melee_1
+  - first:
+      213: 546662022125914085
+    second: rider-melee_2
+  - first:
+      213: -1695545228270782112
+    second: rider-melee_3
+  - first:
+      213: 8351551645795362852
+    second: rider-melee_4
+  - first:
+      213: -5161860170599134903
+    second: rider-melee_5
+  - first:
+      213: 7861562702496051421
+    second: rider-melee_6
+  - first:
+      213: 2939389429752650223
+    second: rider-melee_7
+  - first:
+      213: -1050532014221597183
+    second: rider-melee_8
+  - first:
+      213: 6160309852751723587
+    second: rider-melee_9
+  - first:
+      213: 9207941399349901874
+    second: rider-melee_10
+  - first:
+      213: -1662318975079573445
+    second: rider-melee_11
+  - first:
+      213: 2683780361038415876
+    second: rider-melee_12
+  - first:
+      213: -6401854235614910242
+    second: rider-melee_13
+  - first:
+      213: -5260854435011067704
+    second: rider-melee_14
+  - first:
+      213: 6333436899211682831
+    second: rider-melee_15
+  - first:
+      213: -6307129498658304186
+    second: rider-melee_16
+  - first:
+      213: 2591145163676731226
+    second: rider-melee_17
+  - first:
+      213: 4114565632257660006
+    second: rider-melee_18
+  - first:
+      213: 7621808074403048080
+    second: rider-melee_19
+  - first:
+      213: 3688126189747647936
+    second: rider-melee_20
+  - first:
+      213: 6008982375981660875
+    second: rider-melee_21
+  - first:
+      213: -4389578516326776812
+    second: rider-melee_22
+  - first:
+      213: 100231910335114886
+    second: rider-melee_23
+  - first:
+      213: -7133324874870786109
+    second: rider-melee_24
+  - first:
+      213: 4860621015376483809
+    second: rider-melee_25
+  - first:
+      213: 3838951749231434906
+    second: rider-melee_26
+  - first:
+      213: 4525232252628869121
+    second: rider-melee_27
+  - first:
+      213: 3071272819033601476
+    second: rider-melee_28
+  - first:
+      213: -1850597455289061081
+    second: rider-melee_29
+  - first:
+      213: 9017787809816377642
+    second: rider-melee_30
+  - first:
+      213: 5322535523751763146
+    second: rider-melee_31
+  - first:
+      213: 2772635838940834026
+    second: rider-melee_32
+  - first:
+      213: 5316353603734629131
+    second: rider-melee_33
+  - first:
+      213: 8468392771341744568
+    second: rider-melee_34
+  - first:
+      213: -3179666383822532645
+    second: rider-melee_35
+  - first:
+      213: 1121710044243788108
+    second: rider-melee_36
+  - first:
+      213: 4562599972989306088
+    second: rider-melee_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rider-melee_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1198
+        width: 252
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79f8a49e67e801e0800000000000000
+      internalID: -2231279153235560069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1191
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f125da4b2a78dd60800000000000000
+      internalID: 7915210671461310964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1185
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e703097632269700800000000000000
+      internalID: 546662022125914085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_3
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1183
+        width: 250
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069bf4829963878e0800000000000000
+      internalID: -1695545228270782112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_4
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1192
+        width: 247
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42826f239fba6e370800000000000000
+      internalID: 8351551645795362852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_5
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949833706836d58b0800000000000000
+      internalID: -5161860170599134903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_6
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1168
+        width: 245
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0bcb520a1e91d60800000000000000
+      internalID: 7861562702496051421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1168
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9d1f0ec1fcac820800000000000000
+      internalID: 2939389429752650223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_8
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1168
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1066523f2b2cb61f0800000000000000
+      internalID: -1050532014221597183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_9
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1168
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cfa9f1c21dd7550800000000000000
+      internalID: 6160309852751723587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 806
+        width: 242
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a3ddcbaed29cf70800000000000000
+      internalID: 9207941399349901874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_11
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 831
+        width: 326
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b389df213b14ee8e0800000000000000
+      internalID: -1662318975079573445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_12
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 799
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4084dd2e404be3520800000000000000
+      internalID: 2683780361038415876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_13
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 794
+        width: 69
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8e75ebd7b0827a0800000000000000
+      internalID: -6401854235614910242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_14
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 796
+        width: 340
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0802ab3c0bdf6b0800000000000000
+      internalID: -5260854435011067704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_15
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 795
+        width: 345
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f042dd8cd43e4e750800000000000000
+      internalID: 6333436899211682831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_16
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 795
+        width: 125
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f851833239878a0800000000000000
+      internalID: -6307129498658304186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_17
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 831
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a574c624cc895f320800000000000000
+      internalID: 2591145163676731226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 796
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6649fb384afd91930800000000000000
+      internalID: 4114565632257660006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_19
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 822
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a6ff4cf0a16c960800000000000000
+      internalID: 7621808074403048080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_20
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 801
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c539b2aa3bde2330800000000000000
+      internalID: 3688126189747647936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_21
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 800
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca38fd42a1346350800000000000000
+      internalID: 6008982375981660875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 421
+        width: 351
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41008aca8951513c0800000000000000
+      internalID: -4389578516326776812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_23
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 421
+        width: 140
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eeea23468146100800000000000000
+      internalID: 100231910335114886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_24
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 466
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c77eddf1d6510d90800000000000000
+      internalID: -7133324874870786109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_25
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 422
+        width: 325
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e550519f05647340800000000000000
+      internalID: 4860621015376483809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_26
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 422
+        width: 310
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cddcab642b64530800000000000000
+      internalID: 3838951749231434906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_27
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 456
+        width: 298
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100a51012cadcce30800000000000000
+      internalID: 4525232252628869121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_28
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 421
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c57fca4b5a5f9a20800000000000000
+      internalID: 3071272819033601476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_29
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 431
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721f0475b6b5156e0800000000000000
+      internalID: -1850597455289061081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_30
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 74
+        width: 286
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29f3f71c3e952d70800000000000000
+      internalID: 9017787809816377642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_31
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 56
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc1f9ddbd17dd940800000000000000
+      internalID: 5322535523751763146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_32
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 67
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8e59ffa916a7620800000000000000
+      internalID: 2772635838940834026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_33
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 78
+        width: 270
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b68f27f6b77c940800000000000000
+      internalID: 5316353603734629131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_34
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 51
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b97f4aab56c58570800000000000000
+      internalID: 8468392771341744568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_35
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 75
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfc100454e8fd3d0800000000000000
+      internalID: -3179666383822532645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_36
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 49
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c418328975d119f00800000000000000
+      internalID: 1121710044243788108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rider-melee_37
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 47
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e40c32708c915f30800000000000000
+      internalID: 4562599972989306088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rider-melee_0: -2231279153235560069
+      rider-melee_1: 7915210671461310964
+      rider-melee_10: 9207941399349901874
+      rider-melee_11: -1662318975079573445
+      rider-melee_12: 2683780361038415876
+      rider-melee_13: -6401854235614910242
+      rider-melee_14: -5260854435011067704
+      rider-melee_15: 6333436899211682831
+      rider-melee_16: -6307129498658304186
+      rider-melee_17: 2591145163676731226
+      rider-melee_18: 4114565632257660006
+      rider-melee_19: 7621808074403048080
+      rider-melee_2: 546662022125914085
+      rider-melee_20: 3688126189747647936
+      rider-melee_21: 6008982375981660875
+      rider-melee_22: -4389578516326776812
+      rider-melee_23: 100231910335114886
+      rider-melee_24: -7133324874870786109
+      rider-melee_25: 4860621015376483809
+      rider-melee_26: 3838951749231434906
+      rider-melee_27: 4525232252628869121
+      rider-melee_28: 3071272819033601476
+      rider-melee_29: -1850597455289061081
+      rider-melee_3: -1695545228270782112
+      rider-melee_30: 9017787809816377642
+      rider-melee_31: 5322535523751763146
+      rider-melee_32: 2772635838940834026
+      rider-melee_33: 5316353603734629131
+      rider-melee_34: 8468392771341744568
+      rider-melee_35: -3179666383822532645
+      rider-melee_36: 1121710044243788108
+      rider-melee_37: 4562599972989306088
+      rider-melee_4: 8351551645795362852
+      rider-melee_5: -5161860170599134903
+      rider-melee_6: 7861562702496051421
+      rider-melee_7: 2939389429752650223
+      rider-melee_8: -1050532014221597183
+      rider-melee_9: 6160309852751723587
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

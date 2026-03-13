@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 5569c8948d2229a4dbf3e3f8efcbbebb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4019758845559852809
+    second: spiderling-cast_0
+  - first:
+      213: 7355506225430767713
+    second: spiderling-cast_1
+  - first:
+      213: -3666697322403402215
+    second: spiderling-cast_2
+  - first:
+      213: -7736399351866776352
+    second: spiderling-cast_3
+  - first:
+      213: 2360769109679658524
+    second: spiderling-cast_4
+  - first:
+      213: -83111378484525175
+    second: spiderling-cast_5
+  - first:
+      213: -6082218563271180770
+    second: spiderling-cast_6
+  - first:
+      213: -2424219846048601094
+    second: spiderling-cast_7
+  - first:
+      213: -2612003099728138720
+    second: spiderling-cast_8
+  - first:
+      213: 2141820938590690226
+    second: spiderling-cast_9
+  - first:
+      213: -2142363734735460149
+    second: spiderling-cast_10
+  - first:
+      213: 645302800246189638
+    second: spiderling-cast_11
+  - first:
+      213: 6121496190206807225
+    second: spiderling-cast_12
+  - first:
+      213: -7149353770610127145
+    second: spiderling-cast_13
+  - first:
+      213: 159302240129881675
+    second: spiderling-cast_14
+  - first:
+      213: -4135039705788649338
+    second: spiderling-cast_15
+  - first:
+      213: 2004142808302483945
+    second: spiderling-cast_16
+  - first:
+      213: -1002388775864691879
+    second: spiderling-cast_17
+  - first:
+      213: -3821062889682185996
+    second: spiderling-cast_18
+  - first:
+      213: -8217660874689669993
+    second: spiderling-cast_19
+  - first:
+      213: 3688615581887438677
+    second: spiderling-cast_20
+  - first:
+      213: 4487357448988186152
+    second: spiderling-cast_21
+  - first:
+      213: -4529506025485248793
+    second: spiderling-cast_22
+  - first:
+      213: 7532439879028163055
+    second: spiderling-cast_23
+  - first:
+      213: -7648694268087256055
+    second: spiderling-cast_24
+  - first:
+      213: 1168050699942263912
+    second: spiderling-cast_25
+  - first:
+      213: 3071988223093711125
+    second: spiderling-cast_26
+  - first:
+      213: -48251312462305052
+    second: spiderling-cast_27
+  - first:
+      213: 6445443400366863779
+    second: spiderling-cast_28
+  - first:
+      213: -4194096907023884007
+    second: spiderling-cast_29
+  - first:
+      213: 1447026320196847346
+    second: spiderling-cast_30
+  - first:
+      213: -6066772538260307564
+    second: spiderling-cast_31
+  - first:
+      213: -4105748990064120549
+    second: spiderling-cast_32
+  - first:
+      213: 7011806467577966133
+    second: spiderling-cast_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spiderling-cast_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 733
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f44585f5d09c730800000000000000
+      internalID: 4019758845559852809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 733
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168a9fdd0f1041660800000000000000
+      internalID: 7355506225430767713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 733
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ee44756364d1dc0800000000000000
+      internalID: -3666697322403402215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_3
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 733
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e42b6757c9c2a490800000000000000
+      internalID: -7736399351866776352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_4
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 733
+        width: 84
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16db235ff223c020800000000000000
+      internalID: 2360769109679658524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_5
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 733
+        width: 84
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98703a044aab8def0800000000000000
+      internalID: -83111378484525175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_6
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 733
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e3fe1117e979ba0800000000000000
+      internalID: -6082218563271180770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_7
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 733
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb22d2e4e07b5ed0800000000000000
+      internalID: -2424219846048601094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 554
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e2c70150d40cbd0800000000000000
+      internalID: -2612003099728138720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 554
+        width: 87
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb1139bbc649bd10800000000000000
+      internalID: 2141820938590690226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 554
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8e963b88bc442e0800000000000000
+      internalID: -2142363734735460149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_11
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 554
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e2d355a7394f800800000000000000
+      internalID: 645302800246189638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_12
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 554
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc0f271a5ce3f450800000000000000
+      internalID: 6121496190206807225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_13
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 554
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de0f21ef9468cc90800000000000000
+      internalID: -7149353770610127145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_14
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 554
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b469dda1b84f53200800000000000000
+      internalID: 159302240129881675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_15
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 554
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680f454cb436d96c0800000000000000
+      internalID: -4135039705788649338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 375
+        width: 89
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9f508044520db10800000000000000
+      internalID: 2004142808302483945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 375
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9531fbf18bcc612f0800000000000000
+      internalID: -1002388775864691879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_18
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 375
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0d014fb8bd8fac0800000000000000
+      internalID: -3821062889682185996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_19
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 375
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7941f7739f005fd80800000000000000
+      internalID: -8217660874689669993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_20
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 375
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f1f5f1458903330800000000000000
+      internalID: 3688615581887438677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_21
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 375
+        width: 87
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826d42723db464e30800000000000000
+      internalID: 4487357448988186152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_22
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 375
+        width: 89
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6d5f6a446f321c0800000000000000
+      internalID: -4529506025485248793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_23
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 375
+        width: 87
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1c571592a988860800000000000000
+      internalID: 7532439879028163055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 196
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cb71376116ad590800000000000000
+      internalID: -7648694268087256055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 196
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c74b94cefb53010800000000000000
+      internalID: 1168050699942263912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_26
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 196
+        width: 87
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5112fa74305e1aa20800000000000000
+      internalID: 3071988223093711125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_27
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 196
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8ecbcdfa3945ff0800000000000000
+      internalID: -48251312462305052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_28
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 196
+        width: 89
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5b0ca8f90d27950800000000000000
+      internalID: 6445443400366863779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_29
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 196
+        width: 88
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911e64795139bc5c0800000000000000
+      internalID: -4194096907023884007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_30
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 196
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f649f385ced41410800000000000000
+      internalID: 1447026320196847346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_31
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 196
+        width: 85
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49146e3058e7ecba0800000000000000
+      internalID: -6066772538260307564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_32
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 17
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d2f46fb037507c0800000000000000
+      internalID: -4105748990064120549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spiderling-cast_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 17
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e65c505d0fe4160800000000000000
+      internalID: 7011806467577966133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spiderling-cast_0: 4019758845559852809
+      spiderling-cast_1: 7355506225430767713
+      spiderling-cast_10: -2142363734735460149
+      spiderling-cast_11: 645302800246189638
+      spiderling-cast_12: 6121496190206807225
+      spiderling-cast_13: -7149353770610127145
+      spiderling-cast_14: 159302240129881675
+      spiderling-cast_15: -4135039705788649338
+      spiderling-cast_16: 2004142808302483945
+      spiderling-cast_17: -1002388775864691879
+      spiderling-cast_18: -3821062889682185996
+      spiderling-cast_19: -8217660874689669993
+      spiderling-cast_2: -3666697322403402215
+      spiderling-cast_20: 3688615581887438677
+      spiderling-cast_21: 4487357448988186152
+      spiderling-cast_22: -4529506025485248793
+      spiderling-cast_23: 7532439879028163055
+      spiderling-cast_24: -7648694268087256055
+      spiderling-cast_25: 1168050699942263912
+      spiderling-cast_26: 3071988223093711125
+      spiderling-cast_27: -48251312462305052
+      spiderling-cast_28: 6445443400366863779
+      spiderling-cast_29: -4194096907023884007
+      spiderling-cast_3: -7736399351866776352
+      spiderling-cast_30: 1447026320196847346
+      spiderling-cast_31: -6066772538260307564
+      spiderling-cast_32: -4105748990064120549
+      spiderling-cast_33: 7011806467577966133
+      spiderling-cast_4: 2360769109679658524
+      spiderling-cast_5: -83111378484525175
+      spiderling-cast_6: -6082218563271180770
+      spiderling-cast_7: -2424219846048601094
+      spiderling-cast_8: -2612003099728138720
+      spiderling-cast_9: 2141820938590690226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

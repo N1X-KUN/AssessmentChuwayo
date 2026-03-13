@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro; 
 
 [System.Serializable]
 public class FoodEntry
@@ -13,6 +14,7 @@ public class WordManager : MonoBehaviour
 {
     [Header("References")]
     public GameObject foodPrefab;
+    public GameObject playerProjectilePrefab; 
     public Transform spawnPoint;
     public KommyController kommy;
 
@@ -34,17 +36,20 @@ public class WordManager : MonoBehaviour
     [Header("Focus Zone Settings")]
     public float deadZoneX = -6f; 
 
-    [Header("Typing Mechanics")]
+    [Header("Typing Mechanics & Ammo")]
+    public TMP_Text ammoCounterText; 
+    public int maxAmmo = 5; 
+    public List<Sprite> ammoBackpack = new List<Sprite>(); 
+    
     private List<FoodItem> activeFoods = new List<FoodItem>(); 
     private FoodItem targetedFood = null; 
-    public List<FoodEntry> thiefPocket = new List<FoodEntry>();
     [HideInInspector] public bool isPlayerDizzy = false; 
 
     void Start()
     {
         foreach (var food in allFoods) { food.word = food.word.ToLower(); }
-        thiefPocket.AddRange(allFoods);
         if (dizzyAnimator != null) dizzyAnimator.gameObject.SetActive(false);
+        UpdateAmmoUI();
     }
 
     public void StartSpawning() { InvokeRepeating(nameof(SpawnFood), 0.5f, spawnRate); }
@@ -52,9 +57,8 @@ public class WordManager : MonoBehaviour
 
     void SpawnFood()
     {
-        if (thiefPocket.Count == 0) return; 
+        if (allFoods.Count == 0) return; 
 
-        // 1. Physical Trap Logic
         if (canDropPhysicalTraps && physicalTrapPrefabs.Length > 0)
         {
             if (Random.Range(0f, 100f) <= physicalTrapChance)
@@ -66,11 +70,9 @@ public class WordManager : MonoBehaviour
             }
         }
 
-        // 2. Food Logic
         bool droppingRotten = canDropRottenFood && (Random.Range(0f, 100f) <= rottenChance);
-        int randomIndex = Random.Range(0, thiefPocket.Count);
-        FoodEntry chosenEntry = thiefPocket[randomIndex];
-        thiefPocket.RemoveAt(randomIndex);
+        int randomIndex = Random.Range(0, allFoods.Count);
+        FoodEntry chosenEntry = allFoods[randomIndex];
 
         GameObject newFoodObj = Instantiate(foodPrefab, spawnPoint.position, Quaternion.identity);
         FoodItem newFood = newFoodObj.GetComponent<FoodItem>();
@@ -80,32 +82,50 @@ public class WordManager : MonoBehaviour
 
     public void MissedFood(FoodItem missedFood, string originalWord)
     {
-        if (missedFood != null && !missedFood.isRotten)
+        if (missedFood != null && missedFood.isRotten)
         {
-            FoodEntry originalEntry = allFoods.Find(x => x.word == originalWord);
-            if (originalEntry != null) thiefPocket.Add(originalEntry);
+            if (kommy != null) kommy.TriggerBonk(); // CALLS THE SAFE BONK!
+            ThiefController thief = FindAnyObjectByType<ThiefController>();
+            if (thief != null) thief.TriggerPoisonEscape(); 
         }
+        
         activeFoods.Remove(missedFood);
         if (targetedFood == missedFood) targetedFood = null;
     }
 
     void Update()
     {
-        // --- 1. THE SWAT LOGIC (BACKSPACE) ---
+        // --- 1. SWAT LOGIC (BACKSPACE ONLY) ---
         if (Input.GetKeyDown(KeyCode.Backspace))
         {
             FoodItem foodToSwat = GetClosestFood();
-            if (foodToSwat != null)
+            
+            if (foodToSwat != null && foodToSwat.transform.position.x < kommy.transform.position.x + 3f)
             {
                 activeFoods.Remove(foodToSwat);
                 foodToSwat.SwatAway();
-                kommy.TriggerSwipeAnimation(); // Kommy swats it out of the air!
-                
+                kommy.TriggerSwipeAnimation(); 
                 if (targetedFood == foodToSwat) targetedFood = null;
             }
         }
 
-        // --- 2. THE TYPING LOGIC ---
+        // --- 2. THROW LOGIC (ENTER/RETURN KEY ONLY) ---
+        if (Input.GetKeyDown(KeyCode.Return))
+        {
+            if (ammoBackpack.Count > 0 && playerProjectilePrefab != null)
+            {
+                Sprite ammoToThrow = ammoBackpack[0];
+                ammoBackpack.RemoveAt(0);
+                UpdateAmmoUI(); 
+                
+                kommy.TriggerSwipeAnimation(); 
+                
+                GameObject proj = Instantiate(playerProjectilePrefab, kommy.transform.position + Vector3.up, Quaternion.identity);
+                proj.GetComponent<PlayerProjectile>().Setup(ammoToThrow);
+            }
+        }
+
+        // --- 3. TYPING LOGIC ---
         string input = Input.inputString.ToLower();
         foreach (char c in input) 
         { 
@@ -115,7 +135,6 @@ public class WordManager : MonoBehaviour
 
     void TypeLetter(char letter)
     {
-        // Rule: You can ONLY lock onto the food closest to Kommy
         if (targetedFood == null)
         {
             FoodItem closestFood = GetClosestFood();
@@ -128,18 +147,11 @@ public class WordManager : MonoBehaviour
 
         if (targetedFood != null)
         {
-            // If it passed Kommy while you were typing, drop the lock
-            if (targetedFood.transform.position.x <= deadZoneX)
-            {
-                targetedFood = null;
-                return;
-            }
-
             if (targetedFood.currentWord[0] == letter)
             {
                 if (targetedFood.isRotten)
                 {
-                    kommy.TypeWrongLetter(); // Stun her for typing poison!
+                    kommy.TypeWrongLetter(); 
                     StartCoroutine(TriggerDizzyEffect());
                     activeFoods.Remove(targetedFood);
                     Destroy(targetedFood.gameObject);
@@ -152,14 +164,27 @@ public class WordManager : MonoBehaviour
                 if (targetedFood.currentWord.Length == 0)
                 {
                     activeFoods.Remove(targetedFood);
-                    targetedFood.VanishOnSuccess(); // MAGNET TO KOMMY
+                    
+                    if (ammoBackpack.Count < maxAmmo)
+                    {
+                        ammoBackpack.Add(targetedFood.GetComponent<SpriteRenderer>().sprite);
+                        targetedFood.VanishOnSuccess(); 
+                        UpdateAmmoUI(); 
+                    }
+                    else 
+                    {
+                        if (kommy != null) kommy.TriggerBonk(); // CALLS THE SAFE BONK!
+                        ThiefController thief = FindAnyObjectByType<ThiefController>();
+                        if (thief != null) thief.TriggerPoisonEscape();
+                        Destroy(targetedFood.gameObject);
+                    }
                     targetedFood = null;
                 }
             }
             else 
             { 
                 targetedFood.TriggerMistake(); 
-                kommy.TypeWrongLetter(); // Shake Kommy on typo
+                kommy.TypeWrongLetter(); 
             }
         }
     }
@@ -180,7 +205,7 @@ public class WordManager : MonoBehaviour
         return closest;
     }
 
-private IEnumerator TriggerDizzyEffect()
+    private IEnumerator TriggerDizzyEffect()
     {
         isPlayerDizzy = true; 
         if (dizzyAnimator != null) {
@@ -196,7 +221,6 @@ private IEnumerator TriggerDizzyEffect()
         }
         isPlayerDizzy = false; 
 
-        // --- NEW: REFRESH ALL FOOD TEXT WHEN POISON ENDS ---
         foreach (FoodItem food in activeFoods)
         {
             if (food != null) food.UpdateVisuals();
@@ -206,12 +230,15 @@ private IEnumerator TriggerDizzyEffect()
     public void TriggerPoisonFromTrap()
     {
         StartCoroutine(TriggerDizzyEffect());
-        
-        // Tell the Thief to move forward and laugh at you!
         ThiefController thief = FindAnyObjectByType<ThiefController>();
-        if (thief != null)
+        if (thief != null) thief.TriggerPoisonEscape();
+    }
+
+    public void UpdateAmmoUI()
+    {
+        if (ammoCounterText != null)
         {
-            thief.TriggerPoisonEscape();
+            ammoCounterText.text = ammoBackpack.Count + " / " + maxAmmo;
         }
     }
 }
