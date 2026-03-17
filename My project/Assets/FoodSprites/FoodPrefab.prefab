@@ -109,11 +109,11 @@ MonoBehaviour:
   originalWord: 
   isRotten: 0
   wordManager: {fileID: 0}
-  launchUpForce: 2
-  launchLeftForce: 1.5
-  gravityScale: 1
-  groundYLevel: -3.5
+  flightTime: 3.5
+  arcCurveStrength: 3
   magnetSpeed: 20
+  rollSpeed: 3
+  groundYLevel: -3.5
   isFading: 0
 --- !u!1 &8676012635722555225
 GameObject:

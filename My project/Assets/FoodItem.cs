@@ -16,22 +16,25 @@ public class FoodItem : MonoBehaviour
     private SpriteRenderer foodImage;
     public WordManager wordManager; 
 
-    [Header("Toss & Float Settings")]
-    public float launchUpForce = 7f;      
-    public float launchLeftForce = 3.5f;  
-    public float gravityScale = 1.2f; // Back to your original, normal gravity!
-    public float groundYLevel = -3.5f; 
-
+    [Header("Homing Projectile Settings")]
+    public float flightTime = 1.2f; // How fast it hits Kommy
+    [Tooltip("Increase this number to make the throw curve HIGHER into the air!")]
+    public float arcCurveStrength = 15f; // The secret to the perfect "Pop Up" curve!
+    
     [Header("Magnet Settings")]
     public float magnetSpeed = 20f;
 
     [Header("Swat & Roll Settings")]
     public float rollSpeed = 2f; 
+    public float groundYLevel = -3.5f; 
 
     private Vector3 velocity; 
     private bool hasHitGround = false;
     [HideInInspector] public bool isFading = false;
     private float scrambleTimer = 0f;
+
+    // The exact coordinate of Kommy's head!
+    private Vector3 targetHeadPos = new Vector3(-6.5f, -1.5f, 0f);
 
     void Awake()
     {
@@ -52,9 +55,17 @@ public class FoodItem : MonoBehaviour
 
         UpdateVisuals();
 
-        // THE ORIGINAL SIMPLE TOSS! No complex math, no head targeting.
-        gravityScale = 1.2f;
-        velocity = new Vector3(-launchLeftForce, launchUpForce, 0);
+        // --- THE PERFECT CURVE MATH ---
+        float distanceX = targetHeadPos.x - transform.position.x;
+        float distanceY = targetHeadPos.y - transform.position.y;
+
+        float vx = distanceX / flightTime;
+        
+        // This calculates exactly how hard to throw it UP to fight your "Arc Curve Strength" 
+        // and still land perfectly on her head!
+        float vy = (distanceY + (0.5f * arcCurveStrength * flightTime * flightTime)) / flightTime;
+
+        velocity = new Vector3(vx, vy, 0);
     }
 
     void Update()
@@ -94,17 +105,24 @@ public class FoodItem : MonoBehaviour
     {
         if (hasHitGround) return; 
 
-        velocity.y -= gravityScale * Time.deltaTime;
+        // Pulls the food down over time, creating the curve
+        velocity.y -= arcCurveStrength * Time.deltaTime;
         transform.position += velocity * Time.deltaTime;
 
-        // THE ORIGINAL GROUND HIT! No specific coordinates.
-        if (transform.position.y <= groundYLevel)
+        // --- IMPACT: DIRECTLY ON KOMMY'S HEAD ---
+        if (transform.position.x <= targetHeadPos.x)
         {
             hasHitGround = true;
-            velocity = Vector3.zero;
-            transform.position = new Vector3(transform.position.x, groundYLevel, transform.position.z);
+            transform.position = new Vector3(targetHeadPos.x, targetHeadPos.y, transform.position.z); // Snap to head
             
-            if (wordManager != null) wordManager.MissedFood(this, originalWord);
+            if (wordManager != null) 
+            {
+                wordManager.kommy.TriggerBonk(); 
+                ThiefController thief = FindAnyObjectByType<ThiefController>();
+                if (thief != null) thief.TriggerPoisonEscape(); 
+
+                wordManager.MissedFood(this, originalWord);
+            }
             if (!isFading) StartCoroutine(FadeOutAndDestroy());
         }
     }
@@ -132,7 +150,7 @@ public class FoodItem : MonoBehaviour
 
     void HandleSwat()
     {
-        velocity.y -= gravityScale * 2f * Time.deltaTime; 
+        velocity.y -= arcCurveStrength * 2f * Time.deltaTime; 
         transform.position += velocity * Time.deltaTime;
 
         if (transform.position.y <= groundYLevel)
@@ -178,7 +196,7 @@ public class FoodItem : MonoBehaviour
 
     public void TriggerMistake() 
     { 
-        gravityScale += 0.4f; 
+        arcCurveStrength += 10f; // Make it drop much faster if they make a typo!
         StartCoroutine(MistakeFlash()); 
     }
 

@@ -33,9 +33,6 @@ public class WordManager : MonoBehaviour
     public float physicalTrapChance = 20f; 
     public GameObject[] physicalTrapPrefabs; 
 
-    [Header("Focus Zone Settings")]
-    public float deadZoneX = -6f; 
-
     [Header("Typing Mechanics & Ammo")]
     public TMP_Text ammoCounterText; 
     public int maxAmmo = 5; 
@@ -45,7 +42,7 @@ public class WordManager : MonoBehaviour
     private FoodItem targetedFood = null; 
     
     [HideInInspector] public bool isPlayerDizzy = false; 
-    [HideInInspector] public bool onlySpawnTraps = false; // FIXED: Only declared ONCE!
+    [HideInInspector] public bool onlySpawnTraps = false; 
 
     void Start()
     {
@@ -59,7 +56,6 @@ public class WordManager : MonoBehaviour
 
     void SpawnFood()
     {
-        // 1. Physical Trap Logic (Always allowed to drop)
         if (canDropPhysicalTraps && physicalTrapPrefabs.Length > 0)
         {
             if (Random.Range(0f, 100f) <= physicalTrapChance)
@@ -71,7 +67,6 @@ public class WordManager : MonoBehaviour
             }
         }
 
-        // 2. Food Logic (ONLY drops if the switch says it's okay!)
         if (!onlySpawnTraps)
         {
             if (allFoods.Count == 0) return; 
@@ -89,20 +84,14 @@ public class WordManager : MonoBehaviour
 
     public void MissedFood(FoodItem missedFood, string originalWord)
     {
-        if (missedFood != null && missedFood.isRotten)
-        {
-            if (kommy != null) kommy.TriggerBonk(); // CALLS THE SAFE BONK!
-            ThiefController thief = FindAnyObjectByType<ThiefController>();
-            if (thief != null) thief.TriggerPoisonEscape(); 
-        }
-        
+        // Bonk and Escape are completely removed from here! 
+        // FoodItem.cs handles it only on a direct head hit now.
         activeFoods.Remove(missedFood);
         if (targetedFood == missedFood) targetedFood = null;
     }
 
     void Update()
     {
-        // --- 1. SWAT LOGIC (BACKSPACE ONLY) ---
         if (Input.GetKeyDown(KeyCode.Backspace))
         {
             FoodItem foodToSwat = GetClosestFood();
@@ -116,7 +105,6 @@ public class WordManager : MonoBehaviour
             }
         }
 
-        // --- 2. THROW LOGIC (ENTER/RETURN KEY ONLY) ---
         if (Input.GetKeyDown(KeyCode.Return))
         {
             if (ammoBackpack.Count > 0 && playerProjectilePrefab != null)
@@ -132,7 +120,6 @@ public class WordManager : MonoBehaviour
             }
         }
 
-        // --- 3. TYPING LOGIC ---
         string input = Input.inputString.ToLower();
         foreach (char c in input) 
         { 
@@ -180,7 +167,7 @@ public class WordManager : MonoBehaviour
                     }
                     else 
                     {
-                        if (kommy != null) kommy.TriggerBonk(); // CALLS THE SAFE BONK!
+                        if (kommy != null) kommy.TriggerBonk(); 
                         ThiefController thief = FindAnyObjectByType<ThiefController>();
                         if (thief != null) thief.TriggerPoisonEscape();
                         Destroy(targetedFood.gameObject);
