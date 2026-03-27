@@ -11,19 +11,23 @@ public class ScrollingBackground : MonoBehaviour
     void Start()
     {
         startPosition = transform.position;
+        // Your original perfect setup for getting the exact image size!
         repeatWidth = GetComponent<SpriteRenderer>().bounds.size.x;
     }
 
     void Update()
     {
         // --- THE FIX ---
-        // We added "Jumping" to the list of allowed movement states!
+        // Added "Ability" so the background knows it is allowed to keep moving (in slow-mo) while she sleeps!
         if (kommy != null && (kommy.currentState == KommyController.CharacterState.Running || 
                               kommy.currentState == KommyController.CharacterState.Attacking || 
-                              kommy.currentState == KommyController.CharacterState.Jumping))
+                              kommy.currentState == KommyController.CharacterState.Jumping ||
+                              kommy.currentState == KommyController.CharacterState.Ability)) // <-- Added this!
         {
+            // Because you are using Time.deltaTime, this naturally slows down to 40% speed automatically!
             transform.Translate(Vector3.left * scrollSpeed * Time.deltaTime);
 
+            // Your original perfect gap-prevention math!
             if (transform.position.x < startPosition.x - repeatWidth)
             {
                 float overshoot = transform.position.x - (startPosition.x - repeatWidth);

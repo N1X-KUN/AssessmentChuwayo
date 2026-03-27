@@ -38,6 +38,10 @@ public class WordManager : MonoBehaviour
     public int maxAmmo = 5; 
     public List<Sprite> ammoBackpack = new List<Sprite>(); 
     
+    [Header("Score System")]
+    public TMP_Text scoreText; // Drag your UI Text for score here!
+    public int currentScore = 0;
+
     private List<FoodItem> activeFoods = new List<FoodItem>(); 
     private FoodItem targetedFood = null; 
     
@@ -49,6 +53,7 @@ public class WordManager : MonoBehaviour
         foreach (var food in allFoods) { food.word = food.word.ToLower(); }
         if (dizzyAnimator != null) dizzyAnimator.gameObject.SetActive(false);
         UpdateAmmoUI();
+        UpdateScoreUI();
     }
 
     public void StartSpawning() { InvokeRepeating(nameof(SpawnFood), 0.5f, spawnRate); }
@@ -84,8 +89,6 @@ public class WordManager : MonoBehaviour
 
     public void MissedFood(FoodItem missedFood, string originalWord)
     {
-        // Bonk and Escape are completely removed from here! 
-        // FoodItem.cs handles it only on a direct head hit now.
         activeFoods.Remove(missedFood);
         if (targetedFood == missedFood) targetedFood = null;
     }
@@ -114,6 +117,7 @@ public class WordManager : MonoBehaviour
                 UpdateAmmoUI(); 
                 
                 kommy.TriggerSwipeAnimation(); 
+                kommy.AddAttackBonusCharge(); // --- BOOSTS ULT BY 10% ON THROW ---
                 
                 GameObject proj = Instantiate(playerProjectilePrefab, kommy.transform.position + Vector3.up, Quaternion.identity);
                 proj.GetComponent<PlayerProjectile>().Setup(ammoToThrow);
@@ -145,7 +149,7 @@ public class WordManager : MonoBehaviour
             {
                 if (targetedFood.isRotten)
                 {
-                    kommy.TypeWrongLetter(); 
+                    kommy.HitByTrap(); 
                     StartCoroutine(TriggerDizzyEffect());
                     activeFoods.Remove(targetedFood);
                     Destroy(targetedFood.gameObject);
@@ -157,6 +161,11 @@ public class WordManager : MonoBehaviour
                 
                 if (targetedFood.currentWord.Length == 0)
                 {
+                    // --- NEW SCORE MATH: Letters x 2 ---
+                    int pointsEarned = targetedFood.originalWord.Length * 2;
+                    currentScore += pointsEarned;
+                    UpdateScoreUI();
+
                     activeFoods.Remove(targetedFood);
                     
                     if (ammoBackpack.Count < maxAmmo)
@@ -178,7 +187,7 @@ public class WordManager : MonoBehaviour
             else 
             { 
                 targetedFood.TriggerMistake(); 
-                kommy.TypeWrongLetter(); 
+                kommy.HitByTrap(); // Trigger stun on mistake instead of just visual
             }
         }
     }
@@ -224,15 +233,18 @@ public class WordManager : MonoBehaviour
     public void TriggerPoisonFromTrap()
     {
         StartCoroutine(TriggerDizzyEffect());
+        kommy.HitByTrap(); 
         ThiefController thief = FindAnyObjectByType<ThiefController>();
         if (thief != null) thief.TriggerPoisonEscape();
     }
 
     public void UpdateAmmoUI()
     {
-        if (ammoCounterText != null)
-        {
-            ammoCounterText.text = ammoBackpack.Count + " / " + maxAmmo;
-        }
+        if (ammoCounterText != null) ammoCounterText.text = ammoBackpack.Count + " / " + maxAmmo;
+    }
+
+    public void UpdateScoreUI()
+    {
+        if (scoreText != null) scoreText.text = "Score: " + currentScore;
     }
 }
