@@ -5,14 +5,25 @@ public class SliderGradient : MonoBehaviour
 {
     public Slider targetSlider;
     public Image fillImage;
-    public Gradient gradient;
+    public KommyController kommy; // Drag Kommy here!
+    
+    [Header("Colors")]
+    public Gradient normalGradient;
+    public Gradient slowMoGradient; 
 
     void Update()
     {
         if (targetSlider != null && fillImage != null)
         {
-            // Changes the color based on the percentage of the slider!
-            fillImage.color = gradient.Evaluate(targetSlider.normalizedValue);
+            // If Kommy is sleeping, use the blue gradient! Otherwise, use normal.
+            if (kommy != null && kommy.isAbilityActive)
+            {
+                fillImage.color = slowMoGradient.Evaluate(targetSlider.normalizedValue);
+            }
+            else
+            {
+                fillImage.color = normalGradient.Evaluate(targetSlider.normalizedValue);
+            }
         }
     }
 }

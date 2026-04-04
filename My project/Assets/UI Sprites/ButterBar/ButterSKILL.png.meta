@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d76ff42690f9df8498055e094fd48ee5
+guid: de1627372eb933c4f948cf508b62def3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8442045663580412046
-    second: BlueRightBox_0
+      213: -8504354132331432979
+    second: ButterSKILL_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BlueRightBox_0
+      name: ButterSKILL_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 15
-        width: 1341
-        height: 385
+        x: 89
+        y: 0
+        width: 1452
+        height: 241
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e88565b9dcb282570800000000000000
-      internalID: 8442045663580412046
+      spriteID: de3724289f67af980800000000000000
+      internalID: -8504354132331432979
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BlueRightBox_0: 8442045663580412046
+      ButterSKILL_0: -8504354132331432979
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

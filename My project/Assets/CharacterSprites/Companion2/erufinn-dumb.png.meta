@@ -127,7 +127,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -162,10 +162,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -211,7 +211,7 @@ TextureImporter:
         width: 689
         height: 584
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -229,11 +229,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 746
-        y: 2489
-        width: 604
-        height: 589
+        y: 2491
+        width: 688
+        height: 587
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -250,12 +250,12 @@ TextureImporter:
       name: erufinn-dumb_2
       rect:
         serializedVersion: 2
-        x: 1304
-        y: 2689
-        width: 130
-        height: 145
+        x: 1429
+        y: 2831
+        width: 8
+        height: 3
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -273,11 +273,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1466
-        y: 2489
-        width: 602
-        height: 596
+        y: 2487
+        width: 689
+        height: 598
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -294,12 +294,12 @@ TextureImporter:
       name: erufinn-dumb_4
       rect:
         serializedVersion: 2
-        x: 2019
-        y: 2703
-        width: 134
-        height: 147
+        x: 2164
+        y: 2870
+        width: 1
+        height: 2
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -317,11 +317,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2174
-        y: 2489
-        width: 624
-        height: 597
+        y: 2488
+        width: 696
+        height: 598
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -338,12 +338,12 @@ TextureImporter:
       name: erufinn-dumb_6
       rect:
         serializedVersion: 2
-        x: 2735
-        y: 2718
-        width: 134
-        height: 148
+        x: 2879
+        y: 2873
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,10 +362,10 @@ TextureImporter:
         serializedVersion: 2
         x: 8
         y: 1881
-        width: 636
+        width: 697
         height: 595
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -382,12 +382,12 @@ TextureImporter:
       name: erufinn-dumb_8
       rect:
         serializedVersion: 2
-        x: 572
-        y: 2117
-        width: 134
-        height: 148
+        x: 714
+        y: 2271
+        width: 1
+        height: 3
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -406,10 +406,10 @@ TextureImporter:
         serializedVersion: 2
         x: 724
         y: 1881
-        width: 644
+        width: 701
         height: 594
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -426,12 +426,12 @@ TextureImporter:
       name: erufinn-dumb_10
       rect:
         serializedVersion: 2
-        x: 1291
-        y: 2122
-        width: 133
-        height: 148
+        x: 1430
+        y: 2309
+        width: 1
+        height: 3
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -450,10 +450,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1445
         y: 1881
-        width: 643
+        width: 703
         height: 594
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -470,12 +470,12 @@ TextureImporter:
       name: erufinn-dumb_12
       rect:
         serializedVersion: 2
-        x: 2011
-        y: 2119
-        width: 134
-        height: 149
+        x: 2152
+        y: 2288
+        width: 11
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -494,10 +494,10 @@ TextureImporter:
         serializedVersion: 2
         x: 2165
         y: 1881
-        width: 643
+        width: 698
         height: 594
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -514,12 +514,12 @@ TextureImporter:
       name: erufinn-dumb_14
       rect:
         serializedVersion: 2
-        x: 2731
-        y: 2117
-        width: 135
-        height: 149
+        x: 2879
+        y: 2414
+        width: 1
+        height: 5
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -537,11 +537,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 6
-        y: 1273
-        width: 642
-        height: 594
+        y: 1271
+        width: 704
+        height: 596
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -558,12 +558,12 @@ TextureImporter:
       name: erufinn-dumb_16
       rect:
         serializedVersion: 2
-        x: 571
-        y: 1504
-        width: 134
-        height: 148
+        x: 722
+        y: 1682
+        width: 2
+        height: 2
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -585,7 +585,7 @@ TextureImporter:
         width: 698
         height: 594
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -607,7 +607,7 @@ TextureImporter:
         width: 696
         height: 595
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -625,11 +625,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2181
-        y: 1273
-        width: 612
-        height: 597
+        y: 1266
+        width: 685
+        height: 604
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -646,12 +646,12 @@ TextureImporter:
       name: erufinn-dumb_20
       rect:
         serializedVersion: 2
-        x: 2737
-        y: 1492
-        width: 133
-        height: 146
+        x: 2879
+        y: 1741
+        width: 1
+        height: 3
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -669,11 +669,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 27
-        y: 665
-        width: 606
-        height: 596
+        y: 662
+        width: 692
+        height: 599
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -690,12 +690,12 @@ TextureImporter:
       name: erufinn-dumb_22
       rect:
         serializedVersion: 2
-        x: 579
-        y: 880
-        width: 133
-        height: 147
+        x: 802
+        y: 1116
+        width: 1
+        height: 2
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -713,11 +713,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 746
-        y: 665
-        width: 612
-        height: 589
+        y: 662
+        width: 693
+        height: 592
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -734,12 +734,12 @@ TextureImporter:
       name: erufinn-dumb_24
       rect:
         serializedVersion: 2
-        x: 1303
-        y: 874
-        width: 132
-        height: 147
+        x: 1513
+        y: 1142
+        width: 3
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -761,7 +761,7 @@ TextureImporter:
         width: 691
         height: 592
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -783,7 +783,7 @@ TextureImporter:
         width: 691
         height: 592
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -805,7 +805,7 @@ TextureImporter:
         width: 692
         height: 591
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -827,7 +827,7 @@ TextureImporter:
         width: 692
         height: 587
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -849,7 +849,7 @@ TextureImporter:
         width: 691
         height: 584
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -871,7 +871,7 @@ TextureImporter:
         width: 691
         height: 584
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -888,7 +888,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6e846142c268de146b2853fd2f018acc
     internalID: 0
     vertices: []
     indices: 

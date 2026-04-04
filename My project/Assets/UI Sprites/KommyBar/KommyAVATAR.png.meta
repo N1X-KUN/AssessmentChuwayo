@@ -1,25 +1,13 @@
 fileFormatVersion: 2
-guid: f5596d1935cbfe34d9e3a2cc048b6b98
+guid: 435278c55726a2740a9e44b42e87d70d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7826132137581284970
-    second: erufinn_cast_0
+      213: 5464628630347799590
+    second: KommyAVATAR_0
   - first:
-      213: 3064945570521075253
-    second: erufinn_cast_1
-  - first:
-      213: 4553301128795136079
-    second: erufinn_cast_2
-  - first:
-      213: -8616780449426818627
-    second: erufinn_cast_3
-  - first:
-      213: 6850233845985231574
-    second: erufinn_cast_4
-  - first:
-      213: -1051934462494842173
-    second: erufinn_cast_5
+      213: -6696191574369803872
+    second: KommyAVATAR_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -128,133 +116,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: erufinn_cast_0
+      name: KommyAVATAR_0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 641
-        width: 690
-        height: 570
+        x: 0
+        y: 959
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a6e0dc9e6b10c9c60800000000000000
-      internalID: 7826132137581284970
+      spriteID: 62c5f4559c246db40800000000000000
+      internalID: 5464628630347799590
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: erufinn_cast_1
+      name: KommyAVATAR_1
       rect:
         serializedVersion: 2
-        x: 730
-        y: 641
-        width: 704
-        height: 566
+        x: 0
+        y: 0
+        width: 960
+        height: 960
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 53ec0d2f1cfd88a20800000000000000
-      internalID: 3064945570521075253
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: erufinn_cast_2
-      rect:
-        serializedVersion: 2
-        x: 1442
-        y: 641
-        width: 713
-        height: 562
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4028319043903f30800000000000000
-      internalID: 4553301128795136079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: erufinn_cast_3
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 67
-        width: 713
-        height: 561
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: db9326cb5db0b6880800000000000000
-      internalID: -8616780449426818627
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: erufinn_cast_4
-      rect:
-        serializedVersion: 2
-        x: 725
-        y: 67
-        width: 710
-        height: 563
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6d2ce4a836be01f50800000000000000
-      internalID: 6850233845985231574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: erufinn_cast_5
-      rect:
-        serializedVersion: 2
-        x: 1449
-        y: 67
-        width: 704
-        height: 566
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3c2e0040e27c661f0800000000000000
-      internalID: -1051934462494842173
+      spriteID: 0a169b5bd395213a0800000000000000
+      internalID: -6696191574369803872
       vertices: []
       indices: 
       edges: []
@@ -263,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8143ca7eac44ebf49be26ffa105e5464
     internalID: 0
     vertices: []
     indices: 
@@ -273,12 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      erufinn_cast_0: 7826132137581284970
-      erufinn_cast_1: 3064945570521075253
-      erufinn_cast_2: 4553301128795136079
-      erufinn_cast_3: -8616780449426818627
-      erufinn_cast_4: 6850233845985231574
-      erufinn_cast_5: -1051934462494842173
+      KommyAVATAR_0: 5464628630347799590
+      KommyAVATAR_1: -6696191574369803872
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

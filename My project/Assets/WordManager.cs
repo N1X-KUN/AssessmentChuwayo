@@ -95,6 +95,9 @@ public class WordManager : MonoBehaviour
 
     void Update()
     {
+        LevelManager lm = FindAnyObjectByType<LevelManager>();
+        if (lm != null && !lm.gameIsActive) return;
+
         if (Input.GetKeyDown(KeyCode.Backspace))
         {
             FoodItem foodToSwat = GetClosestFood();
@@ -243,8 +246,8 @@ public class WordManager : MonoBehaviour
         if (ammoCounterText != null) ammoCounterText.text = ammoBackpack.Count + " / " + maxAmmo;
     }
 
-    public void UpdateScoreUI()
+public void UpdateScoreUI()
     {
-        if (scoreText != null) scoreText.text = "Score: " + currentScore;
+        if (scoreText != null) scoreText.text = currentScore + "\nPOINTS";
     }
 }

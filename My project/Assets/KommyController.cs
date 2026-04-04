@@ -57,8 +57,12 @@ public class KommyController : MonoBehaviour
     }
 
     void Update()
-    {
-        // --- PASSIVE CHARGE & PULSE LOGIC ---
+    {   
+        
+        // Stops all movement/attacking if the game is counting down or finished!
+        LevelManager lm = FindAnyObjectByType<LevelManager>();
+        if (lm != null && !lm.gameIsActive) return;
+
         if (!isAbilityActive && currentState != CharacterState.Dead)
         {
             if (currentCharge < maxCharge)
