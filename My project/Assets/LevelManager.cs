@@ -1,19 +1,19 @@
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
-using System.Collections; // Needed for the countdown timer!
+using System.Collections; 
 
 public class LevelManager : MonoBehaviour
 {
     [Header("UI Elements")]
     public Slider progressBar;
-    public TMP_Text introText; // NEW: For the 3-2-1 GO countdown
-    public Animator handleAnimator; // NEW: For the running UI character
+    public TMP_Text introText; 
+    public Animator handleAnimator; 
 
     [Header("Level Settings")]
     public float levelDuration = 60f; 
     private float timeElapsed = 0f;
-    public bool gameIsActive = false; // Prevents the game from running during the intro
+    public bool gameIsActive = false; 
 
     [Header("References")]
     public KommyController kommy;
@@ -27,21 +27,17 @@ public class LevelManager : MonoBehaviour
             progressBar.maxValue = levelDuration;
             progressBar.value = 0f;
         }
-        
-        // Starts the 3-2-1 Countdown before anything else can happen!
         StartCoroutine(LevelIntroRoutine()); 
     }
 
     private IEnumerator LevelIntroRoutine()
     {
-        gameIsActive = false; // Freeze the game
+        gameIsActive = false; 
         
         if (introText != null)
         {
             introText.gameObject.SetActive(true);
             introText.text = "Go";
-            
-            // Sync these delays with your Board Drop animation!
             yield return new WaitForSeconds(1f); 
             
             introText.text = "Get";
@@ -50,48 +46,39 @@ public class LevelManager : MonoBehaviour
             introText.text = "HIM!";
             yield return new WaitForSeconds(1f);
             
-            introText.gameObject.SetActive(false); // Hide the text
+            introText.gameObject.SetActive(false); 
         }
 
-        // UNFREEZE AND START!
         gameIsActive = true;
-        kommy.StartGame();
-        wordManager.StartSpawning();
+        if (kommy != null) kommy.StartGame();
     }
 
     void Update()
     {
-        // If the intro is still playing, do not run the timer!
         if (!gameIsActive) return; 
 
-        if (kommy.currentState != KommyController.CharacterState.Dead && kommy.currentState != KommyController.CharacterState.Victory)
+        // Added null checks here so the game never crashes!
+        if (kommy != null && kommy.currentState != KommyController.CharacterState.Dead && kommy.currentState != KommyController.CharacterState.Victory)
         {
-            // By using Time.deltaTime, the progress bar AUTOMATICALLY slows down when Kommy is in slow-mo!
             timeElapsed += Time.deltaTime;
             
-            if (progressBar != null)
-            {
-                progressBar.value = timeElapsed;
-            }
+            if (progressBar != null) progressBar.value = timeElapsed;
 
-            // --- VICTORY CONDITION MET ---
             if (timeElapsed >= levelDuration)
             {
                 kommy.WinGame(); 
-                wordManager.CancelInvoke(); 
-                gameIsActive = false; // Stop the timer
+                if (wordManager != null) wordManager.CancelInvoke(); 
+                gameIsActive = false; 
                 
                 if (thief != null) thief.TriggerDefeat();
-                if (handleAnimator != null) handleAnimator.Play("LoadingWIN"); // Trigger UI Dance!
+                if (handleAnimator != null) handleAnimator.Play("LoadingWIN"); 
             }
         }
-        // --- DEFEAT CONDITION MET ---
-        else if (kommy.currentState == KommyController.CharacterState.Dead)
+        else if (kommy != null && kommy.currentState == KommyController.CharacterState.Dead)
         {
-            gameIsActive = false; // Stop the timer
-            wordManager.CancelInvoke();
-            
-            if (handleAnimator != null) handleAnimator.Play("LoadingLOS"); // Trigger UI Crying!
+            gameIsActive = false; 
+            if (wordManager != null) wordManager.CancelInvoke();
+            if (handleAnimator != null) handleAnimator.Play("LoadingLOS"); 
         }
     }
 }

@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 11e63d5ec4fcf194fbae05f0d4622c08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2877402500783357941
+    second: KommySad_0
+  - first:
+      213: -3093089804211634939
+    second: KommySad_1
+  - first:
+      213: -7096789924837627570
+    second: KommySad_2
+  - first:
+      213: -8334691783991812101
+    second: KommySad_3
+  - first:
+      213: -3201517495888846160
+    second: KommySad_4
+  - first:
+      213: -4160993955979073110
+    second: KommySad_5
+  - first:
+      213: -3591135937962259522
+    second: KommySad_6
+  - first:
+      213: 4297472426664307081
+    second: KommySad_7
+  - first:
+      213: -8911653722199593866
+    second: KommySad_8
+  - first:
+      213: 6654816412351952158
+    second: KommySad_9
+  - first:
+      213: -6272230654870156273
+    second: KommySad_10
+  - first:
+      213: -8565500870961460809
+    second: KommySad_11
+  - first:
+      213: 1728685541180387494
+    second: KommySad_12
+  - first:
+      213: 1583505604678250461
+    second: KommySad_13
+  - first:
+      213: -2998687558003965402
+    second: KommySad_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KommySad_0
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 3405
+        width: 790
+        height: 1222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff330f44569ee720800000000000000
+      internalID: 2877402500783357941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommySad_1
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 3399
+        width: 807
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d359106332315d0800000000000000
+      internalID: -3093089804211634939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommySad_2
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 3405
+        width: 816
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e496b7ce923238d90800000000000000
+      internalID: -7096789924837627570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommySad_3
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 3405
+        width: 816
+        height: 1236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff1dc64bf9355c80800000000000000
+      internalID: -8334691783991812101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommySad_4
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 3405
+        width: 810
+        height: 1236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2e853cccce193d0800000000000000
+      internalID: -3201517495888846160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommySad_5
+      rect:
+        serializedVersion: 2
+        x: 5146
+        y: 3405
+        width: 800
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9e15dfa0e2146c0800000000000000
+      internalID: -4160993955979073110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommySad_6
+      rect:
+        serializedVersion: 2
+        x: 6116
+        y: 3405
+        width: 783
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbce9d14e8b92ec0800000000000000
+      internalID: -3591135937962259522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommySad_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1809
+        width: 764
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989ac5f2760b3ab30800000000000000
+      internalID: 4297472426664307081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommySad_8
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1809
+        width: 744
+        height: 1219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c6107d722735480800000000000000
+      internalID: -8911653722199593866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommySad_9
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 1809
+        width: 727
+        height: 1215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e157dafa448aa5c50800000000000000
+      internalID: 6654816412351952158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommySad_10
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 1809
+        width: 715
+        height: 1212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c062b737f84f8a0800000000000000
+      internalID: -6272230654870156273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommySad_11
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 1809
+        width: 719
+        height: 1210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b90b0ff65a312980800000000000000
+      internalID: -8565500870961460809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommySad_12
+      rect:
+        serializedVersion: 2
+        x: 5214
+        y: 1809
+        width: 732
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0396a37568df710800000000000000
+      internalID: 1728685541180387494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommySad_13
+      rect:
+        serializedVersion: 2
+        x: 6148
+        y: 1809
+        width: 751
+        height: 1213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfefaa25fdb9f510800000000000000
+      internalID: 1583505604678250461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommySad_14
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 253
+        width: 769
+        height: 1217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6224ac0cd858266d0800000000000000
+      internalID: -2998687558003965402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KommySad_0: 2877402500783357941
+      KommySad_1: -3093089804211634939
+      KommySad_10: -6272230654870156273
+      KommySad_11: -8565500870961460809
+      KommySad_12: 1728685541180387494
+      KommySad_13: 1583505604678250461
+      KommySad_14: -2998687558003965402
+      KommySad_2: -7096789924837627570
+      KommySad_3: -8334691783991812101
+      KommySad_4: -3201517495888846160
+      KommySad_5: -4160993955979073110
+      KommySad_6: -3591135937962259522
+      KommySad_7: 4297472426664307081
+      KommySad_8: -8911653722199593866
+      KommySad_9: 6654816412351952158
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 2c16e6c6c88878e4688413f44d2a2b9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5173557770854673010
+    second: KommyVictory_0
+  - first:
+      213: 3505349865252532450
+    second: KommyVictory_1
+  - first:
+      213: -8796359963305309190
+    second: KommyVictory_2
+  - first:
+      213: 2675038680847307719
+    second: KommyVictory_3
+  - first:
+      213: 4751840461286034406
+    second: KommyVictory_4
+  - first:
+      213: 1825213792149879540
+    second: KommyVictory_5
+  - first:
+      213: 7871051352949982337
+    second: KommyVictory_6
+  - first:
+      213: -8625144429408976153
+    second: KommyVictory_7
+  - first:
+      213: 8719801606791275078
+    second: KommyVictory_8
+  - first:
+      213: -3040049436977336828
+    second: KommyVictory_9
+  - first:
+      213: -4306902840972886205
+    second: KommyVictory_10
+  - first:
+      213: 5069463465890230909
+    second: KommyVictory_11
+  - first:
+      213: -7871411459451603154
+    second: KommyVictory_12
+  - first:
+      213: -356229194614056400
+    second: KommyVictory_13
+  - first:
+      213: -2531392057476860054
+    second: KommyVictory_14
+  - first:
+      213: -4861973595422103197
+    second: KommyVictory_15
+  - first:
+      213: 1660057761590982912
+    second: KommyVictory_16
+  - first:
+      213: -6208239474288756368
+    second: KommyVictory_17
+  - first:
+      213: 4814995547566174850
+    second: KommyVictory_18
+  - first:
+      213: -6248939319328264372
+    second: KommyVictory_19
+  - first:
+      213: -1671904458165713976
+    second: KommyVictory_20
+  - first:
+      213: -7565541751762795302
+    second: KommyVictory_21
+  - first:
+      213: -2098480812079271663
+    second: KommyVictory_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KommyVictory_0
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 5113
+        width: 706
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a21c4c16b2cc740800000000000000
+      internalID: 5173557770854673010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_1
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 5113
+        width: 681
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e037db512185a030800000000000000
+      internalID: 3505349865252532450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_2
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 5113
+        width: 659
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb08bee73d0de580800000000000000
+      internalID: -8796359963305309190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_3
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 5113
+        width: 642
+        height: 1236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3555cd185af1520800000000000000
+      internalID: 2675038680847307719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_4
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 5113
+        width: 639
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb484429bde1f140800000000000000
+      internalID: 4751840461286034406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_5
+      rect:
+        serializedVersion: 2
+        x: 5021
+        y: 5113
+        width: 637
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fabc380646745910800000000000000
+      internalID: 1825213792149879540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_6
+      rect:
+        serializedVersion: 2
+        x: 5994
+        y: 5113
+        width: 636
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184017db0879b3d60800000000000000
+      internalID: 7871051352949982337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3533
+        width: 647
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e283a4e6d45d4880800000000000000
+      internalID: -8625144429408976153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_8
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 3533
+        width: 663
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642aca4ac55f20970800000000000000
+      internalID: 8719801606791275078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_9
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 3533
+        width: 686
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ee659d4239fc5d0800000000000000
+      internalID: -3040049436977336828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_10
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 3533
+        width: 711
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fb0b16faeca34c0800000000000000
+      internalID: -4306902840972886205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_11
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 3533
+        width: 735
+        height: 1223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72353eb92a5a5640800000000000000
+      internalID: 5069463465890230909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_12
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 3533
+        width: 755
+        height: 1218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27b27e6bf023c290800000000000000
+      internalID: -7871411459451603154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_13
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 3533
+        width: 771
+        height: 1213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ad7645f6b6e0bf0800000000000000
+      internalID: -356229194614056400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1929
+        width: 783
+        height: 1212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67b8dae550bedcd0800000000000000
+      internalID: -2531392057476860054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_15
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1929
+        width: 790
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369698956ccc68cb0800000000000000
+      internalID: -4861973595422103197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_16
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1929
+        width: 790
+        height: 1212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009b2422db5b90710800000000000000
+      internalID: 1660057761590982912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_17
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 1929
+        width: 784
+        height: 1214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079f57e3717e7d9a0800000000000000
+      internalID: -6208239474288756368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_18
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 1929
+        width: 779
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282f4c780fc42d240800000000000000
+      internalID: 4814995547566174850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_19
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 1929
+        width: 767
+        height: 1219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fa7702cce4749a0800000000000000
+      internalID: -6248939319328264372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_20
+      rect:
+        serializedVersion: 2
+        x: 6154
+        y: 1929
+        width: 751
+        height: 1222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c304a0e0c33cc8e0800000000000000
+      internalID: -1671904458165713976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 315
+        width: 730
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4cac85cdbc10790800000000000000
+      internalID: -7565541751762795302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyVictory_22
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 315
+        width: 706
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111ba04d1d2b0e2e0800000000000000
+      internalID: -2098480812079271663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KommyVictory_0: 5173557770854673010
+      KommyVictory_1: 3505349865252532450
+      KommyVictory_10: -4306902840972886205
+      KommyVictory_11: 5069463465890230909
+      KommyVictory_12: -7871411459451603154
+      KommyVictory_13: -356229194614056400
+      KommyVictory_14: -2531392057476860054
+      KommyVictory_15: -4861973595422103197
+      KommyVictory_16: 1660057761590982912
+      KommyVictory_17: -6208239474288756368
+      KommyVictory_18: 4814995547566174850
+      KommyVictory_19: -6248939319328264372
+      KommyVictory_2: -8796359963305309190
+      KommyVictory_20: -1671904458165713976
+      KommyVictory_21: -7565541751762795302
+      KommyVictory_22: -2098480812079271663
+      KommyVictory_3: 2675038680847307719
+      KommyVictory_4: 4751840461286034406
+      KommyVictory_5: 1825213792149879540
+      KommyVictory_6: 7871051352949982337
+      KommyVictory_7: -8625144429408976153
+      KommyVictory_8: 8719801606791275078
+      KommyVictory_9: -3040049436977336828
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

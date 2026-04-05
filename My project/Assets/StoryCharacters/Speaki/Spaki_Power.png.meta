@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 0a0558c84ee6dec47bf360b55b1fadee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3486901456027332010
+    second: Spaki_Power_0
+  - first:
+      213: -2122770076905309376
+    second: Spaki_Power_1
+  - first:
+      213: 6975025588781123306
+    second: Spaki_Power_2
+  - first:
+      213: -2623690380914421787
+    second: Spaki_Power_3
+  - first:
+      213: -5364364903909916872
+    second: Spaki_Power_4
+  - first:
+      213: 213844422644538365
+    second: Spaki_Power_5
+  - first:
+      213: -4267963299463315622
+    second: Spaki_Power_6
+  - first:
+      213: 2652487665746743135
+    second: Spaki_Power_7
+  - first:
+      213: 7345573937403719820
+    second: Spaki_Power_8
+  - first:
+      213: -3676162636317222715
+    second: Spaki_Power_9
+  - first:
+      213: 3422660016581440707
+    second: Spaki_Power_10
+  - first:
+      213: 6301100684083958052
+    second: Spaki_Power_11
+  - first:
+      213: -1327529116538091196
+    second: Spaki_Power_12
+  - first:
+      213: -3950102547414673943
+    second: Spaki_Power_13
+  - first:
+      213: 3636188759502533593
+    second: Spaki_Power_14
+  - first:
+      213: 3683291681685105612
+    second: Spaki_Power_15
+  - first:
+      213: -3279337055054454921
+    second: Spaki_Power_16
+  - first:
+      213: -1135722791662168242
+    second: Spaki_Power_17
+  - first:
+      213: 6811369282491177342
+    second: Spaki_Power_18
+  - first:
+      213: -4785177577508555460
+    second: Spaki_Power_19
+  - first:
+      213: 5013839908974748769
+    second: Spaki_Power_20
+  - first:
+      213: 5742371268396064775
+    second: Spaki_Power_21
+  - first:
+      213: -2997627915255214805
+    second: Spaki_Power_22
+  - first:
+      213: -7510590703048125379
+    second: Spaki_Power_23
+  - first:
+      213: 669167600014994500
+    second: Spaki_Power_24
+  - first:
+      213: 509455885865245545
+    second: Spaki_Power_25
+  - first:
+      213: -1294369111186816145
+    second: Spaki_Power_26
+  - first:
+      213: -1450736360527813257
+    second: Spaki_Power_27
+  - first:
+      213: 2477933762781290927
+    second: Spaki_Power_28
+  - first:
+      213: -2332592440343743372
+    second: Spaki_Power_29
+  - first:
+      213: -7959980038982338145
+    second: Spaki_Power_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spaki_Power_0
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 8406
+        width: 791
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652d2b2a9990c9fc0800000000000000
+      internalID: -3486901456027332010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_1
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 8406
+        width: 794
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bfa3aacd76a82e0800000000000000
+      internalID: -2122770076905309376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_2
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 8406
+        width: 797
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae60f8651d44cc060800000000000000
+      internalID: 6975025588781123306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_3
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 8406
+        width: 800
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef8cfcdf77c69bd0800000000000000
+      internalID: -2623690380914421787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_4
+      rect:
+        serializedVersion: 2
+        x: 4533
+        y: 8406
+        width: 803
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f70e0aa82fd85b0800000000000000
+      internalID: -5364364903909916872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_5
+      rect:
+        serializedVersion: 2
+        x: 5614
+        y: 8406
+        width: 804
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb1de09e5ab7f200800000000000000
+      internalID: 213844422644538365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 6829
+        width: 805
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fb515edf525c4c0800000000000000
+      internalID: -4267963299463315622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_7
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 6829
+        width: 806
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f80ff7a778fc420800000000000000
+      internalID: 2652487665746743135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_8
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 6829
+        width: 805
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80f05ad398b0f560800000000000000
+      internalID: 7345573937403719820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_9
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 6829
+        width: 804
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c89fb53f85abfcc0800000000000000
+      internalID: -3676162636317222715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_10
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 6829
+        width: 803
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4f44ba62bbf7f20800000000000000
+      internalID: 3422660016581440707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_11
+      rect:
+        serializedVersion: 2
+        x: 5731
+        y: 6829
+        width: 801
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4219bc000b1027750800000000000000
+      internalID: 6301100684083958052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_12
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 5339
+        width: 797
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44942c35d4ba39de0800000000000000
+      internalID: -1327529116538091196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_13
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 5339
+        width: 776
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e59bf269aa6e29c0800000000000000
+      internalID: -3950102547414673943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_14
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 5339
+        width: 772
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3ba625966567230800000000000000
+      internalID: 3636188759502533593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_15
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 5339
+        width: 769
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbedf2054ead1330800000000000000
+      internalID: 3683291681685105612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_16
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 5339
+        width: 768
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f14b6b2547d72d0800000000000000
+      internalID: -3279337055054454921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_17
+      rect:
+        serializedVersion: 2
+        x: 5762
+        y: 5339
+        width: 770
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4759a7632a1d30f0800000000000000
+      internalID: -1135722791662168242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3848
+        width: 771
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79d4e43648d68e50800000000000000
+      internalID: 6811369282491177342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_19
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 3847
+        width: 771
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c353071a852a79db0800000000000000
+      internalID: -4785177577508555460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_20
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 3847
+        width: 771
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164ed1f25dcb49540800000000000000
+      internalID: 5013839908974748769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_21
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 3847
+        width: 770
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70028258e3001bf40800000000000000
+      internalID: 5742371268396064775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_22
+      rect:
+        serializedVersion: 2
+        x: 4652
+        y: 3847
+        width: 770
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d0b6e0b494666d0800000000000000
+      internalID: -2997627915255214805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_23
+      rect:
+        serializedVersion: 2
+        x: 5762
+        y: 3847
+        width: 770
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3417736c8505c790800000000000000
+      internalID: -7510590703048125379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2358
+        width: 770
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c2816036c594900800000000000000
+      internalID: 669167600014994500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_25
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 2358
+        width: 772
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bdab1dd63f11700800000000000000
+      internalID: 509455885865245545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_26
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 2358
+        width: 775
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63c877b62a790ee0800000000000000
+      internalID: -1294369111186816145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_27
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 2358
+        width: 779
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7752ff767f2fddbe0800000000000000
+      internalID: -1450736360527813257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_28
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 2358
+        width: 782
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1a68be0a3636220800000000000000
+      internalID: 2477933762781290927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_29
+      rect:
+        serializedVersion: 2
+        x: 5762
+        y: 2358
+        width: 786
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474bc8bb887f0afd0800000000000000
+      internalID: -2332592440343743372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spaki_Power_30
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 781
+        width: 789
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99f14d0458788190800000000000000
+      internalID: -7959980038982338145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spaki_Power_0: -3486901456027332010
+      Spaki_Power_1: -2122770076905309376
+      Spaki_Power_10: 3422660016581440707
+      Spaki_Power_11: 6301100684083958052
+      Spaki_Power_12: -1327529116538091196
+      Spaki_Power_13: -3950102547414673943
+      Spaki_Power_14: 3636188759502533593
+      Spaki_Power_15: 3683291681685105612
+      Spaki_Power_16: -3279337055054454921
+      Spaki_Power_17: -1135722791662168242
+      Spaki_Power_18: 6811369282491177342
+      Spaki_Power_19: -4785177577508555460
+      Spaki_Power_2: 6975025588781123306
+      Spaki_Power_20: 5013839908974748769
+      Spaki_Power_21: 5742371268396064775
+      Spaki_Power_22: -2997627915255214805
+      Spaki_Power_23: -7510590703048125379
+      Spaki_Power_24: 669167600014994500
+      Spaki_Power_25: 509455885865245545
+      Spaki_Power_26: -1294369111186816145
+      Spaki_Power_27: -1450736360527813257
+      Spaki_Power_28: 2477933762781290927
+      Spaki_Power_29: -2332592440343743372
+      Spaki_Power_3: -2623690380914421787
+      Spaki_Power_30: -7959980038982338145
+      Spaki_Power_4: -5364364903909916872
+      Spaki_Power_5: 213844422644538365
+      Spaki_Power_6: -4267963299463315622
+      Spaki_Power_7: 2652487665746743135
+      Spaki_Power_8: 7345573937403719820
+      Spaki_Power_9: -3676162636317222715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

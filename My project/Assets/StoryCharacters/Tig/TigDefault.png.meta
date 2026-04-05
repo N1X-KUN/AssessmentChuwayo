@@ -1,0 +1,2444 @@
+fileFormatVersion: 2
+guid: 76d654508c7eaee44bd6c67b219a131b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6461231839760570206
+    second: TigDefault_0
+  - first:
+      213: 2265377503945164152
+    second: TigDefault_1
+  - first:
+      213: -4709128518234643500
+    second: TigDefault_2
+  - first:
+      213: -3340831919321964924
+    second: TigDefault_3
+  - first:
+      213: 8670648294373715811
+    second: TigDefault_4
+  - first:
+      213: -4948771250496212363
+    second: TigDefault_5
+  - first:
+      213: -2463676426962530399
+    second: TigDefault_6
+  - first:
+      213: -2189734605194354620
+    second: TigDefault_7
+  - first:
+      213: 2841045035558865272
+    second: TigDefault_8
+  - first:
+      213: 2851816951176830880
+    second: TigDefault_9
+  - first:
+      213: 6357805701794606776
+    second: TigDefault_10
+  - first:
+      213: -699910298117081319
+    second: TigDefault_11
+  - first:
+      213: 5877885062700377194
+    second: TigDefault_12
+  - first:
+      213: 7199567592920551016
+    second: TigDefault_13
+  - first:
+      213: -2497224336362688947
+    second: TigDefault_14
+  - first:
+      213: 6083780552682813588
+    second: TigDefault_15
+  - first:
+      213: -8659324802697900952
+    second: TigDefault_16
+  - first:
+      213: 338943425189833721
+    second: TigDefault_17
+  - first:
+      213: -4068839501118860529
+    second: TigDefault_18
+  - first:
+      213: -7738562280725583450
+    second: TigDefault_19
+  - first:
+      213: -1152946227671511018
+    second: TigDefault_20
+  - first:
+      213: -6882048549179558096
+    second: TigDefault_21
+  - first:
+      213: 3847119895373600300
+    second: TigDefault_22
+  - first:
+      213: -3966868360434669590
+    second: TigDefault_23
+  - first:
+      213: -5500272811280913372
+    second: TigDefault_24
+  - first:
+      213: 3250459202956244629
+    second: TigDefault_25
+  - first:
+      213: 1064916065270422126
+    second: TigDefault_26
+  - first:
+      213: 8222471268971447221
+    second: TigDefault_27
+  - first:
+      213: -7729302745296921771
+    second: TigDefault_28
+  - first:
+      213: 4371241755389939263
+    second: TigDefault_29
+  - first:
+      213: -2232605652265260165
+    second: TigDefault_30
+  - first:
+      213: 430651188161223092
+    second: TigDefault_31
+  - first:
+      213: 2756583875368521467
+    second: TigDefault_32
+  - first:
+      213: -6908747463918912184
+    second: TigDefault_33
+  - first:
+      213: 1291395897687637650
+    second: TigDefault_34
+  - first:
+      213: -8190677837877347182
+    second: TigDefault_35
+  - first:
+      213: -2311379931086883930
+    second: TigDefault_36
+  - first:
+      213: 5835016989013312083
+    second: TigDefault_37
+  - first:
+      213: 4041892617083789828
+    second: TigDefault_38
+  - first:
+      213: 8518322731159185439
+    second: TigDefault_39
+  - first:
+      213: -5204185821446290483
+    second: TigDefault_40
+  - first:
+      213: -5949830530227687570
+    second: TigDefault_41
+  - first:
+      213: 1831470404492404218
+    second: TigDefault_42
+  - first:
+      213: -1767535563432557492
+    second: TigDefault_43
+  - first:
+      213: 2473801725829469316
+    second: TigDefault_44
+  - first:
+      213: 2794947535222515532
+    second: TigDefault_45
+  - first:
+      213: -3964925635631759309
+    second: TigDefault_46
+  - first:
+      213: -3680119479313414773
+    second: TigDefault_47
+  - first:
+      213: -1895005650596040701
+    second: TigDefault_48
+  - first:
+      213: 2463008016108810170
+    second: TigDefault_49
+  - first:
+      213: 3732686499075265813
+    second: TigDefault_50
+  - first:
+      213: -6330269398639830729
+    second: TigDefault_51
+  - first:
+      213: 4098977242167133892
+    second: TigDefault_52
+  - first:
+      213: 6929209570660498580
+    second: TigDefault_53
+  - first:
+      213: -8430816279155675040
+    second: TigDefault_54
+  - first:
+      213: -962762241295668720
+    second: TigDefault_55
+  - first:
+      213: 9021528370281134269
+    second: TigDefault_56
+  - first:
+      213: -2166773416257441084
+    second: TigDefault_57
+  - first:
+      213: 3044432319612373785
+    second: TigDefault_58
+  - first:
+      213: 8144192527828827551
+    second: TigDefault_59
+  - first:
+      213: -5855781896059114812
+    second: TigDefault_60
+  - first:
+      213: 4921077975463700570
+    second: TigDefault_61
+  - first:
+      213: 6855582842553048922
+    second: TigDefault_62
+  - first:
+      213: 3507467796875105187
+    second: TigDefault_63
+  - first:
+      213: -8000435072188955317
+    second: TigDefault_64
+  - first:
+      213: 113626602315944189
+    second: TigDefault_65
+  - first:
+      213: -5288362460473726399
+    second: TigDefault_66
+  - first:
+      213: -4837995230336673551
+    second: TigDefault_67
+  - first:
+      213: 1730949730348541127
+    second: TigDefault_68
+  - first:
+      213: -3253725936490444243
+    second: TigDefault_69
+  - first:
+      213: 5561041785855336758
+    second: TigDefault_70
+  - first:
+      213: -6645195949954942992
+    second: TigDefault_71
+  - first:
+      213: -6082515749025883989
+    second: TigDefault_72
+  - first:
+      213: 3715408042035046876
+    second: TigDefault_73
+  - first:
+      213: -4717796553062708508
+    second: TigDefault_74
+  - first:
+      213: -1030341098882329034
+    second: TigDefault_75
+  - first:
+      213: 1539644388410559329
+    second: TigDefault_76
+  - first:
+      213: 6455825627776820441
+    second: TigDefault_77
+  - first:
+      213: 1877292335579453227
+    second: TigDefault_78
+  - first:
+      213: -2735281654976779296
+    second: TigDefault_79
+  - first:
+      213: 6588257271652983309
+    second: TigDefault_80
+  - first:
+      213: 2628559368116684053
+    second: TigDefault_81
+  - first:
+      213: 6341426898998774826
+    second: TigDefault_82
+  - first:
+      213: -4514507646472688639
+    second: TigDefault_83
+  - first:
+      213: -7132499585434311925
+    second: TigDefault_84
+  - first:
+      213: -398893444765097354
+    second: TigDefault_85
+  - first:
+      213: 2632785740394459375
+    second: TigDefault_86
+  - first:
+      213: -3460031136627163243
+    second: TigDefault_87
+  - first:
+      213: 527328910415784855
+    second: TigDefault_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TigDefault_0
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 21981
+        width: 951
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e575f5c0028eaa950800000000000000
+      internalID: 6461231839760570206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_1
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 21981
+        width: 952
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87500dc56dc307f10800000000000000
+      internalID: 2265377503945164152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_2
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 21981
+        width: 952
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d366fc0090d5aeb0800000000000000
+      internalID: -4709128518234643500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_3
+      rect:
+        serializedVersion: 2
+        x: 4043
+        y: 21981
+        width: 952
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e1782e11bf2a1d0800000000000000
+      internalID: -3340831919321964924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_4
+      rect:
+        serializedVersion: 2
+        x: 5307
+        y: 21981
+        width: 951
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fed764fa4545870800000000000000
+      internalID: 8670648294373715811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_5
+      rect:
+        serializedVersion: 2
+        x: 6513
+        y: 21981
+        width: 951
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572f18374ce625bb0800000000000000
+      internalID: -4948771250496212363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_6
+      rect:
+        serializedVersion: 2
+        x: 7776
+        y: 21981
+        width: 950
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af0561c7534fcdd0800000000000000
+      internalID: -2463676426962530399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 20189
+        width: 949
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440a2017aff7c91e0800000000000000
+      internalID: -2189734605194354620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_8
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 20189
+        width: 947
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8798f57486b6d6720800000000000000
+      internalID: 2841045035558865272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_9
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 20189
+        width: 946
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af15535860b39720800000000000000
+      internalID: 2851816951176830880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_10
+      rect:
+        serializedVersion: 2
+        x: 4043
+        y: 20189
+        width: 944
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8beab66c9967b3850800000000000000
+      internalID: 6357805701794606776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_11
+      rect:
+        serializedVersion: 2
+        x: 5307
+        y: 20189
+        width: 942
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917f71aca4b6946f0800000000000000
+      internalID: -699910298117081319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_12
+      rect:
+        serializedVersion: 2
+        x: 6513
+        y: 20189
+        width: 940
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64a4d87251729150800000000000000
+      internalID: 5877885062700377194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_13
+      rect:
+        serializedVersion: 2
+        x: 7776
+        y: 20189
+        width: 938
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e8170b4900ae360800000000000000
+      internalID: 7199567592920551016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 18416
+        width: 936
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e24aa62b3185dd0800000000000000
+      internalID: -2497224336362688947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_15
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 18416
+        width: 934
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498b61eed2eed6450800000000000000
+      internalID: 6083780552682813588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_16
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 18416
+        width: 931
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c467498f5e3d780800000000000000
+      internalID: -8659324802697900952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_17
+      rect:
+        serializedVersion: 2
+        x: 4066
+        y: 18416
+        width: 929
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbe469df3b24b400800000000000000
+      internalID: 338943425189833721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_18
+      rect:
+        serializedVersion: 2
+        x: 5322
+        y: 18416
+        width: 927
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f039bb708049887c0800000000000000
+      internalID: -4068839501118860529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_19
+      rect:
+        serializedVersion: 2
+        x: 6513
+        y: 18416
+        width: 925
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a96d193b9a1b9490800000000000000
+      internalID: -7738562280725583450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_20
+      rect:
+        serializedVersion: 2
+        x: 7802
+        y: 18416
+        width: 924
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6105386b389efffe0800000000000000
+      internalID: -1152946227671511018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 16681
+        width: 921
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037f823ae4d0e70a0800000000000000
+      internalID: -6882048549179558096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_22
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 16681
+        width: 920
+        height: 1231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26d4147927b36530800000000000000
+      internalID: 3847119895373600300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_23
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 16681
+        width: 920
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae72e895e3ad2f8c0800000000000000
+      internalID: -3966868360434669590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_24
+      rect:
+        serializedVersion: 2
+        x: 4043
+        y: 16681
+        width: 919
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cacd3150b1ba3b0800000000000000
+      internalID: -5500272811280913372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_25
+      rect:
+        serializedVersion: 2
+        x: 5307
+        y: 16681
+        width: 919
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5963b156c63fb1d20800000000000000
+      internalID: 3250459202956244629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_26
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 16685
+        width: 920
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6adc0ae48757ce00800000000000000
+      internalID: 1064916065270422126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_27
+      rect:
+        serializedVersion: 2
+        x: 7776
+        y: 16681
+        width: 920
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b306eafd061c1270800000000000000
+      internalID: 8222471268971447221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_28
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 14889
+        width: 921
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b1021da100cb490800000000000000
+      internalID: -7729302745296921771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_29
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 14889
+        width: 923
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e4f597735c9ac30800000000000000
+      internalID: 4371241755389939263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_30
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 14889
+        width: 924
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b2335fcf03401e0800000000000000
+      internalID: -2232605652265260165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_31
+      rect:
+        serializedVersion: 2
+        x: 4036
+        y: 14889
+        width: 926
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9137459faf9f500800000000000000
+      internalID: 430651188161223092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_32
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 14889
+        width: 928
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe09ecfd6a514620800000000000000
+      internalID: 2756583875368521467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_33
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 14891
+        width: 930
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d7b3229c23f10a0800000000000000
+      internalID: -6908747463918912184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_34
+      rect:
+        serializedVersion: 2
+        x: 7802
+        y: 14889
+        width: 932
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e71121ab5fbe110800000000000000
+      internalID: 1291395897687637650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_35
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 12964
+        width: 934
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cf7ab07edd45e80800000000000000
+      internalID: -8190677837877347182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_36
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 12964
+        width: 937
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3799ae2345cefd0800000000000000
+      internalID: -2311379931086883930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_37
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 12964
+        width: 939
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352028849052af050800000000000000
+      internalID: 5835016989013312083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_38
+      rect:
+        serializedVersion: 2
+        x: 4066
+        y: 12964
+        width: 942
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402ad8d9befa71830800000000000000
+      internalID: 4041892617083789828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_39
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 12964
+        width: 944
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18e0e85469273670800000000000000
+      internalID: 8518322731159185439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_40
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 12964
+        width: 946
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3c19f719407c7b0800000000000000
+      internalID: -5204185821446290483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_41
+      rect:
+        serializedVersion: 2
+        x: 7795
+        y: 12964
+        width: 947
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f210408a4fd6da0800000000000000
+      internalID: -5949830530227687570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_42
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 11116
+        width: 948
+        height: 1231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5296c11a0ba6910800000000000000
+      internalID: 1831470404492404218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_43
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 11116
+        width: 950
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c448bb515c37877e0800000000000000
+      internalID: -1767535563432557492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_44
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 11116
+        width: 951
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48450d81095b45220800000000000000
+      internalID: 2473801725829469316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_45
+      rect:
+        serializedVersion: 2
+        x: 4043
+        y: 11116
+        width: 952
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47aaca99f5a9c620800000000000000
+      internalID: 2794947535222515532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_46
+      rect:
+        serializedVersion: 2
+        x: 5286
+        y: 11116
+        width: 952
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33044573421c9f8c0800000000000000
+      internalID: -3964925635631759309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_47
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 11116
+        width: 952
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b854788e4d69decc0800000000000000
+      internalID: -3680119479313414773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_48
+      rect:
+        serializedVersion: 2
+        x: 7891
+        y: 11113
+        width: 951
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3007dd4a66693b5e0800000000000000
+      internalID: -1895005650596040701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 9268
+        width: 951
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfea17bdbc5e2220800000000000000
+      internalID: 2463008016108810170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_50
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 9268
+        width: 950
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5151743289a2dc330800000000000000
+      internalID: 3732686499075265813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_51
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 9268
+        width: 949
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7391c89658d5628a0800000000000000
+      internalID: -6330269398639830729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_52
+      rect:
+        serializedVersion: 2
+        x: 4066
+        y: 9268
+        width: 947
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c648cd951e72e830800000000000000
+      internalID: 4098977242167133892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_53
+      rect:
+        serializedVersion: 2
+        x: 5322
+        y: 9268
+        width: 946
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cb479546f792060800000000000000
+      internalID: 6929209570660498580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_54
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 9268
+        width: 944
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06078523349bffa80800000000000000
+      internalID: -8430816279155675040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_55
+      rect:
+        serializedVersion: 2
+        x: 7900
+        y: 9268
+        width: 942
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01aa96ca7d493a2f0800000000000000
+      internalID: -962762241295668720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_56
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 7588
+        width: 940
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db837b13148e23d70800000000000000
+      internalID: 9021528370281134269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_57
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 7588
+        width: 938
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c23737de031ee1e0800000000000000
+      internalID: -2166773416257441084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_58
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 7588
+        width: 936
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bc639801fff3a20800000000000000
+      internalID: 3044432319612373785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_59
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 7588
+        width: 934
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9db0ab44fbf50170800000000000000
+      internalID: 8144192527828827551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_60
+      rect:
+        serializedVersion: 2
+        x: 5337
+        y: 7588
+        width: 931
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caab3b04651cbea0800000000000000
+      internalID: -5855781896059114812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_61
+      rect:
+        serializedVersion: 2
+        x: 6567
+        y: 7588
+        width: 929
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58238f785e2b4440800000000000000
+      internalID: 4921077975463700570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_62
+      rect:
+        serializedVersion: 2
+        x: 7915
+        y: 7588
+        width: 927
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f13aad54ce32f50800000000000000
+      internalID: 6855582842553048922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_63
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 6004
+        width: 925
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3dcddb0670da030800000000000000
+      internalID: 3507467796875105187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_64
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 6004
+        width: 924
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45c991a0beb8f090800000000000000
+      internalID: -8000435072188955317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_65
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 6004
+        width: 921
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df09314facea39100800000000000000
+      internalID: 113626602315944189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_66
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 6004
+        width: 920
+        height: 1231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ae3f37c56fb96b0800000000000000
+      internalID: -5288362460473726399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_67
+      rect:
+        serializedVersion: 2
+        x: 5348
+        y: 6004
+        width: 920
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f89fb688fcfbdcb0800000000000000
+      internalID: -4837995230336673551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_68
+      rect:
+        serializedVersion: 2
+        x: 6577
+        y: 6004
+        width: 919
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4ab79db91950810800000000000000
+      internalID: 1730949730348541127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_69
+      rect:
+        serializedVersion: 2
+        x: 7923
+        y: 6004
+        width: 919
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a030fef7178d2d0800000000000000
+      internalID: -3253725936490444243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_70
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 4258
+        width: 920
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631e2036a0acc2d40800000000000000
+      internalID: 5561041785855336758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_71
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 4258
+        width: 920
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f73214cd7587c3a0800000000000000
+      internalID: -6645195949954942992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_72
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 4258
+        width: 921
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8d79e1720969ba0800000000000000
+      internalID: -6082515749025883989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_73
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 4258
+        width: 923
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9e02ddde7cf8330800000000000000
+      internalID: 3715408042035046876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_74
+      rect:
+        serializedVersion: 2
+        x: 5286
+        y: 4258
+        width: 924
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea822ce705078eb0800000000000000
+      internalID: -4717796553062708508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_75
+      rect:
+        serializedVersion: 2
+        x: 6577
+        y: 4258
+        width: 926
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63612a3ca3e73b1f0800000000000000
+      internalID: -1030341098882329034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_76
+      rect:
+        serializedVersion: 2
+        x: 7923
+        y: 4258
+        width: 928
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b82a3f96aed5510800000000000000
+      internalID: 1539644388410559329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_77
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2552
+        width: 930
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4208b3433b79950800000000000000
+      internalID: 6455825627776820441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_78
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 2552
+        width: 932
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27d6c1de6b7d0a10800000000000000
+      internalID: 1877292335579453227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_79
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 2552
+        width: 934
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb6772b3d35a0ad0800000000000000
+      internalID: -2735281654976779296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_80
+      rect:
+        serializedVersion: 2
+        x: 4093
+        y: 2552
+        width: 937
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02a2cd15113e6b50800000000000000
+      internalID: 6588257271652983309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_81
+      rect:
+        serializedVersion: 2
+        x: 5348
+        y: 2552
+        width: 939
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515ce9f81d48a7420800000000000000
+      internalID: 2628559368116684053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_82
+      rect:
+        serializedVersion: 2
+        x: 6577
+        y: 2552
+        width: 942
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ccde39a26410850800000000000000
+      internalID: 6341426898998774826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_83
+      rect:
+        serializedVersion: 2
+        x: 7923
+        y: 2552
+        width: 944
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ce534e63f3951c0800000000000000
+      internalID: -4514507646472688639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_84
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 672
+        width: 946
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b032199aa65440d90800000000000000
+      internalID: -7132499585434311925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_85
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 672
+        width: 947
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6726b818688d67af0800000000000000
+      internalID: -398893444765097354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_86
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 672
+        width: 948
+        height: 1231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0fce98ea8898420800000000000000
+      internalID: 2632785740394459375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_87
+      rect:
+        serializedVersion: 2
+        x: 4082
+        y: 672
+        width: 950
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ffb8563008bffc0800000000000000
+      internalID: -3460031136627163243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigDefault_88
+      rect:
+        serializedVersion: 2
+        x: 5348
+        y: 672
+        width: 951
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b6021a9d2715700800000000000000
+      internalID: 527328910415784855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TigDefault_0: 6461231839760570206
+      TigDefault_1: 2265377503945164152
+      TigDefault_10: 6357805701794606776
+      TigDefault_11: -699910298117081319
+      TigDefault_12: 5877885062700377194
+      TigDefault_13: 7199567592920551016
+      TigDefault_14: -2497224336362688947
+      TigDefault_15: 6083780552682813588
+      TigDefault_16: -8659324802697900952
+      TigDefault_17: 338943425189833721
+      TigDefault_18: -4068839501118860529
+      TigDefault_19: -7738562280725583450
+      TigDefault_2: -4709128518234643500
+      TigDefault_20: -1152946227671511018
+      TigDefault_21: -6882048549179558096
+      TigDefault_22: 3847119895373600300
+      TigDefault_23: -3966868360434669590
+      TigDefault_24: -5500272811280913372
+      TigDefault_25: 3250459202956244629
+      TigDefault_26: 1064916065270422126
+      TigDefault_27: 8222471268971447221
+      TigDefault_28: -7729302745296921771
+      TigDefault_29: 4371241755389939263
+      TigDefault_3: -3340831919321964924
+      TigDefault_30: -2232605652265260165
+      TigDefault_31: 430651188161223092
+      TigDefault_32: 2756583875368521467
+      TigDefault_33: -6908747463918912184
+      TigDefault_34: 1291395897687637650
+      TigDefault_35: -8190677837877347182
+      TigDefault_36: -2311379931086883930
+      TigDefault_37: 5835016989013312083
+      TigDefault_38: 4041892617083789828
+      TigDefault_39: 8518322731159185439
+      TigDefault_4: 8670648294373715811
+      TigDefault_40: -5204185821446290483
+      TigDefault_41: -5949830530227687570
+      TigDefault_42: 1831470404492404218
+      TigDefault_43: -1767535563432557492
+      TigDefault_44: 2473801725829469316
+      TigDefault_45: 2794947535222515532
+      TigDefault_46: -3964925635631759309
+      TigDefault_47: -3680119479313414773
+      TigDefault_48: -1895005650596040701
+      TigDefault_49: 2463008016108810170
+      TigDefault_5: -4948771250496212363
+      TigDefault_50: 3732686499075265813
+      TigDefault_51: -6330269398639830729
+      TigDefault_52: 4098977242167133892
+      TigDefault_53: 6929209570660498580
+      TigDefault_54: -8430816279155675040
+      TigDefault_55: -962762241295668720
+      TigDefault_56: 9021528370281134269
+      TigDefault_57: -2166773416257441084
+      TigDefault_58: 3044432319612373785
+      TigDefault_59: 8144192527828827551
+      TigDefault_6: -2463676426962530399
+      TigDefault_60: -5855781896059114812
+      TigDefault_61: 4921077975463700570
+      TigDefault_62: 6855582842553048922
+      TigDefault_63: 3507467796875105187
+      TigDefault_64: -8000435072188955317
+      TigDefault_65: 113626602315944189
+      TigDefault_66: -5288362460473726399
+      TigDefault_67: -4837995230336673551
+      TigDefault_68: 1730949730348541127
+      TigDefault_69: -3253725936490444243
+      TigDefault_7: -2189734605194354620
+      TigDefault_70: 5561041785855336758
+      TigDefault_71: -6645195949954942992
+      TigDefault_72: -6082515749025883989
+      TigDefault_73: 3715408042035046876
+      TigDefault_74: -4717796553062708508
+      TigDefault_75: -1030341098882329034
+      TigDefault_76: 1539644388410559329
+      TigDefault_77: 6455825627776820441
+      TigDefault_78: 1877292335579453227
+      TigDefault_79: -2735281654976779296
+      TigDefault_8: 2841045035558865272
+      TigDefault_80: 6588257271652983309
+      TigDefault_81: 2628559368116684053
+      TigDefault_82: 6341426898998774826
+      TigDefault_83: -4514507646472688639
+      TigDefault_84: -7132499585434311925
+      TigDefault_85: -398893444765097354
+      TigDefault_86: 2632785740394459375
+      TigDefault_87: -3460031136627163243
+      TigDefault_88: 527328910415784855
+      TigDefault_9: 2851816951176830880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

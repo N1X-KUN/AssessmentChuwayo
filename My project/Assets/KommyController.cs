@@ -12,7 +12,7 @@ public class KommyController : MonoBehaviour
     public int currentHp;
 
     public enum CharacterState { Running, Attacking, Jumping, Stunned, Dead, Victory, Ability }
-    public CharacterState currentState = CharacterState.Running;
+    public CharacterState currentState = CharacterState.Running; // She starts idle now!
 
     [Header("Jump Settings")]
     public float jumpHeight = 2.5f;   
@@ -24,16 +24,16 @@ public class KommyController : MonoBehaviour
     [Header("Ultimate Ability Settings")]
     public float maxCharge = 100f;
     public float currentCharge = 0f;
-    public float passiveChargeRate = 2f; // Charges 2% per second passively
+    public float passiveChargeRate = 2f; 
     public float drainRate = 20f; 
     public float slowMotionSpeed = 0.4f; 
     public bool isAbilityActive = false;
 
     [Header("UI Visuals (DRAG THESE IN)")]
-    public Slider hpSlider; // Drag your new HP Slider here
+    public Slider hpSlider; 
     public Slider abilitySlider; 
-    public Image abilityFillImage; // Drag the "Fill" of the ability slider here to change its color
-    public RectTransform abilityBarRect; // Drag the Ability Slider object itself here to make it pulse
+    public Image abilityFillImage; 
+    public RectTransform abilityBarRect; 
     public Color chargingColor = Color.cyan;
     public Color fullColor = Color.yellow;
     public float pulseSpeed = 2f;
@@ -44,24 +44,24 @@ public class KommyController : MonoBehaviour
 
     void Start()
     {
-        Time.timeScale = 1f; 
-        Time.fixedDeltaTime = 0.02f;
-
+        // REMOVED THE BROKEN TIME CODE HERE!
         anim = GetComponent<Animator>(); 
         currentHp = maxHp;
         currentCharge = 0f;
         originalY = transform.position.y; 
         
+        // NEW: Bulletproof Slider Math. Forces the UI to match the script perfectly.
+        if (hpSlider != null) { hpSlider.maxValue = maxHp; hpSlider.value = currentHp; }
+        if (abilitySlider != null) { abilitySlider.maxValue = maxCharge; abilitySlider.value = currentCharge; }
+        
         UpdateUI();
-        StartGame();
+        // REMOVED StartGame() - The LevelManager will call it when the 3 seconds are up!
     }
 
     void Update()
     {   
-        
-        // Stops all movement/attacking if the game is counting down or finished!
         LevelManager lm = FindAnyObjectByType<LevelManager>();
-        if (lm != null && !lm.gameIsActive) return;
+        if (lm != null && !lm.gameIsActive) return; // Freezes her during intro
 
         if (!isAbilityActive && currentState != CharacterState.Dead)
         {
@@ -69,14 +69,13 @@ public class KommyController : MonoBehaviour
             {
                 currentCharge += passiveChargeRate * Time.deltaTime;
                 if (abilityFillImage != null) abilityFillImage.color = chargingColor;
-                if (abilityBarRect != null) abilityBarRect.localScale = Vector3.one; // Normal size
+                if (abilityBarRect != null) abilityBarRect.localScale = Vector3.one; 
             }
             else
             {
                 currentCharge = maxCharge;
-                if (abilityFillImage != null) abilityFillImage.color = fullColor; // Turns Yellow!
+                if (abilityFillImage != null) abilityFillImage.color = fullColor; 
                 
-                // Pulses the bar big and small!
                 if (abilityBarRect != null)
                 {
                     float scale = 1f + Mathf.PingPong(Time.time * pulseSpeed, pulseAmount);
@@ -96,10 +95,7 @@ public class KommyController : MonoBehaviour
             currentCharge -= drainRate * Time.unscaledDeltaTime; 
             UpdateUI();
 
-            if (currentCharge <= 0f)
-            {
-                StopAbility();
-            }
+            if (currentCharge <= 0f) StopAbility();
         }
 
         if (currentState == CharacterState.Attacking)
@@ -112,22 +108,17 @@ public class KommyController : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyDown(KeyCode.Space) && !isAbilityActive)
-        {
-            TryJump();
-        }
+        if (Input.GetKeyDown(KeyCode.Space) && !isAbilityActive) TryJump();
     }
 
     private void StartAbility()
     {
         isAbilityActive = true;
         currentState = CharacterState.Ability;
-        
-        if (abilityBarRect != null) abilityBarRect.localScale = Vector3.one; // Reset scale
+        if (abilityBarRect != null) abilityBarRect.localScale = Vector3.one; 
         
         Time.timeScale = slowMotionSpeed; 
         Time.fixedDeltaTime = 0.02f * Time.timeScale; 
-
         PlayAnimation("KommyAbility"); 
     }
 
@@ -135,21 +126,18 @@ public class KommyController : MonoBehaviour
     {
         isAbilityActive = false;
         currentCharge = 0f;
-        
         Time.timeScale = 1f; 
         Time.fixedDeltaTime = 0.02f;
-
         currentState = CharacterState.Running;
         PlayAnimation("KommyMove");
         UpdateUI();
     }
 
-    // Called when hitting the thief
     public void AddAttackBonusCharge()
     {
         if (!isAbilityActive)
         {
-            currentCharge += 10f; // Instantly adds 10%
+            currentCharge += 10f; 
             if (currentCharge > maxCharge) currentCharge = maxCharge;
             UpdateUI();
         }
@@ -157,8 +145,9 @@ public class KommyController : MonoBehaviour
 
     public void UpdateUI()
     {
-        if (abilitySlider != null) abilitySlider.value = currentCharge / maxCharge; 
-        if (hpSlider != null) hpSlider.value = (float)currentHp / (float)maxHp;
+        // NEW: Assigns the raw numbers instead of fractions to fix the visual bug!
+        if (abilitySlider != null) abilitySlider.value = currentCharge; 
+        if (hpSlider != null) hpSlider.value = currentHp;
     }
 
     public void TryJump()
@@ -179,24 +168,20 @@ public class KommyController : MonoBehaviour
     public void TriggerSwipeAnimation()
     {
         if (currentState == CharacterState.Dead || currentState == CharacterState.Stunned || isAbilityActive) return;
-        
         attackTimer = timeToStopAttacking;
         currentState = CharacterState.Attacking;
         PlayAnimation("KommyAttack"); 
     }
 
-    // Only poison/traps trigger this now
     public void HitByTrap()
     {
         if (currentState == CharacterState.Dead || currentState == CharacterState.Victory || currentState == CharacterState.Stunned || isAbilityActive) return;
         TriggerStun();
     }
 
-    // NO HP LOST HERE! Just the bonk visual
     public void TriggerBonk()
     {
         if (currentState == CharacterState.Dead || currentState == CharacterState.Victory || currentState == CharacterState.Stunned || isAbilityActive) return;
-        
         PlayAnimation("KommyBonk"); 
         StartCoroutine(ResetRunAfterBonk());
     }
@@ -205,9 +190,7 @@ public class KommyController : MonoBehaviour
     {
         yield return new WaitForSeconds(1.0f); 
         if (currentState != CharacterState.Dead && currentState != CharacterState.Stunned && !isAbilityActive)
-        {
             PlayAnimation("KommyMove");
-        }
     }
 
     private void TriggerStun()
@@ -261,7 +244,7 @@ public class KommyController : MonoBehaviour
     {
         currentState = CharacterState.Stunned;
         currentHp--; 
-        UpdateUI(); // Update visual HP bar
+        UpdateUI(); 
 
         PlayAnimation("KommyStun"); 
         yield return new WaitForSeconds(1.0f);

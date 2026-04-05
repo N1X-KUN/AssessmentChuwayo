@@ -17,6 +17,8 @@ public class ScrollingBackground : MonoBehaviour
 
     void Update()
     {
+        LevelManager lm = FindAnyObjectByType<LevelManager>();
+        if (lm != null && !lm.gameIsActive) return;
         // --- THE FIX ---
         // Added "Ability" so the background knows it is allowed to keep moving (in slow-mo) while she sleeps!
         if (kommy != null && (kommy.currentState == KommyController.CharacterState.Running || 

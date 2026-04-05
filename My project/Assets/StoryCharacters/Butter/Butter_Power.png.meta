@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: fb6d7372f492ae24abf71ceb302dfeef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5699975122045305397
+    second: Butter_Power_0
+  - first:
+      213: -4287524041550558477
+    second: Butter_Power_1
+  - first:
+      213: -4606349528467107628
+    second: Butter_Power_2
+  - first:
+      213: 7790290390078870748
+    second: Butter_Power_3
+  - first:
+      213: 5697855537815380233
+    second: Butter_Power_4
+  - first:
+      213: -5748573974227724009
+    second: Butter_Power_5
+  - first:
+      213: -2296183307385922585
+    second: Butter_Power_6
+  - first:
+      213: -8057671155107752202
+    second: Butter_Power_7
+  - first:
+      213: 6761236177663184639
+    second: Butter_Power_8
+  - first:
+      213: -223044865592864234
+    second: Butter_Power_9
+  - first:
+      213: -3422651362055858379
+    second: Butter_Power_10
+  - first:
+      213: -1817057120130779896
+    second: Butter_Power_11
+  - first:
+      213: 9072299594791373819
+    second: Butter_Power_12
+  - first:
+      213: -1452398421944048865
+    second: Butter_Power_13
+  - first:
+      213: 1684048740165571197
+    second: Butter_Power_14
+  - first:
+      213: -6636889093623840463
+    second: Butter_Power_15
+  - first:
+      213: 4833360790742383093
+    second: Butter_Power_16
+  - first:
+      213: 8283238140401599653
+    second: Butter_Power_17
+  - first:
+      213: -1048060090393385507
+    second: Butter_Power_18
+  - first:
+      213: -4743853936240549317
+    second: Butter_Power_19
+  - first:
+      213: 4892496804030268337
+    second: Butter_Power_20
+  - first:
+      213: 8239658253287197161
+    second: Butter_Power_21
+  - first:
+      213: -4942593863418575598
+    second: Butter_Power_22
+  - first:
+      213: 3417700126956875144
+    second: Butter_Power_23
+  - first:
+      213: 2545155369854722717
+    second: Butter_Power_24
+  - first:
+      213: 3718003814051858205
+    second: Butter_Power_25
+  - first:
+      213: -2826703162907679951
+    second: Butter_Power_26
+  - first:
+      213: -2222146093054439369
+    second: Butter_Power_27
+  - first:
+      213: 8722777844446301173
+    second: Butter_Power_28
+  - first:
+      213: 7903277859562472410
+    second: Butter_Power_29
+  - first:
+      213: -3982160290058933021
+    second: Butter_Power_30
+  - first:
+      213: 7511788822430891321
+    second: Butter_Power_31
+  - first:
+      213: 6015619019290611552
+    second: Butter_Power_32
+  - first:
+      213: -8323227347110582545
+    second: Butter_Power_33
+  - first:
+      213: -5626846054370950368
+    second: Butter_Power_34
+  - first:
+      213: 6226934656253033065
+    second: Butter_Power_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Butter_Power_0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 9821
+        width: 899
+        height: 1212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532031a7c216a1f40800000000000000
+      internalID: 5699975122045305397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_1
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 9817
+        width: 888
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa8e69b997af74c0800000000000000
+      internalID: -4287524041550558477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_2
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 9821
+        width: 881
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d01e646285f210c0800000000000000
+      internalID: -4606349528467107628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_3
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 9821
+        width: 875
+        height: 1223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd45ac5c5dbac1c60800000000000000
+      internalID: 7790290390078870748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_4
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 9821
+        width: 866
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9016af05c69d21f40800000000000000
+      internalID: 5697855537815380233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_5
+      rect:
+        serializedVersion: 2
+        x: 6161
+        y: 9821
+        width: 863
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719d91d7d66f830b0800000000000000
+      internalID: -5748573974227724009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_6
+      rect:
+        serializedVersion: 2
+        x: 7455
+        y: 9821
+        width: 857
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb941892715220e0800000000000000
+      internalID: -2296183307385922585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_7
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 8232
+        width: 851
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f614ea96c66d2090800000000000000
+      internalID: -8057671155107752202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_8
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 8228
+        width: 843
+        height: 1230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe42242b7cb4dd50800000000000000
+      internalID: 6761236177663184639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_9
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 8232
+        width: 833
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612dc5160e597ecf0800000000000000
+      internalID: -223044865592864234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_10
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 8232
+        width: 822
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53757ae58bc4080d0800000000000000
+      internalID: -3422651362055858379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_11
+      rect:
+        serializedVersion: 2
+        x: 5080
+        y: 8232
+        width: 810
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805b20a2d2488c6e0800000000000000
+      internalID: -1817057120130779896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_12
+      rect:
+        serializedVersion: 2
+        x: 6226
+        y: 8232
+        width: 798
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbc5731a6847ed70800000000000000
+      internalID: 9072299594791373819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_13
+      rect:
+        serializedVersion: 2
+        x: 7526
+        y: 8232
+        width: 786
+        height: 1222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13efa3945b08dbe0800000000000000
+      internalID: -1452398421944048865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 6459
+        width: 789
+        height: 1219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72530e1861fe5710800000000000000
+      internalID: 1684048740165571197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_15
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 6455
+        width: 825
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13103e8788805e3a0800000000000000
+      internalID: -6636889093623840463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_16
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 6459
+        width: 837
+        height: 1213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9308be70c831340800000000000000
+      internalID: 4833360790742383093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_17
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 6459
+        width: 827
+        height: 1210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4ca94c339f3f270800000000000000
+      internalID: 8283238140401599653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_18
+      rect:
+        serializedVersion: 2
+        x: 5081
+        y: 6459
+        width: 809
+        height: 1207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5a6d096ea8471f0800000000000000
+      internalID: -1048060090393385507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_19
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 6459
+        width: 796
+        height: 1204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b322b00aaf17a2eb0800000000000000
+      internalID: -4743853936240549317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_20
+      rect:
+        serializedVersion: 2
+        x: 7526
+        y: 6459
+        width: 791
+        height: 1201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b345f4fbe3a5e340800000000000000
+      internalID: 4892496804030268337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 4513
+        width: 789
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e98cc99685295270800000000000000
+      internalID: 8239658253287197161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_22
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 4513
+        width: 797
+        height: 1197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21509e57111686bb0800000000000000
+      internalID: -4942593863418575598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_23
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 4513
+        width: 808
+        height: 1195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d6210682c1e6f20800000000000000
+      internalID: 3417700126956875144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_24
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 4513
+        width: 818
+        height: 1193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d926e56f255325320800000000000000
+      internalID: 2545155369854722717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_25
+      rect:
+        serializedVersion: 2
+        x: 5081
+        y: 4513
+        width: 828
+        height: 1193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17cb1225c0099330800000000000000
+      internalID: 3718003814051858205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_26
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 4520
+        width: 839
+        height: 1192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1332a69237885c8d0800000000000000
+      internalID: -2826703162907679951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_27
+      rect:
+        serializedVersion: 2
+        x: 7526
+        y: 4513
+        width: 849
+        height: 1193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730d77cd6e95921e0800000000000000
+      internalID: -2222146093054439369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_28
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2568
+        width: 858
+        height: 1193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb8ed8fb388d0970800000000000000
+      internalID: 8722777844446301173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_29
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2568
+        width: 865
+        height: 1194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad34e6407551ead60800000000000000
+      internalID: 7903277859562472410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_30
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 2568
+        width: 871
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecee5880568cb8c0800000000000000
+      internalID: -3982160290058933021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_31
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 2568
+        width: 875
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d3eb4822c3f3860800000000000000
+      internalID: 7511788822430891321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_32
+      rect:
+        serializedVersion: 2
+        x: 5081
+        y: 2568
+        width: 878
+        height: 1201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f86ec30a5cb7350800000000000000
+      internalID: 6015619019290611552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_33
+      rect:
+        serializedVersion: 2
+        x: 6228
+        y: 2568
+        width: 899
+        height: 1204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe628ae73d4fd7c80800000000000000
+      internalID: -8323227347110582545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_34
+      rect:
+        serializedVersion: 2
+        x: 7526
+        y: 2568
+        width: 910
+        height: 1208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023496b635d69e1b0800000000000000
+      internalID: -5626846054370950368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Power_35
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 591
+        width: 903
+        height: 1212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96af78104148a6650800000000000000
+      internalID: 6226934656253033065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Butter_Power_0: 5699975122045305397
+      Butter_Power_1: -4287524041550558477
+      Butter_Power_10: -3422651362055858379
+      Butter_Power_11: -1817057120130779896
+      Butter_Power_12: 9072299594791373819
+      Butter_Power_13: -1452398421944048865
+      Butter_Power_14: 1684048740165571197
+      Butter_Power_15: -6636889093623840463
+      Butter_Power_16: 4833360790742383093
+      Butter_Power_17: 8283238140401599653
+      Butter_Power_18: -1048060090393385507
+      Butter_Power_19: -4743853936240549317
+      Butter_Power_2: -4606349528467107628
+      Butter_Power_20: 4892496804030268337
+      Butter_Power_21: 8239658253287197161
+      Butter_Power_22: -4942593863418575598
+      Butter_Power_23: 3417700126956875144
+      Butter_Power_24: 2545155369854722717
+      Butter_Power_25: 3718003814051858205
+      Butter_Power_26: -2826703162907679951
+      Butter_Power_27: -2222146093054439369
+      Butter_Power_28: 8722777844446301173
+      Butter_Power_29: 7903277859562472410
+      Butter_Power_3: 7790290390078870748
+      Butter_Power_30: -3982160290058933021
+      Butter_Power_31: 7511788822430891321
+      Butter_Power_32: 6015619019290611552
+      Butter_Power_33: -8323227347110582545
+      Butter_Power_34: -5626846054370950368
+      Butter_Power_35: 6226934656253033065
+      Butter_Power_4: 5697855537815380233
+      Butter_Power_5: -5748573974227724009
+      Butter_Power_6: -2296183307385922585
+      Butter_Power_7: -8057671155107752202
+      Butter_Power_8: 6761236177663184639
+      Butter_Power_9: -223044865592864234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

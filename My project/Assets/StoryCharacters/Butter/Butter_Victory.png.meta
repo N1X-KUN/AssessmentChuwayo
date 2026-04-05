@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: ff4114ada2eddf54f8ceaa566fa122bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8663618033145417560
+    second: Butter_Victory_0
+  - first:
+      213: -1118138584127801080
+    second: Butter_Victory_1
+  - first:
+      213: 2859112995461977323
+    second: Butter_Victory_2
+  - first:
+      213: 5565294756277184681
+    second: Butter_Victory_3
+  - first:
+      213: 520375194552899363
+    second: Butter_Victory_4
+  - first:
+      213: 3816660055914488210
+    second: Butter_Victory_5
+  - first:
+      213: -8557988119652814009
+    second: Butter_Victory_6
+  - first:
+      213: 1812586604914534062
+    second: Butter_Victory_7
+  - first:
+      213: 3627010027557283665
+    second: Butter_Victory_8
+  - first:
+      213: -4988092185239028219
+    second: Butter_Victory_9
+  - first:
+      213: 6172266401571829321
+    second: Butter_Victory_10
+  - first:
+      213: -422292141528578771
+    second: Butter_Victory_11
+  - first:
+      213: 6337693611548608912
+    second: Butter_Victory_12
+  - first:
+      213: 4521649540515883932
+    second: Butter_Victory_13
+  - first:
+      213: 5069050902886577185
+    second: Butter_Victory_14
+  - first:
+      213: -8282929546978687328
+    second: Butter_Victory_15
+  - first:
+      213: -1811588216623147599
+    second: Butter_Victory_16
+  - first:
+      213: -5928504443383590678
+    second: Butter_Victory_17
+  - first:
+      213: 1701270052684948392
+    second: Butter_Victory_18
+  - first:
+      213: 5528056134809265752
+    second: Butter_Victory_19
+  - first:
+      213: 5828211318142087235
+    second: Butter_Victory_20
+  - first:
+      213: -4189029267787326526
+    second: Butter_Victory_21
+  - first:
+      213: -7691582103889112151
+    second: Butter_Victory_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Butter_Victory_0
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 6020
+        width: 974
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f0d4703ba5b3870800000000000000
+      internalID: 8663618033145417560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_1
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 6022
+        width: 985
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8097763c1e29b70f0800000000000000
+      internalID: -1118138584127801080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_2
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 6020
+        width: 1008
+        height: 1231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4d6330f1c9da720800000000000000
+      internalID: 2859112995461977323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_3
+      rect:
+        serializedVersion: 2
+        x: 4422
+        y: 6009
+        width: 1022
+        height: 1231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8ee3a3816eb3d40800000000000000
+      internalID: 5565294756277184681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_4
+      rect:
+        serializedVersion: 2
+        x: 5819
+        y: 6012
+        width: 1027
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327104d7b7eb83700800000000000000
+      internalID: 520375194552899363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_5
+      rect:
+        serializedVersion: 2
+        x: 7345
+        y: 6020
+        width: 1048
+        height: 1224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291a43d691087f430800000000000000
+      internalID: 3816660055914488210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_6
+      rect:
+        serializedVersion: 2
+        x: 8807
+        y: 6020
+        width: 1062
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743b418b52beb3980800000000000000
+      internalID: -8557988119652814009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4198
+        width: 1071
+        height: 1217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6ef86e9e9972910800000000000000
+      internalID: 1812586604914534062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_8
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 4200
+        width: 1074
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157e451476ab55230800000000000000
+      internalID: 3627010027557283665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_9
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 4198
+        width: 1073
+        height: 1217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50efce7e59cb6cab0800000000000000
+      internalID: -4988092185239028219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_10
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 4198
+        width: 1064
+        height: 1219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94674c4179b48a550800000000000000
+      internalID: 6172266401571829321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_11
+      rect:
+        serializedVersion: 2
+        x: 5819
+        y: 4192
+        width: 1048
+        height: 1223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2500c0e887b32af0800000000000000
+      internalID: -422292141528578771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_12
+      rect:
+        serializedVersion: 2
+        x: 7350
+        y: 4198
+        width: 1043
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0990e9bd2c204f750800000000000000
+      internalID: 6337693611548608912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_13
+      rect:
+        serializedVersion: 2
+        x: 8807
+        y: 4198
+        width: 1029
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9be145ec4020ce30800000000000000
+      internalID: 4521649540515883932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2304
+        width: 1009
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1247dee60f2e85640800000000000000
+      internalID: 5069050902886577185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_15
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 2304
+        width: 982
+        height: 1224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a68fbc367f1d0d80800000000000000
+      internalID: -8282929546978687328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_16
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 2304
+        width: 953
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5d4ec7d12fbd6e0800000000000000
+      internalID: -1811588216623147599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_17
+      rect:
+        serializedVersion: 2
+        x: 4520
+        y: 2304
+        width: 924
+        height: 1217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0dbca8e98b9bda0800000000000000
+      internalID: -5928504443383590678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_18
+      rect:
+        serializedVersion: 2
+        x: 5947
+        y: 2304
+        width: 899
+        height: 1214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3eb4569102c9710800000000000000
+      internalID: 1701270052684948392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_19
+      rect:
+        serializedVersion: 2
+        x: 7419
+        y: 2304
+        width: 904
+        height: 1214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856a9b504c997bc40800000000000000
+      internalID: 5528056134809265752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_20
+      rect:
+        serializedVersion: 2
+        x: 8807
+        y: 2304
+        width: 971
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34035cd8057f1e050800000000000000
+      internalID: 5828211318142087235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 454
+        width: 996
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb52db43149dd5c0800000000000000
+      internalID: -4189029267787326526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Butter_Victory_22
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 454
+        width: 974
+        height: 1225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a310f804d2024590800000000000000
+      internalID: -7691582103889112151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Butter_Victory_0: 8663618033145417560
+      Butter_Victory_1: -1118138584127801080
+      Butter_Victory_10: 6172266401571829321
+      Butter_Victory_11: -422292141528578771
+      Butter_Victory_12: 6337693611548608912
+      Butter_Victory_13: 4521649540515883932
+      Butter_Victory_14: 5069050902886577185
+      Butter_Victory_15: -8282929546978687328
+      Butter_Victory_16: -1811588216623147599
+      Butter_Victory_17: -5928504443383590678
+      Butter_Victory_18: 1701270052684948392
+      Butter_Victory_19: 5528056134809265752
+      Butter_Victory_2: 2859112995461977323
+      Butter_Victory_20: 5828211318142087235
+      Butter_Victory_21: -4189029267787326526
+      Butter_Victory_22: -7691582103889112151
+      Butter_Victory_3: 5565294756277184681
+      Butter_Victory_4: 520375194552899363
+      Butter_Victory_5: 3816660055914488210
+      Butter_Victory_6: -8557988119652814009
+      Butter_Victory_7: 1812586604914534062
+      Butter_Victory_8: 3627010027557283665
+      Butter_Victory_9: -4988092185239028219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 3b22daa9cec9b0b4eb6af5953ff07b84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2126116026412667842
+    second: KommyHappy_0
+  - first:
+      213: -28491906209768300
+    second: KommyHappy_1
+  - first:
+      213: 7856020580467273494
+    second: KommyHappy_2
+  - first:
+      213: -7053209244121658108
+    second: KommyHappy_3
+  - first:
+      213: -6808705706183591193
+    second: KommyHappy_4
+  - first:
+      213: 6913798704494874176
+    second: KommyHappy_5
+  - first:
+      213: -9038721455158020511
+    second: KommyHappy_6
+  - first:
+      213: -8943920304568684159
+    second: KommyHappy_7
+  - first:
+      213: -4457669921043661659
+    second: KommyHappy_8
+  - first:
+      213: -5397922020040545309
+    second: KommyHappy_9
+  - first:
+      213: 5899998374675537312
+    second: KommyHappy_10
+  - first:
+      213: -328165166152644944
+    second: KommyHappy_11
+  - first:
+      213: -5532697524182384595
+    second: KommyHappy_12
+  - first:
+      213: 3576635754733228169
+    second: KommyHappy_13
+  - first:
+      213: 2744660585220322885
+    second: KommyHappy_14
+  - first:
+      213: -9183123189340078927
+    second: KommyHappy_15
+  - first:
+      213: 5834113297742772415
+    second: KommyHappy_16
+  - first:
+      213: 4950297073511295289
+    second: KommyHappy_17
+  - first:
+      213: 1775508259892267515
+    second: KommyHappy_18
+  - first:
+      213: 7187621442194553614
+    second: KommyHappy_19
+  - first:
+      213: 5177970594123779736
+    second: KommyHappy_20
+  - first:
+      213: -8918187139313876045
+    second: KommyHappy_21
+  - first:
+      213: -1051685180046783710
+    second: KommyHappy_22
+  - first:
+      213: 8626867707420644558
+    second: KommyHappy_23
+  - first:
+      213: 968583472921927578
+    second: KommyHappy_24
+  - first:
+      213: -1437232004449710275
+    second: KommyHappy_25
+  - first:
+      213: -7809641299732704827
+    second: KommyHappy_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KommyHappy_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 5181
+        width: 763
+        height: 1219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c39799e24b718d10800000000000000
+      internalID: 2126116026412667842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_1
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 5168
+        width: 753
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c946323c6ca9ff0800000000000000
+      internalID: -28491906209768300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_2
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 5181
+        width: 750
+        height: 1236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fe8ee4811360d60800000000000000
+      internalID: 7856020580467273494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_3
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 5181
+        width: 754
+        height: 1238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d80addf87fd1e90800000000000000
+      internalID: -7053209244121658108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_4
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 5185
+        width: 763
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea70cafb3e9281a0800000000000000
+      internalID: -6808705706183591193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_5
+      rect:
+        serializedVersion: 2
+        x: 5399
+        y: 5169
+        width: 773
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e09f57a4fb2ff50800000000000000
+      internalID: 6913798704494874176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_6
+      rect:
+        serializedVersion: 2
+        x: 6419
+        y: 5181
+        width: 782
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166ba99c9b2009280800000000000000
+      internalID: -9038721455158020511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 3593
+        width: 790
+        height: 1207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181b7c2bedfc0e380800000000000000
+      internalID: -8943920304568684159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_8
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 3593
+        width: 796
+        height: 1201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acbf3613dc2322c0800000000000000
+      internalID: -4457669921043661659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_9
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 3593
+        width: 797
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb693ea58ab615b0800000000000000
+      internalID: -5397922020040545309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_10
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 3593
+        width: 795
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0addae1234101e150800000000000000
+      internalID: 5899998374675537312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_11
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 3593
+        width: 788
+        height: 1203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b680d3258f127bf0800000000000000
+      internalID: -328165166152644944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_12
+      rect:
+        serializedVersion: 2
+        x: 5399
+        y: 3593
+        width: 778
+        height: 1208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d200d6d4ae8e733b0800000000000000
+      internalID: -5532697524182384595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_13
+      rect:
+        serializedVersion: 2
+        x: 6436
+        y: 3593
+        width: 765
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980d5d3e443c2a130800000000000000
+      internalID: 3576635754733228169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2004
+        width: 754
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546b21ba24ef61620800000000000000
+      internalID: 2744660585220322885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_15
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 2004
+        width: 750
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc7bb21d1efe8080800000000000000
+      internalID: -9183123189340078927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_16
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 2004
+        width: 753
+        height: 1238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb83753422fe6f050800000000000000
+      internalID: 5834113297742772415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_17
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 2004
+        width: 760
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939eb47e5fcf2b440800000000000000
+      internalID: 4950297073511295289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_18
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 2004
+        width: 771
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf986a6fa5fd3a810800000000000000
+      internalID: 1775508259892267515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_19
+      rect:
+        serializedVersion: 2
+        x: 5399
+        y: 2004
+        width: 781
+        height: 1218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bbcf9be9f8fb360800000000000000
+      internalID: 7187621442194553614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_20
+      rect:
+        serializedVersion: 2
+        x: 6436
+        y: 2004
+        width: 788
+        height: 1209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e8a2042d8dbd740800000000000000
+      internalID: 5177970594123779736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 369
+        width: 794
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b34db02c0c3c3480800000000000000
+      internalID: -8918187139313876045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_22
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 369
+        width: 797
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bc4cb96e9a761f0800000000000000
+      internalID: -1051685180046783710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_23
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 369
+        width: 797
+        height: 1200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec49819097ac8b770800000000000000
+      internalID: 8626867707420644558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_24
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 369
+        width: 790
+        height: 1202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f53de6989117d00800000000000000
+      internalID: 968583472921927578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_25
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 369
+        width: 780
+        height: 1207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fc3f25b1ded0ce0800000000000000
+      internalID: -1437232004449710275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyHappy_26
+      rect:
+        serializedVersion: 2
+        x: 5399
+        y: 369
+        width: 768
+        height: 1214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1563a7d949e9390800000000000000
+      internalID: -7809641299732704827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KommyHappy_0: 2126116026412667842
+      KommyHappy_1: -28491906209768300
+      KommyHappy_10: 5899998374675537312
+      KommyHappy_11: -328165166152644944
+      KommyHappy_12: -5532697524182384595
+      KommyHappy_13: 3576635754733228169
+      KommyHappy_14: 2744660585220322885
+      KommyHappy_15: -9183123189340078927
+      KommyHappy_16: 5834113297742772415
+      KommyHappy_17: 4950297073511295289
+      KommyHappy_18: 1775508259892267515
+      KommyHappy_19: 7187621442194553614
+      KommyHappy_2: 7856020580467273494
+      KommyHappy_20: 5177970594123779736
+      KommyHappy_21: -8918187139313876045
+      KommyHappy_22: -1051685180046783710
+      KommyHappy_23: 8626867707420644558
+      KommyHappy_24: 968583472921927578
+      KommyHappy_25: -1437232004449710275
+      KommyHappy_26: -7809641299732704827
+      KommyHappy_3: -7053209244121658108
+      KommyHappy_4: -6808705706183591193
+      KommyHappy_5: 6913798704494874176
+      KommyHappy_6: -9038721455158020511
+      KommyHappy_7: -8943920304568684159
+      KommyHappy_8: -4457669921043661659
+      KommyHappy_9: -5397922020040545309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

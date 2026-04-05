@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 1c10ac628d42cdb42926ae41c800497d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2256661025951859296
+    second: Speaki_Victory_0
+  - first:
+      213: 3705318157733745073
+    second: Speaki_Victory_1
+  - first:
+      213: -155570605787436304
+    second: Speaki_Victory_2
+  - first:
+      213: -5286243127780450059
+    second: Speaki_Victory_3
+  - first:
+      213: -7778738380556082361
+    second: Speaki_Victory_4
+  - first:
+      213: -7333104993226971216
+    second: Speaki_Victory_5
+  - first:
+      213: 7667201972500390255
+    second: Speaki_Victory_6
+  - first:
+      213: 7194711930630168117
+    second: Speaki_Victory_7
+  - first:
+      213: -1829787602152789889
+    second: Speaki_Victory_8
+  - first:
+      213: 7574592198570662326
+    second: Speaki_Victory_9
+  - first:
+      213: 3290544138137448265
+    second: Speaki_Victory_10
+  - first:
+      213: -2145483617002467651
+    second: Speaki_Victory_11
+  - first:
+      213: 4205419244435605336
+    second: Speaki_Victory_12
+  - first:
+      213: -59411552067659876
+    second: Speaki_Victory_13
+  - first:
+      213: -6216449441731031039
+    second: Speaki_Victory_14
+  - first:
+      213: 1544446073199768084
+    second: Speaki_Victory_15
+  - first:
+      213: 5417575150784957223
+    second: Speaki_Victory_16
+  - first:
+      213: -7744144219745284725
+    second: Speaki_Victory_17
+  - first:
+      213: -3092793833686352885
+    second: Speaki_Victory_18
+  - first:
+      213: 2046278006014581198
+    second: Speaki_Victory_19
+  - first:
+      213: 6193280844666640141
+    second: Speaki_Victory_20
+  - first:
+      213: 5474293189251395154
+    second: Speaki_Victory_21
+  - first:
+      213: -4589931625864769367
+    second: Speaki_Victory_22
+  - first:
+      213: 7253473880430947750
+    second: Speaki_Victory_23
+  - first:
+      213: 5317983550748030026
+    second: Speaki_Victory_24
+  - first:
+      213: 8533012533544078050
+    second: Speaki_Victory_25
+  - first:
+      213: 4773608682463359095
+    second: Speaki_Victory_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Speaki_Victory_0
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 7208
+        width: 1119
+        height: 1173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062445e2f35415f10800000000000000
+      internalID: 2256661025951859296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_1
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 7206
+        width: 1128
+        height: 1175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1568b9b3feb6330800000000000000
+      internalID: 3705318157733745073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_2
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 7208
+        width: 1135
+        height: 1177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa2c88bb5d47ddf0800000000000000
+      internalID: -155570605787436304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_3
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 7219
+        width: 1139
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0eb4c02ed73a6b0800000000000000
+      internalID: -5286243127780450059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_4
+      rect:
+        serializedVersion: 2
+        x: 4731
+        y: 7208
+        width: 1140
+        height: 1186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743e14a08ae5c0490800000000000000
+      internalID: -7778738380556082361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_5
+      rect:
+        serializedVersion: 2
+        x: 5869
+        y: 7208
+        width: 1137
+        height: 1192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b720127cd39b3a90800000000000000
+      internalID: -7333104993226971216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 5606
+        width: 1131
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f616f08429f576a60800000000000000
+      internalID: 7667201972500390255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_7
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 5606
+        width: 1123
+        height: 1204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ed976b160c8d360800000000000000
+      internalID: 7194711930630168117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_8
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 5606
+        width: 1111
+        height: 1209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78e447ded94b96e0800000000000000
+      internalID: -1829787602152789889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_9
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 5606
+        width: 1097
+        height: 1214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9df32097b5e1960800000000000000
+      internalID: 7574592198570662326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_10
+      rect:
+        serializedVersion: 2
+        x: 4731
+        y: 5606
+        width: 1082
+        height: 1218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f2d67a57c5aad20800000000000000
+      internalID: 3290544138137448265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_11
+      rect:
+        serializedVersion: 2
+        x: 5869
+        y: 5606
+        width: 1066
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbec5218406b932e0800000000000000
+      internalID: -2145483617002467651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_12
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3921
+        width: 1051
+        height: 1221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8570d248586ac5a30800000000000000
+      internalID: 4205419244435605336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_13
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 3921
+        width: 1038
+        height: 1221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97d377128dec2ff0800000000000000
+      internalID: -59411552067659876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_14
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 3921
+        width: 1027
+        height: 1219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100527d3b2cbab9a0800000000000000
+      internalID: -6216449441731031039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_15
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 3921
+        width: 1018
+        height: 1216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412b1df4589fe6510800000000000000
+      internalID: 1544446073199768084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_16
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 3929
+        width: 1013
+        height: 1213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b458665e71f2b40800000000000000
+      internalID: 5417575150784957223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_17
+      rect:
+        serializedVersion: 2
+        x: 5932
+        y: 3921
+        width: 1012
+        height: 1208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d00b4ccd5478490800000000000000
+      internalID: -7744144219745284725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2434
+        width: 1016
+        height: 1203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c3b9305603415d0800000000000000
+      internalID: -3092793833686352885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_19
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 2434
+        width: 1023
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9913c3107d56c10800000000000000
+      internalID: 2046278006014581198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_20
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 2434
+        width: 1033
+        height: 1193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0716946d14f2f550800000000000000
+      internalID: 6193280844666640141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_21
+      rect:
+        serializedVersion: 2
+        x: 3715
+        y: 2434
+        width: 1044
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e6badc6a898fb40800000000000000
+      internalID: 5474293189251395154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_22
+      rect:
+        serializedVersion: 2
+        x: 4877
+        y: 2434
+        width: 1058
+        height: 1183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0dff831894d40c0800000000000000
+      internalID: -4589931625864769367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_23
+      rect:
+        serializedVersion: 2
+        x: 5933
+        y: 2434
+        width: 1073
+        height: 1179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad29ae401489a460800000000000000
+      internalID: 7253473880430947750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_24
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 839
+        width: 1088
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44f4bf0dd54dc940800000000000000
+      internalID: 5317983550748030026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_25
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 839
+        width: 1101
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eac9dd70b95b6670800000000000000
+      internalID: 8533012533544078050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Speaki_Victory_26
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 839
+        width: 1114
+        height: 1174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770f2f61ec34f3240800000000000000
+      internalID: 4773608682463359095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Speaki_Victory_0: 2256661025951859296
+      Speaki_Victory_1: 3705318157733745073
+      Speaki_Victory_10: 3290544138137448265
+      Speaki_Victory_11: -2145483617002467651
+      Speaki_Victory_12: 4205419244435605336
+      Speaki_Victory_13: -59411552067659876
+      Speaki_Victory_14: -6216449441731031039
+      Speaki_Victory_15: 1544446073199768084
+      Speaki_Victory_16: 5417575150784957223
+      Speaki_Victory_17: -7744144219745284725
+      Speaki_Victory_18: -3092793833686352885
+      Speaki_Victory_19: 2046278006014581198
+      Speaki_Victory_2: -155570605787436304
+      Speaki_Victory_20: 6193280844666640141
+      Speaki_Victory_21: 5474293189251395154
+      Speaki_Victory_22: -4589931625864769367
+      Speaki_Victory_23: 7253473880430947750
+      Speaki_Victory_24: 5317983550748030026
+      Speaki_Victory_25: 8533012533544078050
+      Speaki_Victory_26: 4773608682463359095
+      Speaki_Victory_3: -5286243127780450059
+      Speaki_Victory_4: -7778738380556082361
+      Speaki_Victory_5: -7333104993226971216
+      Speaki_Victory_6: 7667201972500390255
+      Speaki_Victory_7: 7194711930630168117
+      Speaki_Victory_8: -1829787602152789889
+      Speaki_Victory_9: 7574592198570662326
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

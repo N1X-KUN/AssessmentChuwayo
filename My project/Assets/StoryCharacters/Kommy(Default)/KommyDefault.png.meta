@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: f1528e3ddcae7ce4d9c3a2facf49d817
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8323114341102198940
+    second: KommyDefault_0
+  - first:
+      213: 9178211344548237893
+    second: KommyDefault_1
+  - first:
+      213: -8187162719307439916
+    second: KommyDefault_2
+  - first:
+      213: -8598139874481177356
+    second: KommyDefault_3
+  - first:
+      213: 7909724591024650420
+    second: KommyDefault_4
+  - first:
+      213: 2526631407899517789
+    second: KommyDefault_5
+  - first:
+      213: 5644180056300700433
+    second: KommyDefault_6
+  - first:
+      213: -5035310152294699291
+    second: KommyDefault_7
+  - first:
+      213: 590572114168978321
+    second: KommyDefault_8
+  - first:
+      213: 2411891538090810808
+    second: KommyDefault_9
+  - first:
+      213: -8404623803500151585
+    second: KommyDefault_10
+  - first:
+      213: 6624561665137627939
+    second: KommyDefault_11
+  - first:
+      213: -5765980618081336873
+    second: KommyDefault_12
+  - first:
+      213: -5758144796095456383
+    second: KommyDefault_13
+  - first:
+      213: 4591416584054446378
+    second: KommyDefault_14
+  - first:
+      213: 6199837410016343175
+    second: KommyDefault_15
+  - first:
+      213: 2144138418810969485
+    second: KommyDefault_16
+  - first:
+      213: 2454985657082603159
+    second: KommyDefault_17
+  - first:
+      213: 6883751089632095132
+    second: KommyDefault_18
+  - first:
+      213: -1735536352024264465
+    second: KommyDefault_19
+  - first:
+      213: -2556063415880908607
+    second: KommyDefault_20
+  - first:
+      213: -1537724386089956579
+    second: KommyDefault_21
+  - first:
+      213: -7353769249751482921
+    second: KommyDefault_22
+  - first:
+      213: 1346424542189823041
+    second: KommyDefault_23
+  - first:
+      213: 1187237155620761047
+    second: KommyDefault_24
+  - first:
+      213: -1644716887358820184
+    second: KommyDefault_25
+  - first:
+      213: -7431630264576002255
+    second: KommyDefault_26
+  - first:
+      213: -4492399927390272726
+    second: KommyDefault_27
+  - first:
+      213: -5176334643574873879
+    second: KommyDefault_28
+  - first:
+      213: 2361591283960533286
+    second: KommyDefault_29
+  - first:
+      213: -956933352809009100
+    second: KommyDefault_30
+  - first:
+      213: -8689212742361816329
+    second: KommyDefault_31
+  - first:
+      213: 6840034747107352031
+    second: KommyDefault_32
+  - first:
+      213: -4072986852845627994
+    second: KommyDefault_33
+  - first:
+      213: -5433681838406903017
+    second: KommyDefault_34
+  - first:
+      213: 6686815837352974821
+    second: KommyDefault_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KommyDefault_0
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 8190
+        width: 743
+        height: 1223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c902b5e3564a18370800000000000000
+      internalID: 8323114341102198940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_1
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 8190
+        width: 738
+        height: 1226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5421241f69e8f5f70800000000000000
+      internalID: 9178211344548237893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_2
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 8190
+        width: 732
+        height: 1228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0eb5d52ea516e80800000000000000
+      internalID: -8187162719307439916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_3
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 8190
+        width: 728
+        height: 1231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc7d6cc6554da880800000000000000
+      internalID: -8598139874481177356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_4
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 8190
+        width: 725
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b83237ab9cf4cd60800000000000000
+      internalID: 7909724591024650420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_5
+      rect:
+        serializedVersion: 2
+        x: 4791
+        y: 8190
+        width: 724
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53223af0e5601320800000000000000
+      internalID: 2526631407899517789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_6
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 8190
+        width: 724
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113c5286bd7245e40800000000000000
+      internalID: 5644180056300700433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 6489
+        width: 726
+        height: 1236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee6e8e381cfe1ab0800000000000000
+      internalID: -5035310152294699291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_8
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 6489
+        width: 729
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b1b477532223800800000000000000
+      internalID: 590572114168978321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_9
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 6489
+        width: 735
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd5cac3392c87120800000000000000
+      internalID: 2411891538090810808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_10
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 6489
+        width: 740
+        height: 1237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcb4992e27cc5b80800000000000000
+      internalID: -8404623803500151585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_11
+      rect:
+        serializedVersion: 2
+        x: 3861
+        y: 6489
+        width: 746
+        height: 1236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323d23b6cbb2feb50800000000000000
+      internalID: 6624561665137627939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_12
+      rect:
+        serializedVersion: 2
+        x: 4791
+        y: 6489
+        width: 754
+        height: 1235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d189756d2f1bffa0800000000000000
+      internalID: -5765980618081336873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_13
+      rect:
+        serializedVersion: 2
+        x: 5754
+        y: 6489
+        width: 761
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b577fd0d5f610b0800000000000000
+      internalID: -5758144796095456383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 4872
+        width: 769
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29176c8e0df7bf30800000000000000
+      internalID: 4591416584054446378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_15
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 4880
+        width: 775
+        height: 1229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784b339b64f3a0650800000000000000
+      internalID: 6199837410016343175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_16
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 4860
+        width: 782
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dde72288281cd10800000000000000
+      internalID: 2144138418810969485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_17
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 4880
+        width: 789
+        height: 1224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7966613b27cd11220800000000000000
+      internalID: 2454985657082603159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_18
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4872
+        width: 793
+        height: 1221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9baab3f42ff78f50800000000000000
+      internalID: 6883751089632095132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_19
+      rect:
+        serializedVersion: 2
+        x: 4958
+        y: 4857
+        width: 798
+        height: 1218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe001d212e22ae7e0800000000000000
+      internalID: -1735536352024264465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_20
+      rect:
+        serializedVersion: 2
+        x: 5868
+        y: 4860
+        width: 801
+        height: 1215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c00c09add9078cd0800000000000000
+      internalID: -2556063415880908607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3388
+        width: 804
+        height: 1213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b07ac61d7e8aae0800000000000000
+      internalID: -1537724386089956579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_22
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 3388
+        width: 805
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd3f5c44d922f990800000000000000
+      internalID: -7353769249751482921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_23
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3391
+        width: 806
+        height: 1210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144a71accf57fa210800000000000000
+      internalID: 1346424542189823041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_24
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 3393
+        width: 805
+        height: 1208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddabec17e9e97010800000000000000
+      internalID: 1187237155620761047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_25
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 3393
+        width: 804
+        height: 1208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a034ec74bacc29e0800000000000000
+      internalID: -1644716887358820184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_26
+      rect:
+        serializedVersion: 2
+        x: 5068
+        y: 3393
+        width: 802
+        height: 1208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137b7e916ab8dd890800000000000000
+      internalID: -7431630264576002255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_27
+      rect:
+        serializedVersion: 2
+        x: 5871
+        y: 3393
+        width: 798
+        height: 1208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2389ea511ac7a1c0800000000000000
+      internalID: -4492399927390272726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_28
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1826
+        width: 794
+        height: 1209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0eb2b2117f928b0800000000000000
+      internalID: -5176334643574873879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_29
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1825
+        width: 789
+        height: 1210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6215021b2ce06c020800000000000000
+      internalID: 2361591283960533286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_30
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 1826
+        width: 783
+        height: 1211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43078188f2a48b2f0800000000000000
+      internalID: -956933352809009100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_31
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 1826
+        width: 776
+        height: 1213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2e9b95c07b96780800000000000000
+      internalID: -8689212742361816329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_32
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 1826
+        width: 768
+        height: 1215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd99a8cc5facee50800000000000000
+      internalID: 6840034747107352031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_33
+      rect:
+        serializedVersion: 2
+        x: 5014
+        y: 1826
+        width: 760
+        height: 1218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5dc457908d977c0800000000000000
+      internalID: -4072986852845627994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_34
+      rect:
+        serializedVersion: 2
+        x: 5868
+        y: 1826
+        width: 752
+        height: 1220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bd347282fa794b0800000000000000
+      internalID: -5433681838406903017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KommyDefault_35
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 338
+        width: 745
+        height: 1223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e951e763975ccc50800000000000000
+      internalID: 6686815837352974821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KommyDefault_0: 8323114341102198940
+      KommyDefault_1: 9178211344548237893
+      KommyDefault_10: -8404623803500151585
+      KommyDefault_11: 6624561665137627939
+      KommyDefault_12: -5765980618081336873
+      KommyDefault_13: -5758144796095456383
+      KommyDefault_14: 4591416584054446378
+      KommyDefault_15: 6199837410016343175
+      KommyDefault_16: 2144138418810969485
+      KommyDefault_17: 2454985657082603159
+      KommyDefault_18: 6883751089632095132
+      KommyDefault_19: -1735536352024264465
+      KommyDefault_2: -8187162719307439916
+      KommyDefault_20: -2556063415880908607
+      KommyDefault_21: -1537724386089956579
+      KommyDefault_22: -7353769249751482921
+      KommyDefault_23: 1346424542189823041
+      KommyDefault_24: 1187237155620761047
+      KommyDefault_25: -1644716887358820184
+      KommyDefault_26: -7431630264576002255
+      KommyDefault_27: -4492399927390272726
+      KommyDefault_28: -5176334643574873879
+      KommyDefault_29: 2361591283960533286
+      KommyDefault_3: -8598139874481177356
+      KommyDefault_30: -956933352809009100
+      KommyDefault_31: -8689212742361816329
+      KommyDefault_32: 6840034747107352031
+      KommyDefault_33: -4072986852845627994
+      KommyDefault_34: -5433681838406903017
+      KommyDefault_35: 6686815837352974821
+      KommyDefault_4: 7909724591024650420
+      KommyDefault_5: 2526631407899517789
+      KommyDefault_6: 5644180056300700433
+      KommyDefault_7: -5035310152294699291
+      KommyDefault_8: 590572114168978321
+      KommyDefault_9: 2411891538090810808
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

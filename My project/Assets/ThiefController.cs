@@ -18,15 +18,15 @@ public class ThiefController : MonoBehaviour
 
     [Header("Flight & Escape Settings")]
     public float flightHeightOffset = 3f; 
-    public float escapeDistance = 2f;     
+    public float escapeDistance = 2f;    
     public float escapeSpeed = 2f;        
     public float escapeLimitX = 7f; 
     
     [Header("Tumble Settings")]
-    public float tumblePenaltyDistance = 3f; // NEW: How far back he slides when hit
+    public float tumblePenaltyDistance = 3f; 
 
     private bool isDefeated = false;
-    [HideInInspector] public bool isFlying = false; // NEW: Tracks if he is in the air!
+    [HideInInspector] public bool isFlying = false; 
     
     private float groundY; 
     private float airY; 
@@ -47,7 +47,9 @@ public class ThiefController : MonoBehaviour
 
     void Update()
     {
-        // Smoothly slides the thief to his target X position
+        LevelManager lm = FindAnyObjectByType<LevelManager>();
+        if (lm != null && !lm.gameIsActive) return;
+
         if (transform.position.x != targetX)
         {
             float newX = Mathf.Lerp(transform.position.x, targetX, Time.deltaTime * escapeSpeed);
@@ -76,7 +78,11 @@ public class ThiefController : MonoBehaviour
     }
 
     IEnumerator JetpackCycle()
-    {
+    {   
+        // Forces the Thief to wait until the countdown is completely finished!
+        LevelManager lm = FindAnyObjectByType<LevelManager>();
+        yield return new WaitUntil(() => lm != null && lm.gameIsActive);
+
         while (!isDefeated)
         {
             isFlying = false; 
@@ -134,29 +140,24 @@ public class ThiefController : MonoBehaviour
         }
     }
 
-    // --- NEW: THE TUMBLE HIT SEQUENCE ---
     public void TriggerTumbleHit()
     {
-        if (!isFlying || isDefeated) return; // Only works if he is flying!
+        if (!isFlying || isDefeated) return; 
 
-        // 1. Interrupt current flight!
         StopAllCoroutines(); 
         wordManager.StopSpawning(); 
         isFlying = false;
 
-        // 2. Start the crash sequence
         StartCoroutine(TumbleRoutine());
     }
 
     private IEnumerator TumbleRoutine()
     {
-        // Prep animation to show he is falling
         anim.Play("ThiefPrep"); 
-        ShowEmoticon("EmoticonCry"); // Shocked/Cry face!
+        ShowEmoticon("EmoticonCry"); 
 
-        // Drop him fast
         float elapsed = 0f;
-        float dropTime = 0.15f; // Drops faster than a normal landing
+        float dropTime = 0.15f; 
         float startY = transform.position.y;
 
         while (elapsed < dropTime)
@@ -168,14 +169,11 @@ public class ThiefController : MonoBehaviour
         }
         transform.position = new Vector3(transform.position.x, groundY, transform.position.z);
 
-        // STUNNED ON THE GROUND (The Background Illusion!)
         anim.Play("ThiefStun");
-        targetX -= tumblePenaltyDistance; // Pushes him backwards, simulating loss of speed
+        targetX -= tumblePenaltyDistance; 
 
-        // Wait while he recovers on the ground
         yield return new WaitForSeconds(2.5f);
 
-        // Go right back to the normal running loop!
         if (!isDefeated)
         {
             StartCoroutine(JetpackCycle());
