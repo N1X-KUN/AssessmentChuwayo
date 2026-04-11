@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro; 
+using UnityEngine.UI; // Needed for the Image component!
 
 [System.Serializable]
 public class FoodEntry
@@ -37,9 +38,15 @@ public class WordManager : MonoBehaviour
     public TMP_Text ammoCounterText; 
     public int maxAmmo = 5; 
     public List<Sprite> ammoBackpack = new List<Sprite>(); 
+    public Image bagUIImage; 
+    public Animator bagAnimator; 
+    public Sprite emptyBagSprite;
+    public Sprite partialBagSprite; 
+    public Sprite halfBagSprite;    
+    public Sprite fullBagSprite;    
     
     [Header("Score System")]
-    public TMP_Text scoreText; // Drag your UI Text for score here!
+    public TMP_Text scoreText; 
     public int currentScore = 0;
 
     private List<FoodItem> activeFoods = new List<FoodItem>(); 
@@ -120,7 +127,7 @@ public class WordManager : MonoBehaviour
                 UpdateAmmoUI(); 
                 
                 kommy.TriggerSwipeAnimation(); 
-                kommy.AddAttackBonusCharge(); // --- BOOSTS ULT BY 10% ON THROW ---
+                kommy.AddAttackBonusCharge(); 
                 
                 GameObject proj = Instantiate(playerProjectilePrefab, kommy.transform.position + Vector3.up, Quaternion.identity);
                 proj.GetComponent<PlayerProjectile>().Setup(ammoToThrow);
@@ -164,7 +171,6 @@ public class WordManager : MonoBehaviour
                 
                 if (targetedFood.currentWord.Length == 0)
                 {
-                    // --- NEW SCORE MATH: Letters x 2 ---
                     int pointsEarned = targetedFood.originalWord.Length * 2;
                     currentScore += pointsEarned;
                     UpdateScoreUI();
@@ -179,9 +185,13 @@ public class WordManager : MonoBehaviour
                     }
                     else 
                     {
+                        // --- FULL INVENTORY ERROR LOGIC ---
+                        if (bagAnimator != null) bagAnimator.Play("BagShake"); // The red flicker!
                         if (kommy != null) kommy.TriggerBonk(); 
+                        
                         ThiefController thief = FindAnyObjectByType<ThiefController>();
-                        if (thief != null) thief.TriggerPoisonEscape();
+                        if (thief != null) thief.StepForward(); // Forces Thief 1 step forward!
+                        
                         Destroy(targetedFood.gameObject);
                     }
                     targetedFood = null;
@@ -190,7 +200,7 @@ public class WordManager : MonoBehaviour
             else 
             { 
                 targetedFood.TriggerMistake(); 
-                kommy.HitByTrap(); // Trigger stun on mistake instead of just visual
+                kommy.HitByTrap(); 
             }
         }
     }
@@ -235,18 +245,24 @@ public class WordManager : MonoBehaviour
 
     public void TriggerPoisonFromTrap()
     {
+        // NO Damage, NO Stun, NO Thief movement. Just the dizzy screen!
         StartCoroutine(TriggerDizzyEffect());
-        kommy.HitByTrap(); 
-        ThiefController thief = FindAnyObjectByType<ThiefController>();
-        if (thief != null) thief.TriggerPoisonEscape();
     }
 
     public void UpdateAmmoUI()
     {
-        if (ammoCounterText != null) ammoCounterText.text = ammoBackpack.Count + " / " + maxAmmo;
+        if (ammoCounterText != null) ammoCounterText.text = ammoBackpack.Count + "/" + maxAmmo;
+
+        if (bagUIImage != null)
+        {
+            if (ammoBackpack.Count == 0) bagUIImage.sprite = emptyBagSprite;
+            else if (ammoBackpack.Count <= 2) bagUIImage.sprite = partialBagSprite;
+            else if (ammoBackpack.Count <= 4) bagUIImage.sprite = halfBagSprite;
+            else bagUIImage.sprite = fullBagSprite;
+        }
     }
 
-public void UpdateScoreUI()
+    public void UpdateScoreUI()
     {
         if (scoreText != null) scoreText.text = currentScore + "\nPOINTS";
     }

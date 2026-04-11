@@ -31,7 +31,6 @@ public class ThiefController : MonoBehaviour
     private float groundY; 
     private float airY; 
     private float targetX;
-    private bool wasStunned = false; 
 
     void Start()
     {
@@ -56,19 +55,9 @@ public class ThiefController : MonoBehaviour
             transform.position = new Vector3(newX, transform.position.y, transform.position.z);
         }
 
+        // ONLY checks for the death limit now, we removed the clunky stun checking!
         if (kommy != null && !isDefeated)
         {
-            if (kommy.currentState == KommyController.CharacterState.Stunned)
-            {
-                if (!wasStunned) 
-                {
-                    targetX += escapeDistance; 
-                    wasStunned = true;
-                    ShowEmoticon("EmoticonLaugh"); 
-                }
-            }
-            else { wasStunned = false; }
-
             if (transform.position.x >= escapeLimitX && kommy.currentState != KommyController.CharacterState.Dead)
             {
                 kommy.Die();
@@ -77,17 +66,34 @@ public class ThiefController : MonoBehaviour
         }
     }
 
+    // Call this to move him exactly 1 step ahead (When Kommy gets hit/bonked)
+    public void StepForward()
+    {
+        if (!isDefeated)
+        {
+            targetX += escapeDistance; 
+            ShowEmoticon("EmoticonLaugh");
+        }
+    }
+
+    // Call this to move him exactly 2 steps BACKWARDS (When Kommy hits him)
+    public void StepBackward()
+    {
+        if (!isDefeated)
+        {
+            targetX -= (escapeDistance * 2f); // 2 steps back!
+            ShowEmoticon("EmoticonCry");
+        }
+    }
+    
     IEnumerator JetpackCycle()
     {   
-        // Forces the Thief to wait until the countdown is completely finished!
         LevelManager lm = FindAnyObjectByType<LevelManager>();
         yield return new WaitUntil(() => lm != null && lm.gameIsActive);
 
         while (!isDefeated)
         {
             isFlying = false; 
-            
-            // --- GROUND: TRAPS ONLY! ---
             wordManager.onlySpawnTraps = true; 
             wordManager.StartSpawning(); 
             
@@ -112,7 +118,6 @@ public class ThiefController : MonoBehaviour
             transform.position = new Vector3(transform.position.x, airY, transform.position.z);
             if (isDefeated) break;
 
-            // --- FLYING: FOOD AND TRAPS! ---
             isFlying = true; 
             wordManager.onlySpawnTraps = false; 
             wordManager.StartSpawning(); 
@@ -170,7 +175,10 @@ public class ThiefController : MonoBehaviour
         transform.position = new Vector3(transform.position.x, groundY, transform.position.z);
 
         anim.Play("ThiefStun");
-        targetX -= tumblePenaltyDistance; 
+        StepBackward(); 
+        
+        // NEW: Makes Kommy smile because the thief fell down!
+        if (kommy != null) kommy.TriggerHappyFace();
 
         yield return new WaitForSeconds(2.5f);
 

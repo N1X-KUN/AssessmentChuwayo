@@ -32,6 +32,7 @@ public class KommyController : MonoBehaviour
     [Header("UI Visuals (DRAG THESE IN)")]
     public Slider hpSlider; 
     public Slider abilitySlider; 
+    public Animator uiFaceAnimator;
     public Image abilityFillImage; 
     public RectTransform abilityBarRect; 
     public Color chargingColor = Color.cyan;
@@ -194,7 +195,8 @@ public class KommyController : MonoBehaviour
     }
 
     private void TriggerStun()
-    {
+    {   
+        FindAnyObjectByType<ThiefController>().StepForward();
         StopAllCoroutines();
         transform.position = new Vector3(transform.position.x, originalY, transform.position.z); 
         StartCoroutine(StunRoutine());
@@ -264,8 +266,42 @@ public class KommyController : MonoBehaviour
         PlayAnimation("KommyDie");
     }
 
+    public void TriggerHappyFace()
+    {
+        // This is called by the Thief when he falls down!
+        StartCoroutine(HappyFaceRoutine());
+    }
+
+    private IEnumerator HappyFaceRoutine()
+    {
+        // MATCHED TO IMAGE 1: "KommyFace_Happy"
+        if (uiFaceAnimator != null) uiFaceAnimator.Play("KommyFace_Happy");
+        
+        yield return new WaitForSeconds(2.0f); 
+        
+        if (currentState == CharacterState.Running || currentState == CharacterState.Attacking)
+        {
+            // MATCHED TO IMAGE 1: "KommyDefault"
+            if (uiFaceAnimator != null) uiFaceAnimator.Play("KommyFace_Idle");
+        }
+    }
+
     private void PlayAnimation(string animName)
     {
         if (anim != null) anim.Play(animName); 
+
+        if (uiFaceAnimator != null)
+        {
+            if (animName == "KommyStun" || animName == "KommyBonk") 
+                uiFaceAnimator.Play("KommyFace_Sad");
+            else if (animName == "KommyDie") 
+                uiFaceAnimator.Play("KommyFace_Defeat"); 
+            else if (animName == "KommyVictory") 
+                uiFaceAnimator.Play("KommyFace_Victory");
+            else if (animName == "KommyAbility") 
+                uiFaceAnimator.Play("KommyFace_Power");
+            else 
+                uiFaceAnimator.Play("KommyFace_Idle"); 
+        }
     }
 }

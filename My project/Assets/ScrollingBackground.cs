@@ -4,6 +4,9 @@ public class ScrollingBackground : MonoBehaviour
 {
     public KommyController kommy; 
     
+    [Header("Ground Settings")]
+    public bool isGroundLayer = false; // NEW: Check this box ONLY on your Grass/Ground pieces!
+    
     public float scrollSpeed = 2f;
     private float repeatWidth;
     private Vector3 startPosition;
@@ -11,7 +14,6 @@ public class ScrollingBackground : MonoBehaviour
     void Start()
     {
         startPosition = transform.position;
-        // Your original perfect setup for getting the exact image size!
         repeatWidth = GetComponent<SpriteRenderer>().bounds.size.x;
     }
 
@@ -19,17 +21,20 @@ public class ScrollingBackground : MonoBehaviour
     {
         LevelManager lm = FindAnyObjectByType<LevelManager>();
         if (lm != null && !lm.gameIsActive) return;
-        // --- THE FIX ---
-        // Added "Ability" so the background knows it is allowed to keep moving (in slow-mo) while she sleeps!
+
+        // NEW: If this is the ground, and Kommy is stunned, STOP moving!
+        if (isGroundLayer && kommy != null && kommy.currentState == KommyController.CharacterState.Stunned)
+        {
+            return; 
+        }
+
         if (kommy != null && (kommy.currentState == KommyController.CharacterState.Running || 
                               kommy.currentState == KommyController.CharacterState.Attacking || 
                               kommy.currentState == KommyController.CharacterState.Jumping ||
-                              kommy.currentState == KommyController.CharacterState.Ability)) // <-- Added this!
+                              kommy.currentState == KommyController.CharacterState.Ability)) 
         {
-            // Because you are using Time.deltaTime, this naturally slows down to 40% speed automatically!
             transform.Translate(Vector3.left * scrollSpeed * Time.deltaTime);
 
-            // Your original perfect gap-prevention math!
             if (transform.position.x < startPosition.x - repeatWidth)
             {
                 float overshoot = transform.position.x - (startPosition.x - repeatWidth);
