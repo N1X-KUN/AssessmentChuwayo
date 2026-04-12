@@ -5,10 +5,11 @@ public class PlayerProjectile : MonoBehaviour
 {
     private SpriteRenderer spriteRenderer;
     private ThiefController thief;
+    private KommyController kommy; // Added Kommy reference
     
     private Vector3 targetPos;
     private bool willHit;
-    private float speed = 8f; // LOWERED: Normal throwing speed!
+    private float speed = 8f; 
 
     public void Setup(Sprite foodSprite)
     {
@@ -17,14 +18,14 @@ public class PlayerProjectile : MonoBehaviour
         
         spriteRenderer.sprite = foodSprite;
         spriteRenderer.sortingOrder = 5;
-        
-        // REMOVED the scaling! It will now be normal size.
         transform.localScale = Vector3.one; 
 
         thief = FindAnyObjectByType<ThiefController>();
+        kommy = FindAnyObjectByType<KommyController>();
         
         if (thief != null)
         {
+            // If thief is flying, we hit him!
             if (thief.transform.position.y > -2f) 
             {
                 willHit = true;
@@ -32,9 +33,11 @@ public class PlayerProjectile : MonoBehaviour
             }
             else
             {
+                // If thief is on ground, we miss!
                 willHit = false;
                 targetPos = thief.transform.position + new Vector3(3f, 5f, 0f); 
-                thief.ShowEmoticon("EmoticonLaugh"); 
+                // Thief laughs at your miss!
+                thief.ShowEmoticon("EmoticonLaugh", 2.05f);
             }
         }
     }
@@ -48,6 +51,9 @@ public class PlayerProjectile : MonoBehaviour
 
         if (Vector3.Distance(transform.position, targetPos) < 0.2f)
         {
+            // The Moment of Impact!
+            if (kommy != null) kommy.EndSwipeAnimation(); // Return Kommy to Run pose
+
             if (willHit)
             {
                 thief.TriggerTumbleHit(); 

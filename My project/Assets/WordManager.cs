@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro; 
-using UnityEngine.UI; // Needed for the Image component!
+using UnityEngine.UI; 
 
 [System.Serializable]
 public class FoodEntry
@@ -108,7 +108,6 @@ public class WordManager : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Backspace))
         {
             FoodItem foodToSwat = GetClosestFood();
-            
             if (foodToSwat != null && foodToSwat.transform.position.x < kommy.transform.position.x + 3f)
             {
                 activeFoods.Remove(foodToSwat);
@@ -159,8 +158,12 @@ public class WordManager : MonoBehaviour
             {
                 if (targetedFood.isRotten)
                 {
-                    kommy.HitByTrap(); 
-                    StartCoroutine(TriggerDizzyEffect());
+                    // --- iFrame Check ---
+                    if (kommy.currentState != KommyController.CharacterState.Stunned)
+                    {
+                        kommy.HitByTrap(); 
+                        StartCoroutine(TriggerDizzyEffect());
+                    }
                     activeFoods.Remove(targetedFood);
                     Destroy(targetedFood.gameObject);
                     targetedFood = null;
@@ -174,7 +177,6 @@ public class WordManager : MonoBehaviour
                     int pointsEarned = targetedFood.originalWord.Length * 2;
                     currentScore += pointsEarned;
                     UpdateScoreUI();
-
                     activeFoods.Remove(targetedFood);
                     
                     if (ammoBackpack.Count < maxAmmo)
@@ -185,13 +187,12 @@ public class WordManager : MonoBehaviour
                     }
                     else 
                     {
-                        // --- FULL INVENTORY ERROR LOGIC ---
-                        if (bagAnimator != null) bagAnimator.Play("BagShake"); // The red flicker!
-                        if (kommy != null) kommy.TriggerBonk(); 
-                        
-                        ThiefController thief = FindAnyObjectByType<ThiefController>();
-                        if (thief != null) thief.StepForward(); // Forces Thief 1 step forward!
-                        
+                        // --- FULL INVENTORY BONK (With iFrame Check) ---
+                        if (kommy.currentState != KommyController.CharacterState.Stunned)
+                        {
+                            if (bagAnimator != null) bagAnimator.Play("BagShake");
+                            kommy.TriggerBonk(); 
+                        }
                         Destroy(targetedFood.gameObject);
                     }
                     targetedFood = null;
@@ -199,8 +200,12 @@ public class WordManager : MonoBehaviour
             }
             else 
             { 
-                targetedFood.TriggerMistake(); 
-                kommy.HitByTrap(); 
+                // Mistake!
+                if (kommy.currentState != KommyController.CharacterState.Stunned)
+                {
+                    targetedFood.TriggerMistake(); 
+                    kommy.HitByTrap(); 
+                }
             }
         }
     }
@@ -209,7 +214,6 @@ public class WordManager : MonoBehaviour
     {
         FoodItem closest = null;
         float minX = float.MaxValue;
-
         foreach (FoodItem food in activeFoods)
         {
             if (food != null && !food.isFading && food.transform.position.x < minX)
@@ -228,25 +232,22 @@ public class WordManager : MonoBehaviour
             dizzyAnimator.gameObject.SetActive(true);
             yield return StartCoroutine(dizzyAnimator.PlayPoisonIntro()); 
         }
-        
         yield return new WaitForSeconds(dizzyDuration);
-        
         if (dizzyAnimator != null) {
             yield return StartCoroutine(dizzyAnimator.PlayPoisonOutro()); 
             dizzyAnimator.gameObject.SetActive(false);
         }
         isPlayerDizzy = false; 
-
-        foreach (FoodItem food in activeFoods)
-        {
-            if (food != null) food.UpdateVisuals();
-        }
     }
 
     public void TriggerPoisonFromTrap()
     {
-        // NO Damage, NO Stun, NO Thief movement. Just the dizzy screen!
+        // --- iFrame Check ---
+        if (kommy.currentState == KommyController.CharacterState.Stunned) return;
+
         StartCoroutine(TriggerDizzyEffect());
+        ThiefController thief = FindAnyObjectByType<ThiefController>();
+        if (thief != null) thief.ShowEmoticon("EmoticonLaugh", 2.05f);
     }
 
     public void UpdateAmmoUI()

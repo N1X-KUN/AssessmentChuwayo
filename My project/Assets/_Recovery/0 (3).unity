@@ -817,7 +817,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -337.4, y: -182.6}
+  m_AnchoredPosition: {x: -337.4, y: -180.3}
   m_SizeDelta: {x: 168, y: 76}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &223211943
@@ -864,7 +864,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: -3047233017973389380, guid: d3f12f89b05bc114e8091c9621bf4459, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -1793,7 +1793,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -10.6, y: 1.1}
+  m_AnchoredPosition: {x: -12.2, y: 0.10000038}
   m_SizeDelta: {x: 139.4211, y: 24.2601}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &764238600
@@ -1843,8 +1843,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 15
-  m_fontSizeBase: 15
+  m_fontSize: 20
+  m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2228,16 +2228,8 @@ MonoBehaviour:
     foodSprite: {fileID: 3579979325370944529, guid: 2ddb98cec8808354a8a1aa3bb68f735c, type: 3}
   - word: Grapes
     foodSprite: {fileID: -8781457552448529170, guid: 5d7834d0655f30d4990e0216e73ae017, type: 3}
-  - word: Cherimoya
-    foodSprite: {fileID: 5813610346540858595, guid: dca1c4471adc4614eb14173a4dd54642, type: 3}
   - word: Cherry
     foodSprite: {fileID: -90375647409325229, guid: f6865a75e8f42d74a806f31d12790df7, type: 3}
-  - word: Cantaloupe
-    foodSprite: {fileID: -5236667066120447539, guid: 1f540bce3f919e24a9dc1b7382a9b62d, type: 3}
-  - word: Casabamelon
-    foodSprite: {fileID: -3537558659812791825, guid: 124bfc8ddc4fbdc459143fc02864a0b0, type: 3}
-  - word: Casabamelon
-    foodSprite: {fileID: -3537558659812791825, guid: 124bfc8ddc4fbdc459143fc02864a0b0, type: 3}
   spawnRate: 2
   canDropRottenFood: 1
   rottenChance: 20
@@ -2730,7 +2722,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 585, y: -21}
+  m_AnchoredPosition: {x: 594.8, y: -18.9}
   m_SizeDelta: {x: 167.6615, y: 49.4418}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &939681617

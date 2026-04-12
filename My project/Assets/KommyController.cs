@@ -12,7 +12,7 @@ public class KommyController : MonoBehaviour
     public int currentHp;
 
     public enum CharacterState { Running, Attacking, Jumping, Stunned, Dead, Victory, Ability }
-    public CharacterState currentState = CharacterState.Running; // She starts idle now!
+    public CharacterState currentState = CharacterState.Running; 
 
     [Header("Jump Settings")]
     public float jumpHeight = 2.5f;   
@@ -29,7 +29,7 @@ public class KommyController : MonoBehaviour
     public float slowMotionSpeed = 0.4f; 
     public bool isAbilityActive = false;
 
-    [Header("UI Visuals (DRAG THESE IN)")]
+    [Header("UI Visuals")]
     public Slider hpSlider; 
     public Slider abilitySlider; 
     public Animator uiFaceAnimator;
@@ -40,29 +40,23 @@ public class KommyController : MonoBehaviour
     public float pulseSpeed = 2f;
     public float pulseAmount = 0.15f;
 
-    private float attackTimer = 0f;
-    private float timeToStopAttacking = 1.0f; 
-
     void Start()
     {
-        // REMOVED THE BROKEN TIME CODE HERE!
         anim = GetComponent<Animator>(); 
         currentHp = maxHp;
         currentCharge = 0f;
         originalY = transform.position.y; 
         
-        // NEW: Bulletproof Slider Math. Forces the UI to match the script perfectly.
         if (hpSlider != null) { hpSlider.maxValue = maxHp; hpSlider.value = currentHp; }
         if (abilitySlider != null) { abilitySlider.maxValue = maxCharge; abilitySlider.value = currentCharge; }
         
         UpdateUI();
-        // REMOVED StartGame() - The LevelManager will call it when the 3 seconds are up!
     }
 
     void Update()
     {   
         LevelManager lm = FindAnyObjectByType<LevelManager>();
-        if (lm != null && !lm.gameIsActive) return; // Freezes her during intro
+        if (lm != null && !lm.gameIsActive) return; 
 
         if (!isAbilityActive && currentState != CharacterState.Dead)
         {
@@ -97,16 +91,6 @@ public class KommyController : MonoBehaviour
             UpdateUI();
 
             if (currentCharge <= 0f) StopAbility();
-        }
-
-        if (currentState == CharacterState.Attacking)
-        {
-            attackTimer -= Time.deltaTime;
-            if (attackTimer <= 0f)
-            {
-                currentState = CharacterState.Running;
-                PlayAnimation("KommyMove");
-            }
         }
 
         if (Input.GetKeyDown(KeyCode.Space) && !isAbilityActive) TryJump();
@@ -146,7 +130,6 @@ public class KommyController : MonoBehaviour
 
     public void UpdateUI()
     {
-        // NEW: Assigns the raw numbers instead of fractions to fix the visual bug!
         if (abilitySlider != null) abilitySlider.value = currentCharge; 
         if (hpSlider != null) hpSlider.value = currentHp;
     }
@@ -169,9 +152,18 @@ public class KommyController : MonoBehaviour
     public void TriggerSwipeAnimation()
     {
         if (currentState == CharacterState.Dead || currentState == CharacterState.Stunned || isAbilityActive) return;
-        attackTimer = timeToStopAttacking;
         currentState = CharacterState.Attacking;
         PlayAnimation("KommyAttack"); 
+    }
+
+    // Call this inside your PlayerProjectile script exactly when the food hits the thief
+    public void EndSwipeAnimation()
+    {
+        if (currentState == CharacterState.Attacking)
+        {
+            currentState = CharacterState.Running;
+            PlayAnimation("KommyMove");
+        }
     }
 
     public void HitByTrap()
@@ -180,9 +172,21 @@ public class KommyController : MonoBehaviour
         TriggerStun();
     }
 
-    public void TriggerBonk()
+public void TriggerBonk()
     {
-        if (currentState == CharacterState.Dead || currentState == CharacterState.Victory || currentState == CharacterState.Stunned || isAbilityActive) return;
+        // IRON-CLAD iFRAME: If she is already stunned, dead, or winning, DO NOTHING.
+        if (currentState == CharacterState.Stunned || currentState == CharacterState.Dead || currentState == CharacterState.Victory) return;
+
+        ThiefController thief = FindAnyObjectByType<ThiefController>();
+        if (thief != null) 
+        {
+            // Only move thief forward if she is currently Running or Attacking
+            if (currentState == CharacterState.Running || currentState == CharacterState.Attacking)
+            {
+                thief.StepForward(false); 
+            }
+        }
+
         PlayAnimation("KommyBonk"); 
         StartCoroutine(ResetRunAfterBonk());
     }
@@ -196,7 +200,13 @@ public class KommyController : MonoBehaviour
 
     private void TriggerStun()
     {   
-        FindAnyObjectByType<ThiefController>().StepForward();
+        ThiefController thief = FindAnyObjectByType<ThiefController>();
+        if (thief != null) 
+        {
+            thief.ShowEmoticon("EmoticonLaugh", 2.05f);
+            thief.StepForward(false);
+        }
+
         StopAllCoroutines();
         transform.position = new Vector3(transform.position.x, originalY, transform.position.z); 
         StartCoroutine(StunRoutine());
@@ -268,20 +278,16 @@ public class KommyController : MonoBehaviour
 
     public void TriggerHappyFace()
     {
-        // This is called by the Thief when he falls down!
         StartCoroutine(HappyFaceRoutine());
     }
 
     private IEnumerator HappyFaceRoutine()
     {
-        // MATCHED TO IMAGE 1: "KommyFace_Happy"
         if (uiFaceAnimator != null) uiFaceAnimator.Play("KommyFace_Happy");
-        
         yield return new WaitForSeconds(2.0f); 
         
         if (currentState == CharacterState.Running || currentState == CharacterState.Attacking)
         {
-            // MATCHED TO IMAGE 1: "KommyDefault"
             if (uiFaceAnimator != null) uiFaceAnimator.Play("KommyFace_Idle");
         }
     }
@@ -295,7 +301,7 @@ public class KommyController : MonoBehaviour
             if (animName == "KommyStun" || animName == "KommyBonk") 
                 uiFaceAnimator.Play("KommyFace_Sad");
             else if (animName == "KommyDie") 
-                uiFaceAnimator.Play("KommyFace_Defeat"); 
+                uiFaceAnimator.Play("KommyDefeat"); 
             else if (animName == "KommyVictory") 
                 uiFaceAnimator.Play("KommyFace_Victory");
             else if (animName == "KommyAbility") 

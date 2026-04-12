@@ -105,22 +105,28 @@ public class FoodItem : MonoBehaviour
     {
         if (hasHitGround) return; 
 
-        // Pulls the food down over time, creating the curve
         velocity.y -= arcCurveStrength * Time.deltaTime;
         transform.position += velocity * Time.deltaTime;
 
-        // --- IMPACT: DIRECTLY ON KOMMY'S HEAD ---
         if (transform.position.x <= targetHeadPos.x)
         {
             hasHitGround = true;
-            transform.position = new Vector3(targetHeadPos.x, targetHeadPos.y, transform.position.z); // Snap to head
+            transform.position = new Vector3(targetHeadPos.x, targetHeadPos.y, transform.position.z); 
             
             if (wordManager != null) 
             {
-                wordManager.kommy.TriggerBonk(); 
-                ThiefController thief = FindAnyObjectByType<ThiefController>();
-                if (thief != null) thief.TriggerPoisonEscape(); 
-
+                // --- THE iFRAME CHECK ---
+                // If Kommy is already stunned or dead, the food "passes through" her head
+                if (wordManager.kommy.currentState == KommyController.CharacterState.Stunned || 
+                    wordManager.kommy.currentState == KommyController.CharacterState.Dead)
+                {
+                    // Do nothing! No bonk, no thief movement.
+                }
+                else 
+                {
+                    wordManager.kommy.TriggerBonk(); 
+                }
+                
                 wordManager.MissedFood(this, originalWord);
             }
             if (!isFading) StartCoroutine(FadeOutAndDestroy());

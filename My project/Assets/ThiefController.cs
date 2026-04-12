@@ -21,6 +21,7 @@ public class ThiefController : MonoBehaviour
     public float escapeDistance = 2f;    
     public float escapeSpeed = 2f;        
     public float escapeLimitX = 7f; 
+    public float catchDistance = 2.5f; 
     
     [Header("Tumble Settings")]
     public float tumblePenaltyDistance = 3f; 
@@ -40,7 +41,6 @@ public class ThiefController : MonoBehaviour
         targetX = transform.position.x; 
         
         if (emoticonAnimator != null) emoticonAnimator.gameObject.SetActive(false);
-        
         StartCoroutine(JetpackCycle());
     }
 
@@ -55,34 +55,37 @@ public class ThiefController : MonoBehaviour
             transform.position = new Vector3(newX, transform.position.y, transform.position.z);
         }
 
-        // ONLY checks for the death limit now, we removed the clunky stun checking!
         if (kommy != null && !isDefeated)
         {
+            // Thief Escapes (Thief Wins)
             if (transform.position.x >= escapeLimitX && kommy.currentState != KommyController.CharacterState.Dead)
             {
-                kommy.Die();
+                TriggerThiefWin();
+            }
+            // Early Victory (Kommy catches Thief before time runs out)
+            else if (transform.position.x <= kommy.transform.position.x + catchDistance && kommy.currentState != KommyController.CharacterState.Victory)
+            {
+                kommy.WinGame();
                 TriggerDefeat();
             }
         }
     }
 
-    // Call this to move him exactly 1 step ahead (When Kommy gets hit/bonked)
-    public void StepForward()
+    public void StepForward(bool playLaugh = true)
     {
         if (!isDefeated)
         {
             targetX += escapeDistance; 
-            ShowEmoticon("EmoticonLaugh");
+            if (playLaugh) ShowEmoticon("EmoticonLaugh", 2.05f);
         }
     }
 
-    // Call this to move him exactly 2 steps BACKWARDS (When Kommy hits him)
     public void StepBackward()
     {
         if (!isDefeated)
         {
-            targetX -= (escapeDistance * 2f); // 2 steps back!
-            ShowEmoticon("EmoticonCry");
+            targetX -= (escapeDistance * 2f); 
+            ShowEmoticon("EmoticonCry", 2.05f);
         }
     }
     
@@ -102,7 +105,7 @@ public class ThiefController : MonoBehaviour
             if (isDefeated) break; 
 
             wordManager.StopSpawning(); 
-            ShowEmoticon("EmoticonPrep");
+            ShowEmoticon("EmoticonPrep", 2.05f);
             
             anim.Play("ThiefPrep");
             float elapsed = 0f;
@@ -159,7 +162,7 @@ public class ThiefController : MonoBehaviour
     private IEnumerator TumbleRoutine()
     {
         anim.Play("ThiefPrep"); 
-        ShowEmoticon("EmoticonCry"); 
+        ShowEmoticon("EmoticonCry", 2.05f); 
 
         float elapsed = 0f;
         float dropTime = 0.15f; 
@@ -176,8 +179,7 @@ public class ThiefController : MonoBehaviour
 
         anim.Play("ThiefStun");
         StepBackward(); 
-        
-        // NEW: Makes Kommy smile because the thief fell down!
+
         if (kommy != null) kommy.TriggerHappyFace();
 
         yield return new WaitForSeconds(2.5f);
@@ -188,21 +190,30 @@ public class ThiefController : MonoBehaviour
         }
     }
 
-    public void ShowEmoticon(string animName)
+    public void ShowEmoticon(string animName, float duration)
     {
         if (emoticonAnimator == null) return;
-        
         emoticonAnimator.gameObject.SetActive(true);
         emoticonAnimator.Play(animName); 
         
         StopCoroutine(nameof(HideEmoticonRoutine));
-        StartCoroutine(HideEmoticonRoutine());
+        if (duration > 0f) StartCoroutine(HideEmoticonRoutine(duration));
     }
 
-    private IEnumerator HideEmoticonRoutine()
+    private IEnumerator HideEmoticonRoutine(float duration)
     {
-        yield return new WaitForSeconds(2.0f); 
+        yield return new WaitForSeconds(duration); 
         emoticonAnimator.gameObject.SetActive(false);
+    }
+
+    public void TriggerThiefWin()
+    {
+        isDefeated = true;
+        kommy.Die();
+        StopAllCoroutines();
+        wordManager.StopSpawning();
+        anim.Play("ThiefWin"); 
+        ShowEmoticon("EmoticonLaugh", 0f); // 0 = Loops infinitely
     }
 
     public void TriggerDefeat()
@@ -210,17 +221,8 @@ public class ThiefController : MonoBehaviour
         isDefeated = true;
         StopAllCoroutines(); 
         wordManager.StopSpawning(); 
-        ShowEmoticon("EmoticonCry");
+        ShowEmoticon("EmoticonCry", 0f); // 0 = Loops infinitely
         transform.position = new Vector3(transform.position.x, groundY, transform.position.z);
         anim.Play("ThiefDie"); 
-    }
-
-    public void TriggerPoisonEscape()
-    {
-        if (!isDefeated)
-        {
-            targetX += escapeDistance; 
-            ShowEmoticon("EmoticonLaugh"); 
-        }
     }
 }
