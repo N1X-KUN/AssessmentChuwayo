@@ -40,6 +40,10 @@ public class KommyController : MonoBehaviour
     public float pulseSpeed = 2f;
     public float pulseAmount = 0.15f;
 
+    // --- THESE WERE DELETED IN THE CRASH! ---
+    private float attackTimer = 0f;
+    private float timeToStopAttacking = 1.0f; 
+
     void Start()
     {
         anim = GetComponent<Animator>(); 
@@ -93,6 +97,16 @@ public class KommyController : MonoBehaviour
             if (currentCharge <= 0f) StopAbility();
         }
 
+        if (currentState == CharacterState.Attacking)
+        {
+            attackTimer -= Time.deltaTime;
+            if (attackTimer <= 0f)
+            {
+                currentState = CharacterState.Running;
+                PlayAnimation("KommyMove");
+            }
+        }
+        
         if (Input.GetKeyDown(KeyCode.Space) && !isAbilityActive) TryJump();
     }
 
@@ -152,18 +166,9 @@ public class KommyController : MonoBehaviour
     public void TriggerSwipeAnimation()
     {
         if (currentState == CharacterState.Dead || currentState == CharacterState.Stunned || isAbilityActive) return;
+        attackTimer = timeToStopAttacking; 
         currentState = CharacterState.Attacking;
         PlayAnimation("KommyAttack"); 
-    }
-
-    // Call this inside your PlayerProjectile script exactly when the food hits the thief
-    public void EndSwipeAnimation()
-    {
-        if (currentState == CharacterState.Attacking)
-        {
-            currentState = CharacterState.Running;
-            PlayAnimation("KommyMove");
-        }
     }
 
     public void HitByTrap()
@@ -172,15 +177,13 @@ public class KommyController : MonoBehaviour
         TriggerStun();
     }
 
-public void TriggerBonk()
+    public void TriggerBonk()
     {
-        // IRON-CLAD iFRAME: If she is already stunned, dead, or winning, DO NOTHING.
         if (currentState == CharacterState.Stunned || currentState == CharacterState.Dead || currentState == CharacterState.Victory) return;
 
         ThiefController thief = FindAnyObjectByType<ThiefController>();
         if (thief != null) 
         {
-            // Only move thief forward if she is currently Running or Attacking
             if (currentState == CharacterState.Running || currentState == CharacterState.Attacking)
             {
                 thief.StepForward(false); 
@@ -301,7 +304,7 @@ public void TriggerBonk()
             if (animName == "KommyStun" || animName == "KommyBonk") 
                 uiFaceAnimator.Play("KommyFace_Sad");
             else if (animName == "KommyDie") 
-                uiFaceAnimator.Play("KommyDefeat"); 
+                uiFaceAnimator.Play("KommyFace_Defeat"); 
             else if (animName == "KommyVictory") 
                 uiFaceAnimator.Play("KommyFace_Victory");
             else if (animName == "KommyAbility") 
