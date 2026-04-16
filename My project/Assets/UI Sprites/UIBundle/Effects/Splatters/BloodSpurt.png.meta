@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 606eebb2d2b5c3443b4d970553770639
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8894723342927929697
+    second: BloodSpurt_0
+  - first:
+      213: -5724625743309707741
+    second: BloodSpurt_1
+  - first:
+      213: -5438396132801689150
+    second: BloodSpurt_2
+  - first:
+      213: 5417466256249574324
+    second: BloodSpurt_3
+  - first:
+      213: 61637176277244578
+    second: BloodSpurt_4
+  - first:
+      213: 7617172753602743368
+    second: BloodSpurt_5
+  - first:
+      213: -5787909543842192263
+    second: BloodSpurt_6
+  - first:
+      213: 4361316970456293925
+    second: BloodSpurt_7
+  - first:
+      213: 2670633869229120104
+    second: BloodSpurt_8
+  - first:
+      213: -3416876646053176926
+    second: BloodSpurt_9
+  - first:
+      213: 8091952548769816822
+    second: BloodSpurt_10
+  - first:
+      213: -6614735770983678428
+    second: BloodSpurt_11
+  - first:
+      213: 4047327531880514660
+    second: BloodSpurt_12
+  - first:
+      213: -6257084205548586778
+    second: BloodSpurt_13
+  - first:
+      213: -4640867655399072567
+    second: BloodSpurt_14
+  - first:
+      213: 7310165805456637688
+    second: BloodSpurt_15
+  - first:
+      213: -5281350104249264778
+    second: BloodSpurt_16
+  - first:
+      213: 8293429969929840920
+    second: BloodSpurt_17
+  - first:
+      213: -7380781772361322909
+    second: BloodSpurt_18
+  - first:
+      213: -3715748995730748148
+    second: BloodSpurt_19
+  - first:
+      213: 1551378973070935554
+    second: BloodSpurt_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BloodSpurt_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 29
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ed761fe389f8480800000000000000
+      internalID: -8894723342927929697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 25
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326e7f1873b0e80b0800000000000000
+      internalID: -5724625743309707741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 23
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c94f74f78fe684b0800000000000000
+      internalID: -5438396132801689150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 22
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3db6a6bd4be2b40800000000000000
+      internalID: 5417466256249574324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa96fc6faafad000800000000000000
+      internalID: 61637176277244578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 21
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c864b0342a5b960800000000000000
+      internalID: 7617172753602743368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 25
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974613f7fe63dafa0800000000000000
+      internalID: -5787909543842192263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 24
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5222ee86da2868c30800000000000000
+      internalID: 4361316970456293925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 33
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a578cba5fff0520800000000000000
+      internalID: 2670633869229120104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 41
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a91ca63bc0d490d0800000000000000
+      internalID: -3416876646053176926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 17
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0edb858f36c4070800000000000000
+      internalID: 8091952548769816822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 16
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eb277dcdcb334a0800000000000000
+      internalID: -6614735770983678428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 17
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464856352fefa2830800000000000000
+      internalID: 4047327531880514660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_13
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 29
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8b196011f5a29a0800000000000000
+      internalID: -6257084205548586778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_14
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 28
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc965ea473589fb0800000000000000
+      internalID: -4640867655399072567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 10
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe3373b11de27560800000000000000
+      internalID: 7310165805456637688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 11
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67510cddf00e4b6b0800000000000000
+      internalID: -5281350104249264778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_17
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 5
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8192f3ffd9e281370800000000000000
+      internalID: 8293429969929840920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_18
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 6
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ea9b54512329990800000000000000
+      internalID: -7380781772361322909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_19
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d44faa9f10f6cc0800000000000000
+      internalID: -3715748995730748148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloodSpurt_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 191
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20647e9d4fa978510800000000000000
+      internalID: 1551378973070935554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BloodSpurt_0: -8894723342927929697
+      BloodSpurt_1: -5724625743309707741
+      BloodSpurt_10: 8091952548769816822
+      BloodSpurt_11: -6614735770983678428
+      BloodSpurt_12: 4047327531880514660
+      BloodSpurt_13: -6257084205548586778
+      BloodSpurt_14: -4640867655399072567
+      BloodSpurt_15: 7310165805456637688
+      BloodSpurt_16: -5281350104249264778
+      BloodSpurt_17: 8293429969929840920
+      BloodSpurt_18: -7380781772361322909
+      BloodSpurt_19: -3715748995730748148
+      BloodSpurt_2: -5438396132801689150
+      BloodSpurt_20: 1551378973070935554
+      BloodSpurt_3: 5417466256249574324
+      BloodSpurt_4: 61637176277244578
+      BloodSpurt_5: 7617172753602743368
+      BloodSpurt_6: -5787909543842192263
+      BloodSpurt_7: 4361316970456293925
+      BloodSpurt_8: 2670633869229120104
+      BloodSpurt_9: -3416876646053176926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

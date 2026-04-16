@@ -28,19 +28,23 @@ public class KommyController : MonoBehaviour
     public float drainRate = 20f; 
     public float slowMotionSpeed = 0.4f; 
     public bool isAbilityActive = false;
+    
+    [Header("Ultimate Screen Effects")]
+    public GameObject zawarudoIcon;     
+    public GameObject zawarudoOverlay;  
 
     [Header("UI Visuals")]
     public Slider hpSlider; 
     public Slider abilitySlider; 
     public Animator uiFaceAnimator;
+    public Animator progressionFaceAnimator; 
     public Image abilityFillImage; 
     public RectTransform abilityBarRect; 
     public Color chargingColor = Color.cyan;
     public Color fullColor = Color.yellow;
     public float pulseSpeed = 2f;
-    public float pulseAmount = 0.15f;
+    public float pulseAmount = 0.04f; 
 
-    // --- THESE WERE DELETED IN THE CRASH! ---
     private float attackTimer = 0f;
     private float timeToStopAttacking = 1.0f; 
 
@@ -54,6 +58,9 @@ public class KommyController : MonoBehaviour
         if (hpSlider != null) { hpSlider.maxValue = maxHp; hpSlider.value = currentHp; }
         if (abilitySlider != null) { abilitySlider.maxValue = maxCharge; abilitySlider.value = currentCharge; }
         
+        if (zawarudoIcon != null) zawarudoIcon.SetActive(false);
+        if (zawarudoOverlay != null) zawarudoOverlay.SetActive(false);
+
         UpdateUI();
     }
 
@@ -116,6 +123,16 @@ public class KommyController : MonoBehaviour
         currentState = CharacterState.Ability;
         if (abilityBarRect != null) abilityBarRect.localScale = Vector3.one; 
         
+        if (zawarudoIcon != null) zawarudoIcon.SetActive(true); 
+        if (zawarudoOverlay != null) zawarudoOverlay.SetActive(true); 
+        
+        WordManager wm = FindAnyObjectByType<WordManager>();
+        if (wm != null)
+        {
+            wm.isPlayerDizzy = false;
+            if (wm.dizzyAnimator != null) wm.dizzyAnimator.gameObject.SetActive(false);
+        }
+
         Time.timeScale = slowMotionSpeed; 
         Time.fixedDeltaTime = 0.02f * Time.timeScale; 
         PlayAnimation("KommyAbility"); 
@@ -127,9 +144,28 @@ public class KommyController : MonoBehaviour
         currentCharge = 0f;
         Time.timeScale = 1f; 
         Time.fixedDeltaTime = 0.02f;
+        
+        if (zawarudoIcon != null) zawarudoIcon.SetActive(false); 
+        if (zawarudoOverlay != null) zawarudoOverlay.SetActive(false); 
+
         currentState = CharacterState.Running;
         PlayAnimation("KommyMove");
         UpdateUI();
+    }
+
+    // --- INSTANTLY KILLS ALL VISUAL EFFECTS ---
+    private void ForceClearAllEffects()
+    {
+        isAbilityActive = false;
+        if (zawarudoIcon != null) zawarudoIcon.SetActive(false); 
+        if (zawarudoOverlay != null) zawarudoOverlay.SetActive(false); 
+        
+        WordManager wm = FindAnyObjectByType<WordManager>();
+        if (wm != null)
+        {
+            wm.isPlayerDizzy = false;
+            if (wm.dizzyAnimator != null) wm.dizzyAnimator.gameObject.SetActive(false);
+        }
     }
 
     public void AddAttackBonusCharge()
@@ -179,7 +215,7 @@ public class KommyController : MonoBehaviour
 
     public void TriggerBonk()
     {
-        if (currentState == CharacterState.Stunned || currentState == CharacterState.Dead || currentState == CharacterState.Victory) return;
+        if (currentState == CharacterState.Stunned || currentState == CharacterState.Dead || currentState == CharacterState.Victory || isAbilityActive) return;
 
         ThiefController thief = FindAnyObjectByType<ThiefController>();
         if (thief != null) 
@@ -217,9 +253,29 @@ public class KommyController : MonoBehaviour
 
     public void WinGame()
     {
-        if (currentState == CharacterState.Dead) return;
+        if (currentState == CharacterState.Dead || currentState == CharacterState.Victory) return;
         currentState = CharacterState.Victory;
+        ForceClearAllEffects(); // CLEARS ALL EFFECTS ON WIN
         PlayAnimation("KommyVictory"); 
+        StartCoroutine(FreezeWorldRoutine());
+    }
+
+    public void Die()
+    {
+        if (currentState == CharacterState.Dead || currentState == CharacterState.Victory) return;
+        currentState = CharacterState.Dead;
+        ForceClearAllEffects(); // CLEARS ALL EFFECTS ON LOSS
+        PlayAnimation("KommyDie");
+        StartCoroutine(FreezeWorldRoutine());
+    }
+
+    private IEnumerator FreezeWorldRoutine()
+    {
+        LevelManager lm = FindAnyObjectByType<LevelManager>();
+        if (lm != null) lm.gameIsActive = false; 
+
+        yield return new WaitForSecondsRealtime(0.1f);
+        Time.timeScale = 0f;
     }
 
     private IEnumerator JumpRoutine()
@@ -272,13 +328,6 @@ public class KommyController : MonoBehaviour
         }
     }
 
-    public void Die()
-    {
-        if (currentState == CharacterState.Dead) return;
-        currentState = CharacterState.Dead;
-        PlayAnimation("KommyDie");
-    }
-
     public void TriggerHappyFace()
     {
         StartCoroutine(HappyFaceRoutine());
@@ -286,31 +335,46 @@ public class KommyController : MonoBehaviour
 
     private IEnumerator HappyFaceRoutine()
     {
-        if (uiFaceAnimator != null) uiFaceAnimator.Play("KommyFace_Happy");
+        if (uiFaceAnimator != null && uiFaceAnimator.isActiveAndEnabled) uiFaceAnimator.Play("KommyFace_Happy");
+        
         yield return new WaitForSeconds(2.0f); 
         
         if (currentState == CharacterState.Running || currentState == CharacterState.Attacking)
         {
-            if (uiFaceAnimator != null) uiFaceAnimator.Play("KommyFace_Idle");
+            if (uiFaceAnimator != null && uiFaceAnimator.isActiveAndEnabled) uiFaceAnimator.Play("KommyFace_Idle");
         }
     }
 
     private void PlayAnimation(string animName)
     {
-        if (anim != null) anim.Play(animName); 
-
-        if (uiFaceAnimator != null)
+        try 
         {
-            if (animName == "KommyStun" || animName == "KommyBonk") 
-                uiFaceAnimator.Play("KommyFace_Sad");
-            else if (animName == "KommyDie") 
-                uiFaceAnimator.Play("KommyFace_Defeat"); 
-            else if (animName == "KommyVictory") 
-                uiFaceAnimator.Play("KommyFace_Victory");
-            else if (animName == "KommyAbility") 
-                uiFaceAnimator.Play("KommyFace_Power");
-            else 
-                uiFaceAnimator.Play("KommyFace_Idle"); 
+            // Plays Kommy's main animation
+            if (anim != null && anim.isActiveAndEnabled) anim.Play(animName); 
+
+            // 1. UI FACE LOGIC (Uses your KommyFace_ names)
+            if (uiFaceAnimator != null && uiFaceAnimator.isActiveAndEnabled)
+            {
+                string faceName = "KommyFace_Idle";
+                if (animName == "KommyStun" || animName == "KommyBonk") faceName = "KommyFace_Sad";
+                else if (animName == "KommyDie") faceName = "KommyFace_Defeat"; 
+                else if (animName == "KommyVictory") faceName = "KommyFace_Victory";
+                else if (animName == "KommyAbility") faceName = "KommyFace_Power";
+
+                uiFaceAnimator.Play(faceName); 
+            }
+
+            // 2. PROGRESSION HANDLE LOGIC (Uses your exact LoadingRUN, LoadingLOS, LoadingWIN names)
+            if (progressionFaceAnimator != null && progressionFaceAnimator.isActiveAndEnabled)
+            {
+                if (animName == "KommyVictory") 
+                    progressionFaceAnimator.Play("LoadingWIN");
+                else if (animName == "KommyDie") 
+                    progressionFaceAnimator.Play("LoadingLOS");
+                else 
+                    progressionFaceAnimator.Play("LoadingRUN");
+            }
         }
+        catch (System.Exception e) { Debug.LogWarning("Safe Catch: " + e.Message); }
     }
 }

@@ -128,7 +128,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GroundTrap
   moveSpeed: 5
-  kommyPositionX: -6.7
+  isPoisonTrap: 0
+  triggerDistance: 0.5
   fallSpeed: 8
-  groundYLevel: -3.5
-  kommy: {fileID: 0}
+  floorY: -3.5

@@ -18,8 +18,12 @@ public class ThiefController : MonoBehaviour
 
     [Header("Flight & Escape Settings")]
     public float flightHeightOffset = 3f; 
-    public float escapeDistance = 2f;    
-    public float escapeSpeed = 2f;        
+    
+    // NEW: Separate distances for forward and backward!
+    public float forwardStepDistance = 1f;    
+    public float backwardStepDistance = 0.5f; 
+    
+    public float escapeSpeed = 1f;        
     public float escapeLimitX = 7f; 
     public float catchDistance = 2.5f; 
     
@@ -49,24 +53,32 @@ public class ThiefController : MonoBehaviour
         LevelManager lm = FindAnyObjectByType<LevelManager>();
         if (lm != null && !lm.gameIsActive) return;
 
+        // Visual movement
         if (transform.position.x != targetX)
         {
             float newX = Mathf.Lerp(transform.position.x, targetX, Time.deltaTime * escapeSpeed);
             transform.position = new Vector3(newX, transform.position.y, transform.position.z);
         }
 
+        // Win/Loss Logic
         if (kommy != null && !isDefeated)
         {
-            // Thief Escapes (Thief Wins)
-            if (transform.position.x >= escapeLimitX && kommy.currentState != KommyController.CharacterState.Dead)
+            // AGGRESSIVE EARLY VICTORY: If his actual physical body touches Kommy's catch zone
+            if (transform.position.x <= kommy.transform.position.x + catchDistance)
             {
-                TriggerThiefWin();
+                if (kommy.currentState != KommyController.CharacterState.Victory)
+                {
+                    kommy.WinGame();
+                    TriggerDefeat();
+                }
             }
-            // Early Victory (Kommy catches Thief before time runs out)
-            else if (transform.position.x <= kommy.transform.position.x + catchDistance && kommy.currentState != KommyController.CharacterState.Victory)
+            // ESCAPE DEFEAT
+            else if (transform.position.x >= escapeLimitX)
             {
-                kommy.WinGame();
-                TriggerDefeat();
+                if (kommy.currentState != KommyController.CharacterState.Dead)
+                {
+                    TriggerThiefWin();
+                }
             }
         }
     }
@@ -75,7 +87,7 @@ public class ThiefController : MonoBehaviour
     {
         if (!isDefeated)
         {
-            targetX += escapeDistance; 
+            targetX += forwardStepDistance; // Moves exactly 1 block forward
             if (playLaugh) ShowEmoticon("EmoticonLaugh", 2.05f);
         }
     }
@@ -84,7 +96,7 @@ public class ThiefController : MonoBehaviour
     {
         if (!isDefeated)
         {
-            targetX -= (escapeDistance * 2f); 
+            targetX -= backwardStepDistance; // Moves exactly 0.5 blocks backward
             ShowEmoticon("EmoticonCry", 2.05f);
         }
     }
@@ -212,6 +224,10 @@ public class ThiefController : MonoBehaviour
         kommy.Die();
         StopAllCoroutines();
         wordManager.StopSpawning();
+        
+        // INSTANTLY SNAP TO GROUND
+        transform.position = new Vector3(transform.position.x, groundY, transform.position.z);
+        
         anim.Play("ThiefWin"); 
         ShowEmoticon("EmoticonLaugh", 0f); // 0 = Loops infinitely
     }
@@ -221,8 +237,11 @@ public class ThiefController : MonoBehaviour
         isDefeated = true;
         StopAllCoroutines(); 
         wordManager.StopSpawning(); 
-        ShowEmoticon("EmoticonCry", 0f); // 0 = Loops infinitely
+        
+        // INSTANTLY SNAP TO GROUND
         transform.position = new Vector3(transform.position.x, groundY, transform.position.z);
+        
+        ShowEmoticon("EmoticonCry", 0f); // 0 = Loops infinitely
         anim.Play("ThiefDie"); 
     }
 }

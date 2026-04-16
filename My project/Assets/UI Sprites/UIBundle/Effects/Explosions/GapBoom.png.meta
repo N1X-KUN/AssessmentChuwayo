@@ -1,0 +1,7176 @@
+fileFormatVersion: 2
+guid: d53d70e16b94719449b4bffcf3976f3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7097408414532351015
+    second: GapBoom_0
+  - first:
+      213: -8716438373266046439
+    second: GapBoom_1
+  - first:
+      213: -2528870933466329380
+    second: GapBoom_2
+  - first:
+      213: -6890282513876556399
+    second: GapBoom_3
+  - first:
+      213: 157069125953013996
+    second: GapBoom_4
+  - first:
+      213: -135984429106058123
+    second: GapBoom_5
+  - first:
+      213: -8539512060500600020
+    second: GapBoom_6
+  - first:
+      213: -4114491750692641847
+    second: GapBoom_7
+  - first:
+      213: -236085248213824575
+    second: GapBoom_8
+  - first:
+      213: -7134914260960634763
+    second: GapBoom_9
+  - first:
+      213: 6675607721644267784
+    second: GapBoom_10
+  - first:
+      213: -4479736508990227425
+    second: GapBoom_11
+  - first:
+      213: 2010316477840216987
+    second: GapBoom_12
+  - first:
+      213: 3717328866055861096
+    second: GapBoom_13
+  - first:
+      213: -5656220196069548799
+    second: GapBoom_14
+  - first:
+      213: -4567112257444164415
+    second: GapBoom_15
+  - first:
+      213: -4333298085310930411
+    second: GapBoom_16
+  - first:
+      213: 6709720217591779999
+    second: GapBoom_17
+  - first:
+      213: -5382362337181151776
+    second: GapBoom_18
+  - first:
+      213: 14761777999124309
+    second: GapBoom_19
+  - first:
+      213: 2187170492324780111
+    second: GapBoom_20
+  - first:
+      213: -8976188448667491082
+    second: GapBoom_21
+  - first:
+      213: -2800733945052563749
+    second: GapBoom_22
+  - first:
+      213: 2414364358893105283
+    second: GapBoom_23
+  - first:
+      213: 5431968130254393125
+    second: GapBoom_24
+  - first:
+      213: 3160219893998394439
+    second: GapBoom_25
+  - first:
+      213: -1125525113025690506
+    second: GapBoom_26
+  - first:
+      213: 4226552307611521834
+    second: GapBoom_27
+  - first:
+      213: -8505254781797893920
+    second: GapBoom_28
+  - first:
+      213: 7612597759289942184
+    second: GapBoom_29
+  - first:
+      213: 6579652337929210876
+    second: GapBoom_30
+  - first:
+      213: 2993108836857868297
+    second: GapBoom_31
+  - first:
+      213: -2097400801117140156
+    second: GapBoom_32
+  - first:
+      213: 8409881425369390393
+    second: GapBoom_33
+  - first:
+      213: 3924048890866727196
+    second: GapBoom_34
+  - first:
+      213: 2972199717924988280
+    second: GapBoom_35
+  - first:
+      213: -7201390760631714050
+    second: GapBoom_36
+  - first:
+      213: -9042386104776669156
+    second: GapBoom_37
+  - first:
+      213: -4653812436974858138
+    second: GapBoom_38
+  - first:
+      213: 6330648208938383436
+    second: GapBoom_39
+  - first:
+      213: 7025096077227678447
+    second: GapBoom_40
+  - first:
+      213: -8613920699307143308
+    second: GapBoom_41
+  - first:
+      213: -8638619648613570245
+    second: GapBoom_42
+  - first:
+      213: -6645617483222011315
+    second: GapBoom_43
+  - first:
+      213: 4323021134553915530
+    second: GapBoom_44
+  - first:
+      213: 1880573575787123557
+    second: GapBoom_45
+  - first:
+      213: 550067865822590106
+    second: GapBoom_46
+  - first:
+      213: 3115333035519491987
+    second: GapBoom_47
+  - first:
+      213: 2393061084828389564
+    second: GapBoom_48
+  - first:
+      213: 298926114131311557
+    second: GapBoom_49
+  - first:
+      213: -3015474724079572460
+    second: GapBoom_50
+  - first:
+      213: -4570120221262838685
+    second: GapBoom_51
+  - first:
+      213: 3951447459715241339
+    second: GapBoom_52
+  - first:
+      213: -5164148512383089815
+    second: GapBoom_53
+  - first:
+      213: -4950374587775865035
+    second: GapBoom_54
+  - first:
+      213: -6353087032554208380
+    second: GapBoom_55
+  - first:
+      213: -218816099627754763
+    second: GapBoom_56
+  - first:
+      213: 701644706097426790
+    second: GapBoom_57
+  - first:
+      213: 5126231267770360208
+    second: GapBoom_58
+  - first:
+      213: 6854577918217683978
+    second: GapBoom_59
+  - first:
+      213: 4353186299640236277
+    second: GapBoom_60
+  - first:
+      213: -6931504246394259727
+    second: GapBoom_61
+  - first:
+      213: 5118773298196686721
+    second: GapBoom_62
+  - first:
+      213: -6829118464989665291
+    second: GapBoom_63
+  - first:
+      213: 5801403904225179308
+    second: GapBoom_64
+  - first:
+      213: -2677843256145434104
+    second: GapBoom_65
+  - first:
+      213: -2523551525748855316
+    second: GapBoom_66
+  - first:
+      213: 7872704222188261017
+    second: GapBoom_67
+  - first:
+      213: 1118161442429932642
+    second: GapBoom_68
+  - first:
+      213: 4825720396479518551
+    second: GapBoom_69
+  - first:
+      213: 5314942274818913411
+    second: GapBoom_70
+  - first:
+      213: 8136460783204075279
+    second: GapBoom_71
+  - first:
+      213: 6062650029237085424
+    second: GapBoom_72
+  - first:
+      213: -2269959525518485459
+    second: GapBoom_73
+  - first:
+      213: -5351135847472227220
+    second: GapBoom_74
+  - first:
+      213: 2313123399961688788
+    second: GapBoom_75
+  - first:
+      213: 1388023360577372272
+    second: GapBoom_76
+  - first:
+      213: 2268936351291794124
+    second: GapBoom_77
+  - first:
+      213: 7624504606788460813
+    second: GapBoom_78
+  - first:
+      213: -6971727675352418339
+    second: GapBoom_79
+  - first:
+      213: 6969571566845379046
+    second: GapBoom_80
+  - first:
+      213: 4907503777559470861
+    second: GapBoom_81
+  - first:
+      213: -7280114678365479646
+    second: GapBoom_82
+  - first:
+      213: -480881397521778912
+    second: GapBoom_83
+  - first:
+      213: -2265248906621385060
+    second: GapBoom_84
+  - first:
+      213: -8489896747839323684
+    second: GapBoom_85
+  - first:
+      213: -8220230678660868617
+    second: GapBoom_86
+  - first:
+      213: 1922388050685047426
+    second: GapBoom_87
+  - first:
+      213: 2770673220435379025
+    second: GapBoom_88
+  - first:
+      213: 7771517555083169880
+    second: GapBoom_89
+  - first:
+      213: 6013149655879157901
+    second: GapBoom_90
+  - first:
+      213: -102758201592955869
+    second: GapBoom_91
+  - first:
+      213: 8256185250491479198
+    second: GapBoom_92
+  - first:
+      213: 450934406780160752
+    second: GapBoom_93
+  - first:
+      213: 3758489393846038441
+    second: GapBoom_94
+  - first:
+      213: -3911424977341403059
+    second: GapBoom_95
+  - first:
+      213: 5480884116953417811
+    second: GapBoom_96
+  - first:
+      213: -6149817249231413961
+    second: GapBoom_97
+  - first:
+      213: 4716487047424785446
+    second: GapBoom_98
+  - first:
+      213: -6238010930855612916
+    second: GapBoom_99
+  - first:
+      213: 7721367891766508788
+    second: GapBoom_100
+  - first:
+      213: 295454049557975469
+    second: GapBoom_101
+  - first:
+      213: 7781411502524599146
+    second: GapBoom_102
+  - first:
+      213: 930469489447353848
+    second: GapBoom_103
+  - first:
+      213: -1186429326884357257
+    second: GapBoom_104
+  - first:
+      213: 9079298164365247576
+    second: GapBoom_105
+  - first:
+      213: -8920807420984797057
+    second: GapBoom_106
+  - first:
+      213: 3492645489365307691
+    second: GapBoom_107
+  - first:
+      213: -251076003943270263
+    second: GapBoom_108
+  - first:
+      213: 4888383988886869347
+    second: GapBoom_109
+  - first:
+      213: 7704760973771014030
+    second: GapBoom_110
+  - first:
+      213: 7149174700453573562
+    second: GapBoom_111
+  - first:
+      213: -7722261635747191661
+    second: GapBoom_112
+  - first:
+      213: 5440289460593459591
+    second: GapBoom_113
+  - first:
+      213: -9106812340588515171
+    second: GapBoom_114
+  - first:
+      213: 6352811857422127094
+    second: GapBoom_115
+  - first:
+      213: -179308086456314139
+    second: GapBoom_116
+  - first:
+      213: 292843398046675589
+    second: GapBoom_117
+  - first:
+      213: -90448360807378693
+    second: GapBoom_118
+  - first:
+      213: -4608853994724464069
+    second: GapBoom_119
+  - first:
+      213: -2413103933214361812
+    second: GapBoom_120
+  - first:
+      213: 4008972264485433840
+    second: GapBoom_121
+  - first:
+      213: 3258549352358642141
+    second: GapBoom_122
+  - first:
+      213: 3286255653440766069
+    second: GapBoom_123
+  - first:
+      213: 3215848033653047745
+    second: GapBoom_124
+  - first:
+      213: -8667563328117174395
+    second: GapBoom_125
+  - first:
+      213: -3342105559860184858
+    second: GapBoom_126
+  - first:
+      213: -3149577182554764790
+    second: GapBoom_127
+  - first:
+      213: -8200267650648225853
+    second: GapBoom_128
+  - first:
+      213: -8714783221766310595
+    second: GapBoom_129
+  - first:
+      213: 6174488454959627418
+    second: GapBoom_130
+  - first:
+      213: 4117736697236622902
+    second: GapBoom_131
+  - first:
+      213: 8789076291161399441
+    second: GapBoom_132
+  - first:
+      213: -1917169654116649850
+    second: GapBoom_133
+  - first:
+      213: 3517059817006674132
+    second: GapBoom_134
+  - first:
+      213: 9121164681157274561
+    second: GapBoom_135
+  - first:
+      213: 1746275252646032148
+    second: GapBoom_136
+  - first:
+      213: 6473233443111513702
+    second: GapBoom_137
+  - first:
+      213: -749627656727793214
+    second: GapBoom_138
+  - first:
+      213: -8876121263752794475
+    second: GapBoom_139
+  - first:
+      213: 8647034127061932016
+    second: GapBoom_140
+  - first:
+      213: -3380477507193214492
+    second: GapBoom_141
+  - first:
+      213: 8948124646023321449
+    second: GapBoom_142
+  - first:
+      213: 2862446034030096870
+    second: GapBoom_143
+  - first:
+      213: -5394707139706805801
+    second: GapBoom_144
+  - first:
+      213: 3439019122917891892
+    second: GapBoom_145
+  - first:
+      213: -6046297427980800682
+    second: GapBoom_146
+  - first:
+      213: 6641150175778691197
+    second: GapBoom_147
+  - first:
+      213: -3290633949074158901
+    second: GapBoom_148
+  - first:
+      213: -906076441880991393
+    second: GapBoom_149
+  - first:
+      213: 5202648599880581547
+    second: GapBoom_150
+  - first:
+      213: -6225890325857957770
+    second: GapBoom_151
+  - first:
+      213: -8952208048347356893
+    second: GapBoom_152
+  - first:
+      213: -5268824928672627422
+    second: GapBoom_153
+  - first:
+      213: -8716873972002320405
+    second: GapBoom_154
+  - first:
+      213: 8719092081660481406
+    second: GapBoom_155
+  - first:
+      213: -7407373969553595773
+    second: GapBoom_156
+  - first:
+      213: 5273856366344511370
+    second: GapBoom_157
+  - first:
+      213: 887502614881885462
+    second: GapBoom_158
+  - first:
+      213: -8446873660976305442
+    second: GapBoom_159
+  - first:
+      213: -5116193610408608577
+    second: GapBoom_160
+  - first:
+      213: -5460849625741649074
+    second: GapBoom_161
+  - first:
+      213: -6453145759402477347
+    second: GapBoom_162
+  - first:
+      213: -4729223250375464580
+    second: GapBoom_163
+  - first:
+      213: -7554986491021051027
+    second: GapBoom_164
+  - first:
+      213: -7308238116681623708
+    second: GapBoom_165
+  - first:
+      213: -2743755794136498770
+    second: GapBoom_166
+  - first:
+      213: 2310721283946403946
+    second: GapBoom_167
+  - first:
+      213: -902584541896568962
+    second: GapBoom_168
+  - first:
+      213: 3081919244167818134
+    second: GapBoom_169
+  - first:
+      213: 5522640282620339768
+    second: GapBoom_170
+  - first:
+      213: -6923953124427018654
+    second: GapBoom_171
+  - first:
+      213: -2736277720379847114
+    second: GapBoom_172
+  - first:
+      213: -2384093736394970927
+    second: GapBoom_173
+  - first:
+      213: -4296616723354846594
+    second: GapBoom_174
+  - first:
+      213: 5667100391323077956
+    second: GapBoom_175
+  - first:
+      213: 6968974447893575531
+    second: GapBoom_176
+  - first:
+      213: 1297863369814554458
+    second: GapBoom_177
+  - first:
+      213: -5941906332695825911
+    second: GapBoom_178
+  - first:
+      213: -138752974789009847
+    second: GapBoom_179
+  - first:
+      213: -3377961090614039065
+    second: GapBoom_180
+  - first:
+      213: -3714214880161961606
+    second: GapBoom_181
+  - first:
+      213: 6353197922471781523
+    second: GapBoom_182
+  - first:
+      213: 6729062675529220411
+    second: GapBoom_183
+  - first:
+      213: -686561345726932136
+    second: GapBoom_184
+  - first:
+      213: 2034689866195760932
+    second: GapBoom_185
+  - first:
+      213: -492216093066285922
+    second: GapBoom_186
+  - first:
+      213: -7352408255629703191
+    second: GapBoom_187
+  - first:
+      213: 7541313544712405027
+    second: GapBoom_188
+  - first:
+      213: 8729230732170260966
+    second: GapBoom_189
+  - first:
+      213: -7536882587572242749
+    second: GapBoom_190
+  - first:
+      213: -6489213447464640759
+    second: GapBoom_191
+  - first:
+      213: 894750842270514060
+    second: GapBoom_192
+  - first:
+      213: -673052669699595130
+    second: GapBoom_193
+  - first:
+      213: -948634711086530159
+    second: GapBoom_194
+  - first:
+      213: -1830951903224645547
+    second: GapBoom_195
+  - first:
+      213: -1651045406428909184
+    second: GapBoom_196
+  - first:
+      213: 222606011878643522
+    second: GapBoom_197
+  - first:
+      213: -4554433376570023671
+    second: GapBoom_198
+  - first:
+      213: 8288047289766443169
+    second: GapBoom_199
+  - first:
+      213: 3180563818208960420
+    second: GapBoom_200
+  - first:
+      213: 2143679012102755973
+    second: GapBoom_201
+  - first:
+      213: -8921792575818252640
+    second: GapBoom_202
+  - first:
+      213: 6326926369220019343
+    second: GapBoom_203
+  - first:
+      213: 7285706927432865231
+    second: GapBoom_204
+  - first:
+      213: 5656100583577168128
+    second: GapBoom_205
+  - first:
+      213: 5727758140601135029
+    second: GapBoom_206
+  - first:
+      213: 8502078764644232377
+    second: GapBoom_207
+  - first:
+      213: 5685791843781004567
+    second: GapBoom_208
+  - first:
+      213: -8778831329162052221
+    second: GapBoom_209
+  - first:
+      213: -2243245015319039756
+    second: GapBoom_210
+  - first:
+      213: 1280207644567866785
+    second: GapBoom_211
+  - first:
+      213: 2575400065887611489
+    second: GapBoom_212
+  - first:
+      213: 4193322808618398236
+    second: GapBoom_213
+  - first:
+      213: -5677425294097806540
+    second: GapBoom_214
+  - first:
+      213: -465434012209596706
+    second: GapBoom_215
+  - first:
+      213: -864243892160734974
+    second: GapBoom_216
+  - first:
+      213: 2912209160289905236
+    second: GapBoom_217
+  - first:
+      213: 5150358944891847206
+    second: GapBoom_218
+  - first:
+      213: -8848266203057453431
+    second: GapBoom_219
+  - first:
+      213: -8213090169416148825
+    second: GapBoom_220
+  - first:
+      213: -936713117261020142
+    second: GapBoom_221
+  - first:
+      213: -5564809444255029545
+    second: GapBoom_222
+  - first:
+      213: -8833811751332924150
+    second: GapBoom_223
+  - first:
+      213: 466947341747038005
+    second: GapBoom_224
+  - first:
+      213: -6098201633770583947
+    second: GapBoom_225
+  - first:
+      213: 1828723741202302202
+    second: GapBoom_226
+  - first:
+      213: -6841393101453548221
+    second: GapBoom_227
+  - first:
+      213: -6850055649981654083
+    second: GapBoom_228
+  - first:
+      213: -8319049209603078809
+    second: GapBoom_229
+  - first:
+      213: -7440111958753832151
+    second: GapBoom_230
+  - first:
+      213: 647863156105638904
+    second: GapBoom_231
+  - first:
+      213: -198800609606011099
+    second: GapBoom_232
+  - first:
+      213: 3029650518989344506
+    second: GapBoom_233
+  - first:
+      213: -1850956692436006126
+    second: GapBoom_234
+  - first:
+      213: 6239633907917595812
+    second: GapBoom_235
+  - first:
+      213: -2788314556208343164
+    second: GapBoom_236
+  - first:
+      213: -6434561485516865679
+    second: GapBoom_237
+  - first:
+      213: -7899549965068544491
+    second: GapBoom_238
+  - first:
+      213: 1061722142560951548
+    second: GapBoom_239
+  - first:
+      213: -4594483057984321726
+    second: GapBoom_240
+  - first:
+      213: -1256713419289130666
+    second: GapBoom_241
+  - first:
+      213: -2429083860416508670
+    second: GapBoom_242
+  - first:
+      213: -1293113502398585858
+    second: GapBoom_243
+  - first:
+      213: 1298969093581699962
+    second: GapBoom_244
+  - first:
+      213: -759819020991266130
+    second: GapBoom_245
+  - first:
+      213: -1776255656608007052
+    second: GapBoom_246
+  - first:
+      213: -2193684940176542763
+    second: GapBoom_247
+  - first:
+      213: 735980057988580942
+    second: GapBoom_248
+  - first:
+      213: 8724427907632403471
+    second: GapBoom_249
+  - first:
+      213: -8827599404090520029
+    second: GapBoom_250
+  - first:
+      213: -9180354514066994223
+    second: GapBoom_251
+  - first:
+      213: -366060403737357860
+    second: GapBoom_252
+  - first:
+      213: 2088274716362841849
+    second: GapBoom_253
+  - first:
+      213: -4067539930170957717
+    second: GapBoom_254
+  - first:
+      213: -1497470293622178184
+    second: GapBoom_255
+  - first:
+      213: 3737758565388412520
+    second: GapBoom_256
+  - first:
+      213: -703789346462778318
+    second: GapBoom_257
+  - first:
+      213: -4753885127687380763
+    second: GapBoom_258
+  - first:
+      213: 3588229133736007430
+    second: GapBoom_259
+  - first:
+      213: -6012001792270255056
+    second: GapBoom_260
+  - first:
+      213: 5930905491676430824
+    second: GapBoom_261
+  - first:
+      213: -3558492070837728453
+    second: GapBoom_262
+  - first:
+      213: -6762645570868987090
+    second: GapBoom_263
+  - first:
+      213: 1431383952563141058
+    second: GapBoom_264
+  - first:
+      213: -3316974858460978393
+    second: GapBoom_265
+  - first:
+      213: 5006281786752571980
+    second: GapBoom_266
+  - first:
+      213: 2199184542881566692
+    second: GapBoom_267
+  - first:
+      213: -7695230675697825962
+    second: GapBoom_268
+  - first:
+      213: -1503769787070077602
+    second: GapBoom_269
+  - first:
+      213: 2765226150594429692
+    second: GapBoom_270
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GapBoom_0
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 149
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724b11e695f0f7260800000000000000
+      internalID: 7097408414532351015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_1
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 150
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912c4ee2b7df80780800000000000000
+      internalID: -8716438373266046439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_2
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 176
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdecde7d845a7ecd0800000000000000
+      internalID: -2528870933466329380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_3
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 175
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1956d465f8cc060a0800000000000000
+      internalID: -6890282513876556399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_4
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 178
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce84c91b9850e2200800000000000000
+      internalID: 157069125953013996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_5
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 176
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c2628d1e2ec1ef0800000000000000
+      internalID: -135984429106058123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_6
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 44
+        width: 276
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b92b6760f8d7980800000000000000
+      internalID: -8539512060500600020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_7
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 131
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3a0b06d8366e6c0800000000000000
+      internalID: -4114491750692641847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_8
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 164
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb4183b7b149bcf0800000000000000
+      internalID: -236085248213824575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_9
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 166
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57892943841bbfc90800000000000000
+      internalID: -7134914260960634763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_10
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 171
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809167c9ad584ac50800000000000000
+      internalID: 6675607721644267784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_11
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 169
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cf9463167c4d1c0800000000000000
+      internalID: -4479736508990227425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_12
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 162
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93d7cb7f2416eb10800000000000000
+      internalID: 2010316477840216987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_13
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 170
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863b09e88ea969330800000000000000
+      internalID: 3717328866055861096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_14
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 35
+        width: 143
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d52e913b11181b0800000000000000
+      internalID: -5656220196069548799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_15
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 56
+        width: 132
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc45b5799b5e90c0800000000000000
+      internalID: -4567112257444164415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_16
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 141
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5126927a9580dd3c0800000000000000
+      internalID: -4333298085310930411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_17
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 126
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9290dffcf6bd1d50800000000000000
+      internalID: 6709720217591779999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_18
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 117
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed40e7a8f10e45b0800000000000000
+      internalID: -5382362337181151776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_19
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 145
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55714e542c1743000800000000000000
+      internalID: 14761777999124309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_20
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 128
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f481c3289f36a5e10800000000000000
+      internalID: 2187170492324780111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_21
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 154
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4a530f92c2e6380800000000000000
+      internalID: -8976188448667491082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_22
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 141
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd673ced05bc129d0800000000000000
+      internalID: -2800733945052563749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_23
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 127
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380ff22b79b818120800000000000000
+      internalID: 2414364358893105283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_24
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 143
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f4e031c3a326b40800000000000000
+      internalID: 5431968130254393125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_25
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 134
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c95e1004b5bdb20800000000000000
+      internalID: 3160219893998394439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_26
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 132
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674825c7fd45160f0800000000000000
+      internalID: -1125525113025690506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_27
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 150
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23dac73eeab7aa30800000000000000
+      internalID: 4226552307611521834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_28
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 137
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e87eb6b6d347f980800000000000000
+      internalID: -8505254781797893920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_29
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 132
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0696c245165a960800000000000000
+      internalID: 7612597759289942184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_30
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 129
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbc6dbd0fe9f4b50800000000000000
+      internalID: 6579652337929210876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_31
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 144
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900fef201a8a98920800000000000000
+      internalID: 2993108836857868297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_32
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 138
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b0bc9751984e2e0800000000000000
+      internalID: -2097400801117140156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_33
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 136
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d5c425996e5b470800000000000000
+      internalID: 8409881425369390393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_34
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 110
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19706dfca5057630800000000000000
+      internalID: 3924048890866727196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_35
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 149
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8756f6465ef5f3920800000000000000
+      internalID: 2972199717924988280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_36
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 139
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe34cff1458f0c90800000000000000
+      internalID: -7201390760631714050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_37
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 125
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18cbde0fbdf28280800000000000000
+      internalID: -9042386104776669156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_38
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 144
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66091dade365a6fb0800000000000000
+      internalID: -4653812436974858138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_39
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 152
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c483cbb310bfad750800000000000000
+      internalID: 6330648208938383436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_40
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 142
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea552469a72e7160800000000000000
+      internalID: 7025096077227678447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_41
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 129
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fc96233c4357880800000000000000
+      internalID: -8613920699307143308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_42
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 154
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39adaee2357d1880800000000000000
+      internalID: -8638619648613570245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_43
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 147
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d423d67eb1606c3a0800000000000000
+      internalID: -6645617483222011315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_44
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 152
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80a79941d47efb30800000000000000
+      internalID: 4323021134553915530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_45
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 158
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56317c614b3291a10800000000000000
+      internalID: 1880573575787123557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_46
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 153
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9476b04fcb32a700800000000000000
+      internalID: 550067865822590106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_47
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 160
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fbd2bd3e2eb3b20800000000000000
+      internalID: 3115333035519491987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_48
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 156
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0d10fa06cd53120800000000000000
+      internalID: 2393061084828389564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_49
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 162
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb72ee87bff52400800000000000000
+      internalID: 298926114131311557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_50
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 121
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a611217b1e626d0800000000000000
+      internalID: -3015474724079572460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_51
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 146
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3648cce4fdba390c0800000000000000
+      internalID: -4570120221262838685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_52
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7552f8678c56d630800000000000000
+      internalID: 3951447459715241339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_53
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 126
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9634b00f9424558b0800000000000000
+      internalID: -5164148512383089815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_54
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 160
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53faf766a8cbc4bb0800000000000000
+      internalID: -4950374587775865035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_55
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 162
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4834775010d45d7a0800000000000000
+      internalID: -6353087032554208380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_56
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 133
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa1d8eaaeb96fcf0800000000000000
+      internalID: -218816099627754763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_57
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 153
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6617879842ebcb900800000000000000
+      internalID: 701644706097426790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_58
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 131
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091e3f79d28042740800000000000000
+      internalID: 5126231267770360208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_59
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 132
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a040a9cac4a502f50800000000000000
+      internalID: 6854577918217683978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_60
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 139
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8472710ef996c30800000000000000
+      internalID: 4353186299640236277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_61
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 159
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6fe82dc995ecf90800000000000000
+      internalID: -6931504246394259727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_62
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 140
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187a4ccb139890740800000000000000
+      internalID: 5118773298196686721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_63
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 15
+        width: 166
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7ea3530f81a31a0800000000000000
+      internalID: -6829118464989665291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_64
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 98
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6f7ed1d1ab28050800000000000000
+      internalID: 5801403904225179308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_65
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 115
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80aa6411fb366dad0800000000000000
+      internalID: -2677843256145434104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_66
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 85
+        width: 84
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced2857f14b8afcd0800000000000000
+      internalID: -2523551525748855316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_67
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 129
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ecf3957c6714d60800000000000000
+      internalID: 7872704222188261017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_68
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 128
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264139958e1848f00800000000000000
+      internalID: 1118161442429932642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_69
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 125
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757d481022768f240800000000000000
+      internalID: 4825720396479518551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_70
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 130
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384b944d6d772c940800000000000000
+      internalID: 5314942274818913411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_71
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 124
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0786c739f38ae070800000000000000
+      internalID: 8136460783204075279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_72
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 126
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4203e841cd22450800000000000000
+      internalID: 6062650029237085424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_73
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 126
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28d4fa96db7f70e0800000000000000
+      internalID: -2269959525518485459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_74
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 124
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c1f8a5c42fcb5b0800000000000000
+      internalID: -5351135847472227220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_75
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 104
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da3c501a7dd91020800000000000000
+      internalID: 2313123399961688788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_76
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 128
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070882374ef334310800000000000000
+      internalID: 1388023360577372272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_77
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 106
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2e7b41791ec7f10800000000000000
+      internalID: 2268936351291794124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_78
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 114
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01a4f32b8eafc960800000000000000
+      internalID: 7624504606788460813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_79
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 121
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7fbd7fd927f3f90800000000000000
+      internalID: -6971727675352418339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_80
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 121
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e14b76e964e8b060800000000000000
+      internalID: 6969571566845379046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_81
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 40
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03e1534fa4fa1440800000000000000
+      internalID: 4907503777559470861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_82
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 115
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d1bef8546d7fa90800000000000000
+      internalID: -7280114678365479646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_83
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 116
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027fe91bae09359f0800000000000000
+      internalID: -480881397521778912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_84
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 109
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c968df80f183090e0800000000000000
+      internalID: -2265248906621385060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_85
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 76
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd10b45a3e3dd2a80800000000000000
+      internalID: -8489896747839323684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_86
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 105
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f596aa10cfdbed80800000000000000
+      internalID: -8220230678660868617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_87
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 105
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282b9813fb1bdaa10800000000000000
+      internalID: 1922388050685047426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_88
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1530db44d98637620800000000000000
+      internalID: 2770673220435379025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_89
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 100
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850d1748a0af9db60800000000000000
+      internalID: 7771517555083169880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_90
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 106
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8880f3c0cff27350800000000000000
+      internalID: 6013149655879157901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_91
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 112
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c3b48c5fde29ef0800000000000000
+      internalID: -102758201592955869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_92
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 107
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e943d5ffdbcd39270800000000000000
+      internalID: 8256185250491479198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_93
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 119
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa022d247a024600800000000000000
+      internalID: 450934406780160752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_94
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 106
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af244cb036d82430800000000000000
+      internalID: 3758489393846038441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_95
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 110
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40b9fbe4b3d7b9c0800000000000000
+      internalID: -3911424977341403059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_96
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 119
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358c61eb013001c40800000000000000
+      internalID: 5480884116953417811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_97
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 117
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dddf18bc577aaa0800000000000000
+      internalID: -6149817249231413961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_98
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c3c790bf3547140800000000000000
+      internalID: 4716487047424785446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_99
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 116
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ee859db122e69a0800000000000000
+      internalID: -6238010930855612916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_100
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 119
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc79d0203fc72b60800000000000000
+      internalID: 7721367891766508788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_101
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 111
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da19a5784e9a91400800000000000000
+      internalID: 295454049557975469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_102
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 111
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b0e1ba8802dfb60800000000000000
+      internalID: 7781411502524599146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_103
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 14
+        width: 149
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd39d02211b9ec00800000000000000
+      internalID: 930469489447353848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_104
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 99
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bb3fb20d4f88fe0800000000000000
+      internalID: -1186429326884357257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_105
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 110
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854c8d88395200e70800000000000000
+      internalID: 9079298164365247576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_106
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 108
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7858824aece23480800000000000000
+      internalID: -8920807420984797057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_107
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 93
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b215df7519e587030800000000000000
+      internalID: 3492645489365307691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_108
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 93
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988365564bff38cf0800000000000000
+      internalID: -251076003943270263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_109
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 112
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3651f4f865707d340800000000000000
+      internalID: 4888383988886869347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_110
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 104
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ff9e8b84fccea60800000000000000
+      internalID: 7704760973771014030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_111
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 101
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3beb91388f63360800000000000000
+      internalID: 7149174700453573562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_112
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 106
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39469a2e4f305d490800000000000000
+      internalID: -7722261635747191661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_113
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 104
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78189f5c07acf7b40800000000000000
+      internalID: 5440289460593459591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_114
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 98
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90f31b1d6a1e9180800000000000000
+      internalID: -9106812340588515171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_115
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 110
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff0986c9b8b92850800000000000000
+      internalID: 6352811857422127094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_116
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 106
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e69a61de38f28df0800000000000000
+      internalID: -179308086456314139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_117
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 108
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582f36bd483601400800000000000000
+      internalID: 292843398046675589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_118
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 108
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf05f8fe1b9aebef0800000000000000
+      internalID: -90448360807378693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_119
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 112
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3aeec6e5bf0a00c0800000000000000
+      internalID: -4608853994724464069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_120
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 106
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27f8a602cee28ed0800000000000000
+      internalID: -2413103933214361812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_121
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 109
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f13c0bb80bb2a730800000000000000
+      internalID: 4008972264485433840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_122
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 105
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd18a661f51b83d20800000000000000
+      internalID: 3258549352358642141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_123
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 107
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570c4700b102b9d20800000000000000
+      internalID: 3286255653440766069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_124
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 107
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c147819fbcf0ac20800000000000000
+      internalID: 3215848033653047745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_125
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 98
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f8f576311a6b780800000000000000
+      internalID: -8667563328117174395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_126
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 99
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8fca653b47e91d0800000000000000
+      internalID: -3342105559860184858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_127
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 103
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ac5295d347a44d0800000000000000
+      internalID: -3149577182554764790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_128
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 79
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c74cf3c40cc23e80800000000000000
+      internalID: -8200267650648225853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_129
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 75
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35b51c25dede0780800000000000000
+      internalID: -8714783221766310595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_130
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 90
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c7e93398030b550800000000000000
+      internalID: 6174488454959627418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_131
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 92
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e016d95b3252930800000000000000
+      internalID: 4117736697236622902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_132
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 102
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190ab7ef15219f970800000000000000
+      internalID: 8789076291161399441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_133
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 96
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684f7307b58d465e0800000000000000
+      internalID: -1917169654116649850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_134
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 101
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0bb76f44b1fc030800000000000000
+      internalID: 3517059817006674132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_135
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 99
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbe73693f2e49e70800000000000000
+      internalID: 9121164681157274561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_136
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 96
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413b50217140c3810800000000000000
+      internalID: 1746275252646032148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_137
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 96
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e27d4158b85d950800000000000000
+      internalID: 6473233443111513702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_138
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 101
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c17eee2e99c895f0800000000000000
+      internalID: -749627656727793214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_139
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 88
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e29b20dbea1d480800000000000000
+      internalID: -8876121263752794475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_140
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 98
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7d43089bf600870800000000000000
+      internalID: 8647034127061932016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_141
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 103
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9ec842e912611d0800000000000000
+      internalID: -3380477507193214492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_142
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 103
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9675324d4ff1e2c70800000000000000
+      internalID: 8948124646023321449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_143
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 105
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1f617808379b720800000000000000
+      internalID: 2862446034030096870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_144
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 13
+        width: 128
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1238650762225b0800000000000000
+      internalID: -5394707139706805801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_145
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fdb4deba9d9bf20800000000000000
+      internalID: 3439019122917891892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_146
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 76
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65da8de168c371ca0800000000000000
+      internalID: -6046297427980800682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_147
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 94
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78df4706ea1a2c50800000000000000
+      internalID: 6641150175778691197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_148
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 85
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca089b9bd15552d0800000000000000
+      internalID: -3290633949074158901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_149
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 78
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f596556d648fc63f0800000000000000
+      internalID: -906076441880991393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_150
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 87
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1c0173655833840800000000000000
+      internalID: 5202648599880581547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_151
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 94
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67802bc1cb13999a0800000000000000
+      internalID: -6225890325857957770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_152
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 88
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321ecdaf53e53c380800000000000000
+      internalID: -8952208048347356893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_153
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 89
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225cebe84af51e6b0800000000000000
+      internalID: -5268824928672627422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_154
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 94
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef04f27e41770780800000000000000
+      internalID: -8716873972002320405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_155
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 89
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f4b437d00700970800000000000000
+      internalID: 8719092081660481406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_156
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 94
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3826842ee98b33990800000000000000
+      internalID: -7407373969553595773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_157
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 93
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f95605c60803940800000000000000
+      internalID: 5273856366344511370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_158
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 79
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dd3411dea015c00800000000000000
+      internalID: 887502614881885462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_159
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 90
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda67e6a82da6ca80800000000000000
+      internalID: -8446873660976305442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_160
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 92
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcb871a401aff8b0800000000000000
+      internalID: -5116193610408608577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_161
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 96
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b18ddb23a2734b0800000000000000
+      internalID: -5460849625741649074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_162
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 91
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd83ffe3f12d176a0800000000000000
+      internalID: -6453145759402477347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_163
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 96
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c792ad1a28c6e5eb0800000000000000
+      internalID: -4729223250375464580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_164
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bb0df70db472790800000000000000
+      internalID: -7554986491021051027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_165
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 92
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467d831572ce39a90800000000000000
+      internalID: -7308238116681623708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_166
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadf21c64a83ce9d0800000000000000
+      internalID: -2743755794136498770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_167
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 57
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a685f88d3c4511020800000000000000
+      internalID: 2310721283946403946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_168
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 60
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f0f7824206973f0800000000000000
+      internalID: -902584541896568962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_169
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 62
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b201f493d25ca20800000000000000
+      internalID: 3081919244167818134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_170
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 60
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83629dba31c54ac40800000000000000
+      internalID: 5522640282620339768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_171
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 67
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e4219615d29ef90800000000000000
+      internalID: -6923953124427018654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_172
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 73
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e81f529e9c60ad0800000000000000
+      internalID: -2736277720379847114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_173
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 64
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8a1f2d06ff9eed0800000000000000
+      internalID: -2384093736394970927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_174
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 81
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a7e64cad95f54c0800000000000000
+      internalID: -4296616723354846594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_175
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 62
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d0a43c7c595ae40800000000000000
+      internalID: 5667100391323077956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_176
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 69
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67787f4655c6b060800000000000000
+      internalID: 6968974447893575531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_177
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 76
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57b9c4cbdfe20210800000000000000
+      internalID: 1297863369814554458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_178
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 75
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90275070cab1a8da0800000000000000
+      internalID: -5941906332695825911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_179
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 83
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e1c2297ec031ef0800000000000000
+      internalID: -138752974789009847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_180
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 80
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edebd809421f11d0800000000000000
+      internalID: -3377961090614039065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_181
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 70
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79e978ce35747cc0800000000000000
+      internalID: -3714214880161961606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_182
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 85
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3942eac89d71b2850800000000000000
+      internalID: 6353197922471781523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_183
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 73
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31424ee9de626d50800000000000000
+      internalID: 6729062675529220411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_184
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 83
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b9e67f718d876f0800000000000000
+      internalID: -686561345726932136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_185
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 67
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4277fae27abac3c10800000000000000
+      internalID: 2034689866195760932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_186
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 72
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cad0c321c4b29f0800000000000000
+      internalID: -492216093066285922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_187
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 86
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7ca8f65aff6f990800000000000000
+      internalID: -7352408255629703191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_188
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 79
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320cc6c96b028a860800000000000000
+      internalID: 7541313544712405027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_189
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 77
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e17e69f915742970800000000000000
+      internalID: 8729230732170260966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_190
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 77
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6fdedf73d976790800000000000000
+      internalID: -7536882587572242749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_191
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 85
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f9e2830cea1f5a0800000000000000
+      internalID: -6489213447464640759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_192
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 82
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bf304862bca6c00800000000000000
+      internalID: 894750842270514060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_193
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6846d63b926d8a6f0800000000000000
+      internalID: -673052669699595130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_194
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 87
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1910510a1c5c5d2f0800000000000000
+      internalID: -948634711086530159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_195
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 75
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558387fd1f62796e0800000000000000
+      internalID: -1830951903224645547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_196
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 88
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081b3c153fe4619e0800000000000000
+      internalID: -1651045406428909184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_197
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 78
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24794e60dfad61300800000000000000
+      internalID: 222606011878643522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_198
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 74
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9016c5479f66bc0c0800000000000000
+      internalID: -4554433376570023671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_199
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 83
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8fa2c191f050370800000000000000
+      internalID: 8288047289766443169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_200
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 75
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af1ec9f0f1a32c20800000000000000
+      internalID: 3180563818208960420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_201
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 80
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58658dc24b0efbd10800000000000000
+      internalID: 2143679012102755973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_202
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 80
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeb2a60cec6f2480800000000000000
+      internalID: -8921792575818252640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_203
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 70
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f844965e202cdc750800000000000000
+      internalID: 6326926369220019343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_204
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 74
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc51d3369d70c1560800000000000000
+      internalID: 7285706927432865231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_205
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 80
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0092ff173818e7e40800000000000000
+      internalID: 5656100583577168128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_206
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 70
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfe1e19ea51d7f40800000000000000
+      internalID: 5727758140601135029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_207
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 82
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bce20b27937df570800000000000000
+      internalID: 8502078764644232377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_208
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 77
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d416bae8df7ee40800000000000000
+      internalID: 5685791843781004567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_209
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 82
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38db93a1b635b2680800000000000000
+      internalID: -8778831329162052221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_210
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 72
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f03eb53b846ed0e0800000000000000
+      internalID: -2243245015319039756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_211
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 73
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad0535e11634c110800000000000000
+      internalID: 1280207644567866785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_212
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 69
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aafb107b8adb320800000000000000
+      internalID: 2575400065887611489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_213
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 39
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c123e3490eca13a30800000000000000
+      internalID: 4193322808618398236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_214
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 67
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b8b7a76cbb531b0800000000000000
+      internalID: -5677425294097806540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_215
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 63
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6bcdb5b327a89f0800000000000000
+      internalID: -465434012209596706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_216
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 58
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209557052c69104f0800000000000000
+      internalID: -864243892160734974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_217
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 42
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ae7be3dce3a6820800000000000000
+      internalID: 2912209160289905236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_218
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 65
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622c8003c20c97740800000000000000
+      internalID: 5150358944891847206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_219
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 63
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9868aa8b4c4a43580800000000000000
+      internalID: -8848266203057453431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_220
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 65
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a892b7710e350e80800000000000000
+      internalID: -8213090169416148825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_221
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 60
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214453df1602003f0800000000000000
+      internalID: -936713117261020142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_222
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 50
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6a0784b43d5c2b0800000000000000
+      internalID: -5564809444255029545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_223
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 69
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a053125040ff76580800000000000000
+      internalID: -8833811751332924150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_224
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 69
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53725a1222eea7600800000000000000
+      internalID: 466947341747038005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_225
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 66
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578c56a7ce5de5ba0800000000000000
+      internalID: -6098201633770583947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_226
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 68
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4cfaabd8ee06910800000000000000
+      internalID: 1828723741202302202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_227
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 69
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345ad03b83d7e01a0800000000000000
+      internalID: -6841393101453548221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_228
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 62
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb9f23fda6bfe0a0800000000000000
+      internalID: -6850055649981654083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_229
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 71
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7654d90f1dccc8c80800000000000000
+      internalID: -8319049209603078809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_230
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 68
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9239759c7996fb890800000000000000
+      internalID: -7440111958753832151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_231
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 69
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f37db2ab1cadf800800000000000000
+      internalID: 647863156105638904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_232
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 71
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5277d4b16e7bd3df0800000000000000
+      internalID: -198800609606011099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_233
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 65
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe00f1681b7b0a20800000000000000
+      internalID: 3029650518989344506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_234
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1
+        width: 104
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b48bce1b41056e0800000000000000
+      internalID: -1850956692436006126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_235
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 37
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a429e1faf1a79650800000000000000
+      internalID: 6239633907917595812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_236
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 61
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487962b2faaed49d0800000000000000
+      internalID: -2788314556208343164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_237
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 55
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f7b52bb68d3b6a0800000000000000
+      internalID: -6434561485516865679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_238
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 62
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516d3ae09292f5290800000000000000
+      internalID: -7899549965068544491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_239
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 45
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc1385d9aefbbe00800000000000000
+      internalID: 1061722142560951548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_240
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 39
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2474b4a500e1d30c0800000000000000
+      internalID: -4594483057984321726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_241
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 63
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6590ec2bdc14f8ee0800000000000000
+      internalID: -1256713419289130666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_242
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 54
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d4d3a49192a4ed0800000000000000
+      internalID: -2429083860416508670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_243
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 16
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3654bee10fd0ee0800000000000000
+      internalID: -1293113502398585858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_244
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 39
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bf525228dd60210800000000000000
+      internalID: 1298969093581699962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_245
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 43
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea20b3840a49475f0800000000000000
+      internalID: -759819020991266130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_246
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 41
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cf99d24e87957e0800000000000000
+      internalID: -1776255656608007052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_247
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 45
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d337a76b277e81e0800000000000000
+      internalID: -2193684940176542763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_248
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 43
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e464e2e96f9b63a00800000000000000
+      internalID: 735980057988580942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_249
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 53
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f041fee35f4631970800000000000000
+      internalID: 8724427907632403471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_250
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 53
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e0cb3dc111e7580800000000000000
+      internalID: -8827599404090520029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_251
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 47
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db02e48534d89080800000000000000
+      internalID: -9180354514066994223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_252
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 52
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd116e4900e7beaf0800000000000000
+      internalID: -366060403737357860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_253
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 51
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe9c365aca0bfc10800000000000000
+      internalID: 2088274716362841849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_254
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 44
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b606178fbf13d87c0800000000000000
+      internalID: -4067539930170957717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_255
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 49
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e33fea3bae73be0800000000000000
+      internalID: -1497470293622178184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_256
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 48
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866662a9c9f2fd330800000000000000
+      internalID: 3737758565388412520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_257
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 54
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cb1677153ab36f0800000000000000
+      internalID: -703789346462778318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_258
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 52
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e06e2dd9aec60eb0800000000000000
+      internalID: -4753885127687380763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_259
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 46
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607da09c263fbc130800000000000000
+      internalID: 3588229133736007430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_260
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 21
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c38be0934119ca0800000000000000
+      internalID: -6012001792270255056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_261
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 45
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e189c31f1fce4250800000000000000
+      internalID: 5930905491676430824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_262
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 37
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b4ca5b052bd9ec0800000000000000
+      internalID: -3558492070837728453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_263
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b3c7eeea14622a0800000000000000
+      internalID: -6762645570868987090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_264
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 5
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c978bdfe1c4dd310800000000000000
+      internalID: 1431383952563141058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_265
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7232888b0fcb7f1d0800000000000000
+      internalID: -3316974858460978393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_266
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 28
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a15e8b2c2e97540800000000000000
+      internalID: 5006281786752571980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_267
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef4cf1a0b2158e10800000000000000
+      internalID: 2199184542881566692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_268
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 29
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6578756b87c053590800000000000000
+      internalID: -7695230675697825962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_269
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5529b19859812be0800000000000000
+      internalID: -1503769787070077602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GapBoom_270
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 21
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf24dcd788e006620800000000000000
+      internalID: 2765226150594429692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GapBoom_0: 7097408414532351015
+      GapBoom_1: -8716438373266046439
+      GapBoom_10: 6675607721644267784
+      GapBoom_100: 7721367891766508788
+      GapBoom_101: 295454049557975469
+      GapBoom_102: 7781411502524599146
+      GapBoom_103: 930469489447353848
+      GapBoom_104: -1186429326884357257
+      GapBoom_105: 9079298164365247576
+      GapBoom_106: -8920807420984797057
+      GapBoom_107: 3492645489365307691
+      GapBoom_108: -251076003943270263
+      GapBoom_109: 4888383988886869347
+      GapBoom_11: -4479736508990227425
+      GapBoom_110: 7704760973771014030
+      GapBoom_111: 7149174700453573562
+      GapBoom_112: -7722261635747191661
+      GapBoom_113: 5440289460593459591
+      GapBoom_114: -9106812340588515171
+      GapBoom_115: 6352811857422127094
+      GapBoom_116: -179308086456314139
+      GapBoom_117: 292843398046675589
+      GapBoom_118: -90448360807378693
+      GapBoom_119: -4608853994724464069
+      GapBoom_12: 2010316477840216987
+      GapBoom_120: -2413103933214361812
+      GapBoom_121: 4008972264485433840
+      GapBoom_122: 3258549352358642141
+      GapBoom_123: 3286255653440766069
+      GapBoom_124: 3215848033653047745
+      GapBoom_125: -8667563328117174395
+      GapBoom_126: -3342105559860184858
+      GapBoom_127: -3149577182554764790
+      GapBoom_128: -8200267650648225853
+      GapBoom_129: -8714783221766310595
+      GapBoom_13: 3717328866055861096
+      GapBoom_130: 6174488454959627418
+      GapBoom_131: 4117736697236622902
+      GapBoom_132: 8789076291161399441
+      GapBoom_133: -1917169654116649850
+      GapBoom_134: 3517059817006674132
+      GapBoom_135: 9121164681157274561
+      GapBoom_136: 1746275252646032148
+      GapBoom_137: 6473233443111513702
+      GapBoom_138: -749627656727793214
+      GapBoom_139: -8876121263752794475
+      GapBoom_14: -5656220196069548799
+      GapBoom_140: 8647034127061932016
+      GapBoom_141: -3380477507193214492
+      GapBoom_142: 8948124646023321449
+      GapBoom_143: 2862446034030096870
+      GapBoom_144: -5394707139706805801
+      GapBoom_145: 3439019122917891892
+      GapBoom_146: -6046297427980800682
+      GapBoom_147: 6641150175778691197
+      GapBoom_148: -3290633949074158901
+      GapBoom_149: -906076441880991393
+      GapBoom_15: -4567112257444164415
+      GapBoom_150: 5202648599880581547
+      GapBoom_151: -6225890325857957770
+      GapBoom_152: -8952208048347356893
+      GapBoom_153: -5268824928672627422
+      GapBoom_154: -8716873972002320405
+      GapBoom_155: 8719092081660481406
+      GapBoom_156: -7407373969553595773
+      GapBoom_157: 5273856366344511370
+      GapBoom_158: 887502614881885462
+      GapBoom_159: -8446873660976305442
+      GapBoom_16: -4333298085310930411
+      GapBoom_160: -5116193610408608577
+      GapBoom_161: -5460849625741649074
+      GapBoom_162: -6453145759402477347
+      GapBoom_163: -4729223250375464580
+      GapBoom_164: -7554986491021051027
+      GapBoom_165: -7308238116681623708
+      GapBoom_166: -2743755794136498770
+      GapBoom_167: 2310721283946403946
+      GapBoom_168: -902584541896568962
+      GapBoom_169: 3081919244167818134
+      GapBoom_17: 6709720217591779999
+      GapBoom_170: 5522640282620339768
+      GapBoom_171: -6923953124427018654
+      GapBoom_172: -2736277720379847114
+      GapBoom_173: -2384093736394970927
+      GapBoom_174: -4296616723354846594
+      GapBoom_175: 5667100391323077956
+      GapBoom_176: 6968974447893575531
+      GapBoom_177: 1297863369814554458
+      GapBoom_178: -5941906332695825911
+      GapBoom_179: -138752974789009847
+      GapBoom_18: -5382362337181151776
+      GapBoom_180: -3377961090614039065
+      GapBoom_181: -3714214880161961606
+      GapBoom_182: 6353197922471781523
+      GapBoom_183: 6729062675529220411
+      GapBoom_184: -686561345726932136
+      GapBoom_185: 2034689866195760932
+      GapBoom_186: -492216093066285922
+      GapBoom_187: -7352408255629703191
+      GapBoom_188: 7541313544712405027
+      GapBoom_189: 8729230732170260966
+      GapBoom_19: 14761777999124309
+      GapBoom_190: -7536882587572242749
+      GapBoom_191: -6489213447464640759
+      GapBoom_192: 894750842270514060
+      GapBoom_193: -673052669699595130
+      GapBoom_194: -948634711086530159
+      GapBoom_195: -1830951903224645547
+      GapBoom_196: -1651045406428909184
+      GapBoom_197: 222606011878643522
+      GapBoom_198: -4554433376570023671
+      GapBoom_199: 8288047289766443169
+      GapBoom_2: -2528870933466329380
+      GapBoom_20: 2187170492324780111
+      GapBoom_200: 3180563818208960420
+      GapBoom_201: 2143679012102755973
+      GapBoom_202: -8921792575818252640
+      GapBoom_203: 6326926369220019343
+      GapBoom_204: 7285706927432865231
+      GapBoom_205: 5656100583577168128
+      GapBoom_206: 5727758140601135029
+      GapBoom_207: 8502078764644232377
+      GapBoom_208: 5685791843781004567
+      GapBoom_209: -8778831329162052221
+      GapBoom_21: -8976188448667491082
+      GapBoom_210: -2243245015319039756
+      GapBoom_211: 1280207644567866785
+      GapBoom_212: 2575400065887611489
+      GapBoom_213: 4193322808618398236
+      GapBoom_214: -5677425294097806540
+      GapBoom_215: -465434012209596706
+      GapBoom_216: -864243892160734974
+      GapBoom_217: 2912209160289905236
+      GapBoom_218: 5150358944891847206
+      GapBoom_219: -8848266203057453431
+      GapBoom_22: -2800733945052563749
+      GapBoom_220: -8213090169416148825
+      GapBoom_221: -936713117261020142
+      GapBoom_222: -5564809444255029545
+      GapBoom_223: -8833811751332924150
+      GapBoom_224: 466947341747038005
+      GapBoom_225: -6098201633770583947
+      GapBoom_226: 1828723741202302202
+      GapBoom_227: -6841393101453548221
+      GapBoom_228: -6850055649981654083
+      GapBoom_229: -8319049209603078809
+      GapBoom_23: 2414364358893105283
+      GapBoom_230: -7440111958753832151
+      GapBoom_231: 647863156105638904
+      GapBoom_232: -198800609606011099
+      GapBoom_233: 3029650518989344506
+      GapBoom_234: -1850956692436006126
+      GapBoom_235: 6239633907917595812
+      GapBoom_236: -2788314556208343164
+      GapBoom_237: -6434561485516865679
+      GapBoom_238: -7899549965068544491
+      GapBoom_239: 1061722142560951548
+      GapBoom_24: 5431968130254393125
+      GapBoom_240: -4594483057984321726
+      GapBoom_241: -1256713419289130666
+      GapBoom_242: -2429083860416508670
+      GapBoom_243: -1293113502398585858
+      GapBoom_244: 1298969093581699962
+      GapBoom_245: -759819020991266130
+      GapBoom_246: -1776255656608007052
+      GapBoom_247: -2193684940176542763
+      GapBoom_248: 735980057988580942
+      GapBoom_249: 8724427907632403471
+      GapBoom_25: 3160219893998394439
+      GapBoom_250: -8827599404090520029
+      GapBoom_251: -9180354514066994223
+      GapBoom_252: -366060403737357860
+      GapBoom_253: 2088274716362841849
+      GapBoom_254: -4067539930170957717
+      GapBoom_255: -1497470293622178184
+      GapBoom_256: 3737758565388412520
+      GapBoom_257: -703789346462778318
+      GapBoom_258: -4753885127687380763
+      GapBoom_259: 3588229133736007430
+      GapBoom_26: -1125525113025690506
+      GapBoom_260: -6012001792270255056
+      GapBoom_261: 5930905491676430824
+      GapBoom_262: -3558492070837728453
+      GapBoom_263: -6762645570868987090
+      GapBoom_264: 1431383952563141058
+      GapBoom_265: -3316974858460978393
+      GapBoom_266: 5006281786752571980
+      GapBoom_267: 2199184542881566692
+      GapBoom_268: -7695230675697825962
+      GapBoom_269: -1503769787070077602
+      GapBoom_27: 4226552307611521834
+      GapBoom_270: 2765226150594429692
+      GapBoom_28: -8505254781797893920
+      GapBoom_29: 7612597759289942184
+      GapBoom_3: -6890282513876556399
+      GapBoom_30: 6579652337929210876
+      GapBoom_31: 2993108836857868297
+      GapBoom_32: -2097400801117140156
+      GapBoom_33: 8409881425369390393
+      GapBoom_34: 3924048890866727196
+      GapBoom_35: 2972199717924988280
+      GapBoom_36: -7201390760631714050
+      GapBoom_37: -9042386104776669156
+      GapBoom_38: -4653812436974858138
+      GapBoom_39: 6330648208938383436
+      GapBoom_4: 157069125953013996
+      GapBoom_40: 7025096077227678447
+      GapBoom_41: -8613920699307143308
+      GapBoom_42: -8638619648613570245
+      GapBoom_43: -6645617483222011315
+      GapBoom_44: 4323021134553915530
+      GapBoom_45: 1880573575787123557
+      GapBoom_46: 550067865822590106
+      GapBoom_47: 3115333035519491987
+      GapBoom_48: 2393061084828389564
+      GapBoom_49: 298926114131311557
+      GapBoom_5: -135984429106058123
+      GapBoom_50: -3015474724079572460
+      GapBoom_51: -4570120221262838685
+      GapBoom_52: 3951447459715241339
+      GapBoom_53: -5164148512383089815
+      GapBoom_54: -4950374587775865035
+      GapBoom_55: -6353087032554208380
+      GapBoom_56: -218816099627754763
+      GapBoom_57: 701644706097426790
+      GapBoom_58: 5126231267770360208
+      GapBoom_59: 6854577918217683978
+      GapBoom_6: -8539512060500600020
+      GapBoom_60: 4353186299640236277
+      GapBoom_61: -6931504246394259727
+      GapBoom_62: 5118773298196686721
+      GapBoom_63: -6829118464989665291
+      GapBoom_64: 5801403904225179308
+      GapBoom_65: -2677843256145434104
+      GapBoom_66: -2523551525748855316
+      GapBoom_67: 7872704222188261017
+      GapBoom_68: 1118161442429932642
+      GapBoom_69: 4825720396479518551
+      GapBoom_7: -4114491750692641847
+      GapBoom_70: 5314942274818913411
+      GapBoom_71: 8136460783204075279
+      GapBoom_72: 6062650029237085424
+      GapBoom_73: -2269959525518485459
+      GapBoom_74: -5351135847472227220
+      GapBoom_75: 2313123399961688788
+      GapBoom_76: 1388023360577372272
+      GapBoom_77: 2268936351291794124
+      GapBoom_78: 7624504606788460813
+      GapBoom_79: -6971727675352418339
+      GapBoom_8: -236085248213824575
+      GapBoom_80: 6969571566845379046
+      GapBoom_81: 4907503777559470861
+      GapBoom_82: -7280114678365479646
+      GapBoom_83: -480881397521778912
+      GapBoom_84: -2265248906621385060
+      GapBoom_85: -8489896747839323684
+      GapBoom_86: -8220230678660868617
+      GapBoom_87: 1922388050685047426
+      GapBoom_88: 2770673220435379025
+      GapBoom_89: 7771517555083169880
+      GapBoom_9: -7134914260960634763
+      GapBoom_90: 6013149655879157901
+      GapBoom_91: -102758201592955869
+      GapBoom_92: 8256185250491479198
+      GapBoom_93: 450934406780160752
+      GapBoom_94: 3758489393846038441
+      GapBoom_95: -3911424977341403059
+      GapBoom_96: 5480884116953417811
+      GapBoom_97: -6149817249231413961
+      GapBoom_98: 4716487047424785446
+      GapBoom_99: -6238010930855612916
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

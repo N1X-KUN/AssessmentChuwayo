@@ -1,0 +1,3848 @@
+fileFormatVersion: 2
+guid: ae1b5890d07d58e4ba371aaf2ed96b79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 183470106401809096
+    second: CoinBurst_0
+  - first:
+      213: 2967946040770502318
+    second: CoinBurst_1
+  - first:
+      213: -2289381262292726195
+    second: CoinBurst_2
+  - first:
+      213: 3973400000940183351
+    second: CoinBurst_3
+  - first:
+      213: -556774259785032458
+    second: CoinBurst_4
+  - first:
+      213: 4372801742426258702
+    second: CoinBurst_5
+  - first:
+      213: -2138522657946066403
+    second: CoinBurst_6
+  - first:
+      213: 5607578531891768342
+    second: CoinBurst_7
+  - first:
+      213: -1946910354640249842
+    second: CoinBurst_8
+  - first:
+      213: 4958860217023451706
+    second: CoinBurst_9
+  - first:
+      213: -6696495931830910936
+    second: CoinBurst_10
+  - first:
+      213: 1845748962052610000
+    second: CoinBurst_11
+  - first:
+      213: -6869030636274268843
+    second: CoinBurst_12
+  - first:
+      213: -3759750653904580830
+    second: CoinBurst_13
+  - first:
+      213: 8637265233876322660
+    second: CoinBurst_14
+  - first:
+      213: 4730200525042704663
+    second: CoinBurst_15
+  - first:
+      213: 7050882601390550594
+    second: CoinBurst_16
+  - first:
+      213: 4950440270587453917
+    second: CoinBurst_17
+  - first:
+      213: -1688890968223877519
+    second: CoinBurst_18
+  - first:
+      213: 224751752262654657
+    second: CoinBurst_19
+  - first:
+      213: 8426445672762127294
+    second: CoinBurst_20
+  - first:
+      213: 1159934645112470268
+    second: CoinBurst_21
+  - first:
+      213: -782754673164895994
+    second: CoinBurst_22
+  - first:
+      213: -1934822894437631138
+    second: CoinBurst_23
+  - first:
+      213: 7782806857124074641
+    second: CoinBurst_24
+  - first:
+      213: -5475769207077928403
+    second: CoinBurst_25
+  - first:
+      213: -6639957295436342899
+    second: CoinBurst_26
+  - first:
+      213: 2577999077109146427
+    second: CoinBurst_27
+  - first:
+      213: -6099544547732418657
+    second: CoinBurst_28
+  - first:
+      213: -1359813307763448377
+    second: CoinBurst_29
+  - first:
+      213: -8408596252229659881
+    second: CoinBurst_30
+  - first:
+      213: -7660453858581697678
+    second: CoinBurst_31
+  - first:
+      213: 5676604691508255525
+    second: CoinBurst_32
+  - first:
+      213: 630136837009131686
+    second: CoinBurst_33
+  - first:
+      213: -596370852231550422
+    second: CoinBurst_34
+  - first:
+      213: -1254197910904821246
+    second: CoinBurst_35
+  - first:
+      213: -3006837878988058406
+    second: CoinBurst_36
+  - first:
+      213: 3275257373769623965
+    second: CoinBurst_37
+  - first:
+      213: 2922695678568881895
+    second: CoinBurst_38
+  - first:
+      213: 7591991627804075050
+    second: CoinBurst_39
+  - first:
+      213: 3251623515980981803
+    second: CoinBurst_40
+  - first:
+      213: -853687630515647506
+    second: CoinBurst_41
+  - first:
+      213: -4487151790587405152
+    second: CoinBurst_42
+  - first:
+      213: 7179793254828285824
+    second: CoinBurst_43
+  - first:
+      213: -951858527810130828
+    second: CoinBurst_44
+  - first:
+      213: -5555895464898537430
+    second: CoinBurst_45
+  - first:
+      213: -1523024596363426533
+    second: CoinBurst_46
+  - first:
+      213: -7632399647031441722
+    second: CoinBurst_47
+  - first:
+      213: 1952374797966126936
+    second: CoinBurst_48
+  - first:
+      213: 2352901986069790540
+    second: CoinBurst_49
+  - first:
+      213: 7230763578761894662
+    second: CoinBurst_50
+  - first:
+      213: -4187545175311712564
+    second: CoinBurst_51
+  - first:
+      213: 3713345481741275891
+    second: CoinBurst_52
+  - first:
+      213: -3327523962885170395
+    second: CoinBurst_53
+  - first:
+      213: 590651743062972726
+    second: CoinBurst_54
+  - first:
+      213: 213219342928750478
+    second: CoinBurst_55
+  - first:
+      213: -6372099725601313985
+    second: CoinBurst_56
+  - first:
+      213: -3798245423681174019
+    second: CoinBurst_57
+  - first:
+      213: 8202503297860730048
+    second: CoinBurst_58
+  - first:
+      213: 6298235166733685871
+    second: CoinBurst_59
+  - first:
+      213: 24976919166001897
+    second: CoinBurst_60
+  - first:
+      213: 6995906700219001800
+    second: CoinBurst_61
+  - first:
+      213: 7087631941855974140
+    second: CoinBurst_62
+  - first:
+      213: 2232191026501013204
+    second: CoinBurst_63
+  - first:
+      213: -828045797146462446
+    second: CoinBurst_64
+  - first:
+      213: 4121748571744838593
+    second: CoinBurst_65
+  - first:
+      213: -2675606517877524696
+    second: CoinBurst_66
+  - first:
+      213: 3921455056585328731
+    second: CoinBurst_67
+  - first:
+      213: -6194944243634853156
+    second: CoinBurst_68
+  - first:
+      213: 7179706477551686675
+    second: CoinBurst_69
+  - first:
+      213: 1611451909579865231
+    second: CoinBurst_70
+  - first:
+      213: 2044631277198838789
+    second: CoinBurst_71
+  - first:
+      213: 3714409721050540698
+    second: CoinBurst_72
+  - first:
+      213: 8804061555620124430
+    second: CoinBurst_73
+  - first:
+      213: -1893541810061372259
+    second: CoinBurst_74
+  - first:
+      213: -8700747724668480133
+    second: CoinBurst_75
+  - first:
+      213: 9216201743617407410
+    second: CoinBurst_76
+  - first:
+      213: -8670844547261499700
+    second: CoinBurst_77
+  - first:
+      213: 1590197876970733867
+    second: CoinBurst_78
+  - first:
+      213: 2010767837876437842
+    second: CoinBurst_79
+  - first:
+      213: 6025877080201145622
+    second: CoinBurst_80
+  - first:
+      213: 3113919165470275645
+    second: CoinBurst_81
+  - first:
+      213: 4046943281950932989
+    second: CoinBurst_82
+  - first:
+      213: 5623290669669899128
+    second: CoinBurst_83
+  - first:
+      213: 3083505011222181278
+    second: CoinBurst_84
+  - first:
+      213: 468135255976315238
+    second: CoinBurst_85
+  - first:
+      213: 2083817342732506990
+    second: CoinBurst_86
+  - first:
+      213: -3552131438011327380
+    second: CoinBurst_87
+  - first:
+      213: -535912678589659875
+    second: CoinBurst_88
+  - first:
+      213: 6668826143994400011
+    second: CoinBurst_89
+  - first:
+      213: -76256573714464762
+    second: CoinBurst_90
+  - first:
+      213: -7711805555760346390
+    second: CoinBurst_91
+  - first:
+      213: -2963152321024502680
+    second: CoinBurst_92
+  - first:
+      213: -846511117869452233
+    second: CoinBurst_93
+  - first:
+      213: 7478968723468195200
+    second: CoinBurst_94
+  - first:
+      213: -2118015645742135159
+    second: CoinBurst_95
+  - first:
+      213: -6626592766066623139
+    second: CoinBurst_96
+  - first:
+      213: -4456107198132515024
+    second: CoinBurst_97
+  - first:
+      213: -6821989570730828502
+    second: CoinBurst_98
+  - first:
+      213: -6696803163809810593
+    second: CoinBurst_99
+  - first:
+      213: 8076297387793753795
+    second: CoinBurst_100
+  - first:
+      213: -589867521066091467
+    second: CoinBurst_101
+  - first:
+      213: -3805659272862257026
+    second: CoinBurst_102
+  - first:
+      213: -9172816453930247757
+    second: CoinBurst_103
+  - first:
+      213: 5205419816935371671
+    second: CoinBurst_104
+  - first:
+      213: 6572304877909208001
+    second: CoinBurst_105
+  - first:
+      213: -4285339810262770431
+    second: CoinBurst_106
+  - first:
+      213: 537696675567056603
+    second: CoinBurst_107
+  - first:
+      213: 344986011667094246
+    second: CoinBurst_108
+  - first:
+      213: 2010731259659096631
+    second: CoinBurst_109
+  - first:
+      213: -6228957187976446266
+    second: CoinBurst_110
+  - first:
+      213: 8746060131208904678
+    second: CoinBurst_111
+  - first:
+      213: -8118830747710966822
+    second: CoinBurst_112
+  - first:
+      213: -8867212477721150685
+    second: CoinBurst_113
+  - first:
+      213: -8070799568426218972
+    second: CoinBurst_114
+  - first:
+      213: 5460351379719132772
+    second: CoinBurst_115
+  - first:
+      213: 1172479551644195812
+    second: CoinBurst_116
+  - first:
+      213: -6967673815710253213
+    second: CoinBurst_117
+  - first:
+      213: -7987215964841164231
+    second: CoinBurst_118
+  - first:
+      213: -5102819593829702425
+    second: CoinBurst_119
+  - first:
+      213: -2817277773821553947
+    second: CoinBurst_120
+  - first:
+      213: -1518709462355753593
+    second: CoinBurst_121
+  - first:
+      213: 4653777101781815729
+    second: CoinBurst_122
+  - first:
+      213: 3541236184752672757
+    second: CoinBurst_123
+  - first:
+      213: 1428189901155783690
+    second: CoinBurst_124
+  - first:
+      213: 8417111632119017958
+    second: CoinBurst_125
+  - first:
+      213: 5647558813912236619
+    second: CoinBurst_126
+  - first:
+      213: -5351616057949893105
+    second: CoinBurst_127
+  - first:
+      213: -681352844375217510
+    second: CoinBurst_128
+  - first:
+      213: 1333360506621283266
+    second: CoinBurst_129
+  - first:
+      213: -7012478274295823815
+    second: CoinBurst_130
+  - first:
+      213: 6490140110473792263
+    second: CoinBurst_131
+  - first:
+      213: 7395270220743562789
+    second: CoinBurst_132
+  - first:
+      213: 2760723435445194740
+    second: CoinBurst_133
+  - first:
+      213: -7530399320081811824
+    second: CoinBurst_134
+  - first:
+      213: -6619836880862722840
+    second: CoinBurst_135
+  - first:
+      213: -3572207326188049144
+    second: CoinBurst_136
+  - first:
+      213: 5594841370509424458
+    second: CoinBurst_137
+  - first:
+      213: 2625987640352585726
+    second: CoinBurst_138
+  - first:
+      213: 5399178156657842434
+    second: CoinBurst_139
+  - first:
+      213: 3249200102482391173
+    second: CoinBurst_140
+  - first:
+      213: -5312239723526459423
+    second: CoinBurst_141
+  - first:
+      213: -8692519907168222446
+    second: CoinBurst_142
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CoinBurst_0
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 71
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2abf6f611db8200800000000000000
+      internalID: 183470106401809096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_1
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 73
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae17a00333403920800000000000000
+      internalID: 2967946040770502318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 93
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e4b912fdb7a30e0800000000000000
+      internalID: -2289381262292726195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 90
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f8396bf3a542730800000000000000
+      internalID: 3973400000940183351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_4
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 93
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc9e69b2c0f548f0800000000000000
+      internalID: -556774259785032458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_5
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 93
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0db68244005fac30800000000000000
+      internalID: 4372801742426258702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_6
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 94
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12200519f07252e0800000000000000
+      internalID: -2138522657946066403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_7
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 109
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ce38be6fe12dd40800000000000000
+      internalID: 5607578531891768342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_8
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 109
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c532ef85f2bf4e0800000000000000
+      internalID: -1946910354640249842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_9
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 93
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32df7e181961d440800000000000000
+      internalID: 4958860217023451706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_10
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 107
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820ce57fd644113a0800000000000000
+      internalID: -6696495931830910936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_11
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 109
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d711bbd6ea6d9910800000000000000
+      internalID: 1845748962052610000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_12
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 102
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555c89da70d4ca0a0800000000000000
+      internalID: -6869030636274268843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_13
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 107
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f89f543bea2dbc0800000000000000
+      internalID: -3759750653904580830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_14
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 95
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4698700d7fabdd770800000000000000
+      internalID: 8637265233876322660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_15
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 102
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711698bd05c05a140800000000000000
+      internalID: 4730200525042704663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_16
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 95
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eadd86e54c9d160800000000000000
+      internalID: 7050882601390550594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 54
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd16722923f73b440800000000000000
+      internalID: 4950440270587453917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 72
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17676aecc9adf88e0800000000000000
+      internalID: -1688890968223877519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_19
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 63
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca1344278a7e1300800000000000000
+      internalID: 224751752262654657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_20
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 72
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb33d14b1bfb0f470800000000000000
+      internalID: 8426445672762127294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_21
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 73
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaf8940a6ae81010800000000000000
+      internalID: 1159934645112470268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 73
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609babf95c81325f0800000000000000
+      internalID: -782754673164895994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_23
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 77
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b70c124d02625e0800000000000000
+      internalID: -1934822894437631138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_24
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 73
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194da5af995120c60800000000000000
+      internalID: 7782806857124074641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_25
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 77
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2209140be82204b0800000000000000
+      internalID: -5475769207077928403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_26
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 50
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89d0c115022ad3a0800000000000000
+      internalID: -6639957295436342899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_27
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 50
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3320667084e6c320800000000000000
+      internalID: 2577999077109146427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_28
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 70
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f0db4fc801a5ba0800000000000000
+      internalID: -6099544547732418657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_29
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 70
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c529ed4009f02de0800000000000000
+      internalID: -1359813307763448377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_30
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 82
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7139b2e524aae4b80800000000000000
+      internalID: -8408596252229659881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_31
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 84
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ba7fc6dc990b590800000000000000
+      internalID: -7660453858581697678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_32
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b5aa714e957ce40800000000000000
+      internalID: 5676604691508255525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_33
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 88
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a841d95d12beb800800000000000000
+      internalID: 630136837009131686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_34
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 82
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a675e9ed349b7f0800000000000000
+      internalID: -596370852231550422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_35
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 82
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a2b7225a1389ee0800000000000000
+      internalID: -1254197910904821246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_36
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 88
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad05ab541e09546d0800000000000000
+      internalID: -3006837878988058406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_37
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9964877a3d047d20800000000000000
+      internalID: 3275257373769623965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_38
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eedaab0c308f8820800000000000000
+      internalID: 2922695678568881895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_39
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 82
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a246001592c2c5960800000000000000
+      internalID: 7591991627804075050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_40
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b266a552c56102d20800000000000000
+      internalID: 3251623515980981803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_41
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 87
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb48f18f971724f0800000000000000
+      internalID: -853687630515647506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_42
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac97cc683f6ab1c0800000000000000
+      internalID: -4487151790587405152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_43
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 87
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f19c2dcefb3a360800000000000000
+      internalID: 7179793254828285824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_44
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 75
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c637d46b15ac2f0800000000000000
+      internalID: -951858527810130828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_45
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28d485d28e75e2b0800000000000000
+      internalID: -5555895464898537430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 55
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15439de2312ddae0800000000000000
+      internalID: -1523024596363426533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_47
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6cfde85f4441690800000000000000
+      internalID: -7632399647031441722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_48
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 52
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f223dd88a381b10800000000000000
+      internalID: 1952374797966126936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_49
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f300fd3ef27a020800000000000000
+      internalID: 2352901986069790540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_50
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b5fe62a25d85460800000000000000
+      internalID: 7230763578761894662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_51
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccef4a089d9d2e5c0800000000000000
+      internalID: -4187545175311712564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_52
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 65
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f29d7f9a04788330800000000000000
+      internalID: 3713345481741275891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_53
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 57
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b11a2f59242d1d0800000000000000
+      internalID: -3327523962885170395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_54
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 57
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639db3381aa623800800000000000000
+      internalID: 590651743062972726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_55
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 66
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87a28adcd185f200800000000000000
+      internalID: 213219342928750478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_56
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 55
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b6b267f01c197a0800000000000000
+      internalID: -6372099725601313985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_57
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 66
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df50bbf39ebe94bc0800000000000000
+      internalID: -3798245423681174019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_58
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 65
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc75f96a4525d170800000000000000
+      internalID: 8202503297860730048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_59
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 55
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64d801c383d76750800000000000000
+      internalID: 6298235166733685871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_60
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 56
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2297a206cb85000800000000000000
+      internalID: 24976919166001897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_61
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 65
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb2454f314761160800000000000000
+      internalID: 6995906700219001800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_62
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 56
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2990103b35c5260800000000000000
+      internalID: 7087631941855974140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_63
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 62
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de486579e55afe10800000000000000
+      internalID: 2232191026501013204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_64
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 49
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21774531cb03284f0800000000000000
+      internalID: -828045797146462446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_65
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 62
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c32350fc74633930800000000000000
+      internalID: 4121748571744838593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_66
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 49
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827b0374c065edad0800000000000000
+      internalID: -2675606517877524696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_67
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 50
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b588d62e89ecb6630800000000000000
+      internalID: 3921455056585328731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_68
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 50
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda2bca5803270aa0800000000000000
+      internalID: -6194944243634853156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_69
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 47
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3141a0a600173a360800000000000000
+      internalID: 7179706477551686675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_70
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 47
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cf12359f60d5610800000000000000
+      internalID: 1611451909579865231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_71
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 35
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c071e405dff5c10800000000000000
+      internalID: 2044631277198838789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_72
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 35
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aa97526fb3c8330800000000000000
+      internalID: 3714409721050540698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_73
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 43
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e071963c65f4e2a70800000000000000
+      internalID: 8804061555620124430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_74
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 43
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9411f391c9c8b5e0800000000000000
+      internalID: -1893541810061372259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_75
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 45
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75d8defa0cb04780800000000000000
+      internalID: -8700747724668480133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_76
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 33
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9b6a208a686ef70800000000000000
+      internalID: 9216201743617407410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_77
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 45
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc678d903d8faa780800000000000000
+      internalID: -8670844547261499700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_78
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 33
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21cb6b3b84811610800000000000000
+      internalID: 1590197876970733867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_79
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 34
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253c76ee1bea7eb10800000000000000
+      internalID: 2010767837876437842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_80
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 34
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dae89274730a350800000000000000
+      internalID: 6025877080201145622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_81
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 23
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38f2259bfcd63b20800000000000000
+      internalID: 3113919165470275645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_82
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 23
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffb6da2971a92830800000000000000
+      internalID: 4046943281950932989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_83
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 30
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b51721211f90e40800000000000000
+      internalID: 5623290669669899128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_84
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 15
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95f809787fcaca20800000000000000
+      internalID: 3083505011222181278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_85
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 15
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6690e47f8862f7600800000000000000
+      internalID: 468135255976315238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_86
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 15
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e679e5a25d43bec10800000000000000
+      internalID: 2083817342732506990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_87
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 20
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c56d1f64b44bec0800000000000000
+      internalID: -3552131438011327380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_88
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 21
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15090a124e0098f0800000000000000
+      internalID: -535912678589659875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_89
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 15
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dcf958b0e6c8c50800000000000000
+      internalID: 6668826143994400011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_90
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 22
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60006fbdc0511fef0800000000000000
+      internalID: -76256573714464762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_91
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 21
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea4508b4b92af490800000000000000
+      internalID: -7711805555760346390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_92
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 15
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864d5f9d9a4c0e6d0800000000000000
+      internalID: -2963152321024502680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_93
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 20
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734f8f09f969044f0800000000000000
+      internalID: -846511117869452233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_94
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 17
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0851490cd62aac760800000000000000
+      internalID: 7478968723468195200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_95
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 21
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98802deedfb4b92e0800000000000000
+      internalID: -2118015645742135159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_96
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 15
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dfc6b0dfc9904a0800000000000000
+      internalID: -6626592766066623139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_97
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 15
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f004edc1ab822c0800000000000000
+      internalID: -4456107198132515024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_98
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 15
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d5b2f31ac6351a0800000000000000
+      internalID: -6821989570730828502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_99
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 21
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f577762f00d2013a0800000000000000
+      internalID: -6696803163809810593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_100
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 15
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6acd32fa5c41070800000000000000
+      internalID: 8076297387793753795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_101
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 17
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cb0566d9e50d7f0800000000000000
+      internalID: -589867521066091467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_102
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 25
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70bfd8fd059f2bc0800000000000000
+      internalID: -3805659272862257026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_103
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 19
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b911a9e80c93b080800000000000000
+      internalID: -9172816453930247757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_104
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 15
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79336377ebd5d3840800000000000000
+      internalID: 5205419816935371671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_105
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 17
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb68530774853b50800000000000000
+      internalID: 6572304877909208001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_106
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 18
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d9273b52a6784c0800000000000000
+      internalID: -4285339810262770431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_107
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 25
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd635101748467700800000000000000
+      internalID: 537696675567056603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_108
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 22
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea55e523f2a9c400800000000000000
+      internalID: 344986011667094246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_109
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 19
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73211c66d6d87eb10800000000000000
+      internalID: 2010731259659096631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_110
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 25
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce3c81a07c4e89a0800000000000000
+      internalID: -6228957187976446266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_111
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 18
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efb9e8c95f306970800000000000000
+      internalID: 8746060131208904678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_112
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 18
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad33b2b437e145f80800000000000000
+      internalID: -8118830747710966822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_113
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 25
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bf4856b3551f480800000000000000
+      internalID: -8867212477721150685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_114
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 22
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a449ead82ceff80800000000000000
+      internalID: -8070799568426218972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_115
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 25
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46619f056a017cb40800000000000000
+      internalID: 5460351379719132772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_116
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 18
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb592ea0fb754010800000000000000
+      internalID: 1172479551644195812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_117
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 15
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fbcc7b499dd4f90800000000000000
+      internalID: -6967673815710253213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_118
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 25
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9324057e565b72190800000000000000
+      internalID: -7987215964841164231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_119
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 25
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4a0e48d942f29b0800000000000000
+      internalID: -5102819593829702425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_120
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 17
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e253c19ac407e8d0800000000000000
+      internalID: -2817277773821553947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_121
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 16
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785c24b5ac57ceae0800000000000000
+      internalID: -1518709462355753593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_122
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b15d870e99859040800000000000000
+      internalID: 4653777101781815729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_123
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 25
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff41f93c8ff42130800000000000000
+      internalID: 3541236184752672757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_124
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 15
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04d032f523f1d310800000000000000
+      internalID: 1428189901155783690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_125
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 15
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e133430f669fc470800000000000000
+      internalID: 8417111632119017958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_126
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 21
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b428d57b1d8206e40800000000000000
+      internalID: 5647558813912236619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_127
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 24
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ece93ac8d3bb5b0800000000000000
+      internalID: -5351616057949893105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_128
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 15
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a2050b2395b86f0800000000000000
+      internalID: -681352844375217510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_129
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb42baf05c018210800000000000000
+      internalID: 1333360506621283266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_130
+      rect:
+        serializedVersion: 2
+        x: 3405
+        y: 21
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9320479c92caeae90800000000000000
+      internalID: -7012478274295823815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_131
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 15
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b0e435b0c911a50800000000000000
+      internalID: 6490140110473792263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_132
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 17
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526d17d751741a660800000000000000
+      internalID: 7395270220743562789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_133
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 17
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff8ecc665f005620800000000000000
+      internalID: 2760723435445194740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_134
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 17
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0963ea557b5ae7790800000000000000
+      internalID: -7530399320081811824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_135
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 17
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4c5252e6d9124a0800000000000000
+      internalID: -6619836880862722840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_136
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 16
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d638afc58fc6ec0800000000000000
+      internalID: -3572207326188049144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_137
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 17
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47bfdf659ed4ad40800000000000000
+      internalID: 5594841370509424458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_138
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 16
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef738c788d1617420800000000000000
+      internalID: 2625987640352585726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_139
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 16
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20993aa6debbdea40800000000000000
+      internalID: 5399178156657842434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_140
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58030a8374a771d20800000000000000
+      internalID: 3249200102482391173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_141
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 16
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef6c7ded122746b0800000000000000
+      internalID: -5312239723526459423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinBurst_142
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2130a3a0337fd5780800000000000000
+      internalID: -8692519907168222446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CoinBurst_0: 183470106401809096
+      CoinBurst_1: 2967946040770502318
+      CoinBurst_10: -6696495931830910936
+      CoinBurst_100: 8076297387793753795
+      CoinBurst_101: -589867521066091467
+      CoinBurst_102: -3805659272862257026
+      CoinBurst_103: -9172816453930247757
+      CoinBurst_104: 5205419816935371671
+      CoinBurst_105: 6572304877909208001
+      CoinBurst_106: -4285339810262770431
+      CoinBurst_107: 537696675567056603
+      CoinBurst_108: 344986011667094246
+      CoinBurst_109: 2010731259659096631
+      CoinBurst_11: 1845748962052610000
+      CoinBurst_110: -6228957187976446266
+      CoinBurst_111: 8746060131208904678
+      CoinBurst_112: -8118830747710966822
+      CoinBurst_113: -8867212477721150685
+      CoinBurst_114: -8070799568426218972
+      CoinBurst_115: 5460351379719132772
+      CoinBurst_116: 1172479551644195812
+      CoinBurst_117: -6967673815710253213
+      CoinBurst_118: -7987215964841164231
+      CoinBurst_119: -5102819593829702425
+      CoinBurst_12: -6869030636274268843
+      CoinBurst_120: -2817277773821553947
+      CoinBurst_121: -1518709462355753593
+      CoinBurst_122: 4653777101781815729
+      CoinBurst_123: 3541236184752672757
+      CoinBurst_124: 1428189901155783690
+      CoinBurst_125: 8417111632119017958
+      CoinBurst_126: 5647558813912236619
+      CoinBurst_127: -5351616057949893105
+      CoinBurst_128: -681352844375217510
+      CoinBurst_129: 1333360506621283266
+      CoinBurst_13: -3759750653904580830
+      CoinBurst_130: -7012478274295823815
+      CoinBurst_131: 6490140110473792263
+      CoinBurst_132: 7395270220743562789
+      CoinBurst_133: 2760723435445194740
+      CoinBurst_134: -7530399320081811824
+      CoinBurst_135: -6619836880862722840
+      CoinBurst_136: -3572207326188049144
+      CoinBurst_137: 5594841370509424458
+      CoinBurst_138: 2625987640352585726
+      CoinBurst_139: 5399178156657842434
+      CoinBurst_14: 8637265233876322660
+      CoinBurst_140: 3249200102482391173
+      CoinBurst_141: -5312239723526459423
+      CoinBurst_142: -8692519907168222446
+      CoinBurst_15: 4730200525042704663
+      CoinBurst_16: 7050882601390550594
+      CoinBurst_17: 4950440270587453917
+      CoinBurst_18: -1688890968223877519
+      CoinBurst_19: 224751752262654657
+      CoinBurst_2: -2289381262292726195
+      CoinBurst_20: 8426445672762127294
+      CoinBurst_21: 1159934645112470268
+      CoinBurst_22: -782754673164895994
+      CoinBurst_23: -1934822894437631138
+      CoinBurst_24: 7782806857124074641
+      CoinBurst_25: -5475769207077928403
+      CoinBurst_26: -6639957295436342899
+      CoinBurst_27: 2577999077109146427
+      CoinBurst_28: -6099544547732418657
+      CoinBurst_29: -1359813307763448377
+      CoinBurst_3: 3973400000940183351
+      CoinBurst_30: -8408596252229659881
+      CoinBurst_31: -7660453858581697678
+      CoinBurst_32: 5676604691508255525
+      CoinBurst_33: 630136837009131686
+      CoinBurst_34: -596370852231550422
+      CoinBurst_35: -1254197910904821246
+      CoinBurst_36: -3006837878988058406
+      CoinBurst_37: 3275257373769623965
+      CoinBurst_38: 2922695678568881895
+      CoinBurst_39: 7591991627804075050
+      CoinBurst_4: -556774259785032458
+      CoinBurst_40: 3251623515980981803
+      CoinBurst_41: -853687630515647506
+      CoinBurst_42: -4487151790587405152
+      CoinBurst_43: 7179793254828285824
+      CoinBurst_44: -951858527810130828
+      CoinBurst_45: -5555895464898537430
+      CoinBurst_46: -1523024596363426533
+      CoinBurst_47: -7632399647031441722
+      CoinBurst_48: 1952374797966126936
+      CoinBurst_49: 2352901986069790540
+      CoinBurst_5: 4372801742426258702
+      CoinBurst_50: 7230763578761894662
+      CoinBurst_51: -4187545175311712564
+      CoinBurst_52: 3713345481741275891
+      CoinBurst_53: -3327523962885170395
+      CoinBurst_54: 590651743062972726
+      CoinBurst_55: 213219342928750478
+      CoinBurst_56: -6372099725601313985
+      CoinBurst_57: -3798245423681174019
+      CoinBurst_58: 8202503297860730048
+      CoinBurst_59: 6298235166733685871
+      CoinBurst_6: -2138522657946066403
+      CoinBurst_60: 24976919166001897
+      CoinBurst_61: 6995906700219001800
+      CoinBurst_62: 7087631941855974140
+      CoinBurst_63: 2232191026501013204
+      CoinBurst_64: -828045797146462446
+      CoinBurst_65: 4121748571744838593
+      CoinBurst_66: -2675606517877524696
+      CoinBurst_67: 3921455056585328731
+      CoinBurst_68: -6194944243634853156
+      CoinBurst_69: 7179706477551686675
+      CoinBurst_7: 5607578531891768342
+      CoinBurst_70: 1611451909579865231
+      CoinBurst_71: 2044631277198838789
+      CoinBurst_72: 3714409721050540698
+      CoinBurst_73: 8804061555620124430
+      CoinBurst_74: -1893541810061372259
+      CoinBurst_75: -8700747724668480133
+      CoinBurst_76: 9216201743617407410
+      CoinBurst_77: -8670844547261499700
+      CoinBurst_78: 1590197876970733867
+      CoinBurst_79: 2010767837876437842
+      CoinBurst_8: -1946910354640249842
+      CoinBurst_80: 6025877080201145622
+      CoinBurst_81: 3113919165470275645
+      CoinBurst_82: 4046943281950932989
+      CoinBurst_83: 5623290669669899128
+      CoinBurst_84: 3083505011222181278
+      CoinBurst_85: 468135255976315238
+      CoinBurst_86: 2083817342732506990
+      CoinBurst_87: -3552131438011327380
+      CoinBurst_88: -535912678589659875
+      CoinBurst_89: 6668826143994400011
+      CoinBurst_9: 4958860217023451706
+      CoinBurst_90: -76256573714464762
+      CoinBurst_91: -7711805555760346390
+      CoinBurst_92: -2963152321024502680
+      CoinBurst_93: -846511117869452233
+      CoinBurst_94: 7478968723468195200
+      CoinBurst_95: -2118015645742135159
+      CoinBurst_96: -6626592766066623139
+      CoinBurst_97: -4456107198132515024
+      CoinBurst_98: -6821989570730828502
+      CoinBurst_99: -6696803163809810593
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

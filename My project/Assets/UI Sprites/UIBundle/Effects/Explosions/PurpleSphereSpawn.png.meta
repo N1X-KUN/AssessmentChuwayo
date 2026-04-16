@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 229a2911b1d9cb846814a0aba62c3027
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8636960190132116845
+    second: PurpleSphereSpawn_0
+  - first:
+      213: 1679901018977427196
+    second: PurpleSphereSpawn_1
+  - first:
+      213: -2583926306285336502
+    second: PurpleSphereSpawn_2
+  - first:
+      213: -1323152746089302949
+    second: PurpleSphereSpawn_3
+  - first:
+      213: 8489463357062510626
+    second: PurpleSphereSpawn_4
+  - first:
+      213: -3989070376647514527
+    second: PurpleSphereSpawn_5
+  - first:
+      213: -1424812941448977899
+    second: PurpleSphereSpawn_6
+  - first:
+      213: 481479472291422807
+    second: PurpleSphereSpawn_7
+  - first:
+      213: 907924175837920061
+    second: PurpleSphereSpawn_8
+  - first:
+      213: -5851461275892982187
+    second: PurpleSphereSpawn_9
+  - first:
+      213: -955064178565807054
+    second: PurpleSphereSpawn_10
+  - first:
+      213: -8346212896928876619
+    second: PurpleSphereSpawn_11
+  - first:
+      213: 6985306623062394721
+    second: PurpleSphereSpawn_12
+  - first:
+      213: 85467622729043101
+    second: PurpleSphereSpawn_13
+  - first:
+      213: -4741487321201822001
+    second: PurpleSphereSpawn_14
+  - first:
+      213: -425809616628325870
+    second: PurpleSphereSpawn_15
+  - first:
+      213: 5660618703592856771
+    second: PurpleSphereSpawn_16
+  - first:
+      213: -1698784724619259889
+    second: PurpleSphereSpawn_17
+  - first:
+      213: 7804575296329338052
+    second: PurpleSphereSpawn_18
+  - first:
+      213: -6258464693988248798
+    second: PurpleSphereSpawn_19
+  - first:
+      213: -9170970806122594829
+    second: PurpleSphereSpawn_20
+  - first:
+      213: -6476159501567537240
+    second: PurpleSphereSpawn_21
+  - first:
+      213: 3900265365740822011
+    second: PurpleSphereSpawn_22
+  - first:
+      213: 1531571426757156559
+    second: PurpleSphereSpawn_23
+  - first:
+      213: 3932190698657846099
+    second: PurpleSphereSpawn_24
+  - first:
+      213: 4875911991052369441
+    second: PurpleSphereSpawn_25
+  - first:
+      213: -5097103196758483187
+    second: PurpleSphereSpawn_26
+  - first:
+      213: -289193290890330231
+    second: PurpleSphereSpawn_27
+  - first:
+      213: 6757008431296430247
+    second: PurpleSphereSpawn_28
+  - first:
+      213: 2586521306354335405
+    second: PurpleSphereSpawn_29
+  - first:
+      213: 7610852633125463499
+    second: PurpleSphereSpawn_30
+  - first:
+      213: 2300670415070646575
+    second: PurpleSphereSpawn_31
+  - first:
+      213: 5194157648045896945
+    second: PurpleSphereSpawn_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 15
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3922cf7b77a532880800000000000000
+      internalID: -8636960190132116845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe57f58315305710800000000000000
+      internalID: 1679901018977427196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 5
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a484314f6bc042cd0800000000000000
+      internalID: -2583926306285336502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54b3c9769733ade0800000000000000
+      internalID: -1323152746089302949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_4
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 28
+        width: 23
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228f763b1f1a0d570800000000000000
+      internalID: 8489463357062510626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_5
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 76
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16624ef90a9f3a8c0800000000000000
+      internalID: -3989070376647514527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_6
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 67
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512ed81cd2c0a3ce0800000000000000
+      internalID: -1424812941448977899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_7
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 73
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752a290770f8ea600800000000000000
+      internalID: 481479472291422807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_8
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 24
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bfecf3a38999c00800000000000000
+      internalID: 907924175837920061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_9
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ed171d8fe6bcea0800000000000000
+      internalID: -5851461275892982187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 58
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23482e2903eeeb2f0800000000000000
+      internalID: -955064178565807054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_11
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 16
+        width: 159
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b735c2279b4c2c80800000000000000
+      internalID: -8346212896928876619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16741da2d5bc0f060800000000000000
+      internalID: 6985306623062394721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_13
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 60
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ccf8c9954af2100800000000000000
+      internalID: 85467622729043101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 55
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc63fb0276ad23eb0800000000000000
+      internalID: -4741487321201822001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_15
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 60
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2126ce2e868371af0800000000000000
+      internalID: -425809616628325870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_16
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 47
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc959c38be8e8e40800000000000000
+      internalID: 5660618703592856771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_17
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 35
+        width: 74
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0095332b44bc68e0800000000000000
+      internalID: -1698784724619259889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_18
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 42
+        width: 69
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cccf70b1eb6f4c60800000000000000
+      internalID: 7804575296329338052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_19
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 45
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223b18305877529a0800000000000000
+      internalID: -6258464693988248798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_20
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 35
+        width: 46
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdb59744aa2ab080800000000000000
+      internalID: -9170970806122594829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_21
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 44
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afcb48de3f0026a0800000000000000
+      internalID: -6476159501567537240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_22
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 15
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd9db68fa6802630800000000000000
+      internalID: 3900265365740822011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_23
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 28
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce9ff7191c314510800000000000000
+      internalID: 1531571426757156559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_24
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 48
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35398965b92f19630800000000000000
+      internalID: 3932190698657846099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_25
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 13
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e7eb64f18baa340800000000000000
+      internalID: 4875911991052369441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_26
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 22
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fd3bde5a37349b0800000000000000
+      internalID: -5097103196758483187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_27
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 4
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f3e01fb349cfbf0800000000000000
+      internalID: -289193290890330231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_28
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 23
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a04ebb3e57b5cd50800000000000000
+      internalID: 6757008431296430247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 24
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeba359c6b25e320800000000000000
+      internalID: 2586521306354335405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_30
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 25
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc52a43552e2f9960800000000000000
+      internalID: 7610852633125463499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_31
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2159839d8f9def10800000000000000
+      internalID: 2300670415070646575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleSphereSpawn_32
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 13
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4772f6cda551840800000000000000
+      internalID: 5194157648045896945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PurpleSphereSpawn_0: -8636960190132116845
+      PurpleSphereSpawn_1: 1679901018977427196
+      PurpleSphereSpawn_10: -955064178565807054
+      PurpleSphereSpawn_11: -8346212896928876619
+      PurpleSphereSpawn_12: 6985306623062394721
+      PurpleSphereSpawn_13: 85467622729043101
+      PurpleSphereSpawn_14: -4741487321201822001
+      PurpleSphereSpawn_15: -425809616628325870
+      PurpleSphereSpawn_16: 5660618703592856771
+      PurpleSphereSpawn_17: -1698784724619259889
+      PurpleSphereSpawn_18: 7804575296329338052
+      PurpleSphereSpawn_19: -6258464693988248798
+      PurpleSphereSpawn_2: -2583926306285336502
+      PurpleSphereSpawn_20: -9170970806122594829
+      PurpleSphereSpawn_21: -6476159501567537240
+      PurpleSphereSpawn_22: 3900265365740822011
+      PurpleSphereSpawn_23: 1531571426757156559
+      PurpleSphereSpawn_24: 3932190698657846099
+      PurpleSphereSpawn_25: 4875911991052369441
+      PurpleSphereSpawn_26: -5097103196758483187
+      PurpleSphereSpawn_27: -289193290890330231
+      PurpleSphereSpawn_28: 6757008431296430247
+      PurpleSphereSpawn_29: 2586521306354335405
+      PurpleSphereSpawn_3: -1323152746089302949
+      PurpleSphereSpawn_30: 7610852633125463499
+      PurpleSphereSpawn_31: 2300670415070646575
+      PurpleSphereSpawn_32: 5194157648045896945
+      PurpleSphereSpawn_4: 8489463357062510626
+      PurpleSphereSpawn_5: -3989070376647514527
+      PurpleSphereSpawn_6: -1424812941448977899
+      PurpleSphereSpawn_7: 481479472291422807
+      PurpleSphereSpawn_8: 907924175837920061
+      PurpleSphereSpawn_9: -5851461275892982187
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

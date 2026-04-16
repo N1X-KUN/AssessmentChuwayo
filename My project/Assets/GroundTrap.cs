@@ -3,65 +3,76 @@ using UnityEngine;
 public class GroundTrap : MonoBehaviour
 {
     [Header("Trap Settings")]
-    public float moveSpeed = 2f; 
-    public float kommyPositionX = -5f; 
+    public float moveSpeed = 3f; 
+    public bool isPoisonTrap = false; 
+    public float triggerDistance = 0.5f; 
+    public float fallSpeed = 8f; 
     
-    [Header("Trap Type")]
-    public bool isAcidTrap = false; // CHECK THIS BOX ON THE ACID BARREL PREFAB!
+    // Set this to -3 in the Inspector to match Kommy!
+    public float floorY = -3f; 
 
-    [Header("Gravity Settings")]
-    public float fallSpeed = 8f;       
-    public float groundYLevel = -3.5f; 
-
-    public KommyController kommy; 
+    private KommyController kommy;
     private bool hasTriggered = false;
-    private bool hasHitGround = false; 
 
-    public void SetupTrap(KommyController playerRef)
+    public void SetupTrap(KommyController target)
     {
-        kommy = playerRef;
+        kommy = target;
     }
 
     void Update()
     {
-        // 1. GRAVITY
-        if (!hasHitGround)
+        LevelManager lm = FindAnyObjectByType<LevelManager>();
+        if (lm != null && !lm.gameIsActive) return;
+
+        // 1. GRAVITY: Fall down until it hits exactly floorY
+        if (transform.position.y > floorY)
         {
-            transform.Translate(Vector3.down * fallSpeed * Time.deltaTime);
-            if (transform.position.y <= groundYLevel)
+            // Space.World guarantees it falls straight down, even if the sprite is rotated!
+            transform.Translate(Vector3.down * fallSpeed * Time.deltaTime, Space.World);
+            
+            // Snap perfectly to floorY
+            if (transform.position.y < floorY)
             {
-                transform.position = new Vector3(transform.position.x, groundYLevel, transform.position.z);
-                hasHitGround = true; 
+                transform.position = new Vector3(transform.position.x, floorY, transform.position.z);
             }
         }
 
-        // 2. SLIDE
-        if (kommy != null && (kommy.currentState == KommyController.CharacterState.Running || 
-            kommy.currentState == KommyController.CharacterState.Attacking || 
-            kommy.currentState == KommyController.CharacterState.Jumping))
-        {
-            transform.Translate(Vector3.left * moveSpeed * Time.deltaTime);
-        }
+        // 2. Move left along the treadmill
+        transform.Translate(Vector3.left * moveSpeed * Time.deltaTime, Space.World);
 
-        // 3. TRIGGER (BITE/POISON)
-        if (hasHitGround && !hasTriggered && transform.position.x <= kommyPositionX + 0.5f) 
-        {
-            hasTriggered = true; 
+        if (kommy == null || hasTriggered) return;
 
-            if (kommy != null && kommy.currentState != KommyController.CharacterState.Jumping) 
+        // 3. DYNAMIC POSITION CHECK (Kommy's X axis)
+        if (transform.position.x <= kommy.transform.position.x + triggerDistance &&
+            transform.position.x >= kommy.transform.position.x - triggerDistance)
+        {
+            // 4. Safety Checks: Is Kommy jumping? Is the trap on the floor yet?
+            if (kommy.currentState != KommyController.CharacterState.Jumping)
             {
-                // Is this the Acid Trap?
-                if (isAcidTrap)
+                // Ensures she doesn't get hit if the trap is still falling
+                if (transform.position.y <= floorY + 0.1f) 
                 {
-                    FindAnyObjectByType<WordManager>().TriggerPoisonFromTrap();
-                }
-                else
-                {
-                    kommy.HitByTrap(); 
+                    hasTriggered = true; 
+
+                    if (isPoisonTrap)
+                    {
+                        WordManager wm = FindAnyObjectByType<WordManager>();
+                        if (wm != null) wm.TriggerPoisonFromTrap();
+                    }
+                    else
+                    {
+                        kommy.HitByTrap(); 
+                    }
+
+                    Destroy(gameObject); 
                 }
             }
+        }
 
-            Destroy(gameObject, 2f);
+        // 5. Cleanup when off-screen
+        if (transform.position.x < -15f)
+        {
+            Destroy(gameObject);
         }
     }
 }

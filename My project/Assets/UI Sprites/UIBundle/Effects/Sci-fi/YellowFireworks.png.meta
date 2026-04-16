@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 858c7c5ea774971499bf19397b06d9d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3252266194715446266
+    second: YellowFireworks_0
+  - first:
+      213: 2004205563787100133
+    second: YellowFireworks_1
+  - first:
+      213: -7061993209855741713
+    second: YellowFireworks_2
+  - first:
+      213: 2022570896624867717
+    second: YellowFireworks_3
+  - first:
+      213: 8573400687721140808
+    second: YellowFireworks_4
+  - first:
+      213: 1335529867171793000
+    second: YellowFireworks_5
+  - first:
+      213: -5985158799113855440
+    second: YellowFireworks_6
+  - first:
+      213: -6017101685922791515
+    second: YellowFireworks_7
+  - first:
+      213: 2985869168775493233
+    second: YellowFireworks_8
+  - first:
+      213: 4779615730662257056
+    second: YellowFireworks_9
+  - first:
+      213: -3402476508443433570
+    second: YellowFireworks_10
+  - first:
+      213: 1556606598872112963
+    second: YellowFireworks_11
+  - first:
+      213: -3981004784769611134
+    second: YellowFireworks_12
+  - first:
+      213: -2446943060862338754
+    second: YellowFireworks_13
+  - first:
+      213: -127239169507870537
+    second: YellowFireworks_14
+  - first:
+      213: -3820650718497285432
+    second: YellowFireworks_15
+  - first:
+      213: 6912973111794691687
+    second: YellowFireworks_16
+  - first:
+      213: -5660225570855378258
+    second: YellowFireworks_17
+  - first:
+      213: -8533089045410077719
+    second: YellowFireworks_18
+  - first:
+      213: 8315314442099609189
+    second: YellowFireworks_19
+  - first:
+      213: -1455719702577234963
+    second: YellowFireworks_20
+  - first:
+      213: -6957442829877536897
+    second: YellowFireworks_21
+  - first:
+      213: -5800099542560335081
+    second: YellowFireworks_22
+  - first:
+      213: -8270420607939223988
+    second: YellowFireworks_23
+  - first:
+      213: 7784739440969580339
+    second: YellowFireworks_24
+  - first:
+      213: -3702794205695476823
+    second: YellowFireworks_25
+  - first:
+      213: -402307121903622609
+    second: YellowFireworks_26
+  - first:
+      213: 4662585470410697925
+    second: YellowFireworks_27
+  - first:
+      213: 4124827787310946160
+    second: YellowFireworks_28
+  - first:
+      213: -7745302221544465912
+    second: YellowFireworks_29
+  - first:
+      213: -9206443417354719336
+    second: YellowFireworks_30
+  - first:
+      213: -3538934022024174674
+    second: YellowFireworks_31
+  - first:
+      213: -1039682096239739196
+    second: YellowFireworks_32
+  - first:
+      213: 4602305540666134858
+    second: YellowFireworks_33
+  - first:
+      213: 1451249529515880742
+    second: YellowFireworks_34
+  - first:
+      213: -2365506005899344000
+    second: YellowFireworks_35
+  - first:
+      213: -3912036792172385447
+    second: YellowFireworks_36
+  - first:
+      213: 6800655361293325586
+    second: YellowFireworks_37
+  - first:
+      213: -7198325057917057585
+    second: YellowFireworks_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YellowFireworks_0
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 79
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb86037fde522d20800000000000000
+      internalID: 3252266194715446266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_1
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 80
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef346e675e50db10800000000000000
+      internalID: 2004205563787100133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_2
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 84
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0f3587792cefd90800000000000000
+      internalID: -7061993209855741713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_3
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 87
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5895e52b38d911c10800000000000000
+      internalID: 2022570896624867717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_4
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 79
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84255bc6086daf670800000000000000
+      internalID: 8573400687721140808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_5
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 83
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86803b79651c88210800000000000000
+      internalID: 1335529867171793000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_6
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 94
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ed38e68c170fca0800000000000000
+      internalID: -5985158799113855440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_7
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 17
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5affa2985e5fe7ca0800000000000000
+      internalID: -6017101685922791515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_8
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 34
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17677ae6030ff6920800000000000000
+      internalID: 2985869168775493233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_9
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 14
+        width: 433
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a13efcfe2b945240800000000000000
+      internalID: 4779615730662257056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 61
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e952e9584a9f7c0d0800000000000000
+      internalID: -3402476508443433570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 55
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f1dc4547d2a9510800000000000000
+      internalID: 1556606598872112963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_12
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 64
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a4da29d31a0c8c0800000000000000
+      internalID: -3981004784769611134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 53
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3971b72046ba0ed0800000000000000
+      internalID: -2446943060862338754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_14
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8b7f346a4fb3ef0800000000000000
+      internalID: -127239169507870537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_15
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 49
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cad0290a625afac0800000000000000
+      internalID: -3820650718497285432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 66
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e695e2b60dfef50800000000000000
+      internalID: 6912973111794691687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_17
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 57
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2259c15d6d271b0800000000000000
+      internalID: -5660225570855378258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 67
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e32e8339b0649980800000000000000
+      internalID: -8533089045410077719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 52
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ec50dbd6ee56370800000000000000
+      internalID: 8315314442099609189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_20
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debb85ba4ae3ccbe0800000000000000
+      internalID: -1455719702577234963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_21
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 57
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f779f0cbb92327f90800000000000000
+      internalID: -6957442829877536897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_22
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 39
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b19cf3238e18fa0800000000000000
+      internalID: -5800099542560335081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_23
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 74
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e56b09640993d80800000000000000
+      internalID: -8270420607939223988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_24
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 70
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ff6f7b643f80c60800000000000000
+      internalID: 7784739440969580339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_25
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 63
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab7525c9480d9cc0800000000000000
+      internalID: -3702794205695476823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_26
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 48
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26235cddc7ba6af0800000000000000
+      internalID: -402307121903622609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_27
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 32
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc2aba28c4d4b040800000000000000
+      internalID: 4662585470410697925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_28
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 61
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077545ea4055e3930800000000000000
+      internalID: 4124827787310946160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_29
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 41
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a5cc67aa8238490800000000000000
+      internalID: -7745302221544465912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_30
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 63
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fa6df5d742c3080800000000000000
+      internalID: -9206443417354719336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_31
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 25
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea364bdc14e23eec0800000000000000
+      internalID: -3538934022024174674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_32
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 38
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cefb4654ae4291f0800000000000000
+      internalID: -1039682096239739196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_33
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 20
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a419733518caedf30800000000000000
+      internalID: 4602305540666134858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_34
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 62
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6213f3f02cfd32410800000000000000
+      internalID: 1451249529515880742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_35
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 62
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087015412d80c2fd0800000000000000
+      internalID: -2365506005899344000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_36
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 36
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b6e4ea347a5b9c0800000000000000
+      internalID: -3912036792172385447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_37
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 58
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2159eb90508c06e50800000000000000
+      internalID: 6800655361293325586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YellowFireworks_38
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 67
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc58f098f796a1c90800000000000000
+      internalID: -7198325057917057585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YellowFireworks_0: 3252266194715446266
+      YellowFireworks_1: 2004205563787100133
+      YellowFireworks_10: -3402476508443433570
+      YellowFireworks_11: 1556606598872112963
+      YellowFireworks_12: -3981004784769611134
+      YellowFireworks_13: -2446943060862338754
+      YellowFireworks_14: -127239169507870537
+      YellowFireworks_15: -3820650718497285432
+      YellowFireworks_16: 6912973111794691687
+      YellowFireworks_17: -5660225570855378258
+      YellowFireworks_18: -8533089045410077719
+      YellowFireworks_19: 8315314442099609189
+      YellowFireworks_2: -7061993209855741713
+      YellowFireworks_20: -1455719702577234963
+      YellowFireworks_21: -6957442829877536897
+      YellowFireworks_22: -5800099542560335081
+      YellowFireworks_23: -8270420607939223988
+      YellowFireworks_24: 7784739440969580339
+      YellowFireworks_25: -3702794205695476823
+      YellowFireworks_26: -402307121903622609
+      YellowFireworks_27: 4662585470410697925
+      YellowFireworks_28: 4124827787310946160
+      YellowFireworks_29: -7745302221544465912
+      YellowFireworks_3: 2022570896624867717
+      YellowFireworks_30: -9206443417354719336
+      YellowFireworks_31: -3538934022024174674
+      YellowFireworks_32: -1039682096239739196
+      YellowFireworks_33: 4602305540666134858
+      YellowFireworks_34: 1451249529515880742
+      YellowFireworks_35: -2365506005899344000
+      YellowFireworks_36: -3912036792172385447
+      YellowFireworks_37: 6800655361293325586
+      YellowFireworks_38: -7198325057917057585
+      YellowFireworks_4: 8573400687721140808
+      YellowFireworks_5: 1335529867171793000
+      YellowFireworks_6: -5985158799113855440
+      YellowFireworks_7: -6017101685922791515
+      YellowFireworks_8: 2985869168775493233
+      YellowFireworks_9: 4779615730662257056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

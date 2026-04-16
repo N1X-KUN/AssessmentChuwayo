@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: 12b28b7903abc274cb08db8536e2f7a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4862265132345584598
+    second: DirectionalPoof_0
+  - first:
+      213: 4463137615617177377
+    second: DirectionalPoof_1
+  - first:
+      213: -1812027085764612433
+    second: DirectionalPoof_2
+  - first:
+      213: 8071248416258420681
+    second: DirectionalPoof_3
+  - first:
+      213: 6173486368253839985
+    second: DirectionalPoof_4
+  - first:
+      213: -303014409273715560
+    second: DirectionalPoof_5
+  - first:
+      213: -7058946311368618805
+    second: DirectionalPoof_6
+  - first:
+      213: -4295389766535823131
+    second: DirectionalPoof_7
+  - first:
+      213: -5397549243002274441
+    second: DirectionalPoof_8
+  - first:
+      213: -8058157681561702167
+    second: DirectionalPoof_9
+  - first:
+      213: 167334671681530055
+    second: DirectionalPoof_10
+  - first:
+      213: -5248136966523170197
+    second: DirectionalPoof_11
+  - first:
+      213: 2033452799857119610
+    second: DirectionalPoof_12
+  - first:
+      213: 298048785567401876
+    second: DirectionalPoof_13
+  - first:
+      213: 4582568428143496104
+    second: DirectionalPoof_14
+  - first:
+      213: 5931199669956239716
+    second: DirectionalPoof_15
+  - first:
+      213: 3360639676975939349
+    second: DirectionalPoof_16
+  - first:
+      213: 1492438645370059546
+    second: DirectionalPoof_17
+  - first:
+      213: 8986545264304498293
+    second: DirectionalPoof_18
+  - first:
+      213: -4653686314494738388
+    second: DirectionalPoof_19
+  - first:
+      213: 9042551049537634941
+    second: DirectionalPoof_20
+  - first:
+      213: 6119303773434962408
+    second: DirectionalPoof_21
+  - first:
+      213: -7796217979966256249
+    second: DirectionalPoof_22
+  - first:
+      213: -5929855127578035840
+    second: DirectionalPoof_23
+  - first:
+      213: 3527519904890107661
+    second: DirectionalPoof_24
+  - first:
+      213: 5730138007444210682
+    second: DirectionalPoof_25
+  - first:
+      213: 3588306355254325551
+    second: DirectionalPoof_26
+  - first:
+      213: -7846345342522009669
+    second: DirectionalPoof_27
+  - first:
+      213: 47209802275115436
+    second: DirectionalPoof_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DirectionalPoof_0
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 13
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbe931606c3a7340800000000000000
+      internalID: 4862265132345584598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_1
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 14
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127bb82c30040fd30800000000000000
+      internalID: 4463137615617177377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_2
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 20
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae2d9d47f26ad6e0800000000000000
+      internalID: -1812027085764612433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_3
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 23
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf6409dba5d20070800000000000000
+      internalID: 8071248416258420681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_4
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 55
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a8c75b421aca550800000000000000
+      internalID: 6173486368253839985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_5
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 56
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8945a6d000a7bcbf0800000000000000
+      internalID: -303014409273715560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_6
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 24
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccc15ecab5990e90800000000000000
+      internalID: -7058946311368618805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_7
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 35
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0c8c9e3c5b364c0800000000000000
+      internalID: -4295389766535823131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_8
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 47
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dbb299f8d0815b0800000000000000
+      internalID: -5397549243002274441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_9
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 53
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0fd66584cab2090800000000000000
+      internalID: -8058157681561702167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_10
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 33
+        width: 264
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c82f205ffd725200800000000000000
+      internalID: 167334671681530055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 5
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b625ac91c3fda27b0800000000000000
+      internalID: -5248136966523170197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 7
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71d10b3c86483c10800000000000000
+      internalID: 2033452799857119610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 8
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4974b759ac1e22400800000000000000
+      internalID: 298048785567401876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_14
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 11
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abc966b4bd889f30800000000000000
+      internalID: 4582568428143496104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_15
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 12
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461e7abccaadf4250800000000000000
+      internalID: 5931199669956239716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_16
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 38
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ffb341bf363ae20800000000000000
+      internalID: 3360639676975939349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_17
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 32
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bf85a6a0536b410800000000000000
+      internalID: 1492438645370059546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_18
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 40
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576a6dc1e4f96bc70800000000000000
+      internalID: 8986545264304498293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_19
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 39
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20c17804f8ca6fb0800000000000000
+      internalID: -4653686314494738388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_20
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 36
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72c60325489d7d70800000000000000
+      internalID: 9042551049537634941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_21
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e16c484c522ce450800000000000000
+      internalID: 6119303773434962408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_22
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 41
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b0998ad054ec390800000000000000
+      internalID: -7796217979966256249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089be2fdd2ce4bda0800000000000000
+      internalID: -5929855127578035840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d073815f9a444f030800000000000000
+      internalID: 3527519904890107661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af34daf782a858f40800000000000000
+      internalID: 5730138007444210682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_26
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21f5325e993cc130800000000000000
+      internalID: 3588306355254325551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb75fe19b7e2c1390800000000000000
+      internalID: -7846345342522009669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DirectionalPoof_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca15686a019b7a000800000000000000
+      internalID: 47209802275115436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DirectionalPoof_0: 4862265132345584598
+      DirectionalPoof_1: 4463137615617177377
+      DirectionalPoof_10: 167334671681530055
+      DirectionalPoof_11: -5248136966523170197
+      DirectionalPoof_12: 2033452799857119610
+      DirectionalPoof_13: 298048785567401876
+      DirectionalPoof_14: 4582568428143496104
+      DirectionalPoof_15: 5931199669956239716
+      DirectionalPoof_16: 3360639676975939349
+      DirectionalPoof_17: 1492438645370059546
+      DirectionalPoof_18: 8986545264304498293
+      DirectionalPoof_19: -4653686314494738388
+      DirectionalPoof_2: -1812027085764612433
+      DirectionalPoof_20: 9042551049537634941
+      DirectionalPoof_21: 6119303773434962408
+      DirectionalPoof_22: -7796217979966256249
+      DirectionalPoof_23: -5929855127578035840
+      DirectionalPoof_24: 3527519904890107661
+      DirectionalPoof_25: 5730138007444210682
+      DirectionalPoof_26: 3588306355254325551
+      DirectionalPoof_27: -7846345342522009669
+      DirectionalPoof_28: 47209802275115436
+      DirectionalPoof_3: 8071248416258420681
+      DirectionalPoof_4: 6173486368253839985
+      DirectionalPoof_5: -303014409273715560
+      DirectionalPoof_6: -7058946311368618805
+      DirectionalPoof_7: -4295389766535823131
+      DirectionalPoof_8: -5397549243002274441
+      DirectionalPoof_9: -8058157681561702167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

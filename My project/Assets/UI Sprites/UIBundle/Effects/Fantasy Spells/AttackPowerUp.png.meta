@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: a55a887d8a90478459f88b4bbf6a9374
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2845540493356130630
+    second: AttackPowerUp_0
+  - first:
+      213: 319667006671232057
+    second: AttackPowerUp_1
+  - first:
+      213: -8027151082779654530
+    second: AttackPowerUp_2
+  - first:
+      213: 9169824350339477677
+    second: AttackPowerUp_3
+  - first:
+      213: -935864801894931233
+    second: AttackPowerUp_4
+  - first:
+      213: -5062289409961582800
+    second: AttackPowerUp_5
+  - first:
+      213: 493991737957257265
+    second: AttackPowerUp_6
+  - first:
+      213: -5899070579652247110
+    second: AttackPowerUp_7
+  - first:
+      213: -4488140053165556378
+    second: AttackPowerUp_8
+  - first:
+      213: -5026339269514793190
+    second: AttackPowerUp_9
+  - first:
+      213: 5908563742100016886
+    second: AttackPowerUp_10
+  - first:
+      213: 8513033516668943578
+    second: AttackPowerUp_11
+  - first:
+      213: 1609899119857313663
+    second: AttackPowerUp_12
+  - first:
+      213: 748311251053794483
+    second: AttackPowerUp_13
+  - first:
+      213: 638597508970074071
+    second: AttackPowerUp_14
+  - first:
+      213: 7970735175669624785
+    second: AttackPowerUp_15
+  - first:
+      213: 918056195210941226
+    second: AttackPowerUp_16
+  - first:
+      213: -8069476858170492193
+    second: AttackPowerUp_17
+  - first:
+      213: 242043984684078741
+    second: AttackPowerUp_18
+  - first:
+      213: 3390032419745470236
+    second: AttackPowerUp_19
+  - first:
+      213: 4572596329440201483
+    second: AttackPowerUp_20
+  - first:
+      213: -6644062840245459032
+    second: AttackPowerUp_21
+  - first:
+      213: -6709489329993949647
+    second: AttackPowerUp_22
+  - first:
+      213: -1403920453103578564
+    second: AttackPowerUp_23
+  - first:
+      213: -3366430857162984133
+    second: AttackPowerUp_24
+  - first:
+      213: 4726308937001868079
+    second: AttackPowerUp_25
+  - first:
+      213: 1239255089380528659
+    second: AttackPowerUp_26
+  - first:
+      213: 4886793143263724946
+    second: AttackPowerUp_27
+  - first:
+      213: 3474673705584370197
+    second: AttackPowerUp_28
+  - first:
+      213: 553231544674905889
+    second: AttackPowerUp_29
+  - first:
+      213: 5797235597781673394
+    second: AttackPowerUp_30
+  - first:
+      213: 6785917627237213610
+    second: AttackPowerUp_31
+  - first:
+      213: 1191344367236745115
+    second: AttackPowerUp_32
+  - first:
+      213: 6511233844075773766
+    second: AttackPowerUp_33
+  - first:
+      213: 4852189881784711434
+    second: AttackPowerUp_34
+  - first:
+      213: -4847088982854446298
+    second: AttackPowerUp_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AttackPowerUp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6416b7c90046d7720800000000000000
+      internalID: 2845540493356130630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 8
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c1d0be27faf6400800000000000000
+      internalID: 319667006671232057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76c680be94d99090800000000000000
+      internalID: -8027151082779654530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da036bea9a2c14f70800000000000000
+      internalID: 9169824350339477677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 11
+        width: 6
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4e24dcbe32303f0800000000000000
+      internalID: -935864801894931233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f94015a922fb9b0800000000000000
+      internalID: -5062289409961582800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 4
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1309bee4ed20bd600800000000000000
+      internalID: 493991737957257265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 21
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1cedaff8a422ea0800000000000000
+      internalID: -5899070579652247110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 9
+        width: 6
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d3ddc966ce6b1c0800000000000000
+      internalID: -4488140053165556378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 4
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f69f7a01bde3ab0800000000000000
+      internalID: -5026339269514793190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_10
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 21
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fecf942b6f6ff150800000000000000
+      internalID: 5908563742100016886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_11
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 4
+        width: 103
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcfb0221ee542670800000000000000
+      internalID: 8513033516668943578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_12
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 23
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f772f4b48b2875610800000000000000
+      internalID: 1609899119857313663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_13
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 4
+        width: 124
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b45d7c3e19826a00800000000000000
+      internalID: 748311251053794483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_14
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1
+        width: 130
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df4c9c0d01ccd800800000000000000
+      internalID: 638597508970074071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2
+        width: 128
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfaf78596dbd9e60800000000000000
+      internalID: 7970735175669624785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_16
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 3
+        width: 107
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a231567de379dbc00800000000000000
+      internalID: 918056195210941226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_17
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda33892d85730090800000000000000
+      internalID: -8069476858170492193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2
+        width: 109
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5965d1fb8b9eb5300800000000000000
+      internalID: 242043984684078741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_19
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 21
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c179cfb4680db0f20800000000000000
+      internalID: 3390032419745470236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_20
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 3
+        width: 107
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bc98d8220257f30800000000000000
+      internalID: 4572596329440201483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_21
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7ebcd6c0c8bc3a0800000000000000
+      internalID: -6644062840245459032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2
+        width: 109
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13edf65b00b13e2a0800000000000000
+      internalID: -6709489329993949647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_23
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 21
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c321bd349c5448ce0800000000000000
+      internalID: -1403920453103578564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_24
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 3
+        width: 107
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35f2e5b8f80841d0800000000000000
+      internalID: -3366430857162984133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_25
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b10c8efe8379140800000000000000
+      internalID: 4726308937001868079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_26
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 2
+        width: 109
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3121f9c10f7b23110800000000000000
+      internalID: 1239255089380528659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_27
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 21
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2958c03f87061d340800000000000000
+      internalID: 4886793143263724946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_28
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 3
+        width: 107
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5122fbb5355883030800000000000000
+      internalID: 3474673705584370197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_29
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 22
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f63e2a8297da700800000000000000
+      internalID: 553231544674905889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2
+        width: 109
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5a605af0be37050800000000000000
+      internalID: 5797235597781673394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_31
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 21
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5298ee02c6c2e50800000000000000
+      internalID: 6785917627237213610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_32
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1
+        width: 111
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b970f46d361888010800000000000000
+      internalID: 1191344367236745115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_33
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 20
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f33a5eeac8c5a50800000000000000
+      internalID: 6511233844075773766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_34
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1
+        width: 111
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09b58e4df0765340800000000000000
+      internalID: 4852189881784711434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackPowerUp_35
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 20
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6235046404eabbcb0800000000000000
+      internalID: -4847088982854446298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AttackPowerUp_0: 2845540493356130630
+      AttackPowerUp_1: 319667006671232057
+      AttackPowerUp_10: 5908563742100016886
+      AttackPowerUp_11: 8513033516668943578
+      AttackPowerUp_12: 1609899119857313663
+      AttackPowerUp_13: 748311251053794483
+      AttackPowerUp_14: 638597508970074071
+      AttackPowerUp_15: 7970735175669624785
+      AttackPowerUp_16: 918056195210941226
+      AttackPowerUp_17: -8069476858170492193
+      AttackPowerUp_18: 242043984684078741
+      AttackPowerUp_19: 3390032419745470236
+      AttackPowerUp_2: -8027151082779654530
+      AttackPowerUp_20: 4572596329440201483
+      AttackPowerUp_21: -6644062840245459032
+      AttackPowerUp_22: -6709489329993949647
+      AttackPowerUp_23: -1403920453103578564
+      AttackPowerUp_24: -3366430857162984133
+      AttackPowerUp_25: 4726308937001868079
+      AttackPowerUp_26: 1239255089380528659
+      AttackPowerUp_27: 4886793143263724946
+      AttackPowerUp_28: 3474673705584370197
+      AttackPowerUp_29: 553231544674905889
+      AttackPowerUp_3: 9169824350339477677
+      AttackPowerUp_30: 5797235597781673394
+      AttackPowerUp_31: 6785917627237213610
+      AttackPowerUp_32: 1191344367236745115
+      AttackPowerUp_33: 6511233844075773766
+      AttackPowerUp_34: 4852189881784711434
+      AttackPowerUp_35: -4847088982854446298
+      AttackPowerUp_4: -935864801894931233
+      AttackPowerUp_5: -5062289409961582800
+      AttackPowerUp_6: 493991737957257265
+      AttackPowerUp_7: -5899070579652247110
+      AttackPowerUp_8: -4488140053165556378
+      AttackPowerUp_9: -5026339269514793190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
