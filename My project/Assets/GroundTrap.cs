@@ -11,6 +11,9 @@ public class GroundTrap : MonoBehaviour
     // Set this to -3 in the Inspector to match Kommy!
     public float floorY = -3f; 
 
+    [Header("Visual Effects")]
+    public GameObject poisonSplashPrefab; // <--- NEW: Drag your Poison Splash Prefab here in the Inspector!
+
     private KommyController kommy;
     private bool hasTriggered = false;
 
@@ -56,6 +59,12 @@ public class GroundTrap : MonoBehaviour
 
                     if (isPoisonTrap)
                     {
+                        // <--- NEW: Spawn the poison splash exactly where Kommy is! --->
+                        if (poisonSplashPrefab != null)
+                        {
+                            Instantiate(poisonSplashPrefab, kommy.transform.position, Quaternion.identity);
+                        }
+
                         WordManager wm = FindAnyObjectByType<WordManager>();
                         if (wm != null) wm.TriggerPoisonFromTrap();
                     }

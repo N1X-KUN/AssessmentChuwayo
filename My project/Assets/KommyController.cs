@@ -66,10 +66,13 @@ public class KommyController : MonoBehaviour
 
     void Update()
     {   
+        // 1. HARD LOCK: If the game is over, completely stop processing all timers and inputs!
+        if (currentState == CharacterState.Dead || currentState == CharacterState.Victory) return;
+
         LevelManager lm = FindAnyObjectByType<LevelManager>();
         if (lm != null && !lm.gameIsActive) return; 
 
-        if (!isAbilityActive && currentState != CharacterState.Dead)
+        if (!isAbilityActive)
         {
             if (currentCharge < maxCharge)
             {
@@ -153,7 +156,6 @@ public class KommyController : MonoBehaviour
         UpdateUI();
     }
 
-    // --- INSTANTLY KILLS ALL VISUAL EFFECTS ---
     private void ForceClearAllEffects()
     {
         isAbilityActive = false;
@@ -170,7 +172,7 @@ public class KommyController : MonoBehaviour
 
     public void AddAttackBonusCharge()
     {
-        if (!isAbilityActive)
+        if (!isAbilityActive && currentState != CharacterState.Dead && currentState != CharacterState.Victory)
         {
             currentCharge += 10f; 
             if (currentCharge > maxCharge) currentCharge = maxCharge;
@@ -201,7 +203,9 @@ public class KommyController : MonoBehaviour
 
     public void TriggerSwipeAnimation()
     {
-        if (currentState == CharacterState.Dead || currentState == CharacterState.Stunned || isAbilityActive) return;
+        // 2. HARD LOCK: Block attack spam if the game is already won or lost!
+        if (currentState == CharacterState.Dead || currentState == CharacterState.Victory || currentState == CharacterState.Stunned || isAbilityActive) return;
+        
         attackTimer = timeToStopAttacking; 
         currentState = CharacterState.Attacking;
         PlayAnimation("KommyAttack"); 
@@ -233,7 +237,8 @@ public class KommyController : MonoBehaviour
     private IEnumerator ResetRunAfterBonk()
     {
         yield return new WaitForSeconds(1.0f); 
-        if (currentState != CharacterState.Dead && currentState != CharacterState.Stunned && !isAbilityActive)
+        // 3. HARD LOCK: Don't go back to running if she won while bonked
+        if (currentState != CharacterState.Dead && currentState != CharacterState.Victory && currentState != CharacterState.Stunned && !isAbilityActive)
             PlayAnimation("KommyMove");
     }
 
@@ -255,7 +260,7 @@ public class KommyController : MonoBehaviour
     {
         if (currentState == CharacterState.Dead || currentState == CharacterState.Victory) return;
         currentState = CharacterState.Victory;
-        ForceClearAllEffects(); // CLEARS ALL EFFECTS ON WIN
+        ForceClearAllEffects(); 
         PlayAnimation("KommyVictory"); 
         StartCoroutine(FreezeWorldRoutine());
     }
@@ -264,7 +269,7 @@ public class KommyController : MonoBehaviour
     {
         if (currentState == CharacterState.Dead || currentState == CharacterState.Victory) return;
         currentState = CharacterState.Dead;
-        ForceClearAllEffects(); // CLEARS ALL EFFECTS ON LOSS
+        ForceClearAllEffects(); 
         PlayAnimation("KommyDie");
         StartCoroutine(FreezeWorldRoutine());
     }
@@ -304,7 +309,9 @@ public class KommyController : MonoBehaviour
         }
         
         transform.position = new Vector3(transform.position.x, originalY, transform.position.z);
-        if(currentState != CharacterState.Stunned && currentState != CharacterState.Dead && !isAbilityActive)
+        
+        // 4. HARD LOCK: Don't go back to running if she won mid-jump
+        if(currentState != CharacterState.Stunned && currentState != CharacterState.Dead && currentState != CharacterState.Victory && !isAbilityActive)
         {
             currentState = CharacterState.Running;
             PlayAnimation("KommyMove");
@@ -321,7 +328,8 @@ public class KommyController : MonoBehaviour
         yield return new WaitForSeconds(1.0f);
 
         if (currentHp <= 0) Die();
-        else if (currentState != CharacterState.Dead && !isAbilityActive)
+        // 5. HARD LOCK: Don't go back to running if she won while stunned
+        else if (currentState != CharacterState.Dead && currentState != CharacterState.Victory && !isAbilityActive)
         {
             currentState = CharacterState.Running;
             PlayAnimation("KommyMove");
@@ -349,10 +357,8 @@ public class KommyController : MonoBehaviour
     {
         try 
         {
-            // Plays Kommy's main animation
             if (anim != null && anim.isActiveAndEnabled) anim.Play(animName); 
 
-            // 1. UI FACE LOGIC (Uses your KommyFace_ names)
             if (uiFaceAnimator != null && uiFaceAnimator.isActiveAndEnabled)
             {
                 string faceName = "KommyFace_Idle";
@@ -364,7 +370,6 @@ public class KommyController : MonoBehaviour
                 uiFaceAnimator.Play(faceName); 
             }
 
-            // 2. PROGRESSION HANDLE LOGIC (Uses your exact LoadingRUN, LoadingLOS, LoadingWIN names)
             if (progressionFaceAnimator != null && progressionFaceAnimator.isActiveAndEnabled)
             {
                 if (animName == "KommyVictory") 
