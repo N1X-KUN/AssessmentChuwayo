@@ -33,14 +33,13 @@ public class WordManager : MonoBehaviour
     public bool canDropPhysicalTraps = false; 
     public float physicalTrapChance = 20f; 
     public GameObject[] physicalTrapPrefabs; 
-    private float trapCooldownTimer = 0f; // NEW: Stops trap spam!
+    private float trapCooldownTimer = 0f; 
 
     [Header("Typing Mechanics & Ammo")]
     public TMP_Text ammoCounterText; 
     public int maxAmmo = 5; 
     public List<Sprite> ammoBackpack = new List<Sprite>(); 
     
-    // NEW: 4 separate objects so you can resize them manually!
     public GameObject emptyBagObj;
     public GameObject partialBagObj; 
     public GameObject halfBagObj;    
@@ -70,7 +69,7 @@ public class WordManager : MonoBehaviour
 
     void SpawnFood()
     {
-        // 1. Trap Spawning (With Cooldown)
+        // 1. Trap Spawning
         if (canDropPhysicalTraps && physicalTrapPrefabs.Length > 0 && trapCooldownTimer <= 0f)
         {
             if (Random.Range(0f, 100f) <= physicalTrapChance)
@@ -80,8 +79,24 @@ public class WordManager : MonoBehaviour
                 GroundTrap trapScript = newTrapObj.GetComponent<GroundTrap>();
                 if (trapScript != null) trapScript.SetupTrap(kommy);
 
-                trapCooldownTimer = 2.0f; // Wait 2 seconds before dropping another trap!
-                return; // Stops food from dropping on top of the trap
+                // --- NEW: TUTORIAL TRAP TRIGGERS ---
+                DialogueManager dmTrap = FindAnyObjectByType<DialogueManager>();
+                if (dmTrap != null && dmTrap.isTutorialMode)
+                {
+                    if (trapScript.isPoisonTrap && !dmTrap.seenFirstPoison)
+                    {
+                        dmTrap.PlayDialogue("PoisonTutorial");
+                        dmTrap.seenFirstPoison = true;
+                    }
+                    else if (!trapScript.isPoisonTrap && !dmTrap.seenFirstPunch)
+                    {
+                        dmTrap.PlayDialogue("PunchTutorial");
+                        dmTrap.seenFirstPunch = true;
+                    }
+                }
+
+                trapCooldownTimer = 2.0f; 
+                return; 
             }
         }
 
@@ -98,6 +113,14 @@ public class WordManager : MonoBehaviour
             FoodItem newFood = newFoodObj.GetComponent<FoodItem>();
             newFood.SetupFood(chosenEntry.word, chosenEntry.foodSprite, this, droppingRotten);
             activeFoods.Add(newFood); 
+
+            // --- NEW: TUTORIAL FOOD TRIGGER ---
+            DialogueManager dmFood = FindAnyObjectByType<DialogueManager>();
+            if (dmFood != null && dmFood.isTutorialMode && !dmFood.seenFirstFood)
+            {
+                dmFood.PlayDialogue("FoodTutorial");
+                dmFood.seenFirstFood = true;
+            }
         }
     }
 
@@ -109,7 +132,6 @@ public class WordManager : MonoBehaviour
 
     void Update()
     {
-        // Trap Cooldown Tick
         if (trapCooldownTimer > 0) trapCooldownTimer -= Time.deltaTime;
 
         LevelManager lm = FindAnyObjectByType<LevelManager>();
@@ -168,7 +190,6 @@ public class WordManager : MonoBehaviour
             {
                 if (targetedFood.isRotten)
                 {
-                    // iFrame: Immune during Stun AND Ultimate Ability
                     if (kommy.currentState != KommyController.CharacterState.Stunned && !kommy.isAbilityActive)
                     {
                         kommy.HitByTrap(); 
@@ -194,10 +215,17 @@ public class WordManager : MonoBehaviour
                         ammoBackpack.Add(targetedFood.GetComponent<SpriteRenderer>().sprite);
                         targetedFood.VanishOnSuccess(); 
                         UpdateAmmoUI(); 
+
+                        // --- NEW: TUTORIAL AMMO GAINED TRIGGER ---
+                        DialogueManager dmAmmo = FindAnyObjectByType<DialogueManager>();
+                        if (dmAmmo != null && dmAmmo.isTutorialMode && !dmAmmo.seenFirstAmmo)
+                        {
+                            dmAmmo.PlayDialogue("AmmoTutorial");
+                            dmAmmo.seenFirstAmmo = true;
+                        }
                     }
                     else 
                     {
-                        // iFrame: Immune during Stun AND Ultimate Ability
                         if (kommy.currentState != KommyController.CharacterState.Stunned && !kommy.isAbilityActive)
                         {
                             if (bagAnimator != null) bagAnimator.Play("BagShake");
@@ -210,7 +238,6 @@ public class WordManager : MonoBehaviour
             }
             else 
             { 
-                // Mistake! iFrame: Immune during Stun AND Ultimate Ability
                 if (kommy.currentState != KommyController.CharacterState.Stunned && !kommy.isAbilityActive)
                 {
                     targetedFood.TriggerMistake(); 
@@ -252,7 +279,6 @@ public class WordManager : MonoBehaviour
 
     public void TriggerPoisonFromTrap()
     {
-        // iFrame: Immune during Stun AND Ultimate Ability
         if (kommy.currentState == KommyController.CharacterState.Stunned || kommy.isAbilityActive) return;
 
         StartCoroutine(TriggerDizzyEffect());
@@ -264,13 +290,11 @@ public class WordManager : MonoBehaviour
     {
         if (ammoCounterText != null) ammoCounterText.text = ammoBackpack.Count + "/" + maxAmmo;
 
-        // Turn all bags off first
         if (emptyBagObj != null) emptyBagObj.SetActive(false);
         if (partialBagObj != null) partialBagObj.SetActive(false);
         if (halfBagObj != null) halfBagObj.SetActive(false);
         if (fullBagObj != null) fullBagObj.SetActive(false);
 
-        // Turn only the correct bag on
         if (ammoBackpack.Count == 0 && emptyBagObj != null) emptyBagObj.SetActive(true);
         else if (ammoBackpack.Count <= 2 && partialBagObj != null) partialBagObj.SetActive(true);
         else if (ammoBackpack.Count <= 4 && halfBagObj != null) halfBagObj.SetActive(true);

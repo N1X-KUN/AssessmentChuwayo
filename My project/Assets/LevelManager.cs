@@ -7,13 +7,13 @@ public class LevelManager : MonoBehaviour
 {
     [Header("UI Elements")]
     public Slider progressBar;
-    public Image progressFill; // NEW: Controls the color!
+    public Image progressFill; 
     public TMP_Text introText; 
     public Animator handleAnimator; 
 
     [Header("Colors")]
     public Color normalColor = Color.yellow;
-    public Color slowMoColor = Color.magenta; // Pink!
+    public Color slowMoColor = Color.magenta; 
 
     [Header("Level Settings")]
     public float levelDuration = 60f; 
@@ -33,7 +33,6 @@ public class LevelManager : MonoBehaviour
             progressBar.value = 0f;
         }
         
-        // Set to yellow at the very start
         if (progressFill != null) progressFill.color = normalColor; 
         
         StartCoroutine(LevelIntroRoutine()); 
@@ -61,6 +60,14 @@ public class LevelManager : MonoBehaviour
         gameIsActive = true;
         if (kommy != null) kommy.StartGame();
         if (wordManager != null) wordManager.StartSpawning();
+
+        // --- NEW: TRIGGER PROGRESSION BAR DIALOGUE ---
+        DialogueManager dm = FindAnyObjectByType<DialogueManager>();
+        if (dm != null && dm.isTutorialMode && !dm.seenCountdown)
+        {
+            dm.PlayDialogue("IntroProgression");
+            dm.seenCountdown = true;
+        }
     }
 
     void Update()
@@ -73,10 +80,8 @@ public class LevelManager : MonoBehaviour
             
             if (progressBar != null) progressBar.value = timeElapsed;
 
-            // --- NEW: THE SIMPLE COLOR SWAP ---
             if (progressFill != null)
             {
-                // If ability is active, turn Pink. Otherwise, stay Yellow.
                 progressFill.color = kommy.isAbilityActive ? slowMoColor : normalColor;
             }
 

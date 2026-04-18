@@ -66,7 +66,6 @@ public class KommyController : MonoBehaviour
 
     void Update()
     {   
-        // 1. HARD LOCK: If the game is over, completely stop processing all timers and inputs!
         if (currentState == CharacterState.Dead || currentState == CharacterState.Victory) return;
 
         LevelManager lm = FindAnyObjectByType<LevelManager>();
@@ -203,7 +202,6 @@ public class KommyController : MonoBehaviour
 
     public void TriggerSwipeAnimation()
     {
-        // 2. HARD LOCK: Block attack spam if the game is already won or lost!
         if (currentState == CharacterState.Dead || currentState == CharacterState.Victory || currentState == CharacterState.Stunned || isAbilityActive) return;
         
         attackTimer = timeToStopAttacking; 
@@ -237,7 +235,6 @@ public class KommyController : MonoBehaviour
     private IEnumerator ResetRunAfterBonk()
     {
         yield return new WaitForSeconds(1.0f); 
-        // 3. HARD LOCK: Don't go back to running if she won while bonked
         if (currentState != CharacterState.Dead && currentState != CharacterState.Victory && currentState != CharacterState.Stunned && !isAbilityActive)
             PlayAnimation("KommyMove");
     }
@@ -262,6 +259,11 @@ public class KommyController : MonoBehaviour
         currentState = CharacterState.Victory;
         ForceClearAllEffects(); 
         PlayAnimation("KommyVictory"); 
+        
+        // --- NEW: TUTORIAL WIN TRIGGER ---
+        DialogueManager dm = FindAnyObjectByType<DialogueManager>();
+        if (dm != null && dm.isTutorialMode) dm.PlayDialogue("TutorialWin");
+        
         StartCoroutine(FreezeWorldRoutine());
     }
 
@@ -271,6 +273,11 @@ public class KommyController : MonoBehaviour
         currentState = CharacterState.Dead;
         ForceClearAllEffects(); 
         PlayAnimation("KommyDie");
+        
+        // --- NEW: TUTORIAL LOSE TRIGGER ---
+        DialogueManager dm = FindAnyObjectByType<DialogueManager>();
+        if (dm != null && dm.isTutorialMode) dm.PlayDialogue("TutorialLose");
+        
         StartCoroutine(FreezeWorldRoutine());
     }
 
@@ -310,7 +317,6 @@ public class KommyController : MonoBehaviour
         
         transform.position = new Vector3(transform.position.x, originalY, transform.position.z);
         
-        // 4. HARD LOCK: Don't go back to running if she won mid-jump
         if(currentState != CharacterState.Stunned && currentState != CharacterState.Dead && currentState != CharacterState.Victory && !isAbilityActive)
         {
             currentState = CharacterState.Running;
@@ -328,7 +334,6 @@ public class KommyController : MonoBehaviour
         yield return new WaitForSeconds(1.0f);
 
         if (currentHp <= 0) Die();
-        // 5. HARD LOCK: Don't go back to running if she won while stunned
         else if (currentState != CharacterState.Dead && currentState != CharacterState.Victory && !isAbilityActive)
         {
             currentState = CharacterState.Running;

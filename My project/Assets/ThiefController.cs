@@ -19,7 +19,6 @@ public class ThiefController : MonoBehaviour
     [Header("Flight & Escape Settings")]
     public float flightHeightOffset = 3f; 
     
-    // NEW: Separate distances for forward and backward!
     public float forwardStepDistance = 1f;    
     public float backwardStepDistance = 0.5f; 
     
@@ -63,7 +62,6 @@ public class ThiefController : MonoBehaviour
         // Win/Loss Logic
         if (kommy != null && !isDefeated)
         {
-            // AGGRESSIVE EARLY VICTORY: If his actual physical body touches Kommy's catch zone
             if (transform.position.x <= kommy.transform.position.x + catchDistance)
             {
                 if (kommy.currentState != KommyController.CharacterState.Victory)
@@ -72,7 +70,6 @@ public class ThiefController : MonoBehaviour
                     TriggerDefeat();
                 }
             }
-            // ESCAPE DEFEAT
             else if (transform.position.x >= escapeLimitX)
             {
                 if (kommy.currentState != KommyController.CharacterState.Dead)
@@ -87,7 +84,7 @@ public class ThiefController : MonoBehaviour
     {
         if (!isDefeated)
         {
-            targetX += forwardStepDistance; // Moves exactly 1 block forward
+            targetX += forwardStepDistance; 
             if (playLaugh) ShowEmoticon("EmoticonLaugh", 2.05f);
         }
     }
@@ -96,7 +93,7 @@ public class ThiefController : MonoBehaviour
     {
         if (!isDefeated)
         {
-            targetX -= backwardStepDistance; // Moves exactly 0.5 blocks backward
+            targetX -= backwardStepDistance; 
             ShowEmoticon("EmoticonCry", 2.05f);
         }
     }
@@ -168,6 +165,14 @@ public class ThiefController : MonoBehaviour
         wordManager.StopSpawning(); 
         isFlying = false;
 
+        // --- NEW: TRIGGER THIEF KNOCKDOWN DIALOGUE ---
+        DialogueManager dm = FindAnyObjectByType<DialogueManager>();
+        if (dm != null && dm.isTutorialMode && !dm.seenThiefKnockdown)
+        {
+            dm.PlayDialogue("ThiefKnockedTutorial");
+            dm.seenThiefKnockdown = true;
+        }
+
         StartCoroutine(TumbleRoutine());
     }
 
@@ -225,11 +230,10 @@ public class ThiefController : MonoBehaviour
         StopAllCoroutines();
         wordManager.StopSpawning();
         
-        // INSTANTLY SNAP TO GROUND
         transform.position = new Vector3(transform.position.x, groundY, transform.position.z);
         
         anim.Play("ThiefWin"); 
-        ShowEmoticon("EmoticonLaugh", 0f); // 0 = Loops infinitely
+        ShowEmoticon("EmoticonLaugh", 0f); 
     }
 
     public void TriggerDefeat()
@@ -238,10 +242,9 @@ public class ThiefController : MonoBehaviour
         StopAllCoroutines(); 
         wordManager.StopSpawning(); 
         
-        // INSTANTLY SNAP TO GROUND
         transform.position = new Vector3(transform.position.x, groundY, transform.position.z);
         
-        ShowEmoticon("EmoticonCry", 0f); // 0 = Loops infinitely
+        ShowEmoticon("EmoticonCry", 0f); 
         anim.Play("ThiefDie"); 
     }
 }

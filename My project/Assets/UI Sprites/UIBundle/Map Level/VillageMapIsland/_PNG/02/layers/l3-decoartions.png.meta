@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 822fac97a0b50c044b74793cce8d6949
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5756365142783534929
+    second: l3-decoartions_0
+  - first:
+      213: 1526223102459872805
+    second: l3-decoartions_1
+  - first:
+      213: -5115242293085495949
+    second: l3-decoartions_2
+  - first:
+      213: -6465928506487231889
+    second: l3-decoartions_3
+  - first:
+      213: -1894623705364435060
+    second: l3-decoartions_4
+  - first:
+      213: -3825532189717945647
+    second: l3-decoartions_5
+  - first:
+      213: -4813735438832128580
+    second: l3-decoartions_6
+  - first:
+      213: -4049775930999042076
+    second: l3-decoartions_7
+  - first:
+      213: -4900427604212128255
+    second: l3-decoartions_8
+  - first:
+      213: -6558192100634788304
+    second: l3-decoartions_9
+  - first:
+      213: 3677581230173059962
+    second: l3-decoartions_10
+  - first:
+      213: -5727722292982351520
+    second: l3-decoartions_11
+  - first:
+      213: -6505944813830968801
+    second: l3-decoartions_12
+  - first:
+      213: -8017112226244367341
+    second: l3-decoartions_13
+  - first:
+      213: 2284659326734071499
+    second: l3-decoartions_14
+  - first:
+      213: -3100006849995435990
+    second: l3-decoartions_15
+  - first:
+      213: 7928999288230547898
+    second: l3-decoartions_16
+  - first:
+      213: 5235961090451138902
+    second: l3-decoartions_17
+  - first:
+      213: 9001646195924281329
+    second: l3-decoartions_18
+  - first:
+      213: -2991204625211681655
+    second: l3-decoartions_19
+  - first:
+      213: -2073146736085456392
+    second: l3-decoartions_20
+  - first:
+      213: 18085115385840399
+    second: l3-decoartions_21
+  - first:
+      213: 7548343483403734812
+    second: l3-decoartions_22
+  - first:
+      213: 5373653704090347076
+    second: l3-decoartions_23
+  - first:
+      213: -5281212989158801183
+    second: l3-decoartions_24
+  - first:
+      213: -3544457228190701871
+    second: l3-decoartions_25
+  - first:
+      213: 1748389145447562177
+    second: l3-decoartions_26
+  - first:
+      213: 4674151564928548512
+    second: l3-decoartions_27
+  - first:
+      213: -6300383130141758627
+    second: l3-decoartions_28
+  - first:
+      213: -3799075503518711253
+    second: l3-decoartions_29
+  - first:
+      213: 560931471215982482
+    second: l3-decoartions_30
+  - first:
+      213: 3017561605296850884
+    second: l3-decoartions_31
+  - first:
+      213: -6333056517716355452
+    second: l3-decoartions_32
+  - first:
+      213: -8183451186379737607
+    second: l3-decoartions_33
+  - first:
+      213: 6252476315108402397
+    second: l3-decoartions_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: l3-decoartions_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1859
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157ad0d4997b2ef40800000000000000
+      internalID: 5756365142783534929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1696
+        width: 369
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5268d1e43db3e2510800000000000000
+      internalID: 1526223102459872805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_2
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1762
+        width: 360
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d95947c320309b0800000000000000
+      internalID: -5115242293085495949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1832
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6aa1c308486446a0800000000000000
+      internalID: -6465928506487231889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_4
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1834
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fe7b237c1f4b5e0800000000000000
+      internalID: -1894623705364435060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_5
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1809
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d22a03fdbaf8eac0800000000000000
+      internalID: -3825532189717945647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_6
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1833
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbda3b56f1d223db0800000000000000
+      internalID: -4813735438832128580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_7
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1808
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef00e45f3e4cc7c0800000000000000
+      internalID: -4049775930999042076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_8
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1786
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106ea6bbe0f2efbb0800000000000000
+      internalID: -4900427604212128255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_9
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1803
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ef3e0080f9cf4a0800000000000000
+      internalID: -6558192100634788304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_10
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1423
+        width: 138
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bfb19e4a4690330800000000000000
+      internalID: 3677581230173059962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1359
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06973badbea0380b0800000000000000
+      internalID: -5727722292982351520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1334
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a6f4b69ad36b5a0800000000000000
+      internalID: -6505944813830968801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1358
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c634e18ee7db090800000000000000
+      internalID: -8017112226244367341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_14
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1332
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc674c29d8db4bf10800000000000000
+      internalID: 2284659326734071499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1311
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a209eb8c1309af4d0800000000000000
+      internalID: -3100006849995435990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_16
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1327
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab19e4fc7d6790e60800000000000000
+      internalID: 7928999288230547898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 716
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6596b16deded9a840800000000000000
+      internalID: 5235961090451138902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_18
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 680
+        width: 893
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f720ddb5854cec70800000000000000
+      internalID: 9001646195924281329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_19
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 656
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98490cfcd3b1d76d0800000000000000
+      internalID: -2991204625211681655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_20
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 304
+        width: 239
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9ad5c0704ba33e0800000000000000
+      internalID: -2073146736085456392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_21
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 389
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f038b4e0150404000800000000000000
+      internalID: 18085115385840399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_22
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 364
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f0ae2c76a11c860800000000000000
+      internalID: 7548343483403734812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_23
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 388
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4466442b29d039a40800000000000000
+      internalID: 5373653704090347076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_24
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 363
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0c20674cc55b6b0800000000000000
+      internalID: -5281212989158801183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_25
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 341
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6a0282eee8fcec0800000000000000
+      internalID: -3544457228190701871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_26
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 358
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbfc871aa6834810800000000000000
+      internalID: 1748389145447562177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 255
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aef6e5651cedd040800000000000000
+      internalID: 4674151564928548512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_28
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 263
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b690b8cea8098a0800000000000000
+      internalID: -6300383130141758627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_29
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 238
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2201e935f8f64bc0800000000000000
+      internalID: -3799075503518711253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_30
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 262
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2977a2d7334d8c700800000000000000
+      internalID: 560931471215982482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_31
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 237
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c78393da4880e920800000000000000
+      internalID: 3017561605296850884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_32
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 215
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4865b0fa6a67c18a0800000000000000
+      internalID: -6333056517716355452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_33
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 232
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f53617f08a8e6e80800000000000000
+      internalID: -8183451186379737607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: l3-decoartions_34
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 206
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd46490e41245c650800000000000000
+      internalID: 6252476315108402397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      l3-decoartions_0: 5756365142783534929
+      l3-decoartions_1: 1526223102459872805
+      l3-decoartions_10: 3677581230173059962
+      l3-decoartions_11: -5727722292982351520
+      l3-decoartions_12: -6505944813830968801
+      l3-decoartions_13: -8017112226244367341
+      l3-decoartions_14: 2284659326734071499
+      l3-decoartions_15: -3100006849995435990
+      l3-decoartions_16: 7928999288230547898
+      l3-decoartions_17: 5235961090451138902
+      l3-decoartions_18: 9001646195924281329
+      l3-decoartions_19: -2991204625211681655
+      l3-decoartions_2: -5115242293085495949
+      l3-decoartions_20: -2073146736085456392
+      l3-decoartions_21: 18085115385840399
+      l3-decoartions_22: 7548343483403734812
+      l3-decoartions_23: 5373653704090347076
+      l3-decoartions_24: -5281212989158801183
+      l3-decoartions_25: -3544457228190701871
+      l3-decoartions_26: 1748389145447562177
+      l3-decoartions_27: 4674151564928548512
+      l3-decoartions_28: -6300383130141758627
+      l3-decoartions_29: -3799075503518711253
+      l3-decoartions_3: -6465928506487231889
+      l3-decoartions_30: 560931471215982482
+      l3-decoartions_31: 3017561605296850884
+      l3-decoartions_32: -6333056517716355452
+      l3-decoartions_33: -8183451186379737607
+      l3-decoartions_34: 6252476315108402397
+      l3-decoartions_4: -1894623705364435060
+      l3-decoartions_5: -3825532189717945647
+      l3-decoartions_6: -4813735438832128580
+      l3-decoartions_7: -4049775930999042076
+      l3-decoartions_8: -4900427604212128255
+      l3-decoartions_9: -6558192100634788304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
