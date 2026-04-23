@@ -119,7 +119,7 @@ public class KommyController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space) && !isAbilityActive) TryJump();
     }
 
-    private void StartAbility()
+private void StartAbility()
     {
         isAbilityActive = true;
         currentState = CharacterState.Ability;

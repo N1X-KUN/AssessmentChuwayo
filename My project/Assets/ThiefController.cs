@@ -31,6 +31,7 @@ public class ThiefController : MonoBehaviour
 
     private bool isDefeated = false;
     [HideInInspector] public bool isFlying = false; 
+    [HideInInspector] public bool isTumbling = false; // Allows WordManager to know he fell!
     
     private float groundY; 
     private float airY; 
@@ -165,14 +166,7 @@ public class ThiefController : MonoBehaviour
         wordManager.StopSpawning(); 
         isFlying = false;
 
-        // --- NEW: TRIGGER THIEF KNOCKDOWN DIALOGUE ---
-        DialogueManager dm = FindAnyObjectByType<DialogueManager>();
-        if (dm != null && dm.isTutorialMode && !dm.seenThiefKnockdown)
-        {
-            dm.PlayDialogue("ThiefKnockedTutorial");
-            dm.seenThiefKnockdown = true;
-        }
-
+        isTumbling = true; // Tell WordManager he fell!
         StartCoroutine(TumbleRoutine());
     }
 
@@ -201,6 +195,7 @@ public class ThiefController : MonoBehaviour
 
         yield return new WaitForSeconds(2.5f);
 
+        isTumbling = false; // Reset it!
         if (!isDefeated)
         {
             StartCoroutine(JetpackCycle());

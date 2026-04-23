@@ -61,12 +61,11 @@ public class LevelManager : MonoBehaviour
         if (kommy != null) kommy.StartGame();
         if (wordManager != null) wordManager.StartSpawning();
 
-        // --- NEW: TRIGGER PROGRESSION BAR DIALOGUE ---
+        // --- FIXED: Trigger Progression Bar Dialogue without the old checklist flag ---
         DialogueManager dm = FindAnyObjectByType<DialogueManager>();
-        if (dm != null && dm.isTutorialMode && !dm.seenCountdown)
+        if (dm != null && dm.isTutorialMode)
         {
             dm.PlayDialogue("IntroProgression");
-            dm.seenCountdown = true;
         }
     }
 
