@@ -77,9 +77,10 @@ public class DialogueManager : MonoBehaviour
     {
         if (!dialogueIsActive) return;
 
-        // NEW: Changed from KeyCode.Space to MouseButtonDown(1) which is Right-Click!
-        if (Input.GetMouseButtonDown(1))
+        // --- NEW: Changed to 0 for Left-Click! ---
+        if (Input.GetMouseButtonDown(0))
         {
+            // Don't let them left-click through the text if the end buttons are on screen!
             if (winNextLevelButton != null && winNextLevelButton.activeSelf) return;
             if (loseTryAgainButton != null && loseTryAgainButton.activeSelf) return;
 

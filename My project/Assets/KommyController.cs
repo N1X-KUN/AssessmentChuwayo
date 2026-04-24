@@ -71,6 +71,10 @@ public class KommyController : MonoBehaviour
         LevelManager lm = FindAnyObjectByType<LevelManager>();
         if (lm != null && !lm.gameIsActive) return; 
 
+        // --- NEW: HARD LOCK KEYBOARD IF DIALOGUE IS PLAYING ---
+        DialogueManager dm = FindAnyObjectByType<DialogueManager>();
+        if (dm != null && dm.dialogueIsActive) return; 
+
         if (!isAbilityActive)
         {
             if (currentCharge < maxCharge)

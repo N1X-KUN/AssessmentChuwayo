@@ -418,6 +418,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
   kommy: {fileID: 1061739193}
   isGroundLayer: 0
+  ignoreAbilitySlowdown: 0
   scrollSpeed: 4
 --- !u!212 &167369621
 SpriteRenderer:
@@ -735,6 +736,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
   kommy: {fileID: 1061739193}
   isGroundLayer: 0
+  ignoreAbilitySlowdown: 1
   scrollSpeed: 5
 --- !u!212 &188187095
 SpriteRenderer:
@@ -842,6 +844,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
   kommy: {fileID: 1061739193}
   isGroundLayer: 0
+  ignoreAbilitySlowdown: 0
   scrollSpeed: 3
 --- !u!212 &221214450
 SpriteRenderer:
@@ -1255,6 +1258,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
   kommy: {fileID: 1061739193}
   isGroundLayer: 0
+  ignoreAbilitySlowdown: 0
   scrollSpeed: 4
 --- !u!212 &371316777
 SpriteRenderer:
@@ -1362,6 +1366,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
   kommy: {fileID: 1061739193}
   isGroundLayer: 0
+  ignoreAbilitySlowdown: 0
   scrollSpeed: 3
 --- !u!212 &458154887
 SpriteRenderer:
@@ -1847,6 +1852,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
   kommy: {fileID: 1061739193}
   isGroundLayer: 0
+  ignoreAbilitySlowdown: 1
   scrollSpeed: 5
 --- !u!212 &588731382
 SpriteRenderer:
@@ -2274,15 +2280,10 @@ MonoBehaviour:
   rightAvatarAnim: {fileID: 882854593}
   typingSpeed: 0.03
   isTutorialMode: 1
-  seenCountdown: 0
-  seenFirstFood: 0
-  seenFirstPoison: 0
-  seenFirstPunch: 0
-  seenFirstAmmo: 0
-  seenThiefKnockdown: 0
   winNextLevelButton: {fileID: 1666808718}
   loseTryAgainButton: {fileID: 168869330}
   loseGiveUpButton: {fileID: 331706105}
+  dialogueIsActive: 0
 --- !u!4 &637138506
 Transform:
   m_ObjectHideFlags: 0
@@ -2843,9 +2844,9 @@ MonoBehaviour:
   bagAnimator: {fileID: 286543018}
   scoreText: {fileID: 764238600}
   currentScore: 0
-  tutorialPhase: 0
   isPlayerDizzy: 0
   onlySpawnTraps: 0
+  isControlledTutorialActive: 0
 --- !u!4 &847403068
 Transform:
   m_ObjectHideFlags: 0
@@ -2916,6 +2917,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
   kommy: {fileID: 1061739193}
   isGroundLayer: 0
+  ignoreAbilitySlowdown: 1
   scrollSpeed: 5
 --- !u!212 &855982928
 SpriteRenderer:
@@ -3098,6 +3100,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
   kommy: {fileID: 1061739193}
   isGroundLayer: 0
+  ignoreAbilitySlowdown: 1
   scrollSpeed: 5
 --- !u!212 &861229939
 SpriteRenderer:
@@ -3440,6 +3443,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
   kommy: {fileID: 1061739193}
   isGroundLayer: 0
+  ignoreAbilitySlowdown: 0
   scrollSpeed: 3
 --- !u!212 &904791082
 SpriteRenderer:
@@ -4378,6 +4382,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
   kommy: {fileID: 1061739193}
   isGroundLayer: 0
+  ignoreAbilitySlowdown: 0
   scrollSpeed: 3.5
 --- !u!212 &1157798828
 SpriteRenderer:
@@ -4919,6 +4924,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
   kommy: {fileID: 1061739193}
   isGroundLayer: 0
+  ignoreAbilitySlowdown: 0
   scrollSpeed: 3.5
 --- !u!212 &1331244170
 SpriteRenderer:
@@ -5136,6 +5142,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
   kommy: {fileID: 1061739193}
   isGroundLayer: 0
+  ignoreAbilitySlowdown: 0
   scrollSpeed: 4
 --- !u!212 &1449069120
 SpriteRenderer:
@@ -5491,6 +5498,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
   kommy: {fileID: 1061739193}
   isGroundLayer: 0
+  ignoreAbilitySlowdown: 1
   scrollSpeed: 5
 --- !u!212 &1518939632
 SpriteRenderer:
@@ -5598,6 +5606,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
   kommy: {fileID: 1061739193}
   isGroundLayer: 0
+  ignoreAbilitySlowdown: 0
   scrollSpeed: 3.5
 --- !u!212 &1546428114
 SpriteRenderer:
@@ -5803,6 +5812,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ScrollingBackground
   kommy: {fileID: 1061739193}
   isGroundLayer: 0
+  ignoreAbilitySlowdown: 1
   scrollSpeed: 5
 --- !u!212 &1576702164
 SpriteRenderer:
@@ -6520,6 +6530,7 @@ MonoBehaviour:
   catchDistance: 2.5
   tumblePenaltyDistance: 1
   isFlying: 0
+  isTumbling: 0
 --- !u!1 &1881927655
 GameObject:
   m_ObjectHideFlags: 0

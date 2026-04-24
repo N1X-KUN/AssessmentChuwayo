@@ -111,7 +111,13 @@ public class ThiefController : MonoBehaviour
             wordManager.StartSpawning(); 
             
             anim.Play("ThiefMove"); 
-            yield return new WaitForSeconds(runDuration);
+
+            // --- FIXED: Fast takeoff if in tutorial! ---
+            if (wordManager != null && wordManager.isControlledTutorialActive)
+                yield return new WaitForSeconds(0.5f); 
+            else
+                yield return new WaitForSeconds(runDuration);
+
             if (isDefeated) break; 
 
             wordManager.StopSpawning(); 
@@ -136,8 +142,18 @@ public class ThiefController : MonoBehaviour
             wordManager.StartSpawning(); 
             
             anim.Play("ThiefFlight");
-            yield return new WaitForSeconds(flyDuration);
-            if (isDefeated) break;
+
+            // --- FIXED: Hover infinitely until tutorial phase is over! ---
+            if (wordManager != null && wordManager.isControlledTutorialActive)
+            {
+                yield return new WaitUntil(() => !wordManager.isControlledTutorialActive || isTumbling);
+            }
+            else
+            {
+                yield return new WaitForSeconds(flyDuration);
+            }
+            
+            if (isDefeated || isTumbling) break;
 
             wordManager.StopSpawning(); 
             isFlying = false; 
@@ -193,9 +209,10 @@ public class ThiefController : MonoBehaviour
 
         if (kommy != null) kommy.TriggerHappyFace();
 
-        yield return new WaitForSeconds(2.5f);
+        // --- FIXED: Reduced from 2.5f to 0.5f so he doesn't awkwardly freeze! ---
+        yield return new WaitForSeconds(0.5f);
 
-        isTumbling = false; // Reset it!
+        isTumbling = false; 
         if (!isDefeated)
         {
             StartCoroutine(JetpackCycle());

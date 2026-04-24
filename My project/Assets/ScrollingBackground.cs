@@ -5,8 +5,11 @@ public class ScrollingBackground : MonoBehaviour
     public KommyController kommy; 
     
     [Header("Ground Settings")]
-    public bool isGroundLayer = false; // NEW: Check this box ONLY on your Grass/Ground pieces!
+    public bool isGroundLayer = false; 
     
+    [Header("Ability Settings")]
+    public bool ignoreAbilitySlowdown = false; // NEW: Check this for BG1 and BG5!
+
     public float scrollSpeed = 2f;
     private float repeatWidth;
     private Vector3 startPosition;
@@ -22,7 +25,6 @@ public class ScrollingBackground : MonoBehaviour
         LevelManager lm = FindAnyObjectByType<LevelManager>();
         if (lm != null && !lm.gameIsActive) return;
 
-        // NEW: If this is the ground, and Kommy is stunned, STOP moving!
         if (isGroundLayer && kommy != null && kommy.currentState == KommyController.CharacterState.Stunned)
         {
             return; 
@@ -33,7 +35,16 @@ public class ScrollingBackground : MonoBehaviour
                               kommy.currentState == KommyController.CharacterState.Jumping ||
                               kommy.currentState == KommyController.CharacterState.Ability)) 
         {
-            transform.Translate(Vector3.left * scrollSpeed * Time.deltaTime);
+            float currentSpeed = scrollSpeed;
+
+            // If the ultimate is active AND this isn't BG1/BG5, cut the speed exactly in half!
+            if (kommy.isAbilityActive && !ignoreAbilitySlowdown)
+            {
+                currentSpeed = scrollSpeed / 2f;
+            }
+
+            // Using unscaledDeltaTime gives us total control so Unity doesn't double-slow it
+            transform.Translate(Vector3.left * currentSpeed * Time.unscaledDeltaTime);
 
             if (transform.position.x < startPosition.x - repeatWidth)
             {

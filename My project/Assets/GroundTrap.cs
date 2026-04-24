@@ -12,7 +12,7 @@ public class GroundTrap : MonoBehaviour
     public float floorY = -3f; 
 
     [Header("Visual Effects")]
-    public GameObject poisonSplashPrefab; // <--- NEW: Drag your Poison Splash Prefab here in the Inspector!
+    public GameObject poisonSplashPrefab; 
 
     private KommyController kommy;
     private bool hasTriggered = false;
@@ -34,14 +34,16 @@ public class GroundTrap : MonoBehaviour
             transform.Translate(Vector3.down * fallSpeed * Time.deltaTime, Space.World);
             
             // Snap perfectly to floorY
-            if (transform.position.y < floorY)
+            if (transform.position.y <= floorY)
             {
                 transform.position = new Vector3(transform.position.x, floorY, transform.position.z);
             }
         }
-
-        // 2. Move left along the treadmill
-        transform.Translate(Vector3.left * moveSpeed * Time.deltaTime, Space.World);
+        else // <--- THIS 'ELSE' IS THE MAGIC FIX! --->
+        {
+            // 2. ONLY Move left along the treadmill AFTER it hits the ground!
+            transform.Translate(Vector3.left * moveSpeed * Time.deltaTime, Space.World);
+        }
 
         if (kommy == null || hasTriggered) return;
 
@@ -59,7 +61,6 @@ public class GroundTrap : MonoBehaviour
 
                     if (isPoisonTrap)
                     {
-                        // <--- NEW: Spawn the poison splash exactly where Kommy is! --->
                         if (poisonSplashPrefab != null)
                         {
                             Instantiate(poisonSplashPrefab, kommy.transform.position, Quaternion.identity);

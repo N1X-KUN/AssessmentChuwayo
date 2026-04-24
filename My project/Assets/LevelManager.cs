@@ -73,6 +73,9 @@ public class LevelManager : MonoBehaviour
     {
         if (!gameIsActive) return; 
 
+        // --- NEW: PAUSE TIMER DURING SCRIPTED TUTORIAL ---
+        if (wordManager != null && wordManager.isControlledTutorialActive) return;
+
         if (kommy != null && kommy.currentState != KommyController.CharacterState.Dead && kommy.currentState != KommyController.CharacterState.Victory)
         {
             timeElapsed += Time.deltaTime;

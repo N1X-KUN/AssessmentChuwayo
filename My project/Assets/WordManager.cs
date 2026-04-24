@@ -50,14 +50,16 @@ public class WordManager : MonoBehaviour
     public TMP_Text scoreText; 
     public int currentScore = 0;
 
-    [Header("Tutorial Sequencing")]
-    public int tutorialPhase = 0; // The strict phase tracker
+    [HideInInspector] public bool isPlayerDizzy = false; 
+    [HideInInspector] public bool onlySpawnTraps = false; 
+    
+    [HideInInspector] public bool isControlledTutorialActive = false; 
+    
+    // --- NEW: THE PADLOCK ---
+    [HideInInspector] public bool hasFinishedScriptedTutorial = false; 
 
     private List<FoodItem> activeFoods = new List<FoodItem>(); 
     private FoodItem targetedFood = null; 
-    
-    [HideInInspector] public bool isPlayerDizzy = false; 
-    [HideInInspector] public bool onlySpawnTraps = false; 
 
     void Start()
     {
@@ -67,69 +69,149 @@ public class WordManager : MonoBehaviour
         UpdateScoreUI();
     }
 
-    public void StartSpawning() { InvokeRepeating(nameof(SpawnFood), 0.5f, spawnRate); }
-    public void StopSpawning() { CancelInvoke(nameof(SpawnFood)); }
+    public void StartSpawning() 
+    { 
+        DialogueManager dm = FindAnyObjectByType<DialogueManager>();
+        
+        // 1. If we are in Tutorial Mode AND haven't finished the strict script yet...
+        if (dm != null && dm.isTutorialMode && !hasFinishedScriptedTutorial)
+        {
+            // Only start the coroutine ONCE! Ignore the Thief if he asks again!
+            if (!isControlledTutorialActive)
+            {
+                StartCoroutine(MasterTutorialSequence(dm));
+            }
+        }
+        // 2. Otherwise, play the normal game logic!
+        else
+        {
+            if (!IsInvoking(nameof(SpawnFood))) // Prevent double spawning
+            {
+                InvokeRepeating(nameof(SpawnFood), 0.5f, spawnRate); 
+            }
+        }
+    }
+    
+    public void StopSpawning() 
+    { 
+        // --- NEW: Ignore the Thief's commands to stop spawning while the tutorial is running! ---
+        if (isControlledTutorialActive) return; 
+
+        CancelInvoke(nameof(SpawnFood)); 
+    }
+
+    // --- THE PERFECTED PACING SEQUENCE ---
+    private IEnumerator MasterTutorialSequence(DialogueManager dm)
+    {
+        isControlledTutorialActive = true; 
+        ThiefController thief = FindAnyObjectByType<ThiefController>();
+
+        yield return new WaitUntil(() => !dm.dialogueIsActive);
+        yield return new WaitForSeconds(1.0f);
+
+        // 1. POISON TRAP
+        SpawnSpecificTrap(0); 
+        yield return new WaitForSeconds(0.5f); 
+        dm.PlayDialogue("PoisonTutorial");
+        yield return new WaitUntil(() => !dm.dialogueIsActive);
+        yield return new WaitUntil(() => FindAnyObjectByType<GroundTrap>() == null);
+
+        // 2. PUNCH TRAP 
+        yield return new WaitForSeconds(1.0f);
+        SpawnSpecificTrap(1); 
+        yield return new WaitForSeconds(0.5f); 
+        dm.PlayDialogue("PunchTutorial");
+        yield return new WaitUntil(() => !dm.dialogueIsActive);
+        yield return new WaitUntil(() => FindAnyObjectByType<GroundTrap>() == null);
+
+        // 3. FOOD
+        yield return new WaitForSeconds(1.0f);
+        SpawnSpecificFood();
+        yield return new WaitForSeconds(0.8f);
+        dm.PlayDialogue("FoodTutorial");
+        yield return new WaitUntil(() => !dm.dialogueIsActive);
+
+        // 4. WAIT FOR AMMO
+        while (ammoBackpack.Count == 0)
+        {
+            if (activeFoods.Count == 0 && FindAnyObjectByType<FoodItem>() == null) SpawnSpecificFood();
+            yield return null;
+        }
+        yield return new WaitForSeconds(0.6f);
+        dm.PlayDialogue("AmmoTutorial");
+        yield return new WaitUntil(() => !dm.dialogueIsActive);
+
+        // 5. WAIT FOR THIEF KNOCKDOWN
+        yield return new WaitUntil(() => thief != null && thief.isTumbling);
+        yield return new WaitForSeconds(0.5f);
+        dm.PlayDialogue("ThiefKnockedTutorial");
+        yield return new WaitUntil(() => !dm.dialogueIsActive);
+
+        // 6. DELAY 1.5 SECONDS -> ABILITY READY
+        yield return new WaitForSeconds(1.5f); 
+        kommy.currentCharge = kommy.maxCharge;
+        kommy.UpdateUI();
+        dm.PlayDialogue("AbilityReady");
+        yield return new WaitUntil(() => !dm.dialogueIsActive);
+
+        // 7. WAIT FOR ABILITY TO ACTIVATE THEN DEACTIVATE
+        yield return new WaitUntil(() => kommy.isAbilityActive);
+        yield return new WaitUntil(() => !kommy.isAbilityActive);
+        
+        // 8. ABILITY DONE
+        dm.PlayDialogue("AbilityDone");
+        yield return new WaitUntil(() => !dm.dialogueIsActive);
+
+        // 9. ENTER "TUTORIAL NORMAL" PHASE
+        isControlledTutorialActive = false; 
+        hasFinishedScriptedTutorial = true; // --- NEW: Locks the sequence from ever repeating! ---
+        
+        InvokeRepeating(nameof(SpawnFood), 0.5f, spawnRate);
+    }
+
+// --- NEW: Gets the exact position slightly below the Thief! ---
+    private Vector3 GetDropPosition()
+    {
+        ThiefController thief = FindAnyObjectByType<ThiefController>();
+        if (thief != null)
+        {
+            return thief.transform.position + new Vector3(0, -0.5f, 0); 
+        }
+        return spawnPoint.position; // Fallback just in case
+    }
+
+    private void SpawnSpecificTrap(int index)
+    {
+        if (physicalTrapPrefabs.Length > index)
+        {
+            GameObject newTrapObj = Instantiate(physicalTrapPrefabs[index], GetDropPosition(), Quaternion.identity);
+            GroundTrap trapScript = newTrapObj.GetComponent<GroundTrap>();
+            if (trapScript != null) trapScript.SetupTrap(kommy);
+        }
+    }
+
+    private void SpawnSpecificFood()
+    {
+        if (allFoods.Count > 0)
+        {
+            FoodEntry chosenEntry = allFoods[0];
+            GameObject newFoodObj = Instantiate(foodPrefab, GetDropPosition(), Quaternion.identity);
+            FoodItem newFood = newFoodObj.GetComponent<FoodItem>();
+            newFood.SetupFood(chosenEntry.word, chosenEntry.foodSprite, this, false);
+            activeFoods.Add(newFood);
+        }
+    }
 
     void SpawnFood()
     {
-        DialogueManager dm = FindAnyObjectByType<DialogueManager>();
-        bool isTutorial = dm != null && dm.isTutorialMode;
+        if (isControlledTutorialActive) return; 
 
-        // --- NEW: THE SCRIPTED TUTORIAL SEQUENCE ---
-        if (isTutorial && tutorialPhase < 7)
-        {
-            // PACING: Wait until the screen is completely clear of traps before spawning the next step!
-            if (FindAnyObjectByType<GroundTrap>() != null) return; 
-
-            if (tutorialPhase == 0 && canDropPhysicalTraps && physicalTrapPrefabs.Length > 0)
-            {
-                GameObject newTrapObj = Instantiate(physicalTrapPrefabs[0], spawnPoint.position, Quaternion.identity); // MUST BE POISON
-                GroundTrap trapScript = newTrapObj.GetComponent<GroundTrap>();
-                if (trapScript != null) trapScript.SetupTrap(kommy);
-                StartCoroutine(DelayedTrapDialogue(true));
-                tutorialPhase = 1;
-                return;
-            }
-            else if (tutorialPhase == 1 && canDropPhysicalTraps && physicalTrapPrefabs.Length > 1)
-            {
-                GameObject newTrapObj = Instantiate(physicalTrapPrefabs[1], spawnPoint.position, Quaternion.identity); // MUST BE PUNCH
-                GroundTrap trapScript = newTrapObj.GetComponent<GroundTrap>();
-                if (trapScript != null) trapScript.SetupTrap(kommy);
-                StartCoroutine(DelayedTrapDialogue(false));
-                tutorialPhase = 2;
-                return;
-            }
-            else if (tutorialPhase == 2 && !onlySpawnTraps)
-            {
-                FoodEntry chosenEntry = allFoods[0];
-                GameObject newFoodObj = Instantiate(foodPrefab, spawnPoint.position, Quaternion.identity);
-                FoodItem newFood = newFoodObj.GetComponent<FoodItem>();
-                newFood.SetupFood(chosenEntry.word, chosenEntry.foodSprite, this, false);
-                activeFoods.Add(newFood); 
-                StartCoroutine(DelayedFoodDialogue());
-                tutorialPhase = 3;
-                return;
-            }
-            else if (tutorialPhase == 3 && !onlySpawnTraps && FindAnyObjectByType<FoodItem>() == null)
-            {
-                // If they missed the first food, drop another one so they don't get softlocked!
-                FoodEntry chosenEntry = allFoods[0];
-                GameObject newFoodObj = Instantiate(foodPrefab, spawnPoint.position, Quaternion.identity);
-                FoodItem newFood = newFoodObj.GetComponent<FoodItem>();
-                newFood.SetupFood(chosenEntry.word, chosenEntry.foodSprite, this, false);
-                activeFoods.Add(newFood); 
-                return;
-            }
-            return; // Block all random default logic until tutorial is over!
-        }
-
-        // --- DEFAULT NORMAL SPAWNING LOGIC (HAPPENS AFTER PHASE 7 OR IF TUTORIAL IS OFF) ---
         if (canDropPhysicalTraps && physicalTrapPrefabs.Length > 0 && trapCooldownTimer <= 0f)
         {
             if (Random.Range(0f, 100f) <= physicalTrapChance)
             {
                 int randomTrapIndex = Random.Range(0, physicalTrapPrefabs.Length);
-                GameObject newTrapObj = Instantiate(physicalTrapPrefabs[randomTrapIndex], spawnPoint.position, Quaternion.identity);
+                GameObject newTrapObj = Instantiate(physicalTrapPrefabs[randomTrapIndex], GetDropPosition(), Quaternion.identity);
                 GroundTrap trapScript = newTrapObj.GetComponent<GroundTrap>();
                 if (trapScript != null) trapScript.SetupTrap(kommy);
                 trapCooldownTimer = 2.0f; 
@@ -145,7 +227,7 @@ public class WordManager : MonoBehaviour
             int randomIndex = Random.Range(0, allFoods.Count);
             FoodEntry chosenEntry = allFoods[randomIndex];
 
-            GameObject newFoodObj = Instantiate(foodPrefab, spawnPoint.position, Quaternion.identity);
+            GameObject newFoodObj = Instantiate(foodPrefab, GetDropPosition(), Quaternion.identity);
             FoodItem newFood = newFoodObj.GetComponent<FoodItem>();
             newFood.SetupFood(chosenEntry.word, chosenEntry.foodSprite, this, droppingRotten);
             activeFoods.Add(newFood); 
@@ -164,6 +246,9 @@ public class WordManager : MonoBehaviour
 
         LevelManager lm = FindAnyObjectByType<LevelManager>();
         if (lm != null && !lm.gameIsActive) return;
+
+        DialogueManager dm = FindAnyObjectByType<DialogueManager>();
+        if (dm != null && dm.dialogueIsActive) return;
 
         if (Input.GetKeyDown(KeyCode.Backspace))
         {
@@ -190,13 +275,6 @@ public class WordManager : MonoBehaviour
                 
                 GameObject proj = Instantiate(playerProjectilePrefab, kommy.transform.position + Vector3.up, Quaternion.identity);
                 proj.GetComponent<PlayerProjectile>().Setup(ammoToThrow);
-
-                // --- TUTORIAL: ADVANCE TO ABILITY ON THROW ---
-                if (tutorialPhase == 4)
-                {
-                    tutorialPhase = 5;
-                    StartCoroutine(MaxAbilityRoutine());
-                }
             }
         }
 
@@ -250,13 +328,6 @@ public class WordManager : MonoBehaviour
                         ammoBackpack.Add(targetedFood.GetComponent<SpriteRenderer>().sprite);
                         targetedFood.VanishOnSuccess(); 
                         UpdateAmmoUI(); 
-
-                        DialogueManager dmAmmo = FindAnyObjectByType<DialogueManager>();
-                        if (dmAmmo != null && dmAmmo.isTutorialMode && tutorialPhase == 3)
-                        {
-                            StartCoroutine(DelayedAmmoDialogue());
-                            tutorialPhase = 4;
-                        }
                     }
                     else 
                     {
@@ -338,41 +409,5 @@ public class WordManager : MonoBehaviour
     public void UpdateScoreUI()
     {
         if (scoreText != null) scoreText.text = currentScore + "\nPOINTS";
-    }
-
-    // --- TUTORIAL DELAYS ---
-    private IEnumerator DelayedTrapDialogue(bool isPoison)
-    {
-        yield return new WaitForSeconds(1.2f); 
-        DialogueManager dmTrap = FindAnyObjectByType<DialogueManager>();
-        if (dmTrap != null && dmTrap.isTutorialMode)
-        {
-            if (isPoison) dmTrap.PlayDialogue("PoisonTutorial");
-            else dmTrap.PlayDialogue("PunchTutorial");
-        }
-    }
-
-    private IEnumerator DelayedFoodDialogue()
-    {
-        yield return new WaitForSeconds(0.8f); 
-        DialogueManager dmFood = FindAnyObjectByType<DialogueManager>();
-        if (dmFood != null && dmFood.isTutorialMode) dmFood.PlayDialogue("FoodTutorial");
-    }
-
-    private IEnumerator DelayedAmmoDialogue()
-    {
-        yield return new WaitForSeconds(0.6f); 
-        DialogueManager dmAmmo = FindAnyObjectByType<DialogueManager>();
-        if (dmAmmo != null && dmAmmo.isTutorialMode) dmAmmo.PlayDialogue("AmmoTutorial");
-    }
-
-    private IEnumerator MaxAbilityRoutine()
-    {
-        yield return new WaitForSeconds(1.0f); // Give the thrown item time to hit!
-        kommy.currentCharge = kommy.maxCharge;
-        kommy.UpdateUI();
-        
-        DialogueManager dm = FindAnyObjectByType<DialogueManager>();
-        if (dm != null && dm.isTutorialMode) dm.PlayDialogue("AbilityReady");
     }
 }
