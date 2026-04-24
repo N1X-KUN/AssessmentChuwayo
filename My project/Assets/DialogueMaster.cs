@@ -41,7 +41,6 @@ public class DialogueManager : MonoBehaviour
 
     [Header("Tutorial Mode Flags (The Checklist)")]
     public bool isTutorialMode = true; 
-    // We don't need the other booleans anymore because the Master Sequence handles it!
 
     [Header("End Game Buttons")]
     public GameObject winNextLevelButton; 
@@ -77,10 +76,8 @@ public class DialogueManager : MonoBehaviour
     {
         if (!dialogueIsActive) return;
 
-        // --- NEW: Changed to 0 for Left-Click! ---
         if (Input.GetMouseButtonDown(0))
         {
-            // Don't let them left-click through the text if the end buttons are on screen!
             if (winNextLevelButton != null && winNextLevelButton.activeSelf) return;
             if (loseTryAgainButton != null && loseTryAgainButton.activeSelf) return;
 
@@ -110,6 +107,10 @@ public class DialogueManager : MonoBehaviour
                 currentLineIndex = 0;
                 
                 Time.timeScale = 0f; 
+
+                // --- NEW: AUDIO TRIGGER (Muffle Music ON) ---
+                if (AudioManager.instance != null) AudioManager.instance.MuffleMusic(true);
+
                 PlayLine(currentLineIndex);
                 return;
             }
@@ -118,6 +119,9 @@ public class DialogueManager : MonoBehaviour
 
     private void PlayLine(int index)
     {
+        // --- NEW: AUDIO TRIGGER (Dialogue Pop Sound) ---
+        if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop);
+
         DialogueLine line = currentSequence.lines[index];
         leftBox.SetActive(false);
         rightBox.SetActive(false);
@@ -203,6 +207,10 @@ public class DialogueManager : MonoBehaviour
         dialogueOverlay.SetActive(false);
         leftBox.SetActive(false);
         rightBox.SetActive(false);
+
+        // --- NEW: AUDIO TRIGGER (Muffle Music OFF) ---
+        if (AudioManager.instance != null) AudioManager.instance.MuffleMusic(false);
+
         Time.timeScale = 1f; 
     }
 

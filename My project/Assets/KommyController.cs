@@ -29,6 +29,11 @@ public class KommyController : MonoBehaviour
     public float slowMotionSpeed = 0.4f; 
     public bool isAbilityActive = false;
     
+    // --- NEW: Audio Sync Setting ---
+    [Tooltip("How many seconds early should the sound play to skip the silence?")]
+    public float endSoundPrecastTime = 1.5f; 
+    private bool hasPlayedEndSound = false;
+    
     [Header("Ultimate Screen Effects")]
     public GameObject zawarudoIcon;     
     public GameObject zawarudoOverlay;  
@@ -71,7 +76,6 @@ public class KommyController : MonoBehaviour
         LevelManager lm = FindAnyObjectByType<LevelManager>();
         if (lm != null && !lm.gameIsActive) return; 
 
-        // --- NEW: HARD LOCK KEYBOARD IF DIALOGUE IS PLAYING ---
         DialogueManager dm = FindAnyObjectByType<DialogueManager>();
         if (dm != null && dm.dialogueIsActive) return; 
 
@@ -80,6 +84,12 @@ public class KommyController : MonoBehaviour
             if (currentCharge < maxCharge)
             {
                 currentCharge += passiveChargeRate * Time.deltaTime;
+                
+                if (currentCharge >= maxCharge)
+                {
+                    if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.abilityReady);
+                }
+
                 if (abilityFillImage != null) abilityFillImage.color = chargingColor;
                 if (abilityBarRect != null) abilityBarRect.localScale = Vector3.one; 
             }
@@ -90,8 +100,8 @@ public class KommyController : MonoBehaviour
                 
                 if (abilityBarRect != null)
                 {
-                    float scale = 1f + Mathf.PingPong(Time.time * pulseSpeed, pulseAmount);
-                    abilityBarRect.localScale = new Vector3(scale, scale, 1f);
+                    float angle = Mathf.Sin(Time.time * pulseSpeed) * pulseAmount; 
+                    abilityBarRect.localRotation = Quaternion.Euler(0, 0, angle);
                 }
             }
             UpdateUI();
@@ -106,6 +116,13 @@ public class KommyController : MonoBehaviour
         {
             currentCharge -= drainRate * Time.unscaledDeltaTime; 
             UpdateUI();
+
+            // --- NEW: Pre-Cast the end sound so it lines up perfectly! ---
+            if (currentCharge <= (drainRate * endSoundPrecastTime) && !hasPlayedEndSound)
+            {
+                if (AudioManager.instance != null) AudioManager.instance.PlaySFX(AudioManager.instance.timeSoundEnd);
+                hasPlayedEndSound = true;
+            }
 
             if (currentCharge <= 0f) StopAbility();
         }
@@ -123,11 +140,17 @@ public class KommyController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space) && !isAbilityActive) TryJump();
     }
 
-private void StartAbility()
+    private void StartAbility()
     {
         isAbilityActive = true;
+        hasPlayedEndSound = false; // Reset the audio safety lock!
         currentState = CharacterState.Ability;
-        if (abilityBarRect != null) abilityBarRect.localScale = Vector3.one; 
+        
+        if (abilityBarRect != null) 
+        {
+            abilityBarRect.localScale = Vector3.one; 
+            abilityBarRect.localRotation = Quaternion.identity; 
+        }
         
         if (zawarudoIcon != null) zawarudoIcon.SetActive(true); 
         if (zawarudoOverlay != null) zawarudoOverlay.SetActive(true); 
@@ -137,6 +160,12 @@ private void StartAbility()
         {
             wm.isPlayerDizzy = false;
             if (wm.dizzyAnimator != null) wm.dizzyAnimator.gameObject.SetActive(false);
+        }
+
+        if (AudioManager.instance != null)
+        {
+            AudioManager.instance.PlaySFX(AudioManager.instance.timeSoundStart);
+            AudioManager.instance.SetUnderwaterMusic(true);
         }
 
         Time.timeScale = slowMotionSpeed; 
@@ -153,6 +182,14 @@ private void StartAbility()
         
         if (zawarudoIcon != null) zawarudoIcon.SetActive(false); 
         if (zawarudoOverlay != null) zawarudoOverlay.SetActive(false); 
+
+        if (AudioManager.instance != null)
+        {
+            // Just in case they set Precast to 0, this catches it!
+            if (!hasPlayedEndSound) AudioManager.instance.PlaySFX(AudioManager.instance.timeSoundEnd);
+            
+            AudioManager.instance.SetUnderwaterMusic(false);
+        }
 
         currentState = CharacterState.Running;
         PlayAnimation("KommyMove");
@@ -171,14 +208,25 @@ private void StartAbility()
             wm.isPlayerDizzy = false;
             if (wm.dizzyAnimator != null) wm.dizzyAnimator.gameObject.SetActive(false);
         }
+
+        if (AudioManager.instance != null) AudioManager.instance.SetUnderwaterMusic(false);
     }
 
     public void AddAttackBonusCharge()
     {
         if (!isAbilityActive && currentState != CharacterState.Dead && currentState != CharacterState.Victory)
         {
+            float oldCharge = currentCharge; 
             currentCharge += 10f; 
-            if (currentCharge > maxCharge) currentCharge = maxCharge;
+            
+            if (currentCharge >= maxCharge) 
+            {
+                currentCharge = maxCharge;
+                if (oldCharge < maxCharge && AudioManager.instance != null) 
+                {
+                    AudioManager.instance.PlayUI(AudioManager.instance.abilityReady);
+                }
+            }
             UpdateUI();
         }
     }
@@ -223,6 +271,8 @@ private void StartAbility()
     {
         if (currentState == CharacterState.Stunned || currentState == CharacterState.Dead || currentState == CharacterState.Victory || isAbilityActive) return;
 
+        if (AudioManager.instance != null) AudioManager.instance.PlaySFX(AudioManager.instance.bonkSound);
+
         ThiefController thief = FindAnyObjectByType<ThiefController>();
         if (thief != null) 
         {
@@ -264,9 +314,8 @@ private void StartAbility()
         ForceClearAllEffects(); 
         PlayAnimation("KommyVictory"); 
         
-        // --- NEW: TUTORIAL WIN TRIGGER ---
         DialogueManager dm = FindAnyObjectByType<DialogueManager>();
-        if (dm != null && dm.isTutorialMode) dm.PlayDialogue("TutorialWin");
+        if (dm != null) dm.PlayDialogue("TutorialWin");
         
         StartCoroutine(FreezeWorldRoutine());
     }
@@ -278,9 +327,8 @@ private void StartAbility()
         ForceClearAllEffects(); 
         PlayAnimation("KommyDie");
         
-        // --- NEW: TUTORIAL LOSE TRIGGER ---
         DialogueManager dm = FindAnyObjectByType<DialogueManager>();
-        if (dm != null && dm.isTutorialMode) dm.PlayDialogue("TutorialLose");
+        if (dm != null) dm.PlayDialogue("TutorialLose");
         
         StartCoroutine(FreezeWorldRoutine());
     }
@@ -298,6 +346,8 @@ private void StartAbility()
     {
         currentState = CharacterState.Jumping;
         PlayAnimation("KommyJump"); 
+
+        if (AudioManager.instance != null) AudioManager.instance.PlaySFX(AudioManager.instance.kommyJump);
 
         float halfTime = jumpDuration / 2f;
         float elapsed = 0f;
@@ -347,6 +397,7 @@ private void StartAbility()
 
     public void TriggerHappyFace()
     {
+        if (AudioManager.instance != null) AudioManager.instance.PlaySFX(AudioManager.instance.kommyKnockdownVoice);
         StartCoroutine(HappyFaceRoutine());
     }
 

@@ -55,7 +55,6 @@ public class WordManager : MonoBehaviour
     
     [HideInInspector] public bool isControlledTutorialActive = false; 
     
-    // --- NEW: THE PADLOCK ---
     [HideInInspector] public bool hasFinishedScriptedTutorial = false; 
 
     private List<FoodItem> activeFoods = new List<FoodItem>(); 
@@ -73,19 +72,16 @@ public class WordManager : MonoBehaviour
     { 
         DialogueManager dm = FindAnyObjectByType<DialogueManager>();
         
-        // 1. If we are in Tutorial Mode AND haven't finished the strict script yet...
         if (dm != null && dm.isTutorialMode && !hasFinishedScriptedTutorial)
         {
-            // Only start the coroutine ONCE! Ignore the Thief if he asks again!
             if (!isControlledTutorialActive)
             {
                 StartCoroutine(MasterTutorialSequence(dm));
             }
         }
-        // 2. Otherwise, play the normal game logic!
         else
         {
-            if (!IsInvoking(nameof(SpawnFood))) // Prevent double spawning
+            if (!IsInvoking(nameof(SpawnFood))) 
             {
                 InvokeRepeating(nameof(SpawnFood), 0.5f, spawnRate); 
             }
@@ -94,13 +90,11 @@ public class WordManager : MonoBehaviour
     
     public void StopSpawning() 
     { 
-        // --- NEW: Ignore the Thief's commands to stop spawning while the tutorial is running! ---
         if (isControlledTutorialActive) return; 
 
         CancelInvoke(nameof(SpawnFood)); 
     }
 
-    // --- THE PERFECTED PACING SEQUENCE ---
     private IEnumerator MasterTutorialSequence(DialogueManager dm)
     {
         isControlledTutorialActive = true; 
@@ -164,12 +158,11 @@ public class WordManager : MonoBehaviour
 
         // 9. ENTER "TUTORIAL NORMAL" PHASE
         isControlledTutorialActive = false; 
-        hasFinishedScriptedTutorial = true; // --- NEW: Locks the sequence from ever repeating! ---
+        hasFinishedScriptedTutorial = true; 
         
         InvokeRepeating(nameof(SpawnFood), 0.5f, spawnRate);
     }
 
-// --- NEW: Gets the exact position slightly below the Thief! ---
     private Vector3 GetDropPosition()
     {
         ThiefController thief = FindAnyObjectByType<ThiefController>();
@@ -177,7 +170,7 @@ public class WordManager : MonoBehaviour
         {
             return thief.transform.position + new Vector3(0, -0.5f, 0); 
         }
-        return spawnPoint.position; // Fallback just in case
+        return spawnPoint.position; 
     }
 
     private void SpawnSpecificTrap(int index)
@@ -320,6 +313,10 @@ public class WordManager : MonoBehaviour
                 {
                     int pointsEarned = targetedFood.originalWord.Length * 2;
                     currentScore += pointsEarned;
+
+                    // --- NEW: AUDIO TRIGGER (Score Up Sound) ---
+                    if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.scoreUp);
+
                     UpdateScoreUI();
                     activeFoods.Remove(targetedFood);
                     
@@ -370,6 +367,10 @@ public class WordManager : MonoBehaviour
     private IEnumerator TriggerDizzyEffect()
     {
         isPlayerDizzy = true; 
+
+        // --- NEW: AUDIO TRIGGER (Poison Overlay Sound) ---
+        if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.poisonOverlay);
+
         if (dizzyAnimator != null) {
             dizzyAnimator.gameObject.SetActive(true);
             yield return StartCoroutine(dizzyAnimator.PlayPoisonIntro()); 
