@@ -3973,7 +3973,7 @@ MonoBehaviour:
   drainRate: 20
   slowMotionSpeed: 0.4
   isAbilityActive: 0
-  endSoundPrecastTime: 1
+  endSoundPrecastTime: 3
   zawarudoIcon: {fileID: 1450942226}
   zawarudoOverlay: {fileID: 1568098522}
   hpSlider: {fileID: 19087716}
@@ -6973,8 +6973,8 @@ MonoBehaviour:
   sfxSource: {fileID: 1897290280}
   uiSource: {fileID: 1897290281}
   defaultMusicVolume: 0.05
-  defaultSfxVolume: 0.5
-  defaultUiVolume: 0.5
+  defaultSfxVolume: 0.2
+  defaultUiVolume: 0.2
   levelMusic: {fileID: 8300000, guid: 872f8df9ccfca554798e36996f8ee909, type: 3}
   buttonClick: {fileID: 8300000, guid: 52ac641944d6c4742badfe437cfe1794, type: 3}
   abilityReady: {fileID: 8300000, guid: 333235af3aa3f9f4e896827c736db697, type: 3}

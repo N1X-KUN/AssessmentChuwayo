@@ -11,7 +11,7 @@ public class AudioManager : MonoBehaviour
     public AudioSource uiSource;  
 
     [Header("Volume Settings (Adjust these in Inspector!)")]
-    [Range(0f, 1f)] public float defaultMusicVolume = 0.15f; // Set to 15% by default!
+    [Range(0f, 1f)] public float defaultMusicVolume = 0.15f; 
     [Range(0f, 1f)] public float defaultSfxVolume = 0.5f;
     [Range(0f, 1f)] public float defaultUiVolume = 0.5f;
 
@@ -40,21 +40,19 @@ public class AudioManager : MonoBehaviour
     public AudioClip dialoguePop;
 
     private AudioLowPassFilter underwaterFilter; 
+    private bool isMuffled = false;
 
     void Awake()
     {
         if (instance == null) { instance = this; }
         else { Destroy(gameObject); return; }
-    }
 
-    void Start()
-    {
-        // Now it uses your Inspector sliders!
-        musicSource.volume = defaultMusicVolume;
-        uiSource.volume = defaultUiVolume;
-        sfxSource.volume = defaultSfxVolume;
+        // MOVED TO AWAKE: Guarantees volume is set BEFORE DialogueManager asks for it!
+        if (musicSource != null) musicSource.volume = defaultMusicVolume;
+        if (uiSource != null) uiSource.volume = defaultUiVolume;
+        if (sfxSource != null) sfxSource.volume = defaultSfxVolume;
 
-        if (levelMusic != null) 
+        if (levelMusic != null && musicSource != null) 
         {
             musicSource.clip = levelMusic;
             musicSource.loop = true;
@@ -69,8 +67,19 @@ public class AudioManager : MonoBehaviour
         }
     }
 
-    public void PlaySFX(AudioClip clip) { if (clip != null) sfxSource.PlayOneShot(clip); }
-    public void PlayUI(AudioClip clip) { if (clip != null) uiSource.PlayOneShot(clip); }
+    // NEW: Updates the volume LIVE while you drag the slider during play mode!
+    void OnValidate()
+    {
+        if (Application.isPlaying)
+        {
+            if (musicSource != null && !isMuffled) musicSource.volume = defaultMusicVolume;
+            if (uiSource != null) uiSource.volume = defaultUiVolume;
+            if (sfxSource != null) sfxSource.volume = defaultSfxVolume;
+        }
+    }
+
+    public void PlaySFX(AudioClip clip) { if (clip != null && sfxSource != null) sfxSource.PlayOneShot(clip); }
+    public void PlayUI(AudioClip clip) { if (clip != null && uiSource != null) uiSource.PlayOneShot(clip); }
 
     public void SetUnderwaterMusic(bool isUnderwater)
     {
@@ -83,14 +92,16 @@ public class AudioManager : MonoBehaviour
 
     public void MuffleMusic(bool muffle)
     {
+        isMuffled = muffle;
         StopAllCoroutines();
-        // If muffling, drop to 30% of your chosen volume. Otherwise, return to your chosen volume.
         float target = muffle ? (defaultMusicVolume * 0.3f) : defaultMusicVolume;
-        StartCoroutine(FadeMusic(target)); 
+        if (gameObject.activeInHierarchy) StartCoroutine(FadeMusic(target)); 
     }
 
     private IEnumerator FadeMusic(float targetVolume)
     {
+        if (musicSource == null) yield break;
+
         float startVol = musicSource.volume;
         float elapsed = 0f;
         while(elapsed < 0.2f) 
