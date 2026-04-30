@@ -1,5 +1,6 @@
 using UnityEngine;
-using UnityEngine.InputSystem; // This forces Unity to use the New Input System directly
+using UnityEngine.InputSystem; 
+using UnityEngine.EventSystems; // Add this secret library!
 
 public class MenuClickOverride : MonoBehaviour
 {
@@ -11,16 +12,15 @@ public class MenuClickOverride : MonoBehaviour
 
     void Update()
     {
-        // 1. Check if the physical mouse was clicked this exact frame
+        // NEW LINE: If the mouse is hovering over ANY UI panel/box, STOP checking for clicks!
+        if (EventSystem.current.IsPointerOverGameObject()) return;
+
         if (Mouse.current != null && Mouse.current.leftButton.wasPressedThisFrame)
         {
-            // 2. Get the exact pixel coordinate of your mouse pointer
             Vector2 mousePos = Mouse.current.position.ReadValue();
 
-            // 3. Check if that pointer is inside your red box
             if (RectTransformUtility.RectangleContainsScreenPoint(headHitbox, mousePos, null))
             {
-                // 4. Force the bonk!
                 kommyScript.OnCharacterClicked();
             }
         }
