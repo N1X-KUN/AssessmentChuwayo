@@ -34,12 +34,23 @@ public class MainMenuManager : MonoBehaviour
         }
     }
 
-    // --- POP-UP NAVIGATION FUNCTIONS ---
+// --- POP-UP NAVIGATION FUNCTIONS ---
     public void PlayGame()
     {
+        // 1. Check the hard drive: Has the player beaten the tutorial? (0 = no, 1 = yes)
         int hasPlayed = PlayerPrefs.GetInt("HasFinishedTutorial", 0);
-        if (hasPlayed == 0) SceneManager.LoadScene("TutorialLevel");
-        else SceneManager.LoadScene("MapScene");
+
+        // 2. Route them using the new Loading Manager!
+        if (hasPlayed == 0) 
+        {
+            // First time playing (or reset)! Send them to the Tutorial.
+            LoadingManager.Instance.LoadNewScene("TutorialLevel");
+        }
+        else 
+        {
+            // They already beat the tutorial! Send them straight to the Map.
+            LoadingManager.Instance.LoadNewScene("MapScene");
+        }
     }
 
     public void OpenSettings() { dimBackground.SetActive(true); settingsPanel.SetActive(true); }
