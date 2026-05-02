@@ -166,10 +166,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 10816
-        width: 4609
+        width: 1536
         height: 1302
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -191,7 +191,7 @@ TextureImporter:
         width: 1538
         height: 1303
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -213,7 +213,7 @@ TextureImporter:
         width: 1537
         height: 1312
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -235,7 +235,7 @@ TextureImporter:
         width: 1537
         height: 1319
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -257,7 +257,7 @@ TextureImporter:
         width: 1538
         height: 1324
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -274,12 +274,12 @@ TextureImporter:
       name: Groggy-sprite_5
       rect:
         serializedVersion: 2
-        x: 2938
+        x: 3072
         y: 9289
-        width: 1671
+        width: 1537
         height: 1328
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -296,12 +296,12 @@ TextureImporter:
       name: Groggy-sprite_6
       rect:
         serializedVersion: 2
-        x: 4529
+        x: 4609
         y: 9289
-        width: 1616
+        width: 1536
         height: 1332
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -318,12 +318,12 @@ TextureImporter:
       name: Groggy-sprite_7
       rect:
         serializedVersion: 2
-        x: 6081
+        x: 6145
         y: 9289
-        width: 1599
+        width: 1535
         height: 1334
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -341,11 +341,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 7753
-        width: 1537
+        y: 7755
+        width: 1536
         height: 1337
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,12 +362,12 @@ TextureImporter:
       name: Groggy-sprite_9
       rect:
         serializedVersion: 2
-        x: 1525
+        x: 1536
         y: 7753
-        width: 1548
+        width: 1537
         height: 1338
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -389,7 +389,7 @@ TextureImporter:
         width: 1538
         height: 1337
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -408,10 +408,10 @@ TextureImporter:
         serializedVersion: 2
         x: 4607
         y: 7753
-        width: 3073
+        width: 1538
         height: 1334
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -430,10 +430,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 6217
-        width: 7680
+        width: 1529
         height: 1320
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -452,10 +452,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 4636
-        width: 7680
+        width: 1538
         height: 1284
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -477,7 +477,7 @@ TextureImporter:
         width: 7680
         height: 1277
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -496,10 +496,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 1547
-        width: 7680
+        width: 1537
         height: 1312
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -521,7 +521,7 @@ TextureImporter:
         width: 1537
         height: 1264
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -534,11 +534,341 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Groggy-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 10789
+        width: 1534
+        height: 1404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa300487ac5c64dae9e0c992848c9d
+      internalID: -1175476469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groggy-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 10827
+        width: 1536
+        height: 1291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a949121d54a2f694599e8e8be4c9b2ff
+      internalID: 1616521704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groggy-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 6145
+        y: 7748
+        width: 1535
+        height: 1411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba3b3b63f9243d48886cf7a888cf3ac
+      internalID: -1533530261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groggy-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 4618
+        width: 1533
+        height: 1328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c21abde7fd3324287b2db119c72a41
+      internalID: -921044990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groggy-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 4603
+        width: 1537
+        height: 1389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dc138ccfdd742478013608566f62a0
+      internalID: -888012923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groggy-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 4609
+        y: 4600
+        width: 1532
+        height: 1397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea1def5c85b07149a77b207ac038c5a
+      internalID: -754509447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groggy-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 6143
+        y: 4567
+        width: 1537
+        height: 1468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c8bf9c1136bd8438c1ef6189862f62
+      internalID: -993474135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groggy-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 6241
+        width: 1521
+        height: 1270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d31d2981a0f3442807470d08812f17
+      internalID: 874174685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groggy-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 6245
+        width: 1537
+        height: 1286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b5d9c91ba7ac54088e372a7da5731e
+      internalID: -1793638618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groggy-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 6228
+        width: 1540
+        height: 1311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06fdb859316bb84396bc9263f834b76
+      internalID: 368530452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groggy-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 6210
+        width: 1540
+        height: 1323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49e821cdaaf3b940809cda7a6186189
+      internalID: -1584426316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groggy-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1546
+        width: 1539
+        height: 1387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c625962fd3387e7448ad4f9f58b61e52
+      internalID: 236838576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groggy-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 1492
+        width: 1530
+        height: 1447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adc112d9e6953b4cb057aea3c045882
+      internalID: 259157995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groggy-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 4612
+        y: 1484
+        width: 1532
+        height: 1472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd9c074c9ef7a844bcfc65b1749284b
+      internalID: -152035067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groggy-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 6143
+        y: 1454
+        width: 1537
+        height: 1501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3932ed993d860e4429aa5ab0243cfd43
+      internalID: 542255308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a9ac3747e90367d49845512edb407a91
     internalID: 0
     vertices: []
     indices: 
@@ -557,8 +887,23 @@ TextureImporter:
       Groggy-sprite_14: 6785328823652269375
       Groggy-sprite_15: -8061874984120169063
       Groggy-sprite_16: -2785099985020431164
+      Groggy-sprite_17: -1175476469
+      Groggy-sprite_18: 1616521704
+      Groggy-sprite_19: -1533530261
       Groggy-sprite_2: 6787064654307007951
+      Groggy-sprite_20: -921044990
+      Groggy-sprite_21: -888012923
+      Groggy-sprite_22: -754509447
+      Groggy-sprite_23: -993474135
+      Groggy-sprite_24: 874174685
+      Groggy-sprite_25: -1793638618
+      Groggy-sprite_26: 368530452
+      Groggy-sprite_27: -1584426316
+      Groggy-sprite_28: 236838576
+      Groggy-sprite_29: 259157995
       Groggy-sprite_3: -4546154412835565591
+      Groggy-sprite_30: -152035067
+      Groggy-sprite_31: 542255308
       Groggy-sprite_4: 3427906712897672876
       Groggy-sprite_5: -8370712996102645563
       Groggy-sprite_6: 5225284637863266905

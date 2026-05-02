@@ -20,6 +20,10 @@ public class MainMenuManager : MonoBehaviour
 
     void Start()
     {
+        // --- DEV MODE WIPE ---
+        // (Delete this line later when you actually want players to save their progress!)
+        PlayerPrefs.DeleteAll(); 
+        
         CloseAllPopups();
 
         // If we have a slider, load the saved volume (defaulting to 1, which is 100%)
@@ -49,6 +53,15 @@ public class MainMenuManager : MonoBehaviour
         charactersPanel.SetActive(true); 
     }
 
+    // This acts as a "Back" button to return to Settings
+    public void CloseCharacters()
+    {
+        charactersPanel.SetActive(false); // Turn off the Character screen
+        settingsPanel.SetActive(true);    // Turn Settings back on!
+        
+        // Notice we don't touch the dimBackground, because Settings still needs it!
+    }
+
     public void CloseAllPopups()
     {
         dimBackground.SetActive(false);
@@ -64,12 +77,41 @@ public class MainMenuManager : MonoBehaviour
 
     public void ExecuteHardReset()
     {
-        // Factory reset! Wipes all PlayerPrefs.
+        // 1. Factory reset! Wipes all PlayerPrefs from the hard drive.
         PlayerPrefs.DeleteAll();
         Debug.Log("SUCCESS: Game has been factory reset!");
         
-        // Reset the slider visually to 100%
+        // 2. Reset the slider visually AND audibly to 100%
         if (volumeSlider != null) volumeSlider.value = 1f; 
+        UpdateVolume(1f);
+
+        // 3. Force all Character Cards to reset instantly!
+        if (charactersPanel != null)
+        {
+            // This finds every card, even if the Character Panel is currently hidden
+            CharacterCard[] allCards = charactersPanel.GetComponentsInChildren<CharacterCard>(true); 
+            
+            foreach (CharacterCard card in allCards)
+            {
+                // If it's Kommy, unlock and equip her!
+                if (card.characterName == "Kommy") 
+                {
+                    card.isUnlocked = true;
+                    card.isEquipped = true;
+                }
+                // If it's anyone else, lock them and un-equip them!
+                else 
+                {
+                    card.isUnlocked = false;
+                    card.isEquipped = false;
+                }
+                
+                // Tell the card to update its visuals immediately
+                card.UpdateCardVisuals();
+            }
+        }
+
+        // 4. Close the pop-up
         CloseResetConfirm();
     }
 
