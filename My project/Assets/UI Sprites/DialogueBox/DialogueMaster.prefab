@@ -1,0 +1,236 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6548471961380349272
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6731810570381564413}
+  - component: {fileID: 5956164553026348978}
+  m_Layer: 0
+  m_Name: DialogueMaster
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6731810570381564413
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6548471961380349272}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 912.3412, y: 522.433, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5956164553026348978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6548471961380349272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da0ba04c7a9f0ce4493cb805b69f510e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueManager
+  allSequences:
+  - sequenceName: Intro
+    lines:
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Task
+      text: Yahaloo, Welcome to this beta test gaem~
+    - side: 0
+      characterController: {fileID: 9100000, guid: 84cb4167ffe048747a67572b3a040c08, type: 2}
+      boxColor: {fileID: 518374836525813700, guid: 9cd9f743f8d609b4fab38ef8801784bc, type: 3}
+      avatarAnimationName: Erufinn_Huh
+      text: Uhm what is this?
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Said
+      text: 'Well its... something I don''t know what the creator of this game made
+        it as... '
+    - side: 0
+      characterController: {fileID: 9100000, guid: 84cb4167ffe048747a67572b3a040c08, type: 2}
+      boxColor: {fileID: 518374836525813700, guid: 9cd9f743f8d609b4fab38ef8801784bc, type: 3}
+      avatarAnimationName: Erufinn_Huh
+      text: 'Uhm who are you talki- '
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Happy
+      text: 'Anywayss, Im you guide to learn the playstyle of this game okiees pookies? '
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Happy
+      text: Let us begin~
+  - sequenceName: IntroProgression
+    lines:
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Idle
+      text: The game condition is very simple.
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Said
+      text: 'Catch the Thief before the destination above the progression bar comes
+        to an end... Got It? '
+  - sequenceName: PoisonTutorial
+    lines:
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: 0}
+      avatarAnimationName: Burumi_Complain
+      text: Watch out, a poison barrel! You can't type that.
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: 0}
+      avatarAnimationName: Burumi_Said
+      text: Press Spacebar to jump over it, or you'll get dizzy
+  - sequenceName: PunchTutorial
+    lines:
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Complain
+      text: Another trap! Jump over it with Spacebar!
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Task
+      text: If you hit it, you'll get stunned and lose health!
+  - sequenceName: FoodTutorial
+    lines:
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Task
+      text: Look, food! Quickly, type the word attached to it before it hits you!
+  - sequenceName: AmmoTutorial
+    lines:
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Joy
+      text: 'Nice typing! The food went into your bag. '
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Said
+      text: 'Press Enter to throw it back at the Thief and slow him down! '
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Idle
+      text: You can store up to 5 only otherwise...
+  - sequenceName: ThiefKnockedTutorial
+    lines:
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Task
+      text: Bullseye! You knocked him out of the sky!
+    - side: 0
+      characterController: {fileID: 9100000, guid: 84cb4167ffe048747a67572b3a040c08, type: 2}
+      boxColor: {fileID: 518374836525813700, guid: 9cd9f743f8d609b4fab38ef8801784bc, type: 3}
+      avatarAnimationName: Erufinn_Huh
+      text: I did good job?
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Joy
+      text: Yep! He just tumbled and your closer to catch him!
+  - sequenceName: TutorialWin
+    lines:
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Task
+      text: Congratulations! You got the gist of this simple game!
+    - side: 0
+      characterController: {fileID: 9100000, guid: 84cb4167ffe048747a67572b3a040c08, type: 2}
+      boxColor: {fileID: 518374836525813700, guid: 9cd9f743f8d609b4fab38ef8801784bc, type: 3}
+      avatarAnimationName: Erufinn_Huh
+      text: Woah fr fr? Walahi?
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Idle
+      text: ...
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Happy
+      text: Anyways you caught the thief and learned the game mechanic but it gets
+        more unique from this. Are you ready?
+  - sequenceName: TutorialLose
+    lines:
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Complain
+      text: Skill Issue.
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Said
+      text: You lost! The Thief got away before you could catch up to him. Try playing
+        smartly this time.
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Task
+      text: Are you ready to try again?
+  - sequenceName: AbilityReady
+    lines:
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Said
+      text: Your Special Ability Is Ready!
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Said
+      text: Press Shift to activate your "TimeZa" Ability!
+  - sequenceName: AbilityDone
+    lines:
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Said
+      text: The ability takes time to charge, so use it wisely!
+    - side: 1
+      characterController: {fileID: 9100000, guid: 79ca830ccddbb73458eb59262616464d, type: 2}
+      boxColor: {fileID: -5631079478217351519, guid: 4be1d46c47a742d4d90863ffcfef67c0, type: 3}
+      avatarAnimationName: Burumi_Joy
+      text: Now Go Get 'em!
+  dialogueOverlay: {fileID: 0}
+  leftBox: {fileID: 0}
+  leftText: {fileID: 0}
+  leftAvatarAnim: {fileID: 0}
+  rightBox: {fileID: 0}
+  rightText: {fileID: 0}
+  rightAvatarAnim: {fileID: 0}
+  typingSpeed: 0.03
+  isTutorialMode: 1
+  winNextLevelButton: {fileID: 0}
+  loseTryAgainButton: {fileID: 0}
+  loseGiveUpButton: {fileID: 0}
+  dialogueIsActive: 0

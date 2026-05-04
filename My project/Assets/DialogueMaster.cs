@@ -214,7 +214,7 @@ public class DialogueManager : MonoBehaviour
         Time.timeScale = 1f; 
     }
 
-    public void Button_TryAgain()
+   public void Button_TryAgain()
     {
         PlayerPrefs.SetInt("TutorialMode", 0); 
         Time.timeScale = 1f;
@@ -223,14 +223,25 @@ public class DialogueManager : MonoBehaviour
 
     public void Button_GiveUp()
     {
-        PlayerPrefs.SetInt("TutorialMode", 1); 
-        Time.timeScale = 1f;
-        SceneManager.LoadScene("MainMenu"); 
+        // THE SMART CHECK: Are they currently looking at the Victory dialogue?
+        if (currentSequence != null && currentSequence.sequenceName == "TutorialWin")
+        {
+            // They won! Save the victory to memory before going to the menu.
+            PlayerPrefs.SetInt("HasFinishedTutorial", 1);
+            PlayerPrefs.Save();
+        }
+        
+        // If they didn't win, it just goes to the menu without saving!
+        LoadingManager.Instance.LoadNewScene("MenuScene"); 
     }
 
-    public void Button_OkLetsGo()
+    public void Button_YesLetsGo()
     {
-        Time.timeScale = 1f;
-        SceneManager.LoadScene("MapScene"); 
+        // 1. Mark the tutorial as officially FINISHED! 
+        PlayerPrefs.SetInt("HasFinishedTutorial", 1);
+        PlayerPrefs.Save();
+
+        // 2. Proceed to the Map Scene!
+        LoadingManager.Instance.LoadNewScene("MapScene");
     }
 }

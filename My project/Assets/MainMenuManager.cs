@@ -8,7 +8,7 @@ public class MainMenuManager : MonoBehaviour
     public GameObject dimBackground;
     public GameObject settingsPanel;
     public GameObject creditsPanel;
-    public GameObject charactersPanel; // Controls the new Equip screen
+    public GameObject charactersPanel; 
 
     [Header("Phase 2: Reset System")]
     public GameObject resetConfirmPanel; 
@@ -20,13 +20,9 @@ public class MainMenuManager : MonoBehaviour
 
     void Start()
     {
-        // --- DEV MODE WIPE ---
-        // (Delete this line later when you actually want players to save their progress!)
-        PlayerPrefs.DeleteAll(); 
-        
+        // DEV WIPE HAS BEEN REMOVED! Memory will now safely persist.
         CloseAllPopups();
 
-        // If we have a slider, load the saved volume (defaulting to 1, which is 100%)
         if (volumeSlider != null)
         {
             volumeSlider.value = PlayerPrefs.GetFloat("SavedVolume", 1f);
@@ -34,21 +30,16 @@ public class MainMenuManager : MonoBehaviour
         }
     }
 
-// --- POP-UP NAVIGATION FUNCTIONS ---
     public void PlayGame()
     {
-        // 1. Check the hard drive: Has the player beaten the tutorial? (0 = no, 1 = yes)
         int hasPlayed = PlayerPrefs.GetInt("HasFinishedTutorial", 0);
 
-        // 2. Route them using the new Loading Manager!
         if (hasPlayed == 0) 
         {
-            // First time playing (or reset)! Send them to the Tutorial.
             LoadingManager.Instance.LoadNewScene("TutorialLevel");
         }
         else 
         {
-            // They already beat the tutorial! Send them straight to the Map.
             LoadingManager.Instance.LoadNewScene("MapScene");
         }
     }
@@ -56,7 +47,6 @@ public class MainMenuManager : MonoBehaviour
     public void OpenSettings() { dimBackground.SetActive(true); settingsPanel.SetActive(true); }
     public void OpenCredits() { dimBackground.SetActive(true); creditsPanel.SetActive(true); }
     
-    // Opens the Character menu and safely closes Settings so they don't overlap
     public void OpenCharacters() 
     { 
         CloseAllPopups(); 
@@ -64,13 +54,10 @@ public class MainMenuManager : MonoBehaviour
         charactersPanel.SetActive(true); 
     }
 
-    // This acts as a "Back" button to return to Settings
     public void CloseCharacters()
     {
-        charactersPanel.SetActive(false); // Turn off the Character screen
-        settingsPanel.SetActive(true);    // Turn Settings back on!
-        
-        // Notice we don't touch the dimBackground, because Settings still needs it!
+        charactersPanel.SetActive(false); 
+        settingsPanel.SetActive(true);    
     }
 
     public void CloseAllPopups()
@@ -79,61 +66,47 @@ public class MainMenuManager : MonoBehaviour
         settingsPanel.SetActive(false);
         creditsPanel.SetActive(false);
         if (resetConfirmPanel != null) resetConfirmPanel.SetActive(false);
-        if (charactersPanel != null) charactersPanel.SetActive(false); // Hides the Character screen
+        if (charactersPanel != null) charactersPanel.SetActive(false); 
     }
 
-    // --- PHASE 2: RESET FUNCTIONS ---
     public void OpenResetConfirm() { resetConfirmPanel.SetActive(true); }
     public void CloseResetConfirm() { resetConfirmPanel.SetActive(false); }
 
     public void ExecuteHardReset()
     {
-        // 1. Factory reset! Wipes all PlayerPrefs from the hard drive.
         PlayerPrefs.DeleteAll();
         Debug.Log("SUCCESS: Game has been factory reset!");
         
-        // 2. Reset the slider visually AND audibly to 100%
         if (volumeSlider != null) volumeSlider.value = 1f; 
         UpdateVolume(1f);
 
-        // 3. Force all Character Cards to reset instantly!
         if (charactersPanel != null)
         {
-            // This finds every card, even if the Character Panel is currently hidden
             CharacterCard[] allCards = charactersPanel.GetComponentsInChildren<CharacterCard>(true); 
             
             foreach (CharacterCard card in allCards)
             {
-                // If it's Kommy, unlock and equip her!
                 if (card.characterName == "Kommy") 
                 {
                     card.isUnlocked = true;
                     card.isEquipped = true;
                 }
-                // If it's anyone else, lock them and un-equip them!
                 else 
                 {
                     card.isUnlocked = false;
                     card.isEquipped = false;
                 }
                 
-                // Tell the card to update its visuals immediately
                 card.UpdateCardVisuals();
             }
         }
 
-        // 4. Close the pop-up
         CloseResetConfirm();
     }
 
-    // --- PHASE 2: VOLUME FUNCTIONS ---
     public void UpdateVolume(float sliderValue)
     {
-        // Save the setting so the game remembers it next time
         PlayerPrefs.SetFloat("SavedVolume", sliderValue);
-
-        // THE MASTER VOLUME SWITCH
-        // This instantly controls Music, SFX, UI, and Videos all at once!
         AudioListener.volume = sliderValue; 
     }
 

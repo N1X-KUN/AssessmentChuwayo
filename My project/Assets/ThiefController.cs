@@ -31,7 +31,7 @@ public class ThiefController : MonoBehaviour
 
     private bool isDefeated = false;
     [HideInInspector] public bool isFlying = false; 
-    [HideInInspector] public bool isTumbling = false; // Allows WordManager to know he fell!
+    [HideInInspector] public bool isTumbling = false; 
     
     private float groundY; 
     private float airY; 
@@ -45,6 +45,14 @@ public class ThiefController : MonoBehaviour
         targetX = transform.position.x; 
         
         if (emoticonAnimator != null) emoticonAnimator.gameObject.SetActive(false);
+
+        // --- NEW: Auto-link to the LIVE player so he doesn't target the prefab! ---
+        LevelManager lm = FindAnyObjectByType<LevelManager>();
+        if (lm != null && lm.kommy != null)
+        {
+            kommy = lm.kommy;
+        }
+
         StartCoroutine(JetpackCycle());
     }
 
@@ -52,6 +60,12 @@ public class ThiefController : MonoBehaviour
     {
         LevelManager lm = FindAnyObjectByType<LevelManager>();
         if (lm != null && !lm.gameIsActive) return;
+
+        // --- NEW: Failsafe just in case he forgets who the live player is! ---
+        if (kommy == null || !kommy.gameObject.activeInHierarchy)
+        {
+            if (lm != null && lm.kommy != null) kommy = lm.kommy;
+        }
 
         // Visual movement
         if (transform.position.x != targetX)
@@ -112,7 +126,6 @@ public class ThiefController : MonoBehaviour
             
             anim.Play("ThiefMove"); 
 
-            // --- FIXED: Fast takeoff if in tutorial! ---
             if (wordManager != null && wordManager.isControlledTutorialActive)
                 yield return new WaitForSeconds(0.5f); 
             else
@@ -124,6 +137,9 @@ public class ThiefController : MonoBehaviour
             ShowEmoticon("EmoticonPrep", 2.05f);
             
             anim.Play("ThiefPrep");
+
+            if (AudioManager.instance != null) AudioManager.instance.PlaySFX(AudioManager.instance.jetpackCharge);
+
             float elapsed = 0f;
             float startY = transform.position.y;
 
@@ -143,7 +159,6 @@ public class ThiefController : MonoBehaviour
             
             anim.Play("ThiefFlight");
 
-            // --- FIXED: Hover infinitely until tutorial phase is over! ---
             if (wordManager != null && wordManager.isControlledTutorialActive)
             {
                 yield return new WaitUntil(() => !wordManager.isControlledTutorialActive || isTumbling);
@@ -158,6 +173,9 @@ public class ThiefController : MonoBehaviour
             wordManager.StopSpawning(); 
             isFlying = false; 
             anim.Play("ThiefStun");
+
+            if (AudioManager.instance != null) AudioManager.instance.PlaySFX(AudioManager.instance.jetpackFall);
+
             elapsed = 0f;
             startY = transform.position.y;
             
@@ -173,7 +191,6 @@ public class ThiefController : MonoBehaviour
             yield return new WaitForSeconds(fallDuration - dropTime);
         }
     }
-
     public void TriggerTumbleHit()
     {
         if (!isFlying || isDefeated) return; 
@@ -182,7 +199,7 @@ public class ThiefController : MonoBehaviour
         wordManager.StopSpawning(); 
         isFlying = false;
 
-        isTumbling = true; // Tell WordManager he fell!
+        isTumbling = true; 
         StartCoroutine(TumbleRoutine());
     }
 
@@ -190,6 +207,8 @@ public class ThiefController : MonoBehaviour
     {
         anim.Play("ThiefPrep"); 
         ShowEmoticon("EmoticonCry", 2.05f); 
+
+        if (AudioManager.instance != null) AudioManager.instance.PlaySFX(AudioManager.instance.jetpackFall);
 
         float elapsed = 0f;
         float dropTime = 0.15f; 
@@ -207,9 +226,9 @@ public class ThiefController : MonoBehaviour
         anim.Play("ThiefStun");
         StepBackward(); 
 
-        if (kommy != null) kommy.TriggerHappyFace();
+        // --- FIXED: Ensures he only calls this if Kommy is live in the scene! ---
+        if (kommy != null && kommy.gameObject.activeInHierarchy) kommy.TriggerHappyFace();
 
-        // --- FIXED: Reduced from 2.5f to 0.5f so he doesn't awkwardly freeze! ---
         yield return new WaitForSeconds(0.5f);
 
         isTumbling = false; 
@@ -218,7 +237,6 @@ public class ThiefController : MonoBehaviour
             StartCoroutine(JetpackCycle());
         }
     }
-
     public void ShowEmoticon(string animName, float duration)
     {
         if (emoticonAnimator == null) return;

@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &507138100081778958
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6319095300655256391}
+  - component: {fileID: 7142079977354245658}
+  - component: {fileID: 9166374605966793257}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6319095300655256391
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 507138100081778958}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.69427, y: 0.98, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7142079977354245658
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 507138100081778958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a81495ac4214364ba0fddbc12a7093e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LevelManager
+  progressBar: {fileID: 0}
+  progressFill: {fileID: 0}
+  introText: {fileID: 0}
+  handleAnimator: {fileID: 0}
+  normalColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  slowMoColor: {r: 1, g: 0, b: 1, a: 1}
+  levelDuration: 60
+  gameIsActive: 0
+  kommy: {fileID: 0}
+  wordManager: {fileID: 9166374605966793257}
+  thief: {fileID: 0}
+--- !u!114 &9166374605966793257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 507138100081778958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a0541ea6a2304e488b9fb974ba69f68, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::WordManager
+  foodPrefab: {fileID: 5898152764995802654, guid: c2879d5085be7384787699f19050ebf0, type: 3}
+  playerProjectilePrefab: {fileID: 9014041078651219653, guid: 31063bb5f88549148880901eb953ad71, type: 3}
+  spawnPoint: {fileID: 0}
+  kommy: {fileID: 0}
+  allFoods:
+  - word: Banana
+    foodSprite: {fileID: -9182177788924653191, guid: daa569580877c174ca829cc541262454, type: 3}
+  - word: Apple
+    foodSprite: {fileID: -7832214784768987486, guid: d5dfffeb1a565614894c641ea9a95dc2, type: 3}
+  - word: Blackberry
+    foodSprite: {fileID: 799451149388217749, guid: d3b0fe2c466544640abadbed54de984e, type: 3}
+  - word: Blueberry
+    foodSprite: {fileID: 3579979325370944529, guid: 2ddb98cec8808354a8a1aa3bb68f735c, type: 3}
+  - word: Grapes
+    foodSprite: {fileID: -8781457552448529170, guid: 5d7834d0655f30d4990e0216e73ae017, type: 3}
+  - word: Cherry
+    foodSprite: {fileID: -90375647409325229, guid: f6865a75e8f42d74a806f31d12790df7, type: 3}
+  - word: Mango
+    foodSprite: {fileID: 8617278338890539712, guid: 1340ab147be8dc3468b8af5867412408, type: 3}
+  - word: Mango
+    foodSprite: {fileID: 8617278338890539712, guid: 1340ab147be8dc3468b8af5867412408, type: 3}
+  - word: Peach
+    foodSprite: {fileID: -5197687505146949456, guid: 5c4bb82d64d7b6143816dee1019587dc, type: 3}
+  - word: Orange
+    foodSprite: {fileID: -6410442598547967069, guid: fbde362e6ef1c2641ba1d88acc7fdf52, type: 3}
+  spawnRate: 1.5
+  canDropRottenFood: 1
+  rottenChance: 20
+  dizzyAnimator: {fileID: 0}
+  dizzyDuration: 4
+  canDropPhysicalTraps: 1
+  physicalTrapChance: 40
+  physicalTrapPrefabs:
+  - {fileID: 3035488629479263844, guid: f0b88c3f68aefc24e8cccaec71dd16c1, type: 3}
+  - {fileID: 1417648217851263347, guid: 78718ae3ddabb23459ef02b84bfd30d3, type: 3}
+  ammoCounterText: {fileID: 0}
+  maxAmmo: 5
+  ammoBackpack: []
+  emptyBagObj: {fileID: 0}
+  partialBagObj: {fileID: 0}
+  halfBagObj: {fileID: 0}
+  fullBagObj: {fileID: 0}
+  bagAnimator: {fileID: 0}
+  scoreText: {fileID: 0}
+  currentScore: 0
+  isPlayerDizzy: 0
+  onlySpawnTraps: 0
+  isControlledTutorialActive: 0
+  hasFinishedScriptedTutorial: 0

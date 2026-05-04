@@ -22,10 +22,26 @@ public class GroundTrap : MonoBehaviour
         kommy = target;
     }
 
+    void Start()
+    {
+        // --- NEW: Auto-link to the live player so it NEVER targets the prefab! ---
+        LevelManager lm = FindAnyObjectByType<LevelManager>();
+        if (lm != null && lm.kommy != null)
+        {
+            kommy = lm.kommy;
+        }
+    }
+
     void Update()
     {
         LevelManager lm = FindAnyObjectByType<LevelManager>();
         if (lm != null && !lm.gameIsActive) return;
+
+        // Failsafe: If the trap somehow loses the player, find them immediately!
+        if (kommy == null || !kommy.gameObject.activeInHierarchy)
+        {
+            if (lm != null && lm.kommy != null) kommy = lm.kommy;
+        }
 
         // 1. GRAVITY: Fall down until it hits exactly floorY
         if (transform.position.y > floorY)
@@ -39,7 +55,7 @@ public class GroundTrap : MonoBehaviour
                 transform.position = new Vector3(transform.position.x, floorY, transform.position.z);
             }
         }
-        else // <--- THIS 'ELSE' IS THE MAGIC FIX! --->
+        else 
         {
             // 2. ONLY Move left along the treadmill AFTER it hits the ground!
             transform.Translate(Vector3.left * moveSpeed * Time.deltaTime, Space.World);

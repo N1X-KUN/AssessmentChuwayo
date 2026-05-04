@@ -5751,7 +5751,7 @@ MonoBehaviour:
   globalIndicatorText: {fileID: 1619310012}
   globalIndicatorAnimator: {fileID: 240699154}
   characterName: Tig
-  isUnlocked: 0
+  isUnlocked: 1
   isEquipped: 0
 --- !u!222 &1282434971
 CanvasRenderer:
@@ -6145,7 +6145,7 @@ MonoBehaviour:
   globalIndicatorText: {fileID: 1619310012}
   globalIndicatorAnimator: {fileID: 240699154}
   characterName: Butter
-  isUnlocked: 0
+  isUnlocked: 1
   isEquipped: 0
 --- !u!222 &1403778604
 CanvasRenderer:
