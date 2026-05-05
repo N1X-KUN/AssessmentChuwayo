@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 45db4bb6b49615848941fc1810becb38
+guid: dfa06197c480c754185a362b5b9ebe59
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5779351235272882495
-    second: l1_sky_0
+      213: -7909274980967811448
+    second: DeskB_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,10 +72,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: l1_sky_0
+      name: DeskB_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 194
         y: 0
-        width: 1536
-        height: 2048
+        width: 731
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c6485dfbae9bcfa0800000000000000
-      internalID: -5779351235272882495
+      spriteID: 88677885f4c9c3290800000000000000
+      internalID: -7909274980967811448
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      l1_sky_0: -5779351235272882495
+      DeskB_0: -7909274980967811448
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

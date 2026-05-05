@@ -42,7 +42,7 @@ public class DialogueManager : MonoBehaviour
     [Header("Tutorial Mode Flags (The Checklist)")]
     public bool isTutorialMode = true; 
 
-    [Header("End Game Buttons")]
+    [Header("End Game Buttons (Leave Empty in Map Scene)")]
     public GameObject winNextLevelButton; 
     public GameObject loseTryAgainButton; 
     public GameObject loseGiveUpButton;   
@@ -56,9 +56,9 @@ public class DialogueManager : MonoBehaviour
 
     void Start()
     {
-        dialogueOverlay.SetActive(false);
-        leftBox.SetActive(false);
-        rightBox.SetActive(false);
+        if (dialogueOverlay != null) dialogueOverlay.SetActive(false);
+        if (leftBox != null) leftBox.SetActive(false);
+        if (rightBox != null) rightBox.SetActive(false);
 
         if (winNextLevelButton != null) winNextLevelButton.SetActive(false);
         if (loseTryAgainButton != null) loseTryAgainButton.SetActive(false);
@@ -95,8 +95,7 @@ public class DialogueManager : MonoBehaviour
 
     public void PlayDialogue(string seqName)
     {
-        if (!isTutorialMode && seqName != "TutorialWin" && seqName != "TutorialLose") return;
-
+        // Removed the strict tutorial block so the Map Scene can play its Intro!
         foreach (DialogueSequence seq in allSequences)
         {
             if (seq.sequenceName == seqName)
@@ -108,7 +107,6 @@ public class DialogueManager : MonoBehaviour
                 
                 Time.timeScale = 0f; 
 
-                // --- NEW: AUDIO TRIGGER (Muffle Music ON) ---
                 if (AudioManager.instance != null) AudioManager.instance.MuffleMusic(true);
 
                 PlayLine(currentLineIndex);
@@ -119,7 +117,6 @@ public class DialogueManager : MonoBehaviour
 
     private void PlayLine(int index)
     {
-        // --- NEW: AUDIO TRIGGER (Dialogue Pop Sound) ---
         if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop);
 
         DialogueLine line = currentSequence.lines[index];
@@ -128,13 +125,22 @@ public class DialogueManager : MonoBehaviour
         leftText.text = "";
         rightText.text = "";
 
+        // --- THE MAGIC NAME CHECKER ---
+        // This looks at the text and replaces "@playername" with their actual saved name!
+        string actualText = line.text;
+        if (actualText.Contains("@playername"))
+        {
+            string savedName = PlayerPrefs.GetString("PlayerName", "Player");
+            actualText = actualText.Replace("@playername", savedName);
+        }
+
         if (line.side == DialogueLine.SpeakerSide.Left)
         {
             leftBox.SetActive(true);
             if (line.boxColor != null) leftBox.GetComponent<Image>().sprite = line.boxColor;
             if (line.characterController != null) leftAvatarAnim.runtimeAnimatorController = line.characterController;
             if (leftAvatarAnim != null && !string.IsNullOrEmpty(line.avatarAnimationName)) leftAvatarAnim.Play(line.avatarAnimationName);
-            typingCoroutine = StartCoroutine(TypeLine(leftText, line.text));
+            typingCoroutine = StartCoroutine(TypeLine(leftText, actualText));
         }
         else
         {
@@ -142,7 +148,7 @@ public class DialogueManager : MonoBehaviour
             if (line.boxColor != null) rightBox.GetComponent<Image>().sprite = line.boxColor;
             if (line.characterController != null) rightAvatarAnim.runtimeAnimatorController = line.characterController;
             if (rightAvatarAnim != null && !string.IsNullOrEmpty(line.avatarAnimationName)) rightAvatarAnim.Play(line.avatarAnimationName);
-            typingCoroutine = StartCoroutine(TypeLine(rightText, line.text));
+            typingCoroutine = StartCoroutine(TypeLine(rightText, actualText));
         }
     }
 
@@ -154,6 +160,7 @@ public class DialogueManager : MonoBehaviour
         for (int i = 0; i <= line.Length; i++)
         {
             textComponent.maxVisibleCharacters = i;
+            // Use unscaled time so it still types even when time is paused!
             yield return new WaitForSecondsRealtime(typingSpeed); 
         }
         isTyping = false;
@@ -163,15 +170,24 @@ public class DialogueManager : MonoBehaviour
     private void SetInstantText()
     {
         DialogueLine line = currentSequence.lines[currentLineIndex];
+        
+        // --- DO THE NAME CHECK HERE TOO FOR INSTANT TEXT ---
+        string actualText = line.text;
+        if (actualText.Contains("@playername"))
+        {
+            string savedName = PlayerPrefs.GetString("PlayerName", "Player");
+            actualText = actualText.Replace("@playername", savedName);
+        }
+
         if (line.side == DialogueLine.SpeakerSide.Left)
         {
-            leftText.text = line.text;
-            leftText.maxVisibleCharacters = line.text.Length; 
+            leftText.text = actualText;
+            leftText.maxVisibleCharacters = actualText.Length; 
         }
         else 
         {
-            rightText.text = line.text;
-            rightText.maxVisibleCharacters = line.text.Length; 
+            rightText.text = actualText;
+            rightText.maxVisibleCharacters = actualText.Length; 
         }
         isTyping = false;
         CheckForEndGameButtons(); 
@@ -204,17 +220,17 @@ public class DialogueManager : MonoBehaviour
     private void EndDialogue()
     {
         dialogueIsActive = false;
-        dialogueOverlay.SetActive(false);
-        leftBox.SetActive(false);
-        rightBox.SetActive(false);
+        if (dialogueOverlay != null) dialogueOverlay.SetActive(false);
+        if (leftBox != null) leftBox.SetActive(false);
+        if (rightBox != null) rightBox.SetActive(false);
 
-        // --- NEW: AUDIO TRIGGER (Muffle Music OFF) ---
         if (AudioManager.instance != null) AudioManager.instance.MuffleMusic(false);
 
         Time.timeScale = 1f; 
     }
 
-   public void Button_TryAgain()
+    // [Your end buttons remain exactly the same below]
+    public void Button_TryAgain()
     {
         PlayerPrefs.SetInt("TutorialMode", 0); 
         Time.timeScale = 1f;
@@ -223,25 +239,18 @@ public class DialogueManager : MonoBehaviour
 
     public void Button_GiveUp()
     {
-        // THE SMART CHECK: Are they currently looking at the Victory dialogue?
         if (currentSequence != null && currentSequence.sequenceName == "TutorialWin")
         {
-            // They won! Save the victory to memory before going to the menu.
             PlayerPrefs.SetInt("HasFinishedTutorial", 1);
             PlayerPrefs.Save();
         }
-        
-        // If they didn't win, it just goes to the menu without saving!
         LoadingManager.Instance.LoadNewScene("MenuScene"); 
     }
 
     public void Button_YesLetsGo()
     {
-        // 1. Mark the tutorial as officially FINISHED! 
         PlayerPrefs.SetInt("HasFinishedTutorial", 1);
         PlayerPrefs.Save();
-
-        // 2. Proceed to the Map Scene!
         LoadingManager.Instance.LoadNewScene("MapScene");
     }
 }
