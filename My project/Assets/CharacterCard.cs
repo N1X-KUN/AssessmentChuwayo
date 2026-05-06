@@ -8,7 +8,7 @@ public class CharacterCard : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
     [Header("Card Visuals")]
     public Image layer0_Halo;
     public Image layer2_CharacterArt; 
-    public Animator characterAnimator; // NEW: Controls the character breathing!
+    public Animator characterAnimator; 
     public Image layer3_Border;
     public Animator borderAnimator;
     public Sprite lockedBorderSprite;
@@ -22,6 +22,10 @@ public class CharacterCard : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
     public string characterName; 
     public bool isUnlocked = true; 
     public bool isEquipped = false;
+
+    // FIX: A custom tracker to handle double-clicks even when the game is paused!
+    private float lastClickTime = 0f;
+    private float doubleClickThreshold = 0.3f; // 0.3 seconds to click twice
 
     void Start()
     {
@@ -39,24 +43,24 @@ public class CharacterCard : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
             layer3_Border.sprite = lockedBorderSprite;
             
             if (layer2_CharacterArt != null) layer2_CharacterArt.color = new Color(0, 0, 0, 0.8f); 
-            if (characterAnimator != null) characterAnimator.enabled = true; // RULE 3: Animate dark silhouette!
+            if (characterAnimator != null) characterAnimator.enabled = true; 
         }
         else if (isEquipped)
         {
             layer0_Halo.enabled = true;
-            if (borderAnimator != null) borderAnimator.enabled = true; // Sparkles ON
+            if (borderAnimator != null) borderAnimator.enabled = true; 
             
             if (layer2_CharacterArt != null) layer2_CharacterArt.color = Color.white;
-            if (characterAnimator != null) characterAnimator.enabled = true; // RULE 1: Animate equipped!
+            if (characterAnimator != null) characterAnimator.enabled = true; 
         }
-        else // Unlocked but NOT equipped
+        else 
         {
             layer0_Halo.enabled = false;
-            if (borderAnimator != null) borderAnimator.enabled = false; // Sparkles OFF
+            if (borderAnimator != null) borderAnimator.enabled = false; 
             layer3_Border.sprite = unlockedBorderSprite; 
             
             if (layer2_CharacterArt != null) layer2_CharacterArt.color = Color.white;
-            if (characterAnimator != null) characterAnimator.enabled = false; // RULE 2: Freeze static!
+            if (characterAnimator != null) characterAnimator.enabled = false; 
         }
     }
 
@@ -87,22 +91,27 @@ public class CharacterCard : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
 
     public void OnPointerClick(PointerEventData eventData)
     {
-        if (isUnlocked && eventData.clickCount == 2) 
+        if (isUnlocked) 
         {
-            CharacterCard[] allCards = transform.parent.GetComponentsInChildren<CharacterCard>();
-            foreach (CharacterCard card in allCards)
+            // FIX: Manual Unscaled Time Double-Click Check!
+            if (Time.unscaledTime - lastClickTime <= doubleClickThreshold)
             {
-                card.isEquipped = false;
-                card.UpdateCardVisuals();
+                CharacterCard[] allCards = transform.parent.GetComponentsInChildren<CharacterCard>();
+                foreach (CharacterCard card in allCards)
+                {
+                    card.isEquipped = false;
+                    card.UpdateCardVisuals();
+                }
+
+                isEquipped = true;
+                UpdateCardVisuals();
+                
+                globalIndicatorText.text = "EQUIPPED";
+                if (globalIndicatorAnimator != null) globalIndicatorAnimator.enabled = true;
+
+                PlayerPrefs.SetString("EquippedCharacter", characterName);
             }
-
-            isEquipped = true;
-            UpdateCardVisuals();
-            
-            globalIndicatorText.text = "EQUIPPED";
-            if (globalIndicatorAnimator != null) globalIndicatorAnimator.enabled = true;
-
-            PlayerPrefs.SetString("EquippedCharacter", characterName);
+            lastClickTime = Time.unscaledTime;
         }
     }
 }

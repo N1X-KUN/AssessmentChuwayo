@@ -4,20 +4,22 @@ using UnityEngine.UI;
 
 public class MapPhaseManager : MonoBehaviour
 {
+    [Header("Developer Testing")]
+    [Tooltip("Check this to ALWAYS play the intro when testing the MapScene directly!")]
+    public bool forcePlayIntro = false;
+
     [Header("Phase 1: Input Setup")]
-    [Tooltip("Drag the Phase1 folder from your Canvas here")]
     public GameObject phase1Folder; 
     public TMP_InputField nameInputField;
     public Button submitNameButton;
 
     [Header("Phase 2: Camera Setup")]
     public Camera mainCamera;
-    public float autoScrollSpeed = 15f; // How fast it scrolls up at the beginning
-    public float manualScrollSpeed = 10f; // How fast mouse scrolling is
-    public float topCameraLimit = 0f;    
-    public float bottomCameraLimit = -20f; 
+    public float autoScrollSpeed = 5f; 
+    public float manualScrollSpeed = 10f; 
+    public float topCameraLimit = 6.5f;    
+    public float bottomCameraLimit = -15f; 
 
-    // Internal states to track what the game is currently doing
     private enum MapState { AutoScrolling, PlayingIntro1, WaitingForName, PlayingIntro2, FreeRoam }
     private MapState currentState;
     private DialogueManager dm;
@@ -25,30 +27,27 @@ public class MapPhaseManager : MonoBehaviour
     void Start()
     {
         dm = FindAnyObjectByType<DialogueManager>();
-        
-        // Hide the typing box immediately when the scene loads
         phase1Folder.SetActive(false); 
 
         string savedName = PlayerPrefs.GetString("PlayerName", "");
 
-        if (savedName == "")
+        if (forcePlayIntro || savedName == "")
         {
-            // --- IT IS THE PLAYER's FIRST TIME ---
-            // 1. Force the camera to the very bottom of the map
             Vector3 startPos = mainCamera.transform.position;
             startPos.y = bottomCameraLimit;
             mainCamera.transform.position = startPos;
             
-            // 2. Tell the Update loop to start scrolling up
             currentState = MapState.AutoScrolling;
-
-            // 3. Connect the Submit button to our function
+            
+            // --- THE ENTER KEY FIX ---
+            // 1. Listen for the Mouse Click
             submitNameButton.onClick.AddListener(SaveNameAndStartPart2);
+            
+            // 2. Listen for the Enter Key on the keyboard!
+            nameInputField.onSubmit.AddListener((string input) => SaveNameAndStartPart2());
         }
         else
         {
-            // --- THEY ALREADY PLAYED ---
-            // Put camera at the top and unlock mouse immediately
             Vector3 startPos = mainCamera.transform.position;
             startPos.y = topCameraLimit;
             mainCamera.transform.position = startPos;
@@ -62,19 +61,17 @@ public class MapPhaseManager : MonoBehaviour
         switch (currentState)
         {
             case MapState.AutoScrolling:
-                // Move the camera UP automatically
                 Vector3 autoPos = mainCamera.transform.position;
                 autoPos.y += autoScrollSpeed * Time.deltaTime;
 
                 if (autoPos.y >= topCameraLimit)
                 {
-                    // Reached the top! Stop the camera.
                     autoPos.y = topCameraLimit;
                     mainCamera.transform.position = autoPos;
                     
-                    // START DIALOGUE PART 1
                     if (dm != null) 
                     {
+                        dm.keepOpenOnEnd = true; 
                         dm.PlayDialogue("MapIntro1");
                     }
                     currentState = MapState.PlayingIntro1;
@@ -85,31 +82,32 @@ public class MapPhaseManager : MonoBehaviour
                 }
                 break;
 
-            case MapState.PlayingIntro1:
-                // Wait for the player to click through Dialogue Part 1
+                case MapState.PlayingIntro1:
                 if (dm != null && !dm.dialogueIsActive)
                 {
-                    // DIALOGUE 1 FINISHED! Show the Name Input box!
                     phase1Folder.SetActive(true);
+                    nameInputField.Select();
+                    nameInputField.ActivateInputField();
+                    
+                    // CRITICAL FIX: Unpause time so the typing cursor, delete key, and mouse clicks work perfectly!
+                    Time.timeScale = 1f; 
+
                     currentState = MapState.WaitingForName;
                 }
                 break;
 
             case MapState.WaitingForName:
-                // Doing nothing. Waiting for player to click Submit.
+                // Just waiting for the player to press Enter or Click Submit.
                 break;
 
             case MapState.PlayingIntro2:
-                // Wait for the player to click through Dialogue Part 2
                 if (dm != null && !dm.dialogueIsActive)
                 {
-                    // DIALOGUE 2 FINISHED! Unlock the mouse.
                     currentState = MapState.FreeRoam;
                 }
                 break;
 
             case MapState.FreeRoam:
-                // --- MANUAL MOUSE SCROLLING ---
                 float scrollInput = 0f;
                 if (Input.mousePosition.y >= Screen.height * 0.9f) scrollInput = 1f;
                 else if (Input.mousePosition.y <= Screen.height * 0.1f) scrollInput = -1f;
@@ -127,18 +125,21 @@ public class MapPhaseManager : MonoBehaviour
 
     public void SaveNameAndStartPart2()
     {
-        // Only run if they actually typed something
+        // SAFETY CHECK: Stop the script if it accidentally fires twice
+        if (currentState != MapState.WaitingForName) return;
+
         if (nameInputField.text.Length > 0)
         {
-            // Save it to memory
             PlayerPrefs.SetString("PlayerName", nameInputField.text);
             PlayerPrefs.Save();
 
-            // Hide the Name Input UI
             phase1Folder.SetActive(false);
 
-            // START DIALOGUE PART 2 (This is where the narrator will say "@playername")
-            if (dm != null) dm.PlayDialogue("MapIntro2");
+            if (dm != null) 
+            {
+                dm.keepOpenOnEnd = false; 
+                dm.PlayDialogue("MapIntro2");
+            }
             currentState = MapState.PlayingIntro2;
         }
     }

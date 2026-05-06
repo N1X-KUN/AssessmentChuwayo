@@ -27,19 +27,25 @@ public class DialogueManager : MonoBehaviour
     [Header("All Game Dialogues")]
     public DialogueSequence[] allSequences;
 
-    [Header("UI Elements")]
-    public GameObject dialogueOverlay; 
+    [Header("Left Side UI")]
     public GameObject leftBox;
     public TextMeshProUGUI leftText;
-    public Animator leftAvatarAnim;
+    public Animator leftAvatarGiant; // FOR THE MASSIVE AVATAR
+    public Animator leftAvatarHead;  // FOR THE CROPPED HEAD
+
+    [Header("Right Side UI")]
     public GameObject rightBox;
     public TextMeshProUGUI rightText;
-    public Animator rightAvatarAnim;
+    public Animator rightAvatarGiant; // FOR THE MASSIVE AVATAR
+    public Animator rightAvatarHead;  // FOR THE CROPPED HEAD
+
+    [Header("Other UI Elements")]
+    public GameObject dialogueOverlay; 
 
     [Header("Settings")]
     public float typingSpeed = 0.03f;
 
-    [Header("Tutorial Mode Flags (The Checklist)")]
+    [Header("Tutorial Mode Flags")]
     public bool isTutorialMode = true; 
 
     [Header("End Game Buttons (Leave Empty in Map Scene)")]
@@ -48,6 +54,7 @@ public class DialogueManager : MonoBehaviour
     public GameObject loseGiveUpButton;   
 
     [HideInInspector] public bool dialogueIsActive = false;
+    [HideInInspector] public bool keepOpenOnEnd = false; // KEEPS IT OPEN FOR TYPING!
     
     private DialogueSequence currentSequence;
     private int currentLineIndex = 0;
@@ -59,6 +66,10 @@ public class DialogueManager : MonoBehaviour
         if (dialogueOverlay != null) dialogueOverlay.SetActive(false);
         if (leftBox != null) leftBox.SetActive(false);
         if (rightBox != null) rightBox.SetActive(false);
+        
+        // Hide giant avatars by default
+        if (leftAvatarGiant != null) leftAvatarGiant.gameObject.SetActive(false);
+        if (rightAvatarGiant != null) rightAvatarGiant.gameObject.SetActive(false);
 
         if (winNextLevelButton != null) winNextLevelButton.SetActive(false);
         if (loseTryAgainButton != null) loseTryAgainButton.SetActive(false);
@@ -95,7 +106,6 @@ public class DialogueManager : MonoBehaviour
 
     public void PlayDialogue(string seqName)
     {
-        // Removed the strict tutorial block so the Map Scene can play its Intro!
         foreach (DialogueSequence seq in allSequences)
         {
             if (seq.sequenceName == seqName)
@@ -122,11 +132,14 @@ public class DialogueManager : MonoBehaviour
         DialogueLine line = currentSequence.lines[index];
         leftBox.SetActive(false);
         rightBox.SetActive(false);
+        
+        if (leftAvatarGiant != null) leftAvatarGiant.gameObject.SetActive(false);
+        if (rightAvatarGiant != null) rightAvatarGiant.gameObject.SetActive(false);
+
         leftText.text = "";
         rightText.text = "";
 
         // --- THE MAGIC NAME CHECKER ---
-        // This looks at the text and replaces "@playername" with their actual saved name!
         string actualText = line.text;
         if (actualText.Contains("@playername"))
         {
@@ -137,17 +150,43 @@ public class DialogueManager : MonoBehaviour
         if (line.side == DialogueLine.SpeakerSide.Left)
         {
             leftBox.SetActive(true);
+            if (leftAvatarGiant != null) leftAvatarGiant.gameObject.SetActive(true);
+
             if (line.boxColor != null) leftBox.GetComponent<Image>().sprite = line.boxColor;
-            if (line.characterController != null) leftAvatarAnim.runtimeAnimatorController = line.characterController;
-            if (leftAvatarAnim != null && !string.IsNullOrEmpty(line.avatarAnimationName)) leftAvatarAnim.Play(line.avatarAnimationName);
+            
+            // PLAY ANIMATION ON BOTH GIANT AND HEAD!
+            if (line.characterController != null) 
+            {
+                if (leftAvatarGiant != null) leftAvatarGiant.runtimeAnimatorController = line.characterController;
+                if (leftAvatarHead != null) leftAvatarHead.runtimeAnimatorController = line.characterController;
+            }
+            if (!string.IsNullOrEmpty(line.avatarAnimationName)) 
+            {
+                if (leftAvatarGiant != null) leftAvatarGiant.Play(line.avatarAnimationName);
+                if (leftAvatarHead != null) leftAvatarHead.Play(line.avatarAnimationName);
+            }
+
             typingCoroutine = StartCoroutine(TypeLine(leftText, actualText));
         }
         else
         {
             rightBox.SetActive(true);
+            if (rightAvatarGiant != null) rightAvatarGiant.gameObject.SetActive(true);
+
             if (line.boxColor != null) rightBox.GetComponent<Image>().sprite = line.boxColor;
-            if (line.characterController != null) rightAvatarAnim.runtimeAnimatorController = line.characterController;
-            if (rightAvatarAnim != null && !string.IsNullOrEmpty(line.avatarAnimationName)) rightAvatarAnim.Play(line.avatarAnimationName);
+            
+            // PLAY ANIMATION ON BOTH GIANT AND HEAD!
+            if (line.characterController != null) 
+            {
+                if (rightAvatarGiant != null) rightAvatarGiant.runtimeAnimatorController = line.characterController;
+                if (rightAvatarHead != null) rightAvatarHead.runtimeAnimatorController = line.characterController;
+            }
+            if (!string.IsNullOrEmpty(line.avatarAnimationName)) 
+            {
+                if (rightAvatarGiant != null) rightAvatarGiant.Play(line.avatarAnimationName);
+                if (rightAvatarHead != null) rightAvatarHead.Play(line.avatarAnimationName);
+            }
+
             typingCoroutine = StartCoroutine(TypeLine(rightText, actualText));
         }
     }
@@ -160,7 +199,6 @@ public class DialogueManager : MonoBehaviour
         for (int i = 0; i <= line.Length; i++)
         {
             textComponent.maxVisibleCharacters = i;
-            // Use unscaled time so it still types even when time is paused!
             yield return new WaitForSecondsRealtime(typingSpeed); 
         }
         isTyping = false;
@@ -171,7 +209,6 @@ public class DialogueManager : MonoBehaviour
     {
         DialogueLine line = currentSequence.lines[currentLineIndex];
         
-        // --- DO THE NAME CHECK HERE TOO FOR INSTANT TEXT ---
         string actualText = line.text;
         if (actualText.Contains("@playername"))
         {
@@ -220,16 +257,22 @@ public class DialogueManager : MonoBehaviour
     private void EndDialogue()
     {
         dialogueIsActive = false;
-        if (dialogueOverlay != null) dialogueOverlay.SetActive(false);
-        if (leftBox != null) leftBox.SetActive(false);
-        if (rightBox != null) rightBox.SetActive(false);
+
+        // ONLY hide the UI if we didn't tell it to stay open for the typing box!
+        if (!keepOpenOnEnd)
+        {
+            if (dialogueOverlay != null) dialogueOverlay.SetActive(false);
+            if (leftBox != null) leftBox.SetActive(false);
+            if (rightBox != null) rightBox.SetActive(false);
+            if (leftAvatarGiant != null) leftAvatarGiant.gameObject.SetActive(false);
+            if (rightAvatarGiant != null) rightAvatarGiant.gameObject.SetActive(false);
+        }
 
         if (AudioManager.instance != null) AudioManager.instance.MuffleMusic(false);
 
         Time.timeScale = 1f; 
     }
 
-    // [Your end buttons remain exactly the same below]
     public void Button_TryAgain()
     {
         PlayerPrefs.SetInt("TutorialMode", 0); 
