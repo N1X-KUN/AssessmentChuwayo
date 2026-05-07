@@ -4936,6 +4936,10 @@ PrefabInstance:
       propertyPath: winNextLevelButton
       value: 
       objectReference: {fileID: 1666808718}
+    - target: {fileID: 5956164553026348978, guid: 13eb45ed53a25434ba8fb2921f80b782, type: 3}
+      propertyPath: allSequences.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6548471961380349272, guid: 13eb45ed53a25434ba8fb2921f80b782, type: 3}
       propertyPath: m_Name
       value: DialogueMaster
@@ -5098,7 +5102,7 @@ PrefabInstance:
       objectReference: {fileID: 1091921701}
     - target: {fileID: 7142079977354245658, guid: 68788019ca5947540a1d435f7e697a50, type: 3}
       propertyPath: isTutorialLevel
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7142079977354245658, guid: 68788019ca5947540a1d435f7e697a50, type: 3}
       propertyPath: playerSpawnPoint
@@ -5457,6 +5461,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: AudioManager
       objectReference: {fileID: 0}
+    - target: {fileID: 6244831598370975630, guid: 6ee0b2a19ad1bbb47b6e83ab17f9b191, type: 3}
+      propertyPath: levelMusic
+      value: 
+      objectReference: {fileID: 8300000, guid: 9fce8e4c22c2c3442a0b38db911fe2b8, type: 3}
     - target: {fileID: 8691684177020243474, guid: 6ee0b2a19ad1bbb47b6e83ab17f9b191, type: 3}
       propertyPath: m_LocalPosition.x
       value: 948.13464

@@ -30,14 +30,14 @@ public class DialogueManager : MonoBehaviour
     [Header("Left Side UI")]
     public GameObject leftBox;
     public TextMeshProUGUI leftText;
-    public Animator leftAvatarGiant; // FOR THE MASSIVE AVATAR
-    public Animator leftAvatarHead;  // FOR THE CROPPED HEAD
+    public Animator leftAvatarGiant; 
+    public Animator leftAvatarHead;  
 
     [Header("Right Side UI")]
     public GameObject rightBox;
     public TextMeshProUGUI rightText;
-    public Animator rightAvatarGiant; // FOR THE MASSIVE AVATAR
-    public Animator rightAvatarHead;  // FOR THE CROPPED HEAD
+    public Animator rightAvatarGiant; 
+    public Animator rightAvatarHead;  
 
     [Header("Other UI Elements")]
     public GameObject dialogueOverlay; 
@@ -54,7 +54,7 @@ public class DialogueManager : MonoBehaviour
     public GameObject loseGiveUpButton;   
 
     [HideInInspector] public bool dialogueIsActive = false;
-    [HideInInspector] public bool keepOpenOnEnd = false; // KEEPS IT OPEN FOR TYPING!
+    [HideInInspector] public bool keepOpenOnEnd = false; 
     
     private DialogueSequence currentSequence;
     private int currentLineIndex = 0;
@@ -67,7 +67,6 @@ public class DialogueManager : MonoBehaviour
         if (leftBox != null) leftBox.SetActive(false);
         if (rightBox != null) rightBox.SetActive(false);
         
-        // Hide giant avatars by default
         if (leftAvatarGiant != null) leftAvatarGiant.gameObject.SetActive(false);
         if (rightAvatarGiant != null) rightAvatarGiant.gameObject.SetActive(false);
 
@@ -139,7 +138,6 @@ public class DialogueManager : MonoBehaviour
         leftText.text = "";
         rightText.text = "";
 
-        // --- THE MAGIC NAME CHECKER ---
         string actualText = line.text;
         if (actualText.Contains("@playername"))
         {
@@ -154,7 +152,6 @@ public class DialogueManager : MonoBehaviour
 
             if (line.boxColor != null) leftBox.GetComponent<Image>().sprite = line.boxColor;
             
-            // PLAY ANIMATION ON BOTH GIANT AND HEAD!
             if (line.characterController != null) 
             {
                 if (leftAvatarGiant != null) leftAvatarGiant.runtimeAnimatorController = line.characterController;
@@ -175,7 +172,6 @@ public class DialogueManager : MonoBehaviour
 
             if (line.boxColor != null) rightBox.GetComponent<Image>().sprite = line.boxColor;
             
-            // PLAY ANIMATION ON BOTH GIANT AND HEAD!
             if (line.characterController != null) 
             {
                 if (rightAvatarGiant != null) rightAvatarGiant.runtimeAnimatorController = line.characterController;
@@ -258,7 +254,6 @@ public class DialogueManager : MonoBehaviour
     {
         dialogueIsActive = false;
 
-        // ONLY hide the UI if we didn't tell it to stay open for the typing box!
         if (!keepOpenOnEnd)
         {
             if (dialogueOverlay != null) dialogueOverlay.SetActive(false);
@@ -287,13 +282,29 @@ public class DialogueManager : MonoBehaviour
             PlayerPrefs.SetInt("HasFinishedTutorial", 1);
             PlayerPrefs.Save();
         }
-        LoadingManager.Instance.LoadNewScene("MenuScene"); 
+        
+        if (LoadingManager.Instance != null)
+        {
+            LoadingManager.Instance.LoadNewScene("MenuScene"); 
+        }
+        else
+        {
+            SceneManager.LoadScene("MenuScene");
+        }
     }
 
     public void Button_YesLetsGo()
     {
         PlayerPrefs.SetInt("HasFinishedTutorial", 1);
         PlayerPrefs.Save();
-        LoadingManager.Instance.LoadNewScene("MapScene");
+        
+        if (LoadingManager.Instance != null)
+        {
+            LoadingManager.Instance.LoadNewScene("MapScene");
+        }
+        else
+        {
+            SceneManager.LoadScene("MapScene");
+        }
     }
 }

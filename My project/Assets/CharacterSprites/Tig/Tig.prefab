@@ -27,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6134281476658702171}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 0.99983853, z: -0, w: -0.017970005}
+  m_LocalRotation: {x: 0, y: 0.9998386, z: -0, w: -0.017967133}
   m_LocalPosition: {x: -5.65, y: -3, z: -0.02}
   m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_ConstrainProportionsScale: 0
@@ -103,7 +103,7 @@ Animator:
   m_GameObject: {fileID: 6134281476658702171}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e8d47974ddaab4445b7b6ad6a16f29fd, type: 2}
+  m_Controller: {fileID: 9100000, guid: 2609fafffabdb6e47929db62eef25472, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 2
   m_ApplyRootMotion: 0
@@ -128,6 +128,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::KommyController
   anim: {fileID: 0}
+  animPrefix: Tig
   runSpeed: 2
   maxHp: 5
   currentHp: 0

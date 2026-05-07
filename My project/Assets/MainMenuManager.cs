@@ -86,7 +86,7 @@ public class MainMenuManager : MonoBehaviour
             
             foreach (CharacterCard card in allCards)
             {
-                if (card.characterName == "Kommy") 
+                if (card.characterName == "Tig") 
                 {
                     card.isUnlocked = true;
                     card.isEquipped = true;

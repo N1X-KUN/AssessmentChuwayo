@@ -29,7 +29,7 @@ public class CharacterCard : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
 
     void Start()
     {
-        string savedCharacter = PlayerPrefs.GetString("EquippedCharacter", "Kommy");
+        string savedCharacter = PlayerPrefs.GetString("EquippedCharacter", "Tig");
         isEquipped = (savedCharacter == characterName);
         UpdateCardVisuals();
     }

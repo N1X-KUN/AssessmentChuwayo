@@ -88,6 +88,7 @@ GameObject:
   - component: {fileID: 9125912236749498393}
   - component: {fileID: 8052736485008709686}
   - component: {fileID: 3041694303197669733}
+  - component: {fileID: 6269591252043333201}
   m_Layer: 0
   m_Name: MapNode
   m_TagString: Untagged
@@ -104,7 +105,7 @@ RectTransform:
   m_GameObject: {fileID: 2170202752861713587}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.2, y: 1.2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4618616967144583374}
@@ -216,3 +217,18 @@ MonoBehaviour:
   unlocked1Star: {fileID: -36424112094377929, guid: 0f5ac56d4bd8e924dbe14f07371ec221, type: 3}
   unlocked2Stars: {fileID: 3299506165492930259, guid: 21c2828d976d7dd47929795827e16c35, type: 3}
   unlocked3Stars: {fileID: 1746752960964344501, guid: 0c327c5b625ba2e4ebbf309e7e567e5d, type: 3}
+--- !u!114 &6269591252043333201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2170202752861713587}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea0e38d049250224b89dddecfb73faed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MapNode
+  sceneToLoad: MapNode1
+  levelNumber: 1
+  isAlwaysUnlocked: 0

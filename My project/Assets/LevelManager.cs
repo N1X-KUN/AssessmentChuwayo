@@ -44,7 +44,7 @@ public class LevelManager : MonoBehaviour
 
     void SetupPlayerAndUI()
     {
-        string equippedChar = PlayerPrefs.GetString("EquippedCharacter", "Kommy");
+        string equippedChar = PlayerPrefs.GetString("EquippedCharacter", "Tig");
 
         if (isTutorialLevel)
         {
