@@ -398,7 +398,8 @@ public class KommyController : MonoBehaviour
         ForceClearAllEffects(); 
         PlayAnimation(animPrefix + "Victory"); 
         
-        if (dm != null) dm.PlayDialogue("TutorialWin");
+        // --- NEW: Calls the ScoreManager! ---
+        if (ScoreManager.Instance != null) ScoreManager.Instance.TriggerEndGame(true);
         
         StartCoroutine(FreezeWorldRoutine());
     }
@@ -410,7 +411,8 @@ public class KommyController : MonoBehaviour
         ForceClearAllEffects(); 
         PlayAnimation(animPrefix + "Die");
         
-        if (dm != null) dm.PlayDialogue("TutorialLose");
+        // --- NEW: Calls the ScoreManager! ---
+        if (ScoreManager.Instance != null) ScoreManager.Instance.TriggerEndGame(false);
         
         StartCoroutine(FreezeWorldRoutine());
     }

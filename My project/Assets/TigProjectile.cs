@@ -16,20 +16,15 @@ public class TigProjectile : MonoBehaviour
     {
         thief = FindAnyObjectByType<ThiefController>();
         anim = GetComponent<Animator>(); 
-        
-        // Start the timer for when it flies off the screen
         StartCoroutine(FlyOutOfBoundsRoutine(lifeTime));
     }
 
     void Update()
     {
-        // Stop moving forward if it exploded!
         if (hasHitSomething) return; 
 
-        // Move Right
         transform.Translate(Vector3.right * speed * Time.deltaTime);
 
-        // Check distance to Thief
         if (thief != null)
         {
             if (Mathf.Abs(transform.position.x - thief.transform.position.x) <= hitDistance)
@@ -38,12 +33,15 @@ public class TigProjectile : MonoBehaviour
                 {
                     hasHitSomething = true;
                     
-                    thief.TriggerTumbleHit(); 
+                    // --- NEW: HEAVY GROUND STUN ---
+                    thief.StepBackward(); // Push 1
+                    thief.StepBackward(); // Push 2 (Double distance!)
+                    thief.anim.Play("ThiefStun"); // Force the visual stun
+                    thief.ShowEmoticon("EmoticonCry", 2.05f); // Make him cry
                     
                     KommyController player = FindAnyObjectByType<KommyController>();
                     if (player != null) player.TriggerHappyFace();
 
-                    // Play Slash 4 and destroy
                     StartCoroutine(PlayImpactAndDestroy());
                 }
             }
@@ -54,12 +52,19 @@ public class TigProjectile : MonoBehaviour
     {
         if (col.CompareTag("Trap") || col.CompareTag("Obstacle"))
         {
-            // Destroy the rock, keep flying!
-            Destroy(col.gameObject);
+            // --- NEW: DESTROY THE ROOT PARENT ---
+            // This guarantees the visual sprite is destroyed instantly, not just the collider child!
+            if (col.transform.parent != null)
+            {
+                Destroy(col.transform.parent.gameObject);
+            }
+            else
+            {
+                Destroy(col.gameObject);
+            }
         }
     }
 
-    // Plays the Slash4 animation, waits 0.2 seconds to show it, then deletes it
     private IEnumerator PlayImpactAndDestroy()
     {
         if (anim != null) anim.Play("SlashHit"); 
@@ -67,7 +72,6 @@ public class TigProjectile : MonoBehaviour
         Destroy(gameObject);
     }
 
-    // If it survives 4 seconds without hitting the thief, explode at the edge of the screen
     private IEnumerator FlyOutOfBoundsRoutine(float delay)
     {
         yield return new WaitForSeconds(delay);

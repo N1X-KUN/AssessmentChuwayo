@@ -58,6 +58,23 @@ public class LevelManager : MonoBehaviour
 
     void Awake()
     {
+        // --- NEW: CINEMATIC MEMORY CHECK ---
+        if (playCinematicIntro)
+        {
+            // If the game remembers we already saw the intro, force skip it!
+            if (PlayerPrefs.GetInt("HasSeenLevel1Intro", 0) == 1)
+            {
+                playCinematicIntro = false;
+            }
+            else
+            {
+                // Otherwise, mark it in memory so we NEVER see it again on this save file
+                PlayerPrefs.SetInt("HasSeenLevel1Intro", 1);
+                PlayerPrefs.Save();
+            }
+        }
+        // -----------------------------------
+
         SetupPlayerAndUI();
     }
 

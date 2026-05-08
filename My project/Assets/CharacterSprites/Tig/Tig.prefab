@@ -138,7 +138,7 @@ MonoBehaviour:
   jumpCooldown: 2
   maxCharge: 100
   currentCharge: 0
-  passiveChargeRate: 2
+  passiveChargeRate: 5
   isAbilityActive: 0
   drainRate: 20
   slowMotionSpeed: 0.4
