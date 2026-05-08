@@ -14,6 +14,10 @@ public class DialogueManager : MonoBehaviour
         public RuntimeAnimatorController characterController; 
         public Sprite boxColor; 
         public string avatarAnimationName; 
+        
+        [Tooltip("Leave empty to play the default pop sound")]
+        public AudioClip customVoiceLine; 
+        
         [TextArea(3, 10)] public string text;
     }
 
@@ -21,6 +25,8 @@ public class DialogueManager : MonoBehaviour
     public class DialogueSequence
     {
         public string sequenceName; 
+        [Tooltip("Optional: Drops a background behind the dialogue. Leave empty for transparent game background.")]
+        public Sprite backgroundImage; 
         public DialogueLine[] lines;
     }
 
@@ -41,6 +47,7 @@ public class DialogueManager : MonoBehaviour
 
     [Header("Other UI Elements")]
     public GameObject dialogueOverlay; 
+    public Image dialogueBackgroundImage; // NEW: The background image!
 
     [Header("Settings")]
     public float typingSpeed = 0.03f;
@@ -69,6 +76,7 @@ public class DialogueManager : MonoBehaviour
         
         if (leftAvatarGiant != null) leftAvatarGiant.gameObject.SetActive(false);
         if (rightAvatarGiant != null) rightAvatarGiant.gameObject.SetActive(false);
+        if (dialogueBackgroundImage != null) dialogueBackgroundImage.gameObject.SetActive(false);
 
         if (winNextLevelButton != null) winNextLevelButton.SetActive(false);
         if (loseTryAgainButton != null) loseTryAgainButton.SetActive(false);
@@ -113,6 +121,20 @@ public class DialogueManager : MonoBehaviour
                 dialogueIsActive = true;
                 dialogueOverlay.SetActive(true);
                 currentLineIndex = 0;
+
+                // --- NEW BACKGROUND LOGIC ---
+                if (dialogueBackgroundImage != null)
+                {
+                    if (seq.backgroundImage != null)
+                    {
+                        dialogueBackgroundImage.sprite = seq.backgroundImage;
+                        dialogueBackgroundImage.gameObject.SetActive(true);
+                    }
+                    else
+                    {
+                        dialogueBackgroundImage.gameObject.SetActive(false);
+                    }
+                }
                 
                 Time.timeScale = 0f; 
 
@@ -126,9 +148,14 @@ public class DialogueManager : MonoBehaviour
 
     private void PlayLine(int index)
     {
-        if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop);
-
         DialogueLine line = currentSequence.lines[index];
+
+        if (AudioManager.instance != null)
+        {
+            if (line.customVoiceLine != null) AudioManager.instance.PlayUI(line.customVoiceLine); 
+            else AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop);
+        }
+
         leftBox.SetActive(false);
         rightBox.SetActive(false);
         
@@ -261,6 +288,7 @@ public class DialogueManager : MonoBehaviour
             if (rightBox != null) rightBox.SetActive(false);
             if (leftAvatarGiant != null) leftAvatarGiant.gameObject.SetActive(false);
             if (rightAvatarGiant != null) rightAvatarGiant.gameObject.SetActive(false);
+            if (dialogueBackgroundImage != null) dialogueBackgroundImage.gameObject.SetActive(false);
         }
 
         if (AudioManager.instance != null) AudioManager.instance.MuffleMusic(false);

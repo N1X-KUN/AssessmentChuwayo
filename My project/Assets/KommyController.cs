@@ -29,17 +29,20 @@ public class KommyController : MonoBehaviour
     public float maxCharge = 100f;
     public float currentCharge = 0f;
     public float passiveChargeRate = 2f; 
-    public float drainRate = 20f; 
-    public float slowMotionSpeed = 0.4f; 
     public bool isAbilityActive = false;
     
-    [Tooltip("How many seconds early should the sound play to skip the silence?")]
+    [Header("Kommy Specific (Time Stop)")]
+    public float drainRate = 20f; 
+    public float slowMotionSpeed = 0.4f; 
     public float endSoundPrecastTime = 1.5f; 
     private bool hasPlayedEndSound = false;
-    
-    [Header("Ultimate Screen Effects")]
     public GameObject zawarudoIcon;     
     public GameObject zawarudoOverlay;  
+
+    [Header("Tig Specific (Moon Slash)")]
+    public GameObject tigProjectilePrefab;
+    public GameObject tigOverlay; // The screen effect that stays for 2 seconds
+    public float tigAbilityDuration = 2f; // Tig's ability only lasts 2 seconds
 
     [Header("UI Visuals")]
     public Slider hpSlider; 
@@ -78,13 +81,13 @@ public class KommyController : MonoBehaviour
         
         if (zawarudoIcon != null) zawarudoIcon.SetActive(false);
         if (zawarudoOverlay != null) zawarudoOverlay.SetActive(false);
+        if (tigOverlay != null) tigOverlay.SetActive(false);
 
         UpdateUI();
     }
 
     private void AutoLinkUI()
     {
-        // DYNAMICALLY FINDS THE CORRECT UI BASED ON THE CHARACTER PREFIX!
         GameObject activeHeroUI = GameObject.Find("HeroUI_" + animPrefix);
 
         if (activeHeroUI != null)
@@ -118,6 +121,7 @@ public class KommyController : MonoBehaviour
                 {
                     if (t.name == "TimeSlow") zawarudoIcon = t.gameObject;
                     if (t.name == "TimeSlowEffect") zawarudoOverlay = t.gameObject;
+                    if (t.name == "TigSlashOverlay") tigOverlay = t.gameObject; // LINKS TIG'S OVERLAY
                 }
             }
         }
@@ -170,10 +174,12 @@ public class KommyController : MonoBehaviour
 
         if (isAbilityActive)
         {
-            currentCharge -= drainRate * Time.unscaledDeltaTime; 
+            // DYNAMIC DRAIN: Tig drains in exactly 2 seconds. Kommy uses her normal drain rate.
+            float currentDrainRate = (animPrefix == "Tig") ? (maxCharge / tigAbilityDuration) : drainRate;
+            currentCharge -= currentDrainRate * Time.unscaledDeltaTime; 
             UpdateUI();
 
-            if (currentCharge <= (drainRate * endSoundPrecastTime) && !hasPlayedEndSound)
+            if (animPrefix == "Kommy" && currentCharge <= (drainRate * endSoundPrecastTime) && !hasPlayedEndSound)
             {
                 if (AudioManager.instance != null) AudioManager.instance.PlaySFX(AudioManager.instance.timeSoundEnd);
                 hasPlayedEndSound = true;
@@ -207,23 +213,40 @@ public class KommyController : MonoBehaviour
             abilityBarRect.localRotation = Quaternion.identity; 
         }
         
-        if (zawarudoIcon != null) zawarudoIcon.SetActive(true); 
-        if (zawarudoOverlay != null) zawarudoOverlay.SetActive(true); 
-        
         if (wm != null)
         {
             wm.isPlayerDizzy = false;
             if (wm.dizzyAnimator != null) wm.dizzyAnimator.gameObject.SetActive(false);
         }
 
-        if (AudioManager.instance != null)
+        // --- THE FORK IN THE ROAD ---
+        if (animPrefix == "Kommy")
         {
-            AudioManager.instance.PlaySFX(AudioManager.instance.timeSoundStart);
-            AudioManager.instance.SetUnderwaterMusic(true);
+            if (zawarudoIcon != null) zawarudoIcon.SetActive(true); 
+            if (zawarudoOverlay != null) zawarudoOverlay.SetActive(true); 
+
+            if (AudioManager.instance != null)
+            {
+                AudioManager.instance.PlaySFX(AudioManager.instance.timeSoundStart);
+                AudioManager.instance.SetUnderwaterMusic(true);
+            }
+
+            Time.timeScale = slowMotionSpeed; 
+            Time.fixedDeltaTime = 0.02f * Time.timeScale; 
+        }
+        else if (animPrefix == "Tig")
+        {
+            if (tigOverlay != null) tigOverlay.SetActive(true); 
+            
+            // Spawn the Crescent Moon Projectile slightly in front of Tig
+            if (tigProjectilePrefab != null)
+            {
+                Instantiate(tigProjectilePrefab, transform.position + new Vector3(1.5f, 0, 0), Quaternion.identity);
+            }
+
+            // ADD TIG'S ABILITY SOUND HERE IN THE FUTURE!
         }
 
-        Time.timeScale = slowMotionSpeed; 
-        Time.fixedDeltaTime = 0.02f * Time.timeScale; 
         PlayAnimation(animPrefix + "Ability"); 
     }
 
@@ -231,16 +254,25 @@ public class KommyController : MonoBehaviour
     {
         isAbilityActive = false;
         currentCharge = 0f;
-        Time.timeScale = 1f; 
-        Time.fixedDeltaTime = 0.02f;
         
-        if (zawarudoIcon != null) zawarudoIcon.SetActive(false); 
-        if (zawarudoOverlay != null) zawarudoOverlay.SetActive(false); 
-
-        if (AudioManager.instance != null)
+        // --- THE FORK IN THE ROAD ---
+        if (animPrefix == "Kommy")
         {
-            if (!hasPlayedEndSound) AudioManager.instance.PlaySFX(AudioManager.instance.timeSoundEnd);
-            AudioManager.instance.SetUnderwaterMusic(false);
+            Time.timeScale = 1f; 
+            Time.fixedDeltaTime = 0.02f;
+            
+            if (zawarudoIcon != null) zawarudoIcon.SetActive(false); 
+            if (zawarudoOverlay != null) zawarudoOverlay.SetActive(false); 
+
+            if (AudioManager.instance != null)
+            {
+                if (!hasPlayedEndSound) AudioManager.instance.PlaySFX(AudioManager.instance.timeSoundEnd);
+                AudioManager.instance.SetUnderwaterMusic(false);
+            }
+        }
+        else if (animPrefix == "Tig")
+        {
+            if (tigOverlay != null) tigOverlay.SetActive(false); // Hides overlay after 2 seconds
         }
 
         currentState = CharacterState.Running;
@@ -253,6 +285,7 @@ public class KommyController : MonoBehaviour
         isAbilityActive = false;
         if (zawarudoIcon != null) zawarudoIcon.SetActive(false); 
         if (zawarudoOverlay != null) zawarudoOverlay.SetActive(false); 
+        if (tigOverlay != null) tigOverlay.SetActive(false); 
         
         if (wm != null)
         {

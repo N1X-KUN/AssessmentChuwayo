@@ -134,17 +134,20 @@ MonoBehaviour:
   currentHp: 0
   currentState: 0
   jumpHeight: 2.5
-  jumpDuration: 0.6
-  jumpCooldown: 0.8
+  jumpDuration: 1
+  jumpCooldown: 2
   maxCharge: 100
   currentCharge: 0
   passiveChargeRate: 2
+  isAbilityActive: 0
   drainRate: 20
   slowMotionSpeed: 0.4
-  isAbilityActive: 0
   endSoundPrecastTime: 3
   zawarudoIcon: {fileID: 0}
   zawarudoOverlay: {fileID: 0}
+  tigProjectilePrefab: {fileID: 6285118621362933263, guid: 2fe23124c4bc4b04db3da21ef604f9e1, type: 3}
+  tigOverlay: {fileID: 1806487461365966256, guid: be2f9a615671e284e9119b5b46475e8f, type: 3}
+  tigAbilityDuration: 2
   hpSlider: {fileID: 0}
   abilitySlider: {fileID: 0}
   uiFaceAnimator: {fileID: 0}

@@ -409,6 +409,15 @@ public class WordManager : MonoBehaviour
 
     public void UpdateScoreUI()
     {
+        // Dynamically find the active score text!
+        if (scoreText == null || !scoreText.gameObject.activeInHierarchy)
+        {
+            GameObject activeScore = GameObject.Find("ScoreBackground_Kommy");
+            if (activeScore == null || !activeScore.activeSelf) activeScore = GameObject.Find("ScoreBackground_Tig");
+            
+            if (activeScore != null) scoreText = activeScore.GetComponentInChildren<TMP_Text>();
+        }
+
         if (scoreText != null) scoreText.text = currentScore + "\nPOINTS";
     }
 }
