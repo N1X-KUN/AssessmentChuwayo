@@ -391,15 +391,25 @@ public class KommyController : MonoBehaviour
         StartCoroutine(StunRoutine());
     }
 
-    public void WinGame()
+public void WinGame()
     {
         if (currentState == CharacterState.Dead || currentState == CharacterState.Victory) return;
         currentState = CharacterState.Victory;
         ForceClearAllEffects(); 
         PlayAnimation(animPrefix + "Victory"); 
         
-        // --- NEW: Calls the ScoreManager! ---
-        if (ScoreManager.Instance != null) ScoreManager.Instance.TriggerEndGame(true);
+        // --- THE FIX: Smart Scene Routing ---
+        if (ScoreManager.Instance != null) 
+        {
+            // If we are in Level 1, use the Scoreboard!
+            ScoreManager.Instance.TriggerEndGame(true);
+        }
+        else
+        {
+            // If we are in the Tutorial, fallback to the Dialogue!
+            DialogueManager dm = FindAnyObjectByType<DialogueManager>();
+            if (dm != null) dm.PlayDialogue("TutorialWin");
+        }
         
         StartCoroutine(FreezeWorldRoutine());
     }
@@ -411,8 +421,18 @@ public class KommyController : MonoBehaviour
         ForceClearAllEffects(); 
         PlayAnimation(animPrefix + "Die");
         
-        // --- NEW: Calls the ScoreManager! ---
-        if (ScoreManager.Instance != null) ScoreManager.Instance.TriggerEndGame(false);
+        // --- THE FIX: Smart Scene Routing ---
+        if (ScoreManager.Instance != null) 
+        {
+            // If we are in Level 1, use the Scoreboard!
+            ScoreManager.Instance.TriggerEndGame(false);
+        }
+        else
+        {
+            // If we are in the Tutorial, fallback to the Dialogue!
+            DialogueManager dm = FindAnyObjectByType<DialogueManager>();
+            if (dm != null) dm.PlayDialogue("TutorialLose");
+        }
         
         StartCoroutine(FreezeWorldRoutine());
     }

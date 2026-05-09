@@ -1466,6 +1466,7 @@ GameObject:
   m_Component:
   - component: {fileID: 82275625}
   - component: {fileID: 82275626}
+  - component: {fileID: 82275627}
   m_Layer: 0
   m_Name: InfiniteLevel
   m_TagString: Untagged
@@ -1571,6 +1572,19 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!114 &82275627
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 82275624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c23bf42968c014596807e64c8608d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IslandSilhouette
+  levelNumber: 2
 --- !u!1 &89660201
 GameObject:
   m_ObjectHideFlags: 0
@@ -1763,6 +1777,7 @@ GameObject:
   m_Component:
   - component: {fileID: 95737536}
   - component: {fileID: 95737538}
+  - component: {fileID: 95737537}
   m_Layer: 0
   m_Name: Silhouette_Level2
   m_TagString: Untagged
@@ -1790,6 +1805,19 @@ Transform:
   - {fileID: 1009731507}
   m_Father: {fileID: 1150474286}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &95737537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 95737535}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c23bf42968c014596807e64c8608d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IslandSilhouette
+  levelNumber: 2
 --- !u!212 &95737538
 SpriteRenderer:
   serializedVersion: 2
@@ -4006,6 +4034,7 @@ GameObject:
   m_Component:
   - component: {fileID: 300376169}
   - component: {fileID: 300376170}
+  - component: {fileID: 300376171}
   m_Layer: 0
   m_Name: ShopIsland
   m_TagString: Untagged
@@ -4093,6 +4122,19 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!114 &300376171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 300376168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c23bf42968c014596807e64c8608d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IslandSilhouette
+  levelNumber: 2
 --- !u!1 &303251871
 GameObject:
   m_ObjectHideFlags: 0
@@ -4564,10 +4606,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: MapInfi
       objectReference: {fileID: 0}
-    - target: {fileID: 3041694303197669733, guid: f6d56799bafcab1439553ec64ffee570, type: 3}
-      propertyPath: levelNumber
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 4618616967144583374, guid: f6d56799bafcab1439553ec64ffee570, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0.6
@@ -4662,7 +4700,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6269591252043333201, guid: f6d56799bafcab1439553ec64ffee570, type: 3}
       propertyPath: levelNumber
-      value: 2
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 6269591252043333201, guid: f6d56799bafcab1439553ec64ffee570, type: 3}
       propertyPath: sceneToLoad
@@ -8631,10 +8669,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: MapShop
       objectReference: {fileID: 0}
-    - target: {fileID: 3041694303197669733, guid: f6d56799bafcab1439553ec64ffee570, type: 3}
-      propertyPath: levelNumber
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 4618616967144583374, guid: f6d56799bafcab1439553ec64ffee570, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: 0.6
@@ -8729,15 +8763,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6269591252043333201, guid: f6d56799bafcab1439553ec64ffee570, type: 3}
       propertyPath: levelNumber
-      value: 2
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 6269591252043333201, guid: f6d56799bafcab1439553ec64ffee570, type: 3}
       propertyPath: sceneToLoad
       value: ShopScene
-      objectReference: {fileID: 0}
-    - target: {fileID: 6269591252043333201, guid: f6d56799bafcab1439553ec64ffee570, type: 3}
-      propertyPath: isAlwaysUnlocked
-      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8052736485008709686, guid: f6d56799bafcab1439553ec64ffee570, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
@@ -9750,10 +9780,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: MapNode2
       objectReference: {fileID: 0}
-    - target: {fileID: 3041694303197669733, guid: f6d56799bafcab1439553ec64ffee570, type: 3}
-      propertyPath: levelNumber
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 6128640085374410495, guid: f6d56799bafcab1439553ec64ffee570, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -10454,6 +10480,7 @@ GameObject:
   m_Component:
   - component: {fileID: 731583442}
   - component: {fileID: 731583444}
+  - component: {fileID: 731583443}
   m_Layer: 0
   m_Name: Silhouette_InfiniteLevel
   m_TagString: Untagged
@@ -10500,6 +10527,19 @@ Transform:
   - {fileID: 404536109}
   m_Father: {fileID: 1150474286}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &731583443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 731583441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c23bf42968c014596807e64c8608d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IslandSilhouette
+  levelNumber: 2
 --- !u!212 &731583444
 SpriteRenderer:
   serializedVersion: 2
@@ -14992,6 +15032,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1134637656}
   - component: {fileID: 1134637655}
+  - component: {fileID: 1134637657}
   m_Layer: 0
   m_Name: Level2 Island
   m_TagString: Untagged
@@ -15078,6 +15119,19 @@ Transform:
   - {fileID: 683784869}
   m_Father: {fileID: 1150474286}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1134637657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1134637654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c23bf42968c014596807e64c8608d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IslandSilhouette
+  levelNumber: 2
 --- !u!1 &1144839857
 GameObject:
   m_ObjectHideFlags: 0
@@ -18743,12 +18797,11 @@ MonoBehaviour:
   phase3Part1Seq: Level2
   phase3Part2Seq: MapIntro3
   fadeSpeed: 1
-  phase1UI: {fileID: 1929697597}
   islandSilhouettes:
   - {fileID: 95737538}
-  - {fileID: 1591752744}
   - {fileID: 731583444}
-  forcePhase3Test: 1
+  - {fileID: 1591752744}
+  forcePhase3Test: 0
 --- !u!1001 &1450625617
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21261,6 +21314,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1591752746}
   - component: {fileID: 1591752744}
+  - component: {fileID: 1591752745}
   m_Layer: 0
   m_Name: Silhouette_Shop
   m_TagString: Untagged
@@ -21327,6 +21381,19 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!114 &1591752745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1591752743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c23bf42968c014596807e64c8608d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IslandSilhouette
+  levelNumber: 2
 --- !u!4 &1591752746
 Transform:
   m_ObjectHideFlags: 0
@@ -24821,26 +24888,6 @@ PrefabInstance:
       propertyPath: allSequences.Array.data[3].lines.Array.data[11].characterController
       value: 
       objectReference: {fileID: 9100000, guid: e0709e646b8e3a043947408c3f6b210c, type: 2}
-    - target: {fileID: 5956164553026348978, guid: 13eb45ed53a25434ba8fb2921f80b782, type: 3}
-      propertyPath: allSequences.Array.data[2].lines.Array.data[1].prefabScaleMultiplier
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5956164553026348978, guid: 13eb45ed53a25434ba8fb2921f80b782, type: 3}
-      propertyPath: allSequences.Array.data[2].lines.Array.data[3].prefabScaleMultiplier
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5956164553026348978, guid: 13eb45ed53a25434ba8fb2921f80b782, type: 3}
-      propertyPath: allSequences.Array.data[2].lines.Array.data[6].prefabScaleMultiplier
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5956164553026348978, guid: 13eb45ed53a25434ba8fb2921f80b782, type: 3}
-      propertyPath: allSequences.Array.data[2].lines.Array.data[8].prefabScaleMultiplier
-      value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5956164553026348978, guid: 13eb45ed53a25434ba8fb2921f80b782, type: 3}
-      propertyPath: allSequences.Array.data[2].lines.Array.data[10].prefabScaleMultiplier
-      value: 0.5
-      objectReference: {fileID: 0}
     - target: {fileID: 6548471961380349272, guid: 13eb45ed53a25434ba8fb2921f80b782, type: 3}
       propertyPath: m_Name
       value: DialogueMaster
@@ -26226,11 +26273,11 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 43020749}
-  - {fileID: 1392182077}
-  - {fileID: 739207326}
   - {fileID: 715222206}
   - {fileID: 1929697598}
+  - {fileID: 739207326}
+  - {fileID: 43020749}
+  - {fileID: 1392182077}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -26288,7 +26335,7 @@ Canvas:
   m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 0
-  m_Camera: {fileID: 1427754118}
+  m_Camera: {fileID: 0}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1

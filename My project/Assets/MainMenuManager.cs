@@ -20,13 +20,24 @@ public class MainMenuManager : MonoBehaviour
 
     void Start()
     {
-        // DEV WIPE HAS BEEN REMOVED! Memory will now safely persist.
         CloseAllPopups();
 
         if (volumeSlider != null)
         {
             volumeSlider.value = PlayerPrefs.GetFloat("SavedVolume", 1f);
             UpdateVolume(volumeSlider.value);
+        }
+    }
+
+    void Update()
+    {
+        // SAFETY LOCK: Prevent opening settings during cutscenes/dialogues!
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (Time.timeScale == 0f) return; 
+            
+            if (!settingsPanel.activeSelf) OpenSettings();
+            else CloseAllPopups();
         }
     }
 

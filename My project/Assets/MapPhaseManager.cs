@@ -5,7 +5,6 @@ using UnityEngine.UI;
 public class MapPhaseManager : MonoBehaviour
 {
     [Header("Developer Testing")]
-    [Tooltip("Check this to ALWAYS play the intro when testing the MapScene directly!")]
     public bool forcePlayIntro = false;
 
     [Header("Phase 1: Input Setup")]
@@ -30,8 +29,10 @@ public class MapPhaseManager : MonoBehaviour
         phase1Folder.SetActive(false); 
 
         string savedName = PlayerPrefs.GetString("PlayerName", "");
+        int hasFinishedLevel1 = PlayerPrefs.GetInt("HasFinishedTutorial", 0);
 
-        if (forcePlayIntro || savedName == "")
+        // ONLY play the scrolling intro if they haven't beaten Level 1 yet!
+        if (forcePlayIntro || (savedName == "" && hasFinishedLevel1 == 0))
         {
             Vector3 startPos = mainCamera.transform.position;
             startPos.y = bottomCameraLimit;
@@ -39,19 +40,15 @@ public class MapPhaseManager : MonoBehaviour
             
             currentState = MapState.AutoScrolling;
             
-            // --- THE ENTER KEY FIX ---
-            // 1. Listen for the Mouse Click
             submitNameButton.onClick.AddListener(SaveNameAndStartPart2);
-            
-            // 2. Listen for the Enter Key on the keyboard!
             nameInputField.onSubmit.AddListener((string input) => SaveNameAndStartPart2());
         }
         else
         {
+            // Skip straight to free roam/Phase 3!
             Vector3 startPos = mainCamera.transform.position;
             startPos.y = topCameraLimit;
             mainCamera.transform.position = startPos;
-
             currentState = MapState.FreeRoam;
         }
     }
@@ -69,11 +66,14 @@ public class MapPhaseManager : MonoBehaviour
                     autoPos.y = topCameraLimit;
                     mainCamera.transform.position = autoPos;
                     
+                    // --- RESTORE THIS BLOCK! ---
                     if (dm != null) 
                     {
                         dm.keepOpenOnEnd = true; 
-                        dm.PlayDialogue("MapIntro1");
+                        dm.PlayDialogue("MapIntro1"); 
                     }
+                    // ---------------------------
+                    
                     currentState = MapState.PlayingIntro1;
                 }
                 else
@@ -82,22 +82,18 @@ public class MapPhaseManager : MonoBehaviour
                 }
                 break;
 
-                case MapState.PlayingIntro1:
+            case MapState.PlayingIntro1:
                 if (dm != null && !dm.dialogueIsActive)
                 {
                     phase1Folder.SetActive(true);
                     nameInputField.Select();
                     nameInputField.ActivateInputField();
-                    
-                    // CRITICAL FIX: Unpause time so the typing cursor, delete key, and mouse clicks work perfectly!
                     Time.timeScale = 1f; 
-
                     currentState = MapState.WaitingForName;
                 }
                 break;
 
             case MapState.WaitingForName:
-                // Just waiting for the player to press Enter or Click Submit.
                 break;
 
             case MapState.PlayingIntro2:
@@ -125,14 +121,12 @@ public class MapPhaseManager : MonoBehaviour
 
     public void SaveNameAndStartPart2()
     {
-        // SAFETY CHECK: Stop the script if it accidentally fires twice
         if (currentState != MapState.WaitingForName) return;
 
         if (nameInputField.text.Length > 0)
         {
             PlayerPrefs.SetString("PlayerName", nameInputField.text);
             PlayerPrefs.Save();
-
             phase1Folder.SetActive(false);
 
             if (dm != null) 

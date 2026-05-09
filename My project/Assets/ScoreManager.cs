@@ -9,18 +9,18 @@ public class ScoreManager : MonoBehaviour
     public static ScoreManager Instance;
 
     [Header("UI Panels")]
-    public GameObject scoreboardPanel; // Drag your 'Scoreboard' parent object here
+    public GameObject scoreboardPanel; 
 
     [Header("Text Elements")]
-    public TMP_Text resultText; // VICTORY or DEFEAT
+    public TMP_Text resultText; 
     public TMP_Text scoreNumberText;
-    public TMP_Text coinNumberText; // Your 'ScoreNumberText (1)'
+    public TMP_Text coinNumberText; 
 
     [Header("Star Images")]
     public Image star1;
     public Image star2;
     public Image star3;
-    public Sprite goldStarSprite; // Drag 'Icon_Small_Star' here
+    public Sprite goldStarSprite; 
 
     [Header("Buttons")]
     public GameObject homeButton;
@@ -31,6 +31,8 @@ public class ScoreManager : MonoBehaviour
 
     void Awake()
     {
+        // Safety lock: Instantly destroy itself if it accidentally ends up in the Tutorial
+        if (SceneManager.GetActiveScene().name == "Tutorial") { Destroy(gameObject); return; }
         Instance = this; 
     }
 
@@ -47,20 +49,17 @@ public class ScoreManager : MonoBehaviour
 
     private IEnumerator EndGameSequence(bool isVictory)
     {
-        // Wait 1.5 seconds for the character's Win/Die animation to finish playing
         yield return new WaitForSecondsRealtime(1.5f);
 
         bool isFirstTime = PlayerPrefs.GetInt("HasFinishedTutorial", 0) == 0;
 
         if (!isVictory && isFirstTime)
         {
-            // FIRST TIME LOSE: Hide scoreboard, play dialogue!
             DialogueManager dm = FindAnyObjectByType<DialogueManager>();
             if (dm != null) dm.PlayDialogue("TutorialLose");
         }
         else
         {
-            // WIN OR REPLAY LOSE: Show the Scoreboard!
             ShowScoreboard(isVictory);
         }
     }
@@ -68,7 +67,7 @@ public class ScoreManager : MonoBehaviour
     private void ShowScoreboard(bool isVictory)
     {
         scoreboardPanel.SetActive(true);
-        Time.timeScale = 0f; // Freeze game background
+        Time.timeScale = 0f; 
 
         homeButton.SetActive(true);
         
@@ -78,8 +77,8 @@ public class ScoreManager : MonoBehaviour
             nextButton.SetActive(true);
             retryButton.SetActive(false);
             
-            // Mark Level 1 as beaten permanently!
             PlayerPrefs.SetInt("HasFinishedTutorial", 1); 
+            PlayerPrefs.SetInt("UnlockedLevel", 2); // <--- This unlocks Level 2 and the Shop!
             PlayerPrefs.Save();
         }
         else
@@ -97,59 +96,36 @@ public class ScoreManager : MonoBehaviour
         int finalScore = 0;
         if (wordManager != null) finalScore = wordManager.currentScore;
 
-        // CALCULATE COINS (10 points = 1 coin)
         int targetCoins = Mathf.FloorToInt(finalScore / 10f);
-        
-        // IF DEFEAT: Half the coins!
         if (!isVictory) targetCoins = Mathf.FloorToInt(targetCoins / 2f); 
 
-        // 1. ANIMATE THE SCORE COUNTING UP
         float duration = 1.5f;
         float elapsed = 0f;
         while (elapsed < duration)
         {
             elapsed += Time.unscaledDeltaTime;
-            // Lerp handles the smooth number climbing
             int currentDisplayScore = Mathf.FloorToInt(Mathf.Lerp(0, finalScore, elapsed / duration));
             scoreNumberText.text = currentDisplayScore.ToString();
             yield return null;
         }
-        scoreNumberText.text = finalScore.ToString(); // Snap to exact score
+        scoreNumberText.text = finalScore.ToString(); 
 
-        // 2. POP COINS
         coinNumberText.text = targetCoins.ToString();
         if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop);
         yield return new WaitForSecondsRealtime(0.5f);
 
-        // 3. POP STARS (Only if they won!)
         if (isVictory)
         {
-            if (finalScore >= 35)
-            {
-                star1.sprite = goldStarSprite;
-                if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop);
-                yield return new WaitForSecondsRealtime(0.4f);
-            }
-            if (finalScore >= 65)
-            {
-                star2.sprite = goldStarSprite;
-                if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop);
-                yield return new WaitForSecondsRealtime(0.4f);
-            }
-            if (finalScore >= 100)
-            {
-                star3.sprite = goldStarSprite;
-                if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop);
-            }
+            if (finalScore >= 35) { star1.sprite = goldStarSprite; if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop); yield return new WaitForSecondsRealtime(0.4f); }
+            if (finalScore >= 65) { star2.sprite = goldStarSprite; if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop); yield return new WaitForSecondsRealtime(0.4f); }
+            if (finalScore >= 100) { star3.sprite = goldStarSprite; if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop); }
         }
         
-        // 4. SAVE COINS TO THE BANK
         int totalCoins = PlayerPrefs.GetInt("TotalCoins", 0);
         PlayerPrefs.SetInt("TotalCoins", totalCoins + targetCoins);
         PlayerPrefs.Save();
     }
 
-    // --- BUTTON FUNCTIONS ---
     public void Button_Home()
     {
         Time.timeScale = 1f;
