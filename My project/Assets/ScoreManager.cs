@@ -51,7 +51,7 @@ public class ScoreManager : MonoBehaviour
     {
         yield return new WaitForSecondsRealtime(1.5f);
 
-        bool isFirstTime = PlayerPrefs.GetInt("HasFinishedTutorial", 0) == 0;
+        bool isFirstTime = PlayerPrefs.GetInt("HasFinishedLevel1", 0) == 0; // FIXED THE MEMORY KEY
 
         if (!isVictory && isFirstTime)
         {
@@ -77,8 +77,8 @@ public class ScoreManager : MonoBehaviour
             nextButton.SetActive(true);
             retryButton.SetActive(false);
             
-            PlayerPrefs.SetInt("HasFinishedTutorial", 1); 
-            PlayerPrefs.SetInt("UnlockedLevel", 2); // <--- This unlocks Level 2 and the Shop!
+            PlayerPrefs.SetInt("HasFinishedLevel1", 1); // FIXED THE MEMORY KEY
+            PlayerPrefs.SetInt("UnlockedLevel", 2); 
             PlayerPrefs.Save();
         }
         else

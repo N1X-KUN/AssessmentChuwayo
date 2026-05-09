@@ -21,12 +21,9 @@ public class MapCinematicDirector : MonoBehaviour
     {
         if (forcePhase3Test)
         {
-            PlayerPrefs.SetInt("HasFinishedTutorial", 1);
+            PlayerPrefs.SetInt("HasFinishedLevel1", 1); // FIXED THE MEMORY KEY
             PlayerPrefs.SetInt("IslandsUnlocked", 0);
-            
-            // FIX: THE CHEAT BOX NOW UNLOCKS LEVEL 2 SO BUTTONS WORK!
             PlayerPrefs.SetInt("UnlockedLevel", 2); 
-            
             PlayerPrefs.Save();
         }
     }
@@ -57,7 +54,7 @@ public class MapCinematicDirector : MonoBehaviour
     {
         yield return null; 
 
-        int hasFinishedLevel1 = PlayerPrefs.GetInt("HasFinishedTutorial", 0);
+        int hasFinishedLevel1 = PlayerPrefs.GetInt("HasFinishedLevel1", 0); // FIXED THE MEMORY KEY
         int islandsUnlocked = PlayerPrefs.GetInt("IslandsUnlocked", 0);
         DialogueManager dm = FindAnyObjectByType<DialogueManager>();
 

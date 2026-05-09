@@ -26,12 +26,11 @@ public class MapPhaseManager : MonoBehaviour
     void Start()
     {
         dm = FindAnyObjectByType<DialogueManager>();
-        phase1Folder.SetActive(false); 
+        if (phase1Folder != null) phase1Folder.SetActive(false); 
 
         string savedName = PlayerPrefs.GetString("PlayerName", "");
-        int hasFinishedLevel1 = PlayerPrefs.GetInt("HasFinishedTutorial", 0);
+        int hasFinishedLevel1 = PlayerPrefs.GetInt("HasFinishedLevel1", 0); // FIXED THE MEMORY KEY
 
-        // ONLY play the scrolling intro if they haven't beaten Level 1 yet!
         if (forcePlayIntro || (savedName == "" && hasFinishedLevel1 == 0))
         {
             Vector3 startPos = mainCamera.transform.position;
@@ -40,12 +39,11 @@ public class MapPhaseManager : MonoBehaviour
             
             currentState = MapState.AutoScrolling;
             
-            submitNameButton.onClick.AddListener(SaveNameAndStartPart2);
-            nameInputField.onSubmit.AddListener((string input) => SaveNameAndStartPart2());
+            if (submitNameButton != null) submitNameButton.onClick.AddListener(SaveNameAndStartPart2);
+            if (nameInputField != null) nameInputField.onSubmit.AddListener((string input) => SaveNameAndStartPart2());
         }
         else
         {
-            // Skip straight to free roam/Phase 3!
             Vector3 startPos = mainCamera.transform.position;
             startPos.y = topCameraLimit;
             mainCamera.transform.position = startPos;
@@ -66,14 +64,11 @@ public class MapPhaseManager : MonoBehaviour
                     autoPos.y = topCameraLimit;
                     mainCamera.transform.position = autoPos;
                     
-                    // --- RESTORE THIS BLOCK! ---
                     if (dm != null) 
                     {
                         dm.keepOpenOnEnd = true; 
-                        dm.PlayDialogue("MapIntro1"); 
+                        dm.PlayDialogue("MapIntro1");
                     }
-                    // ---------------------------
-                    
                     currentState = MapState.PlayingIntro1;
                 }
                 else
@@ -85,9 +80,12 @@ public class MapPhaseManager : MonoBehaviour
             case MapState.PlayingIntro1:
                 if (dm != null && !dm.dialogueIsActive)
                 {
-                    phase1Folder.SetActive(true);
-                    nameInputField.Select();
-                    nameInputField.ActivateInputField();
+                    if (phase1Folder != null) phase1Folder.SetActive(true);
+                    if (nameInputField != null)
+                    {
+                        nameInputField.Select();
+                        nameInputField.ActivateInputField();
+                    }
                     Time.timeScale = 1f; 
                     currentState = MapState.WaitingForName;
                 }
@@ -123,11 +121,11 @@ public class MapPhaseManager : MonoBehaviour
     {
         if (currentState != MapState.WaitingForName) return;
 
-        if (nameInputField.text.Length > 0)
+        if (nameInputField != null && nameInputField.text.Length > 0)
         {
             PlayerPrefs.SetString("PlayerName", nameInputField.text);
             PlayerPrefs.Save();
-            phase1Folder.SetActive(false);
+            if (phase1Folder != null) phase1Folder.SetActive(false);
 
             if (dm != null) 
             {

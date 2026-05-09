@@ -4132,7 +4132,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 637138505}
         m_TargetAssemblyTypeName: DialogueManager, Assembly-CSharp
-        m_MethodName: Button_OkLetsGo
+        m_MethodName: Button_YesLetsGo
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
