@@ -31,7 +31,6 @@ public class ScoreManager : MonoBehaviour
 
     void Awake()
     {
-        // Safety lock: Instantly destroy itself if it accidentally ends up in the Tutorial
         if (SceneManager.GetActiveScene().name == "Tutorial") { Destroy(gameObject); return; }
         Instance = this; 
     }
@@ -50,18 +49,7 @@ public class ScoreManager : MonoBehaviour
     private IEnumerator EndGameSequence(bool isVictory)
     {
         yield return new WaitForSecondsRealtime(1.5f);
-
-        bool isFirstTime = PlayerPrefs.GetInt("HasFinishedLevel1", 0) == 0; // FIXED THE MEMORY KEY
-
-        if (!isVictory && isFirstTime)
-        {
-            DialogueManager dm = FindAnyObjectByType<DialogueManager>();
-            if (dm != null) dm.PlayDialogue("TutorialLose");
-        }
-        else
-        {
-            ShowScoreboard(isVictory);
-        }
+        ShowScoreboard(isVictory);
     }
 
     private void ShowScoreboard(bool isVictory)
@@ -77,8 +65,12 @@ public class ScoreManager : MonoBehaviour
             nextButton.SetActive(true);
             retryButton.SetActive(false);
             
-            PlayerPrefs.SetInt("HasFinishedLevel1", 1); // FIXED THE MEMORY KEY
-            PlayerPrefs.SetInt("UnlockedLevel", 2); 
+            PlayerPrefs.SetInt("HasFinishedLevel1", 1); 
+            
+            // THE FIX: Use the exact passwords the MapNode is looking for!
+            PlayerPrefs.SetInt("Level2_Unlocked", 1); // Unlocks Level 2 and Shop
+            PlayerPrefs.SetInt("Level3_Unlocked", 1); // Unlocks Infinite Level
+            
             PlayerPrefs.Save();
         }
         else
@@ -114,11 +106,20 @@ public class ScoreManager : MonoBehaviour
         if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop);
         yield return new WaitForSecondsRealtime(0.5f);
 
+        int earnedStars = 0;
+
         if (isVictory)
         {
-            if (finalScore >= 35) { star1.sprite = goldStarSprite; if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop); yield return new WaitForSecondsRealtime(0.4f); }
-            if (finalScore >= 65) { star2.sprite = goldStarSprite; if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop); yield return new WaitForSecondsRealtime(0.4f); }
-            if (finalScore >= 100) { star3.sprite = goldStarSprite; if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop); }
+            if (finalScore >= 35) { star1.sprite = goldStarSprite; earnedStars = 1; if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop); yield return new WaitForSecondsRealtime(0.4f); }
+            if (finalScore >= 65) { star2.sprite = goldStarSprite; earnedStars = 2; if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop); yield return new WaitForSecondsRealtime(0.4f); }
+            if (finalScore >= 100) { star3.sprite = goldStarSprite; earnedStars = 3; if (AudioManager.instance != null) AudioManager.instance.PlayUI(AudioManager.instance.dialoguePop); }
+            
+            // This is perfect. It saves "Level1_Stars" for the MapLevelButton to read.
+            int currentSavedStars = PlayerPrefs.GetInt("Level1_Stars", 0);
+            if (earnedStars > currentSavedStars)
+            {
+                PlayerPrefs.SetInt("Level1_Stars", earnedStars);
+            }
         }
         
         int totalCoins = PlayerPrefs.GetInt("TotalCoins", 0);

@@ -21,7 +21,7 @@ public class MapCinematicDirector : MonoBehaviour
     {
         if (forcePhase3Test)
         {
-            PlayerPrefs.SetInt("HasFinishedLevel1", 1); // FIXED THE MEMORY KEY
+            PlayerPrefs.SetInt("HasFinishedLevel1", 1); 
             PlayerPrefs.SetInt("IslandsUnlocked", 0);
             PlayerPrefs.SetInt("UnlockedLevel", 2); 
             PlayerPrefs.Save();
@@ -39,12 +39,12 @@ public class MapCinematicDirector : MonoBehaviour
         {
             if (rootSil != null)
             {
+                // Find every single tiny prop inside the silhouette
                 SpriteRenderer[] allRenderers = rootSil.GetComponentsInChildren<SpriteRenderer>(true);
                 foreach(var sr in allRenderers)
                 {
-                    Color c = sr.color; 
-                    c.a = alpha; 
-                    sr.color = c;
+                    sr.color = new Color(0f, 0f, 0f, alpha); // Force pitch black
+                    sr.sortingOrder = 30000; // FORCE TO FRONT OVER COLORED ISLANDS
                 }
             }
         }
@@ -54,7 +54,7 @@ public class MapCinematicDirector : MonoBehaviour
     {
         yield return null; 
 
-        int hasFinishedLevel1 = PlayerPrefs.GetInt("HasFinishedLevel1", 0); // FIXED THE MEMORY KEY
+        int hasFinishedLevel1 = PlayerPrefs.GetInt("HasFinishedLevel1", 0); 
         int islandsUnlocked = PlayerPrefs.GetInt("IslandsUnlocked", 0);
         DialogueManager dm = FindAnyObjectByType<DialogueManager>();
 
