@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: d393ad0f1e88e36479a07aec9511f483
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4147471140560092322
+    second: Accept_0
+  - first:
+      213: 5574525261696363258
+    second: Accept_1
+  - first:
+      213: 7335400271418387308
+    second: Accept_2
+  - first:
+      213: -6721633385816561635
+    second: Accept_3
+  - first:
+      213: -7727683882496476371
+    second: Accept_4
+  - first:
+      213: 1448241668643243049
+    second: Accept_5
+  - first:
+      213: -3877428562387523755
+    second: Accept_6
+  - first:
+      213: 6425529099498804325
+    second: Accept_7
+  - first:
+      213: 1045960318406109263
+    second: Accept_8
+  - first:
+      213: -1371935569435741780
+    second: Accept_9
+  - first:
+      213: 49729715490068083
+    second: Accept_10
+  - first:
+      213: -2949771291876589381
+    second: Accept_11
+  - first:
+      213: -2818439231436369680
+    second: Accept_12
+  - first:
+      213: 5906893106993245881
+    second: Accept_13
+  - first:
+      213: -9207611638832635088
+    second: Accept_14
+  - first:
+      213: 5689185354939378490
+    second: Accept_15
+  - first:
+      213: -2734614980813422111
+    second: Accept_16
+  - first:
+      213: -5581545079089222319
+    second: Accept_17
+  - first:
+      213: 4057397802737581813
+    second: Accept_18
+  - first:
+      213: -4163177515799555733
+    second: Accept_19
+  - first:
+      213: -3123061630287352464
+    second: Accept_20
+  - first:
+      213: -5399142401955214918
+    second: Accept_21
+  - first:
+      213: 2486358381259387230
+    second: Accept_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Accept_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2097
+        width: 258
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acb4413707ce8930800000000000000
+      internalID: 4147471140560092322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_1
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2097
+        width: 259
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa6adeb031bc5d40800000000000000
+      internalID: 5574525261696363258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_2
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2097
+        width: 263
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b6237aea39cc560800000000000000
+      internalID: 7335400271418387308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_3
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 2097
+        width: 264
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d186fff5c06f7b2a0800000000000000
+      internalID: -6721633385816561635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_4
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 2097
+        width: 257
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b394fa370c1c490800000000000000
+      internalID: -7727683882496476371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_5
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1585
+        width: 251
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9244660ef10391410800000000000000
+      internalID: 1448241668643243049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_6
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1585
+        width: 247
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55720f8144b903ac0800000000000000
+      internalID: -3877428562387523755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_7
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1585
+        width: 245
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564df8d0ca01c2950800000000000000
+      internalID: 6425529099498804325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_8
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1585
+        width: 252
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4820cb2e5ff38e00800000000000000
+      internalID: 1045960318406109263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_9
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1585
+        width: 252
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca13f015ed7e5fce0800000000000000
+      internalID: -1371935569435741780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1073
+        width: 244
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376119aa9eca0b000800000000000000
+      internalID: 49729715490068083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_11
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1073
+        width: 238
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb00d0b73ae4017d0800000000000000
+      internalID: -2949771291876589381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_12
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1073
+        width: 238
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0d535a374e2e8d0800000000000000
+      internalID: -2818439231436369680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_13
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1073
+        width: 242
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be29881cff79f150800000000000000
+      internalID: 5906893106993245881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_14
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1073
+        width: 246
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033e0ad9ffdf73080800000000000000
+      internalID: -9207611638832635088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 561
+        width: 242
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b248e00fb04fe40800000000000000
+      internalID: 5689185354939378490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_16
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 561
+        width: 240
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1872fd922bc0ad0800000000000000
+      internalID: -2734614980813422111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_17
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 561
+        width: 243
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dae07a25e5a82b0800000000000000
+      internalID: -5581545079089222319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_18
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 561
+        width: 248
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5febf98fdc5ce4830800000000000000
+      internalID: 4057397802737581813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_19
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 561
+        width: 260
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61dfd95b1c6936c0800000000000000
+      internalID: -4163177515799555733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 49
+        width: 265
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07de1137ef7a8a4d0800000000000000
+      internalID: -3123061630287352464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_21
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 49
+        width: 262
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9c5bf57946215b0800000000000000
+      internalID: -5399142401955214918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accept_22
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 49
+        width: 258
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51f74346c1518220800000000000000
+      internalID: 2486358381259387230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Accept_0: 4147471140560092322
+      Accept_1: 5574525261696363258
+      Accept_10: 49729715490068083
+      Accept_11: -2949771291876589381
+      Accept_12: -2818439231436369680
+      Accept_13: 5906893106993245881
+      Accept_14: -9207611638832635088
+      Accept_15: 5689185354939378490
+      Accept_16: -2734614980813422111
+      Accept_17: -5581545079089222319
+      Accept_18: 4057397802737581813
+      Accept_19: -4163177515799555733
+      Accept_2: 7335400271418387308
+      Accept_20: -3123061630287352464
+      Accept_21: -5399142401955214918
+      Accept_22: 2486358381259387230
+      Accept_3: -6721633385816561635
+      Accept_4: -7727683882496476371
+      Accept_5: 1448241668643243049
+      Accept_6: -3877428562387523755
+      Accept_7: 6425529099498804325
+      Accept_8: 1045960318406109263
+      Accept_9: -1371935569435741780
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

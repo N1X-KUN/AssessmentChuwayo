@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2a1e6f5efcb5af64b8c863e5a28dea15
+guid: 7a5d4d592863da848820ef209926d6a8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3454335983523550628
-    second: prop2_0
+      213: 5462115625983164699
+    second: Butter-icon._0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: prop2_0
+      name: Butter-icon._0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 0
-        width: 122
-        height: 191
+        x: 52
+        y: 34
+        width: 399
+        height: 421
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c5aaa3f89bbbf00d0800000000000000
-      internalID: -3454335983523550628
+      spriteID: b1146d8e8355dcb40800000000000000
+      internalID: 5462115625983164699
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      prop2_0: -3454335983523550628
+      Butter-icon._0: 5462115625983164699
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

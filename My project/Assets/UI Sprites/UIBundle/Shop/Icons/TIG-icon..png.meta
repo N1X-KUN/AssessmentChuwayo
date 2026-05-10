@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2a1e6f5efcb5af64b8c863e5a28dea15
+guid: 05dff91c6d1f1694c9ac5317e9c7c708
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3454335983523550628
-    second: prop2_0
+      213: 5739654264902033048
+    second: TIG-icon._0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: prop2_0
+      name: TIG-icon._0
       rect:
         serializedVersion: 2
-        x: 19
-        y: 0
-        width: 122
-        height: 191
+        x: 52
+        y: 19
+        width: 399
+        height: 436
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c5aaa3f89bbbf00d0800000000000000
-      internalID: -3454335983523550628
+      spriteID: 89e9a09d42957af40800000000000000
+      internalID: 5739654264902033048
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      prop2_0: -3454335983523550628
+      TIG-icon._0: 5739654264902033048
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

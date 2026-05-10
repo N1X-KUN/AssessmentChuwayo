@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2a1e6f5efcb5af64b8c863e5a28dea15
+guid: 799bfa394695e1a4981de1b184500725
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3454335983523550628
-    second: prop2_0
+      213: 4164382844526356651
+    second: Amelia_Happy_3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: prop2_0
+      name: Amelia_Happy_3_0
       rect:
         serializedVersion: 2
-        x: 19
+        x: 0
         y: 0
-        width: 122
-        height: 191
+        width: 572
+        height: 1228
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c5aaa3f89bbbf00d0800000000000000
-      internalID: -3454335983523550628
+      spriteID: ba869bc122cdac930800000000000000
+      internalID: 4164382844526356651
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      prop2_0: -3454335983523550628
+      Amelia_Happy_3_0: 4164382844526356651
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

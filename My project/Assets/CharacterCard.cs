@@ -20,15 +20,24 @@ public class CharacterCard : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
 
     [Header("Card Status")]
     public string characterName; 
+    [Tooltip("Leave blank for default characters. Type Kommy_Unlocked for Kommy!")]
+    public string unlockSaveKey; // <-- I ADDED THIS!
     public bool isUnlocked = true; 
     public bool isEquipped = false;
 
-    // FIX: A custom tracker to handle double-clicks even when the game is paused!
     private float lastClickTime = 0f;
-    private float doubleClickThreshold = 0.3f; // 0.3 seconds to click twice
+    private float doubleClickThreshold = 0.3f; 
 
     void Start()
     {
+        // --- NEW: CHECK IF BOUGHT IN SHOP ---
+        if (!string.IsNullOrEmpty(unlockSaveKey))
+        {
+            // If they have the key, set unlocked to true! Otherwise, false.
+            isUnlocked = (PlayerPrefs.GetInt(unlockSaveKey, 0) == 1);
+        }
+        // ------------------------------------
+
         string savedCharacter = PlayerPrefs.GetString("EquippedCharacter", "Tig");
         isEquipped = (savedCharacter == characterName);
         UpdateCardVisuals();
@@ -93,7 +102,6 @@ public class CharacterCard : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
     {
         if (isUnlocked) 
         {
-            // FIX: Manual Unscaled Time Double-Click Check!
             if (Time.unscaledTime - lastClickTime <= doubleClickThreshold)
             {
                 CharacterCard[] allCards = transform.parent.GetComponentsInChildren<CharacterCard>();
