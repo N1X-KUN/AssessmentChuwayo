@@ -24720,6 +24720,26 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 3681508526906762828, guid: c8942e662bbd2fb4bb275cba2d4c6fee, type: 3}
     - target: {fileID: 5956164553026348978, guid: 13eb45ed53a25434ba8fb2921f80b782, type: 3}
+      propertyPath: allSequences.Array.data[2].lines.Array.data[1].customVoiceLine
+      value: 
+      objectReference: {fileID: 8300000, guid: 59dda8d5107681844bc0d0f464b1314b, type: 3}
+    - target: {fileID: 5956164553026348978, guid: 13eb45ed53a25434ba8fb2921f80b782, type: 3}
+      propertyPath: allSequences.Array.data[2].lines.Array.data[3].customVoiceLine
+      value: 
+      objectReference: {fileID: 8300000, guid: 59dda8d5107681844bc0d0f464b1314b, type: 3}
+    - target: {fileID: 5956164553026348978, guid: 13eb45ed53a25434ba8fb2921f80b782, type: 3}
+      propertyPath: allSequences.Array.data[2].lines.Array.data[6].customVoiceLine
+      value: 
+      objectReference: {fileID: 8300000, guid: 59dda8d5107681844bc0d0f464b1314b, type: 3}
+    - target: {fileID: 5956164553026348978, guid: 13eb45ed53a25434ba8fb2921f80b782, type: 3}
+      propertyPath: allSequences.Array.data[2].lines.Array.data[8].customVoiceLine
+      value: 
+      objectReference: {fileID: 8300000, guid: 59dda8d5107681844bc0d0f464b1314b, type: 3}
+    - target: {fileID: 5956164553026348978, guid: 13eb45ed53a25434ba8fb2921f80b782, type: 3}
+      propertyPath: allSequences.Array.data[2].lines.Array.data[10].customVoiceLine
+      value: 
+      objectReference: {fileID: 8300000, guid: 59dda8d5107681844bc0d0f464b1314b, type: 3}
+    - target: {fileID: 5956164553026348978, guid: 13eb45ed53a25434ba8fb2921f80b782, type: 3}
       propertyPath: allSequences.Array.data[0].lines.Array.data[0].avatarAnimationName
       value: Burumi_Said
       objectReference: {fileID: 0}
